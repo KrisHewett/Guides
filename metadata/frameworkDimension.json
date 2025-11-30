@@ -1,0 +1,675 @@
+{
+    "title": "Framework Dimension Metadata",
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["Data Set Specification", "Navigational items", "Glossary item", "Data source", "Data quality statement", "Indicator items"],
+    "description": "Metadata schema for framework dimensions, including data set specifications, navigational items, glossary items, data sources, data quality statements, and indicator items.",
+    "properties": {
+        "id": {
+            "type": "string",
+            "title": "Unique Identifier",
+            "maxLength": 8,
+            "pattern": "^[A-Z]{3}-[A-Z]{3}-\\d{2}$",
+            "description": "The Unique Identifier for the dataset or data collection."
+        },
+        "name": {
+            "type": "string",
+            "title": "Dataset Name",
+            "description": "The name of the dataset or data collection."
+        },
+        "description": {
+            "type": "string",
+            "title": "Description",
+            "description": "A brief description of the dataset."
+        },
+        "version": {
+            "type": "string",
+            "title": "Version",
+            "description": "Version of the data dictionary/schema."
+        },
+        "fields": {
+            "type": "array",
+            "title": "Fields",
+            "description": "List of fields (data elements) in the dataset.",
+            "items": {
+                "$ref": "#/definitions/Field"
+            }
+        },
+        "METEOR_id": {
+            "type": "integer",
+            "title": "METEOR_id",
+            "description": "The METEOR_id for the field.",
+            "maxLength": 6
+        },
+        "type": {
+            "type": "string",
+            "title": "Type",
+            "enum": [
+                "Object Class Specialisation"
+            ],
+            "description": "The type of the metadata item."
+        },
+        "DSS": {
+            "name": "Data Set Specification",
+            "type": "object",
+            "required": ["name", "METEOR_id", "type", "description"],
+            "description": "Data Set Specification metadata item.",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "title": "Name",
+                    "description": "The name of the data set specification."
+                },
+                "METEOR_id": {
+                    "type": "integer",
+                    "title": "METEOR Identifier",
+                    "description": "The unique identifier for the data set specification."
+                },
+                "type": {
+                    "type": "string",
+                    "title": "Type",
+                    "enum": ["Data Set Specification"],
+                    "description": "The type of the metadata item."
+                },
+                "description": {
+                    "type": "string",
+                    "title": "Description",
+                    "description": "A brief description of the data set specification."
+                },
+                "element": {
+                    "name": "Data Element",
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "title": "Name",
+                            "description": "The name of the data element."
+                        },
+                        "METEOR_id": {
+                            "type": "integer",
+                            "title": "METEOR Identifier",
+                            "description": "The unique identifier for the data element."
+                        },
+                        "type": {
+                            "type": "string",
+                            "title": "Type",
+                            "enum": ["Data Element"],
+                            "description": "The type of the metadata item."
+                        },
+                        "description": {
+                            "type": "string",
+                            "title": "Description",
+                            "description": "A brief description of the data element."
+                        },
+                        "Data element concept": {
+                            "type": "object",
+                            "properties": {
+                                "name": {
+                                    "type": "string",
+                                    "title": "Name",
+                                    "description": "The name of the data element concept."
+                                },
+                                "METEOR_id": {
+                                    "type": "integer",
+                                    "title": "METEOR Identifier",
+                                    "description": "The unique identifier for the data element concept."
+                                },
+                                "type": {
+                                    "type": "string",
+                                    "title": "Type",
+                                    "enum": ["Data Element Concept"],
+                                    "description": "The type of the metadata item."
+                                },
+                                "description": {
+                                    "type": "string",
+                                    "title": "Description",
+                                    "description": "A brief description of the data element concept."
+                                },
+                                "Object class": {
+                                },
+                                "Property": {
+                                }
+                            }
+                        },
+                        "Value domain": {
+                            "type": "object",
+                            "properties": {
+                                "name": {
+                                    "type": "string",
+                                    "title": "Name",
+                                    "description": "The name of the value domain."
+                                },
+                                "METEOR_id": {
+                                    "type": "integer",
+                                    "title": "METEOR Identifier",
+                                    "description": "The unique identifier for the value domain."
+                                },
+                                "type": {
+                                    "type": "string",
+                                    "title": "Type",
+                                    "enum": ["Value Domain"],
+                                    "description": "The type of the metadata item."
+                                },
+                                "description": {
+                                    "type": "string",
+                                    "title": "Description",
+                                    "description": "A brief description of the value domain."
+                                },
+                                "Classification scheme": {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string",
+                                            "title": "Name",
+                                            "description": "The name of the classification scheme."
+                                        },
+                                        "METEOR_id": {
+                                            "type": "integer",
+                                            "title": "METEOR Identifier",
+                                            "description": "The unique identifier for the classification scheme."
+                                        },
+                                        "type": {
+                                            "type": "string",
+                                            "title": "Type",
+                                            "enum": ["Classification Scheme"],
+                                            "description": "The type of the metadata item."
+                                        },
+                                        "description": {
+                                            "type": "string",
+                                            "title": "Description",
+                                            "description": "A brief description of the classification scheme."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Navigational items": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "title": "Name",
+                    "description": "The name of the object class specialisation."
+                },
+                "METEOR_id": {
+                    "type": "integer",
+                    "title": "METEOR Identifier",
+                    "description": "The unique identifier for the object class specialisation."
+                },
+                "type": {
+                    "type": "string",
+                    "title": "Type",
+                    "enum": ["Object Class Specialisation"],
+                    "description": "The type of the metadata item."
+                },
+                "description": {
+                    "type": "string",
+                    "title": "Description",
+                    "description": "A brief description of the object class specialisation."
+                },
+                "Object class specialisations": {
+                    "type": "array",
+                    "title": "Object Class Specialisations",
+                    "description": "List of object class specialisations.",
+                    "items": {
+                        "type": "object",
+                        "required": ["name", "METEOR_id", "type", "description"],
+                        "properties": {
+                            "name": {
+                                "type": "string",
+                                "title": "Name",
+                                "description": "The name of the object class specialisation."
+                            },
+                            "METEOR_id": {
+                                "type": "integer",
+                                "title": "METEOR Identifier",
+                                "description": "The unique identifier for the object class specialisation."
+                            },
+                            "type": {
+                                "type": "string",
+                                "title": "Type",
+                                "enum": ["Object Class Specialisation"],
+                                "description": "The type of the metadata item."
+                            },
+                            "description": {
+                                "type": "string",
+                                "title": "Description",
+                                "description": "A brief description of the object class specialisation."
+                            }
+                        }
+                    }
+                },
+                "Property groups": {
+                    "required": ["name", "METEOR_id", "type", "description"],
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "title": "Name",
+                            "description": "The name of the property group."
+                        },
+                        "METEOR_id": {
+                            "type": "integer",
+                            "title": "METEOR Identifier",
+                            "description": "The unique identifier for the property group."
+                        },
+                        "type": {
+                            "type": "string",
+                            "title": "Type",
+                            "enum": ["Property Group"],
+                            "description": "The type of the metadata item."
+                        },
+                        "description": {
+                            "type": "string",
+                            "title": "Description",
+                            "description": "A brief description of the property group."
+                        },
+                        "Registration status": {
+                            "type": "string",
+                            "title": "Registration Status",
+                            "description": "The registration status of the property group."
+                        },
+                        "origin": {
+                            "type": "string",
+                            "title": "Submitting Organisation",
+                            "description": "The organisation that submitted the property group."
+                        },
+                        "Data Element Concepts": {
+                            "type": "array",
+                            "title": "Data Element Concepts",
+                            "description": "List of data element concepts associated with the property group.",
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "glossary": {
+            "name": "Glossary item",
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "title": "Name",
+                    "description": "The name of the glossary item."
+                },
+                "definition": {
+                    "type": "string",
+                    "title": "Definition",
+                    "description": "The definition of the glossary item."
+                }
+            }
+        },
+        "source": {
+        "name": "Data Source",
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "title": "Name",
+                    "description": "The name of the data source."
+                },
+                "METEOR_id": {
+                    "type": "integer",
+                    "title": "METEOR Identifier",
+                    "description": "The unique identifier for the data source."
+                },
+                "type": {
+                    "type": "string",
+                    "title": "Type",
+                    "enum": ["Data Source"],
+                    "description": "The type of the metadata item."
+                },
+                "description": {
+                    "type": "string",
+                    "title": "Description",
+                    "description": "A brief description of the data source."
+                }
+            }
+        },
+        "DataQuality": {
+            "name": "Data quality statement",
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "title": "Name",
+                    "description": "The name of the data quality statement."
+                },
+                "METEOR_id": {
+                    "type": "integer",
+                    "title": "METEOR Identifier",
+                    "description": "The unique identifier for the data quality statement."
+                },
+                "type": {
+                    "type": "string",
+                    "title": "Type",
+                    "enum": ["Data Quality Statement"],
+                    "description": "The type of the metadata item."
+                },
+                "description": {
+                    "type": "string",
+                    "title": "Description",
+                    "description": "A brief description of the data quality statement."
+                }
+            }
+        },
+        "indicators": {
+            "name": "Indicator",
+            "type": "object",
+            "properties": {
+                "Indicator set": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "title": "Name",
+                            "description": "The name of the indicator set."
+                        },
+                        "METEOR_id": {
+                            "type": "integer",
+                            "title": "METEOR Identifier",
+                            "description": "The unique identifier for the indicator set."
+                        },
+                        "type": {
+                            "type": "string",
+                            "title": "Type",
+                            "enum": ["Indicator Set"],
+                            "description": "The type of the metadata item."
+                        },
+                        "description": {
+                            "type": "string",
+                            "title": "Description",
+                            "description": "A brief description of the indicator set."
+                        },
+                        "Indicator": {
+                            "$ref": "#/definitions/Field"
+                        },
+                        "Framework": {
+                            "type": "object",
+                            "properties": {
+                                "Framework name": {
+                                    "type": "string",
+                                    "title": "Framework Name",
+                                    "description": "The name of the framework."
+                                },
+                                "Framework description": {
+                                    "type": "string",
+                                    "title": "Framework Description",
+                                    "description": "A brief description of the framework."
+                                },
+                                "Framework version": {
+                                    "type": "string",
+                                    "title": "Framework Version",
+                                    "description": "Version of the framework."
+                                }
+                            }
+                        },
+                        "Outcome area": {
+                            "type": "object",
+                            "properties": {
+                                "name": {
+                                    "type": "string",
+                                    "title": "Outcome Area Name",
+                                    "description": "The name of the outcome area."
+                                },
+                                "METEOR_id": {
+                                    "type": "integer",
+                                    "title": "METEOR Identifier",
+                                    "description": "The unique identifier for the outcome area."
+                                },
+                                "type": {
+                                    "type": "string",
+                                    "title": "Type",
+                                    "enum": ["Outcome Area"],
+                                    "description": "The type of the metadata item."
+                                },
+                                "description": {
+                                    "type": "string",
+                                    "title": "Description",
+                                    "description": "A brief description of the outcome area."
+                                    }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "Field": {
+            "type": "object",
+            "required": [
+                "name",
+                "dataType"
+            ],
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "title": "Field Name"
+                },
+                "label": {
+                    "type": "string",
+                    "title": "Label",
+                    "description": "Short label for the field."
+                },
+                "definition": {
+                    "type": "string",
+                    "title": "Definition",
+                    "description": "Clear, unambiguous definition of the field."
+                },
+                "dataType": {
+                    "type": "string",
+                    "title": "Data Type",
+                    "enum": [
+                        "string",
+                        "integer",
+                        "number",
+                        "boolean",
+                        "date",
+                        "datetime",
+                        "code"
+                    ]
+                },
+                "format": {
+                    "type": [
+                        "string",
+                        null
+                    ],
+                    "title": "Format",
+                    "description": "Format of the data, if applicable."
+                },
+                "Metadata item": {
+                    "type": "string",
+                    "title": "Metadata Item",
+                    "description": "Metadata Item Type, if applicable.",
+                    "enum": [
+                        "Classification scheme",
+                        "Data element",
+                        "Data element concept",
+                        "Data set specification",
+                        "Glossary item",
+                        "Indicator",
+                        "Indicator set",
+                        "Object class",
+                        "Outcome area",
+                        "Property",
+                        "Quality statement",
+                        "Value domain"
+                    ]
+                },
+                "shortName": {
+                    "type": "string",
+                    "title": "Short Name",
+                    "description": "A short name for the field."
+                },
+                "registrationStatus": {
+                    "type": "string",
+                    "title": "Registration Status",
+                    "description": "The registration status of the field."
+                },
+                "Context": {
+                    "type": "string",
+                    "title": "Context",
+                    "description": "A designation and/or description of the application environment or discipline in which the data element has meaning.",
+                },
+                "Obligation": {
+                    "type": "string",
+                    "title": "Obligation",
+                    "description": "Obligation of the data element, e.g., mandatory, optional."
+                },
+                "Data Element Concept": {
+                    "type": "string",
+                    "title": "Data Element Concept",
+                    "description": "The data element concept associated with the field."
+                },
+                "Value Domain": {
+                    "type": "string",
+                    "title": "Value Domain",
+                    "description": "The value domain associated with the field."
+                },
+                "permissibleValues": {
+                    "type": "array",
+                    "title": "Permissible Values",
+                    "description": "Permissible Values",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "code": {
+                                "type": "string",
+                                "title": "Code"
+                            },
+                            "meaning": {
+                                "type": "string",
+                                "title": "Meaning"
+                            }
+                        },
+                        "required": [
+                            "code",
+                            "meaning"
+                        ]
+                    }
+                },
+                "obligation": {
+                    "type": "string",
+                    "title": "Obligation",
+                    "description": "Obligation of the data element, e.g., mandatory, optional."
+                },
+                "maxLength": {
+                    "type": "integer",
+                    "title": "Maximum Length",
+                    "description": "Maximum length of the field, if applicable."
+                },
+                "guideForUse": {
+                    "type": "string",
+                    "title": "Guide for Use",
+                    "description": "Instructions or guidelines for using the field."
+                },
+                "origin": {
+                    "type": "string",
+                    "title": "Origin",
+                    "description": "The origin of the data element, e.g., submitting organisation, reference documents."
+                },
+                "referenceDocuments": {
+                    "type": "array",
+                    "title": "Reference Documents",
+                    "items": {
+                        "type": "string",
+                        "title": "Reference Document",
+                        "description": "List of reference documents related to the field."
+                    }
+                },
+                "comments": {
+                    "type": "string",
+                    "title": "Comments",
+                    "description": "Additional comments or notes about the field."
+                },
+                "classificationScheme": {
+                    "type": "string",
+                    "title": "Classification Scheme",
+                    "description": "The classification scheme associated with the field."
+                },
+                "representationClass": {
+                    "type": "string",
+                    "title": "Representation Class",
+                    "description": "The representation class of the field, e.g., text, numeric."
+                },
+                "Development rules": {
+                    "title": "Development Rules",
+                    "type": "string",
+                    "description": "Rules for the development of the data element."
+                },
+                "Notes": {
+                    "title": "Notes",
+                    "type": "string",
+                    "description": "Notes on the context of the data element."
+                },
+                "Start": {
+                    "type": "date",
+                    "title": "Start",
+                    "description": "The start date of the data set specification."
+                },
+                "Value & Meaning": {
+                    "type": "string",
+                    "title": "Value & Meaning",
+                    "description": "The value and meaning of the data set specification."
+                },
+                "METEOR_id": {
+                    "type": "integer",
+                    "title": "METEOR Identifier",
+                    "description": "The unique identifier for the data element."
+                },
+                "Registration status": {
+                    "type": "string",
+                    "title": "Registration Status",
+                    "description": "The registration status of the data element."
+                },
+                "Submitting organisation": {
+                    "type": "string",
+                    "title": "Submitting Organisation",
+                    "description": "The organisation that submitted the data element."
+                },
+                "created": {
+                    "type": "string",
+                    "format": "date",
+                    "title": "Created Date",
+                    "description": "Date created as \"YYYY-MM-DD\""
+                },
+                "updated": {
+                    "type": "string",
+                    "format": "date",
+                    "title": "Last Updated",
+                    "description": "Date created as \"YYYY-MM-DD\""
+                },
+                "Value domain": {},
+                "Representational attributes": {},
+                "Representation class": {},
+                "Data type": {},
+                "Format": {},
+                "Maximum character length": {},
+                "Collection and usage attributes": {},
+                "Guide for use": {},
+                "Source and reference attributes": {},
+                "Origin": {},
+                "Reference documents": {},
+                "Classification scheme": {},
+                "description": {},
+                "fields": {},
+                "exclusions": {},
+                "dataSources": {},
+                "outputFrequency": {},
+                "outputFormat": {},
+                "references": {},
+                "version": {},
+                "Created": {},
+                "Updated": {}
+            }
+        }
+    }
+}

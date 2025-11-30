@@ -1,0 +1,70 @@
+High priority hospital complications (patient clinical deterioration) NBPDS 2015-
+Exported from METEOR
+(AIHW's Metadata Online Registry)
+© Australian Institute of Health and Welfare 2025
+
+This product, excluding the AIHW logo, Commonwealth Coat of Arms and any material owned by a third party or protected by a trademark, has been released under a Creative Commons BY 4.0 (CC BY 4.0) licence. Excluded material owned by third parties may include, for example, design and layout, images obtained under licence from third parties and signatures. We have made all reasonable efforts to identify and label material owned by third parties.
+You may distribute, remix and build on this website’s material but must attribute the AIHW as the copyright holder, in line with our attribution policy. The full terms and conditions of this licence are available at https://creativecommons.org/licenses/by/4.0/.
+Enquiries relating to copyright should be addressed to info@aihw.gov.au.
+Enquiries or comments on the METEOR metadata or download should be directed to the METEOR team at meteor@aihw.gov.au.
+ 
+High priority hospital complications (patient clinical deterioration) NBPDS 2015-
+Identifying and definitional attributes
+Metadata item type:	Data Set Specification
+METEOR identifier:	586966
+Registration status:	Health, Standard 04/09/2015
+
+DSS type:	Data Set Specification (DSS)
+Scope:	The High priority hospital complications (patient clinical deterioration) National best practice data set (NBPDS) 2015- covers 3 types of events where unplanned urgent care is provided to admitted hospital patients.
+The 3 types of events involve:
+•	unplanned returns to the operating theatre
+•	unplanned admissions to the Intensive Care Unit (ICU)
+•	hospital rapid response team (RRT) calls.
+This NBPDS is designed for use at the local hospital level to assist in hospitals' monitoring of the safety and quality of the health care they provided to admitted patients. The data elements aim to standardise how this information is captured.
+This NBPDS is designed to be recorded for each individual episode of admitted patient care. It is designed to capture the relevant events if they occur during the episode of care and are related to care provided in the episode. It is not designed to record the events if they occurred in the episode but were related to care provided in a previous episode (for example, when a patient is transferred into the hospital for ICU care) or to record events related to care provided in the episode of care but occurring in a subsequent episode of care (for example, when a patient is transferred out to another hospital for ICU care).
+This NBPDS is designed for both public and private hospitals.
+
+Collection and usage attributes
+Statistical unit:	Episodes of care for admitted patients
+Guide for use:	For implementation and analysis at the local hospital level.
+Source and reference attributes
+Submitting organisation:	Australian Commission on Safety and Quality in Health Care/Australian Institute of Health and Welfare
+
+
+Relational attributes
+
+Metadata items in this Data Set Specification 
+Seq No.	Metadata item	Obligation	Max occurs
+-	Hospital rapid response calls cluster
+Conditional obligation:
+Conditional on a rapid response call being made during the episode of admitted patient care	Conditional	99
+      -	Episode of admitted patient care—rapid response call date, DDMMYYYY
+Conditional obligation:
+Conditional on a rapid response call being made during the episode of admitted patient care	Conditional	99
+      -	Episode of admitted patient care—rapid response call time, hhmm
+Conditional obligation:
+Conditional on a rapid response call being made during the episode of admitted patient care	Conditional	99
+      -	Episode of admitted patient care—rapid response outcome, code N[N]
+Conditional obligation:
+Conditional on a rapid response call being made during the episode of admitted patient care	Conditional	99
+      -	Episode of admitted patient care—rapid response team type, code N
+Conditional obligation:
+Conditional on a rapid response call being made during the episode of admitted patient care	Conditional	99
+-	Episode of admitted patient care—unplanned admission to Intensive Care Unit (ICU) following elective surgery indicator, Yes/no/not stated/inadequately described code N
+Conditional obligation:
+Conditional on the patient's receiving elective surgery during the episode of admitted patient care	Conditional	1
+-	Episode of admitted patient care—unplanned admission to Intensive Care Unit (ICU) following emergency surgery indicator, Yes/no/not stated/inadequately described code N
+Conditional obligation:
+Conditional on the patient's receiving emergency surgery during the episode of admitted patient care	Conditional	1
+-	Episode of admitted patient care—unplanned admission to Intensive Care Unit (ICU) following other surgery indicator, Yes/no/not stated/inadequately described code N
+Conditional obligation:
+Conditional on the patient's receiving other surgery during the episode of admitted patient care	Conditional	1
+-	Episode of admitted patient care—unplanned admission to Intensive Care Unit (ICU) not following surgery indicator, Yes/no/not stated/inadequately described code N
+Conditional obligation:
+Conditional on the patient's not receiving surgery during the episode of admitted patient care	Conditional	1
+-	Episode of admitted patient care—unplanned return to operating theatre indicator, Yes/no/not stated/inadequately described code N
+Conditional obligation:
+Conditional on the patient's receiving any surgery during the episode of admitted patient care	Conditional	1
+
+
+

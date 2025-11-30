@@ -1,0 +1,30 @@
+    rgb(177,13,13)
+    RR: B1 | 177
+    GG: 0D | 13
+    BB: 0D | 13
+    rgba(177,13,13,0.5)
+    rgb(0,0,0)
+    rgb(255,255,255)
+
+Primary_themeDarker: #630707
+Primary_themeDark: #860909
+Primary_themeDarkAlt: #9e0b0b
+Primary_themePrimary: #B10D0D
+Primary_themeSecondary: #b92222
+Primary_themeTertiary: #d05c5c
+Primary_themeLight: #e7a7a7
+Primary_themeLighter: #f2cece
+Primary_themeLighterAlt: #fcf2f2
+Foreground_black: #100101
+Foreground_neutralDark: #0e0101
+Foreground_neutralPrimary: #110101
+Foreground_neutralPrimaryAlt: #0a0101
+Foreground_neutralSecondary: #080000
+Foreground_neutralTertiary: #060000
+Foreground_white: #Facdcd
+Background_neutralTertiaryAlt: #c4a1a1
+Background_neutralDark: #0e0101
+Background_neutralQuaternaryAlt: #d6afaf
+Background_neutralLight: #e5bcbc
+Background_neutralLighter: #efc4c4
+Background_neutralLighterAlt: #f3c7c7

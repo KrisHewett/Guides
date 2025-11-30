@@ -1,0 +1,70 @@
+{
+    "Name": "Avoidable Hospital Readmissions",
+    "*": {
+        "Readmission complication": {
+            "Readmission diagnosis < Interval (days)": {
+                "Pressure injury": {
+                    "Stage III ulcer": 14,
+                    "Stage IV ulcer": 7,
+                    "Unspecified decubitus and pressure area": 14,
+                    "Unstageable pressure injury": 14,
+                    "Suspected deep tissue injury, depth unknown": 14
+                },
+                "Infections": {
+                    "Urinary tract infection": 7,
+                    "Surgical site infection": 30,
+                    "Pneumonia": 7,
+                    "Blood stream infection": 2,
+                    "Central line and peripheral line associated blood stream infection": 2,
+                    "Multi-resistant organism": 2,
+                    "Infection associated with devices, implants and grafts": 90,
+                    "Infection associated with devices, implants and grafts in genital tract or urinary system": 30,
+                    "Infection associated with peritoneal dialysis catheter": 2,
+                    "Gastrointestinal infections": 28,
+                    "Other high impact infections": 2
+                },
+                "Surgical complications": {
+                    "Postoperative haemorrhage/haematoma": 28,
+                    "Surgical wound dehiscence": 28,
+                    "Anastomotic leak": 28,
+                    "Cardiac vascular graft failure": 28,
+                    "Pain following surgery": 14,
+                    "Other surgical complications": 28
+                },
+                "Respiratory complications": {
+                    "Respiratory failure including acute respiratory distress syndromes": 21,
+                    "Aspiration pneumonia": 14,
+                    "Pulmonary oedema": 30,
+                    "Movement disorders due to psychotropic medications": 14,
+                    "Serious alteration to conscious state due to psychotropic medication": 14
+                },
+                "Venous thromboembolism": {
+                    "Venous thromboembolism": 90
+                },
+                "Renal failure": {
+                    "Renal failure": 21
+                },
+                "Gastrointestinal bleeding": {
+                    "Gastrointestinal bleeding": 2
+                },
+                "Medication complications": {
+                    "Drug-related respiratory complications/depression": 2,
+                    "Hypoglycaemia": 4
+                },
+                "Delirium": {
+                    "Delirium": 10
+                },
+                "Cardiac complications": {
+                    "Heart failure": 30,
+                    "Ventricular arrhythmias and cardiac arrest": 30,
+                    "Atrial tachycardia": 14,
+                    "Acute coronary syndrome including unstable angina, STEMI and NSTEMI": 30
+                },
+                "Other": {
+                    "Constipation": 14,
+                    "Nausea and vomiting": 7
+                }
+            }
+        }
+    }
+}

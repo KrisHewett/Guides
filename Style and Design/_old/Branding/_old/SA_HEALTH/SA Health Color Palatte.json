@@ -1,0 +1,369 @@
+{
+"palette": [{
+    "Primary": [{
+        "ORDER": 1,
+        "RED": [{
+            "ORDER": 1,
+            "DESCRIPTION": "Red",
+            "USE": "Master Brand Helix And General Application",
+            "PANTONE MATCHING SYSTEM (PMS)": "1795C",
+            "HEX": "#DE3831",
+            "RGB": "49,56,222"
+            }],
+        "BLUE": [{
+            "ORDER": 2,
+            "DESCRIPTION": "Blue",
+            "USE": "Master Brand Helix And General Application",
+            "PANTONE MATCHING SYSTEM (PMS)": "PROCESS BLUE C",
+            "HEX": "#0092CF",
+            "RGB": "207,146,0"
+            }],
+        "YELLOW": [{
+            "ORDER": 3,
+            "DESCRIPTION": "Yellow",
+            "USE": "Master Brand Helix And General Application",
+            "PANTONE MATCHING SYSTEM (PMS)": "122C",
+            "HEX": "#FFD451",
+            "RGB": "81212255"
+            }],
+        "GREEN": [{
+            "ORDER": 4,
+            "DESCRIPTION": "Green",
+            "USE": "Master Brand Helix And General Application",
+            "PANTONE MATCHING SYSTEM (PMS)": "368C",
+            "HEX": "#69BE28",
+            "RGB": "40190105"
+            }]
+        }],
+    "Secondary": [{
+        "ORDER": 2,
+        "PURPLE": [{
+            "ORDER": 1,
+            "DESCRIPTION": "Purple",
+            "USE": "Two-Color Helix And Alternate Applications",
+            "PANTONE MATCHING SYSTEM (PMS)": "2425C",
+            "HEX": "#7D0063",
+            "RGB": "99,0,125"
+            }],
+        "TEAL": [{
+            "ORDER": 2,
+            "DESCRIPTION": "Teal",
+            "USE": "Two-Color Helix And Alternate Applications",
+            "PANTONE MATCHING SYSTEM (PMS)": "3272C",
+            "HEX": "#00A599",
+            "RGB": "153,165,0"
+            }],
+        "GOLD": [{
+            "ORDER": 3,
+            "DESCRIPTION": "Gold",
+            "USE": "Two-Color Helix And Alternate Applications",
+            "PANTONE MATCHING SYSTEM (PMS)": "130C",
+            "HEX": "#F0AB00",
+            "RGB": "0,171,240"
+            }],
+        "PINK": [{
+            "ORDER": 4,
+            "DESCRIPTION": "Pink",
+            "USE": "Two-Color Helix And Alternate Applications",
+            "PANTONE MATCHING SYSTEM (PMS)": "PROCESS MAGENTA C",
+            "HEX": "#D10074",
+            "RGB": "116,0,209"
+            }]
+        }],
+    "Support": [{
+        "ORDER": 3,
+        "WARM_GREY": [{
+            "ORDER": 2,
+            "DESCRIPTION": "Warm-Grey",
+            "USE": "Support Color For Text And Backgrounds",
+            "PANTONE MATCHING SYSTEM (PMS)": "60% BLACK",
+            "HEX": "#808285",
+            "RGB": "133130128"
+            }],
+        "BLACK": [{
+            "ORDER": 1,
+            "DESCRIPTION": "Black",
+            "USE": "Text And Background",
+            "PANTONE MATCHING SYSTEM (PMS)": "PROCESS BLACK",
+            "HEX": "#000000",
+            "RGB": "0,0,0"
+            }]
+        }],
+    "Aboriginal Health": [{
+        "ORDER": 4,
+        "Helix": [{
+            "ORDER": 1,
+            "RAW_UMBER": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Raw Umber",
+                "USE": "Aboriginal Health Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "1255C",
+                "HEX": "#BB9911",
+                "RGB": "17153187"
+                }],
+            "RED_OCHRE": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Red Ochre",
+                "USE": "Aboriginal Health Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "173C",
+                "HEX": "#EE3311",
+                "RGB": "17,51,238"
+                }],
+            "BURNT_SIENNA": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Burnt Sienna",
+                "USE": "Aboriginal Health Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "498C",
+                "HEX": "#553333",
+                "RGB": "51,51,85"
+                }],
+            "RAW_SIENNA": [{
+                "ORDER": 4,
+                "DESCRIPTION": "Raw Sienna",
+                "USE": "Aboriginal Health Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "110C",
+                "HEX": "#DDAA00",
+                "RGB": "0,170,221"
+                }]
+            }],
+        "Flag": [{
+            "ORDER": 2,
+            "FLAG_RED": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Flag Red",
+                "USE": "Aboriginal Flag Inspired Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "179C",
+                "HEX": "#DE3831",
+                "RGB": "49,56,222"
+                }],
+            "FLAG_YELLOW": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Flag Yellow",
+                "USE": "Aboriginal Flag Inspired Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "123C",
+                "HEX": "#FDC82F",
+                "RGB": "47200253"
+                }],
+            "FLAG_BLUE": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Flag Blue",
+                "USE": "Torres Strait Flag Inspired Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "301C",
+                "HEX": "#005293",
+                "RGB": "147,82,0"
+                }],
+            "FLAG_GREEN": [{
+                "ORDER": 4,
+                "DESCRIPTION": "Flag Green",
+                "USE": "Torres Strait Flag Inspired Helix",
+                "PANTONE MATCHING SYSTEM (PMS)": "3288C",
+                "HEX": "#008566",
+                "RGB": "102,133,0"
+                }]
+            }]
+        }],
+    "Youth Health": [{
+        "ORDER": 5,
+        "YOUTH_BLUE": [{
+            "ORDER": 1,
+            "DESCRIPTION": "Youth Primary Blue",
+            "USE": "Youth Health",
+            "PANTONE MATCHING SYSTEM (PMS)": "PROCESS BLUE C",
+            "HEX": "#0092CF",
+            "RGB": "207,146,0"
+            }],
+        "YOUTH_PURPLE": [{
+            "ORDER": 2,
+            "DESCRIPTION": "Youth Accent Purple",
+            "USE": "Youth Health",
+            "PANTONE MATCHING SYSTEM (PMS)": "2425C",
+            "HEX": "#7D0063",
+            "RGB": "99,0,125"
+            }],
+        "YOUTH_TEAL": [{
+            "ORDER": 3,
+            "DESCRIPTION": "Youth Accent Teal",
+            "USE": "Youth Health",
+            "PANTONE MATCHING SYSTEM (PMS)": "3272C",
+            "HEX": "#00A599",
+            "RGB": "153,165,0"
+            }]
+        }],
+    "Health Alert": [{
+        "ORDER": 6,
+        "HEALTH_ALERT_RED": [{
+            "ORDER": 1,
+            "DESCRIPTION": "Health Alert Red",
+            "USE": "Emergency Communications",
+            "PANTONE MATCHING SYSTEM (PMS)": "1795C",
+            "HEX": "#DE3831",
+            "RGB": "49,56,222"
+            }],
+        "HEALTH_ALERT_BLACK": [{
+            "ORDER": 2,
+            "DESCRIPTION": "Health Alert Black",
+            "USE": "Emergency Communications",
+            "PANTONE MATCHING SYSTEM (PMS)": "PROCESS BLACK",
+            "HEX": "#000000",
+            "RGB": "0,0,0"
+            }]
+        }],
+    "Local Health Networks": [{
+        "ORDER": 7,
+        "DASSA": [{
+            "ORDER": 1,
+            "DASSA_GOLD": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Dassa Gold",
+                "USE": "DASSA",
+                "PANTONE MATCHING SYSTEM (PMS)": "130C",
+                "HEX": "#F0AB00",
+                "RGB": "0,171,240"
+                }],
+            "DASSA_RED": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Dassa Red",
+                "USE": "DASSA",
+                "PANTONE MATCHING SYSTEM (PMS)": "484C",
+                "HEX": "#983222",
+                "RGB": "34,50,152"
+                }],
+            "DASSA_VIOLET": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Dassa Violet",
+                "USE": "DASSA",
+                "PANTONE MATCHING SYSTEM (PMS)": "526C",
+                "HEX": "#652D86",
+                "RGB": "134,45,101"
+                }]
+            }],
+        "SALHN": [{
+            "ORDER": 2,
+            "FMC_VIOLET": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Fmc Violet",
+                "USE": "SALHN-FMC",
+                "PANTONE MATCHING SYSTEM (PMS)": "281C",
+                "HEX": "#002664",
+                "RGB": "100,38,0"
+                }],
+            "NOARLUNGA_MAROON": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Noarlunga Maroon",
+                "USE": "SALHN-NHS",
+                "PANTONE MATCHING SYSTEM (PMS)": "202C",
+                "HEX": "#A15562",
+                "RGB": "98,85,161"
+                }],
+            "REPAT_GREEN": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Repat Green",
+                "USE": "SALHN-RHP",
+                "PANTONE MATCHING SYSTEM (PMS)": "341C",
+                "HEX": "#007D57",
+                "RGB": "87,125,0"
+                }]
+            }],
+        "SAAS": [{
+            "ORDER": 3,
+            "SAAS_GREEN": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Saas Green",
+                "USE": "SAAS",
+                "PANTONE MATCHING SYSTEM (PMS)": "348C",
+                "HEX": "#009252",
+                "RGB": "82,146,0"
+                }],
+            "SAAS_YELLOW": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Saas Yellow",
+                "USE": "SAAS",
+                "PANTONE MATCHING SYSTEM (PMS)": "137C",
+                "HEX": "#FCAF17",
+                "RGB": "23175252"
+                }],
+            "SAAS_RED": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Saas Red",
+                "USE": "SAAS",
+                "PANTONE MATCHING SYSTEM (PMS)": "199C",
+                "HEX": "#ED174C",
+                "RGB": "76,23,237"
+                }],
+            "SAAS_BLUE": [{
+                "ORDER": 4,
+                "DESCRIPTION": "Saas Blue",
+                "USE": "SAAS",
+                "PANTONE MATCHING SYSTEM (PMS)": "295C",
+                "HEX": "#004B88",
+                "RGB": "136,75,0"
+                }]
+            }],
+        "SAMI": [{
+            "ORDER": 4,
+            "SAMI_GREEN1": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Sami Green 1",
+                "USE": "SAMI",
+                "PANTONE MATCHING SYSTEM (PMS)": "317C",
+                "HEX": "#AEE9E9",
+                "RGB": "233233174"
+                }],
+            "SAMI_GREEN2": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Sami Green 2",
+                "USE": "SAMI",
+                "PANTONE MATCHING SYSTEM (PMS)": "325C",
+                "HEX": "#40C1BB",
+                "RGB": "187,193,64"
+                }],
+            "SAMI_GREEN3": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Sami Green 3",
+                "USE": "SAMI",
+                "PANTONE MATCHING SYSTEM (PMS)": "7466C",
+                "HEX": "#00B4BC",
+                "RGB": "188,180,0"
+                }]
+            }],
+        "MedSTAR": [{
+            "ORDER": 5,
+            "MEDSTAR_RED": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Medstar Red",
+                "USE": "MedSTAR",
+                "PANTONE MATCHING SYSTEM (PMS)": "200C",
+                "HEX": "#B71234",
+                "RGB": "52,18,183"
+                }],
+            "MEDSTAR_BLUE": [{
+                "ORDER": 2,
+                "DESCRIPTION": "Medstar Blue",
+                "USE": "MedSTAR",
+                "PANTONE MATCHING SYSTEM (PMS)": "295C",
+                "HEX": "#002F5F",
+                "RGB": "95,47,0"
+                }],
+            "MEDSTAR_EARTH": [{
+                "ORDER": 3,
+                "DESCRIPTION": "Medstar Earth",
+                "USE": "MedSTAR",
+                "PANTONE MATCHING SYSTEM (PMS)": "WARM GRAY 11C",
+                "HEX": "#675C53",
+                "RGB": "83,92,103"
+                }]
+            }],
+        "WCHN": [{
+            "ORDER": 6,
+            "WCHN_SKY_BLUE": [{
+                "ORDER": 1,
+                "DESCRIPTION": "Wchn Sky Blue",
+                "USE": "WCHN",
+                "PANTONE MATCHING SYSTEM (PMS)": "279C",
+                "HEX": "#4B92DB",
+                "RGB": "219,146,75"
+                }]
+            }]
+        }]
+    }]
+}

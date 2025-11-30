@@ -1,0 +1,76 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"additionalProperties": false,
+	"required": [
+		"name"
+	],
+	"description": "SA Health Safety & Quality Data Schema",
+	"properties": {
+		"$schema": {
+			"type": "string"
+		},
+		"name": {
+			"title": "SQU Data Schema name",
+			"type": "string"
+		},
+	"Data Set Specification": {
+		"type": "object",
+		"properties": {
+			"Identifying and definitional": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                    "*": {
+                        "type": "object",
+                        "allOf": [{
+                            "properties": {
+                                "*": {
+                                "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "Metadata item type": {
+                                                "type": "boolean",
+                                                "title": "Metadata item type",
+                                                "description": "Metadata item type",
+                                                "$ref": "#/definitions/type"
+                                            },
+                                            "METEOR identifier": {
+                                                "type": "number"
+                                            },
+                                            "Registration status": {
+                                                "type": "string",
+                                                "oneOf": [
+                                                    {
+                                                    "const": "Active",
+                                                    "title": "Active"
+                                                    },
+                                                    {
+                                                    "const": "Inactive",
+                                                    "title": "Inactive"
+                                                    }
+                                                ],
+                                                "title":"Registration status"
+                                            },
+                                            "DSS type": {
+                                                "type": "boolean"
+                                            },
+                                            "Scope": {
+                                                "type": "boolean"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }]
+                    }
+                }
+            }
+        }
+    }
+	},
+	"definitions": {
+
+	}
+}

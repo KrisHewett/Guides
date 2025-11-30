@@ -1,0 +1,15 @@
+Rule Name,Condition,Action,Folder,Stop Processing,Order
+Step 1: Junk Filter (Built-in),Built-in Junk Filter,Set to High,Junk,Yes,1.0
+Step 2: Mailing Lists to Other_JUNK,From Mailing Lists OR Other Bulk Messages,Move to Folder,Other_JUNK,Yes,2.0
+Step 3: DL Lists to Org_JUNK,From DL Lists,Move to Folder,Org_JUNK,Yes,3.0
+Step 4: Known Contacts to INBOX,From Known Contacts OR Org Contacts OR Me in BCC OR Me in CC OR To Me Only OR To Me and Others,Move to Folder,INBOX,Yes,4.0
+Step 5: Leadership to High Priority,From Leadership,Move to Folder,High Priority,No,5.0
+Step 6: Team to Team Inbox,From Team,Move to Folder,Team Inbox,No,6.0
+Step 7: Newsletters to Read Later,Newsletter or Unsubscribe,Move to Folder,Read Later,No,7.0
+Step 8: Social to Social,From Social Domains,Move to Folder,Social,No,8.0
+Step 9: Categorise CIM,Subject contains CIM OR Subject contains DAP OR Subject contains NSQHS OR Subject contains QUIP,Categorise,,No,9.0
+Step 10: Flag Critical Keywords,"Subject or Body contains Patient Safety, Data Analysis, Action Needed",Flag for Follow-up,,No,10.0
+Step 11: Forward Reports,Subject contains Report or Dashboard,Forward to OneNote or Teams,,No,11.0
+Step 12: AutoReplies to JUNK,Auto Replies,Move to Folder,JUNK,Yes,12.0
+Step 13: Auto-Reply to Requests,Subject contains Request or Action Needed,Send Template Reply + Flag,,No,13.0
+Step 14: Prioritise Urgent,"Subject contains Urgent, ASAP, Immediate",Set High Importance,,No,14.0

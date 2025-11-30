@@ -1,0 +1,848 @@
+"Code","Abbrev Descrip","Logical Map","Historical Map","Sequence Number"
+"13292-00","Collection of semen with device under GA","13290-00","13290-00",0
+"14106-01","Laser photcoag pulsed vasc lesions w GA","14106-00","14106-00",0
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-99",0
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-90",1
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-19",2
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-10",3
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-29",4
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-20",5
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-39",6
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-30",7
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-49",8
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-40",9
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-59",10
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-50",11
+"18213-00","IV regnl anaes upp limb by retrogd perfn","92513-99","92513-69",12
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-99",0
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-90",1
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-19",2
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-10",3
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-29",4
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-20",5
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-39",6
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-30",7
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-49",8
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-40",9
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-59",10
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-50",11
+"18213-01","IV regnl anaes low limb by retrogd perfn","92513-99","92513-69",12
+"30003-00","Dressing burn wo anaes <10% BSA dressed","30010-00","30010-00",0
+"30006-00","Dressing burn wo anaes >=10% BSA dressed","30014-00","30014-00",0
+"30017-00","Escharotomy","45054-00","45054-00",0
+"30187-00","Removal of plantar wart under GA","30186-00","30186-00",0
+"30187-01","Removal of palmar wart under GA","30186-01","30186-01",0
+"30189-02","Removal of other wart under GA","30189-01","30189-01",0
+"30196-00","Curettage malgt lsn of skin single lsn","30195-00","30195-00",0
+"30196-01","Laser to single malignant skin lesion","30195-02","30195-02",0
+"30197-00","Curettage malgt lsn skin, multiple lsn","30195-01","30195-01",0
+"30197-01","Laser, multiple malignant skin lesions","30195-03","30195-03",0
+"30202-00","Cryotherapy, sgl malignant skin lesion","30195-04","30195-04",0
+"30203-00","Cryotherapy, mult malignant skin lesions","30195-05","30195-05",0
+"30210-00","Injection into skin lesion under GA","30207-00","30207-00",0
+"30325-00","Excision of lymph node of neck","31423-00","31423-00",0
+"30325-01","Regional excision lymph nodes of neck","31423-01","31423-01",0
+"30328-00","Radical excision of lymph nodes of neck","31435-00","31435-00",0
+"30332-01","Regional excision lymph nodes of axilla","30335-00","30335-00",0
+"30333-00","Radical excision lymph nodes of axilla","30336-00","30336-00",0
+"30338-00","Simple mastectomy, unilateral","30351-00","30351-00",0
+"30338-01","Simple mastectomy w FS Bx, unilateral","30351-00","30351-00",0
+"30338-02","Simple mastectomy, bilateral","30351-01","30351-01",0
+"30338-03","Simple mastectomy w FS Bx, bilateral","30351-01","30351-01",0
+"30342-00","Local excision of lesion of breast","30347-00","30347-00",0
+"30342-01","Segmental resection of breast","30347-00","30347-00",0
+"30346-00","Local excision lesion of breast w FS Bx","30347-00","30347-00",0
+"30346-01","Segmental resection of breast w FS Bx","30347-00","30347-00",0
+"30350-00","Partial mastectomy","30347-00","30347-00",0
+"30350-01","Partial mastectomy w frozen section Bx","30347-00","30347-00",0
+"30353-00","Extended simple mastectomy, Unilateral","30351-00","30351-00",0
+"30353-00","Extended simple mastectomy, Unilateral","30351-00","30335-00",1
+"30353-01","Extended simple mastectomy w FS Bx, unil","30351-00","30351-00",0
+"30353-01","Extended simple mastectomy w FS Bx, unil","30351-00","30335-00",1
+"30353-02","Extended simple mastectomy, bilateral","30351-01","30351-01",0
+"30353-02","Extended simple mastectomy, bilateral","30351-01","30335-00",1
+"30353-03","Extended simple mastectomy w FS Bx, bil","30351-01","30351-01",0
+"30353-03","Extended simple mastectomy w FS Bx, bil","30351-01","30335-00",1
+"30356-00","Subcutaneous mastectomy, unilateral","30354-00","30354-00",0
+"30356-01","Subcutaneous mastectomy w FS Bx, unil","30354-00","30354-00",0
+"30356-02","Subcutaneous mastectomy, bilateral","30354-01","30354-01",0
+"30356-03","Subcutaneous mastectomy w FS Bx, bil","30354-01","30354-01",0
+"30359-00","Modified radical mastectomy, unilateral","30351-00","30351-00",0
+"30359-00","Modified radical mastectomy, unilateral","30351-00","30336-00",1
+"30359-01","Modified radical mastectomy w FS Bx unil","30351-00","30351-00",0
+"30359-01","Modified radical mastectomy w FS Bx unil","30351-00","30336-00",1
+"30359-02","Modified radical mastectomy, bilateral","30351-01","30351-01",0
+"30359-02","Modified radical mastectomy, bilateral","30351-01","30336-00",1
+"30359-03","Modified radical mastectomy w FS Bx, bil","30351-01","30351-01",0
+"30359-03","Modified radical mastectomy w FS Bx, bil","30351-01","30336-00",1
+"30359-04","Radical mastectomy, unilateral","30351-00","30351-00",0
+"30359-04","Radical mastectomy, unilateral","30351-00","30336-00",1
+"30359-05","Radical mastectomy w FS Bx, unilateral","30351-00","30351-00",0
+"30359-05","Radical mastectomy w FS Bx, unilateral","30351-00","30336-00",1
+"30359-06","Radical mastectomy, bilateral","30351-01","30351-01",0
+"30359-06","Radical mastectomy, bilateral","30351-01","30336-00",1
+"30359-07","Radical mastectomy w FS Bx, bilateral","30351-01","30351-01",0
+"30359-07","Radical mastectomy w FS Bx, bilateral","30351-01","30336-00",1
+"30375-16","Insertion of feeding jejunostomy tube","31462-00","31462-00",0
+"30427-00","Segmental resection of liver for trauma","30415-00","30415-00",0
+"30428-00","Lobectomy of liver for trauma","30418-00","30418-00",0
+"30430-00","Trisegmental resection liver for trauma","30421-00","30421-00",0
+"30470-00","Repair of bile duct fistula","30472-01","30472-01",0
+"30470-00","Repair of bile duct fistula","30472-01","30472-00",1
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31205-00",0
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31230-00",1
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31230-01",2
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31230-02",3
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31230-03",4
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31235-00",5
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31235-01",6
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31235-02",7
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31230-04",8
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31230-05",9
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31235-03",10
+"31250-00","Exc giant hairy/giant compound naevus","31205-00","31235-04",11
+"31255-00","Excision of BCC / SCC of eyelid","31230-00","31230-00",0
+"31255-01","Excision of BCC / SCC of nose","31230-01","31230-01",0
+"31255-02","Excision of BCC / SCC of ear","31230-02","31230-02",0
+"31255-03","Excision of BCC / SCC of lip","31230-03","31230-03",0
+"31255-04","Excision of BCC / SCC of digit","31230-04","31230-04",0
+"31255-05","Excision of BCC / SCC of genitals","31230-05","31230-05",0
+"31265-00","Excision BCC / SCC of other site of head","31235-00","31235-00",0
+"31265-01","Excision of BCC / SCC of neck","31235-01","31235-01",0
+"31265-02","Excision of BCC / SCC of hand","31235-02","31235-02",0
+"31265-03","Excision of BCC / SCC of leg","31235-03","31235-03",0
+"31265-04","Excision of BCC / SCC of foot","31235-00","31235-04",0
+"31280-00","Excision of BCC / SCC of other site","31205-00","31205-00",0
+"31300-00","Exc residual/recurrent BCC/SCC of eyelid","31230-00","31230-00",0
+"31300-01","Exc residual/recurrent BCC/SCC of nose","31230-01","31230-01",0
+"31300-02","Exc residual/recurrent BCC/SCC of ear","31230-02","31230-02",0
+"31300-03","Exc residual/recurrent BCC/SCC of lip","31230-03","31230-03",0
+"31300-04","Exc residual/recurrent BCC/SCC of digit","31230-04","31230-04",0
+"31300-05","Exc residual/recurrent BCC/SCC, genitals","31230-05","31230-05",0
+"31300-06","Exc other malignant lesion SSCT, eyelid","31230-00","31230-00",0
+"31300-07","Excision oth malignant lesion SSCT, nose","31230-01","31230-01",0
+"31300-08","Excision oth malignant lesion SSCT, ear","31230-02","31230-02",0
+"31300-09","Excision oth malignant lesion SSCT, lip","31230-03","31230-03",0
+"31300-10","Exc other malignant lesion SSCT, digit","31230-04","31230-04",0
+"31300-11","Exc oth malignant lesion SSCT, genitals","31230-05","31230-05",0
+"31300-12","Exc oth residual/rec malgt SSCT, eyelid","31230-00","31230-00",0
+"31300-13","Exc oth residual/rec malgt SSCT, nose","31230-01","31230-01",0
+"31300-14","Exc oth residual/rec malgt SSCT, ear","31230-02","31230-02",0
+"31300-15","Exc oth residual/recur malgt SSCT, lip","31230-03","31230-03",0
+"31300-16","Exc oth residual/rec malgt SSCT, digit","31230-04","31230-04",0
+"31300-17","Exc oth residual/rec malgt SSCT genitals","31230-05","31230-05",0
+"31310-00","Exc residual/rec BCC/SCC oth site head","31235-00","31235-00",0
+"31310-01","Exc residual/recurrent BCC/SCC of neck","31235-01","31235-01",0
+"31310-02","Exc residual/recurrent BCC/SCC of hand","31235-02","31235-02",0
+"31310-03","Exc residual/recurrent BCC/SCC of leg","31235-03","31235-03",0
+"31310-04","Exc residual/recurrent BCC/SCC of foot","31235-04","31235-04",0
+"31310-05","Exc oth malgt lesion SSCT oth site head","31235-00","31235-00",0
+"31310-06","Excision oth malignant lesion SSCT, neck","31235-01","31235-01",0
+"31310-07","Excision oth malignant lesion SSCT, hand","31235-02","31235-02",0
+"31310-08","Excision oth malignant lesion SSCT, leg","31235-03","31235-03",0
+"31310-09","Exc other malignant lesion SSCT, foot","31235-04","31235-04",0
+"31310-10","Exc oth residual/rec malgt SSCT, head","31235-00","31235-00",0
+"31310-11","Exc oth residual/rec malgt SSCT, neck","31235-01","31235-01",0
+"31310-12","Exc oth residual/rec malgt SSCT, hand","31235-02","31235-02",0
+"31310-13","Exc oth residual/rec malgt SSCT, leg","31235-03","31235-03",0
+"31310-14","Exc oth residual/rec malgt SSCT, foot","31235-04","31235-04",0
+"31325-00","Exc resident/rec BCC/SCC, other site","31205-00","31205-00",0
+"31325-01","Exc other malignant lesion SSCT oth site","31205-00","31205-00",0
+"31325-02","Exc oth residual/rec malgt SSCT oth site","31205-00","31205-00",0
+"32051-02","Total proctocolectomy, ileorectal anstms","32051-00","32051-00",0
+"32051-03","Tot proctcolecty ileorectal anstms stoma","32051-01","32051-01",0
+"32072-00","Rigid sigmoidoscopy wo GA","32075-00","32075-00",0
+"32072-01","Rigid sigmoidoscopy wo GA w biopsy","32075-01","32075-01",0
+"32115-00","Dilation of rectum","32114-00","32114-00",0
+"32129-00","Direct repair of anal sphincter","32126-00","32126-00",0
+"32150-00","Incision of anal fissure","90338-00","90338-00",0
+"32150-01","Excision of anal fissure","90315-01","90315-01",0
+"32156-00","Incision of anal fistula","90338-00","90338-00",0
+"32156-01","Subcutaneous excision of anal fistula","90315-01","90315-01",0
+"32168-00","Exam anal fistula wound, GA /regional","32171-00","32171-00",0
+"35100-00","Debride musc tendon bone ischmc upp limb","30023-00","30023-00",0
+"35100-00","Debride musc tendon bone ischmc upp limb","30023-00","30023-01",1
+"35100-01","Debride musc tendon bone ischmc low limb","30023-00","30023-00",0
+"35100-01","Debride musc tendon bone ischmc low limb","30023-00","30023-01",1
+"35103-00","Debride superficial tis ischmc upp limb","90665-00","90665-00",0
+"35103-01","Debride superficial tis ischmc low limb","90665-00","90665-00",0
+"35506-01","R/O IU contraceptive dev wo GA","35506-02","35506-02",0
+"35623-01","Division uterine septum, hysteroscopy","35634-00","35634-00",0
+"36567-00","Lap pyeloplty congen abn/solitary kidney","36564-00","36564-00",0
+"36567-01","Pyeloplasty congen abn/solitary kidney","36564-01","36564-01",0
+"36576-00","Exposure & exploration kidney for trauma","36537-01","36537-01",0
+"36576-00","Exposure & exploration kidney for trauma","36537-01","36516-01",1
+"36576-00","Exposure & exploration kidney for trauma","36537-01","90350-00",2
+"36600-00","Lap trnsplt ureter into bowel seg, unil","36600-02","36600-02",0
+"36600-01","Trnsplt ureter into isol bowel seg, unil","36600-02","36600-02",0
+"36603-00","Lap trnsplt ureter into bowel seg bil","36600-02","36600-02",0
+"36603-01","Trnsplt ureter into isol bowel seg, bil","36600-02","36600-02",0
+"36606-01","Transurethral drain intest urinary resv","36824-00","36606-03",0
+"36606-02","Cutaneous drain intestinal urinary resv","36824-00","36606-00",0
+"38253-00","Insertion of pacemaker, NEC","38281-00","38281-00",0
+"38253-01","Ins perm single chamber pacemaker, VOO","38281-01","38281-01",0
+"38253-02","Ins perm single chamber pacemaker, VVI","38281-02","38281-02",0
+"38253-03","Ins perm single chamber pacemaker, VVT","38281-03","38281-03",0
+"38253-04","Ins perm single chamber pacemaker, AOO","38281-04","38281-04",0
+"38253-05","Ins perm single chamber pacemaker, AAI","38281-05","38281-05",0
+"38253-06","Ins perm single chamber pacemaker, AAT","38281-06","38281-06",0
+"38253-07","Ins perm dual chamber pacemaker, VAT","38281-07","38281-07",0
+"38253-08","Ins perm dual chamber pacemaker, VDD","38281-08","38281-08",0
+"38253-09","Ins perm dual chamber pacemaker, DVI","38281-09","38281-09",0
+"38253-10","Ins perm dual chamber pacemaker, DDD","38281-10","38281-10",0
+"38253-11","Removal perm single chamber pacemaker","38281-11","38281-11",0
+"38253-12","Removal permanent dual chamber pacemaker","38281-12","38281-12",0
+"38530-00","Abltn arrhythmia circuit/fcs atrial cham","38287-00","38287-00",0
+"38533-00","Abltn arhythma circuit/fcs bth atrl cham","38290-00","38290-00",0
+"38656-00","Control postop bleeding foll heart surg","38656-01","38656-01",0
+"38721-00","Repair of vena cava for CHD","90215-02","90215-02",0
+"38721-00","Repair of vena cava for CHD","90215-02","90217-02",1
+"40303-02","Decomp for spinal stenosis, 1 level","90024-00","90024-00",0
+"40306-00","Decomp for spinal stenosis, >= 2 levels","90024-01","90024-01",0
+"40331-01","Decomp cerv spin cord w inv nerve 1 lvl","40331-00","40331-00",0
+"40331-01","Decomp cerv spin cord w inv nerve 1 lvl","40331-00","40330-01",1
+"40332-01","Decomp cerv spin cd w nrv inv fus 1 lvl","40332-00","40332-00",0
+"40332-01","Decomp cerv spin cd w nrv inv fus 1 lvl","40332-00","40330-01",1
+"40334-01","Decomp cerv spinal cd w nrv inv >= 2 lvl","40334-00","40334-00",0
+"40334-01","Decomp cerv spinal cd w nrv inv >= 2 lvl","40334-00","40330-01",1
+"40335-01","Decomp cerv spin cd nrv inv fus >= 2 lvl","40335-00","40335-00",0
+"40335-01","Decomp cerv spin cd nrv inv fus >= 2 lvl","40335-00","40330-01",1
+"40345-01","Decomp thor cd nrv inv, costotrnsvrsecty","90024-00","40345-00",0
+"40345-01","Decomp thor cd nrv inv, costotrnsvrsecty","90024-00","40330-00",1
+"41575-01","R/O cerebelptn angle tum trnslbrnth appr","41575-00","41575-00",0
+"41575-02","R/O cerebelptn angle tum retromstd appr","41575-00","41575-00",0
+"41662-00","Removal of nasal polyp without GA","41668-00","41668-00",0
+"41846-00","Laryngoscopy wo general anaesthesia","41849-00","41849-00",0
+"41858-00","Microlaryngoscopy w R/O papillomata","41861-00","41861-00",0
+"41879-00","Laryngoplasty with tracheostomy","41876-02","41876-02",0
+"41879-05","Repair trachea cerv appr w tracheostomy","41879-04","41879-04",0
+"42610-00","Replace nasolacrimal tube under GA, unil","42614-00","42614-00",0
+"42610-01","Probing lacrimal passages under GA, unil","42614-01","42614-01",0
+"42610-02","Removal nasolacrimal tube under GA, unil","42614-02","42614-02",0
+"42611-00","Replace nasolacrimal tube under GA, bil","42615-00","42615-00",0
+"42611-01","Probing lacrimal passages under GA, bil","42615-01","42615-01",0
+"42611-02","Removal nasolacrimal tube under GA, bil","42615-02","42615-02",0
+"42621-00","Temp occlusion lacrim punctum by cautery","42622-00","42622-00",0
+"43500-00","Proc acute osteomyelitis phalanx of hand","90603-13","90603-13",0
+"43500-01","Procedure acute osteomyelitis metatarsus","90603-19","90603-19",0
+"43500-02","Proc acute osteomyelitis phalanx of foot","90603-20","90603-20",0
+"43503-00","Procedure acute osteomyelitis of sternum","90603-02","90603-02",0
+"43503-01","Procedure for acute osteomyelitis of rib","90603-03","90603-03",0
+"43503-02","Procedure acute osteomyelitis clavicle","90603-06","90603-06",0
+"43503-03","Procedure acute osteomyelitis of radius","90603-09","90603-09",0
+"43503-04","Procedure acute osteomyelitis of ulna","90603-10","90603-10",0
+"43503-05","Procedure for acute osteomyelitis carpus","90603-11","90603-11",0
+"43503-06","Procedure for acute osteomyelitis, tibia","90603-16","90603-16",0
+"43503-07","Procedure for acute osteomyelitis fibula","90603-17","90603-17",0
+"43503-08","Procedure for acute osteomyelitis tarsus","90603-18","90603-18",0
+"43503-09","Proc for acute osteomyel maxilla","90603-00","90603-00",0
+"43503-10","Proc for acute osteomyel mandible","90603-01","90603-01",0
+"43503-11","Proc for acute osteomyelitis metacarpus","90603-12","90603-12",0
+"43503-12","Procedure acute osteomyelitis scapula","90603-07","90603-07",0
+"43506-00","Procedure acute osteomyelitis of humerus","90603-08","90603-08",0
+"43506-01","Procedure acute osteomyelitis of femur","90603-15","90603-15",0
+"43509-00","Proc acute osteomyelitis of pelvic bones","90603-14","90603-14",0
+"43512-00","Procedure chronic osteomyelitis sternum","90603-02","90603-02",0
+"43512-01","Procedure chronic osteomyelitis of rib","90603-03","90603-03",0
+"43512-02","Procedure chronic osteomyelitis clavicle","90603-06","90603-06",0
+"43512-03","Procedure chronic osteomyelitis scapula","90603-07","90603-07",0
+"43512-04","Procedure chronic osteomyelitis radius","90603-09","90603-09",0
+"43512-05","Procedure chronic osteomyelitis of ulna","90603-10","90603-10",0
+"43512-06","Procedure chronic osteomyelitis, carpus","90603-11","90603-11",0
+"43512-07","Proc chronic osteomyelitis, metacarpus","90603-12","90603-12",0
+"43512-08","Proc chronic osteomyelitis phalanx hand","90603-13","90603-13",0
+"43512-09","Proc for chronic osteomyelitis of tibia","90603-16","90603-16",0
+"43512-10","Proc for chronic osteomyelitis of fibula","90603-17","90603-17",0
+"43512-11","Procedure chronic osteomyelitis tarsus","90603-18","90603-18",0
+"43512-12","Proc chronic osteomyelitis of metatarsus","90603-19","90603-19",0
+"43512-13","Proc for chronic oseteomy maxilla","90603-00","90603-00",0
+"43512-14","Proc for chronic osteomyel mandible","90603-01","90603-01",0
+"43512-15","Proc chronic osteomyelitis phalanx foot","90603-20","90603-20",0
+"43515-00","Procedure chronic osteomyelitis humerus","90603-08","90603-08",0
+"43515-01","Procedure chronic osteomyelitis of femur","90603-15","90603-15",0
+"43518-00","Proc chronic osteomyelitis, pelvic bones","90603-14","90603-14",0
+"43518-01","Procedure chronic osteomyelitis vertebra","90603-04","90603-04",0
+"43518-02","Proc chr osteomyelts vertebra w cord inv","90603-05","90603-05",0
+"43804-00","Resection of intestine for malrotation","32003-00","32003-00",0
+"43804-00","Resection of intestine for malrotation","32003-00","32003-01",1
+"43804-00","Resection of intestine for malrotation","32003-00","32005-01",2
+"43804-00","Resection of intestine for malrotation","32003-00","32006-00",3
+"43804-00","Resection of intestine for malrotation","32003-00","32005-00",4
+"43804-00","Resection of intestine for malrotation","32003-00","32012-00",5
+"43804-01","Resect intest for malrotation stoma form","32000-00","32000-00",0
+"43804-01","Resect intest for malrotation stoma form","32000-00","32000-01",1
+"43804-01","Resect intest for malrotation stoma form","32000-00","32004-01",2
+"43804-01","Resect intest for malrotation stoma form","32000-00","32006-01",3
+"43804-01","Resect intest for malrotation stoma form","32000-00","32004-00",4
+"43804-01","Resect intest for malrotation stoma form","32000-00","32009-00",5
+"43813-00","Rep complicated meconium ileus w anstms","32003-00","32003-00",0
+"43813-00","Rep complicated meconium ileus w anstms","32003-00","32003-01",1
+"43813-00","Rep complicated meconium ileus w anstms","32003-00","32005-01",2
+"43813-00","Rep complicated meconium ileus w anstms","32003-00","32006-00",3
+"43813-00","Rep complicated meconium ileus w anstms","32003-00","32005-00",4
+"43813-00","Rep complicated meconium ileus w anstms","32003-00","32012-00",5
+"43813-01","Repair complic meconium ileus stoma form","32000-00","32000-00",0
+"43813-01","Repair complic meconium ileus stoma form","32000-00","32000-01",1
+"43813-01","Repair complic meconium ileus stoma form","32000-00","32004-01",2
+"43813-01","Repair complic meconium ileus stoma form","32000-00","32006-01",3
+"43813-01","Repair complic meconium ileus stoma form","32000-00","32004-00",4
+"43813-01","Repair complic meconium ileus stoma form","32000-00","32009-00",5
+"43816-00","Resect intest for meconium ileus, anstms","32003-00","32003-00",0
+"43816-00","Resect intest for meconium ileus, anstms","32003-00","32003-01",1
+"43816-00","Resect intest for meconium ileus, anstms","32003-00","32005-01",2
+"43816-00","Resect intest for meconium ileus, anstms","32003-00","32006-00",3
+"43816-00","Resect intest for meconium ileus, anstms","32003-00","32005-00",4
+"43816-00","Resect intest for meconium ileus, anstms","32003-00","32012-00",5
+"43816-01","Resect intest meconium ileus, stoma form","32000-00","32000-00",0
+"43816-01","Resect intest meconium ileus, stoma form","32000-00","32000-01",1
+"43816-01","Resect intest meconium ileus, stoma form","32000-00","32004-01",2
+"43816-01","Resect intest meconium ileus, stoma form","32000-00","32006-01",3
+"43816-01","Resect intest meconium ileus, stoma form","32000-00","32004-00",4
+"43816-01","Resect intest meconium ileus, stoma form","32000-00","32009-00",5
+"43822-00","Colostomy, paed anorectal malformation","30375-04","30375-04",0
+"43822-00","Colostomy, paed anorectal malformation","30375-04","30375-28",1
+"43825-00","Laparotomy for neonatal alimentary obstr","30373-00","30373-00",0
+"43825-01","Repair neonatal alimentary obstruction","43816-02","43816-02",0
+"43825-01","Repair neonatal alimentary obstruction","43816-02","32003-00",1
+"43825-01","Repair neonatal alimentary obstruction","43816-02","32003-01",2
+"43825-01","Repair neonatal alimentary obstruction","43816-02","32005-01",3
+"43825-01","Repair neonatal alimentary obstruction","43816-02","32006-00",4
+"43825-01","Repair neonatal alimentary obstruction","43816-02","32005-00",5
+"43825-01","Repair neonatal alimentary obstruction","43816-02","32012-00",6
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","43816-02",0
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","32000-00",1
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","32000-01",2
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","32004-01",3
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","32006-01",4
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","32004-00",5
+"43825-02","Repair neonatal alimentary obstr w stoma","43816-02","32009-00",6
+"43828-00","Resect intestine for acute NNEC w anstms","32003-00","32003-00",0
+"43828-00","Resect intestine for acute NNEC w anstms","32003-00","32003-01",1
+"43828-00","Resect intestine for acute NNEC w anstms","32003-00","32005-01",2
+"43828-00","Resect intestine for acute NNEC w anstms","32003-00","32006-00",3
+"43828-00","Resect intestine for acute NNEC w anstms","32003-00","32005-00",4
+"43828-00","Resect intestine for acute NNEC w anstms","32003-00","32012-00",5
+"43828-01","Resect intest acute NNEC w stoma form","32000-00","32000-00",0
+"43828-01","Resect intest acute NNEC w stoma form","32000-00","32000-01",1
+"43828-01","Resect intest acute NNEC w stoma form","32000-00","32004-01",2
+"43828-01","Resect intest acute NNEC w stoma form","32000-00","32006-01",3
+"43828-01","Resect intest acute NNEC w stoma form","32000-00","32004-00",4
+"43828-01","Resect intest acute NNEC w stoma form","32000-00","32009-00",5
+"43831-00","Laparotomy for acute NNEC","30373-00","30373-00",0
+"43834-00","Resect stricture large intestine, anstms","32003-00","32003-00",0
+"43834-00","Resect stricture large intestine, anstms","32003-00","32003-01",1
+"43834-00","Resect stricture large intestine, anstms","32003-00","32005-01",2
+"43834-00","Resect stricture large intestine, anstms","32003-00","32006-00",3
+"43834-00","Resect stricture large intestine, anstms","32003-00","32005-00",4
+"43834-00","Resect stricture large intestine, anstms","32003-00","32012-00",5
+"43834-01","Resect stricture lrg intest w stoma form","32000-00","32000-00",0
+"43834-01","Resect stricture lrg intest w stoma form","32000-00","32000-01",1
+"43834-01","Resect stricture lrg intest w stoma form","32000-00","32004-01",2
+"43834-01","Resect stricture lrg intest w stoma form","32000-00","32006-01",3
+"43834-01","Resect stricture lrg intest w stoma form","32000-00","32004-00",4
+"43834-01","Resect stricture lrg intest w stoma form","32000-00","32009-00",5
+"43837-00","Repair congen diaph hernia, abdo appr","30601-00","30601-00",0
+"43837-01","Repair congen diaph hernia thoracic appr","30601-01","30601-01",0
+"43849-00","Gastrostomy for oesophageal atresia paed","30375-07","30375-07",0
+"43858-00","Oesophagostomy for oesophageal atresia","30293-00","30293-00",0
+"43933-00","Manipulative reduct intussusception paed","30375-11","30375-11",0
+"43933-00","Manipulative reduct intussusception paed","30375-11","30375-08",1
+"43936-00","Resection of intussusception, paediatric","32003-00","32003-00",0
+"43936-00","Resection of intussusception, paediatric","32003-00","32003-01",1
+"43936-00","Resection of intussusception, paediatric","32003-00","32005-01",2
+"43936-00","Resection of intussusception, paediatric","32003-00","32006-00",3
+"43936-00","Resection of intussusception, paediatric","32003-00","32005-00",4
+"43936-00","Resection of intussusception, paediatric","32003-00","32012-00",5
+"43939-00","Repair of ventral hernia, paediatric","30403-01","30403-01",0
+"43939-00","Repair of ventral hernia, paediatric","30403-01","30405-04",1
+"43939-00","Repair of ventral hernia, paediatric","30403-01","30405-03",2
+"43939-00","Repair of ventral hernia, paediatric","30403-01","30405-05",3
+"43951-00","Fundoplication, paediatric","30527-02","30527-02",0
+"43951-00","Fundoplication, paediatric","30527-02","30527-00",1
+"43951-00","Fundoplication, paediatric","30527-02","30527-04",2
+"43951-00","Fundoplication, paediatric","30527-02","30530-00",3
+"43951-00","Fundoplication, paediatric","30527-02","30527-01",4
+"43951-00","Fundoplication, paediatric","30527-02","30527-03",5
+"43951-00","Fundoplication, paediatric","30527-02","30529-00",6
+"43951-00","Fundoplication, paediatric","30527-02","30527-05",7
+"43951-00","Fundoplication, paediatric","30527-02","30529-01",8
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30527-02",0
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30527-00",1
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30527-04",2
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30530-00",3
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30527-01",4
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30527-03",5
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30529-00",6
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30527-05",7
+"43954-00","Fundoplication w gastrostomy, paediatric","30527-02","30529-01",8
+"43960-00","Anoplasty, paediatric","32123-00","32123-00",0
+"43990-00","Resect lrg intest/rectum Hirschspg stoma","32030-00","32030-00",0
+"43990-00","Resect lrg intest/rectum Hirschspg stoma","32030-00","32000-00",1
+"43990-00","Resect lrg intest/rectum Hirschspg stoma","32030-00","32006-01",2
+"43990-00","Resect lrg intest/rectum Hirschspg stoma","32030-00","32004-00",3
+"43993-00","Anstms Hirschspg prev intest/rect resect","43993-01","43993-01",0
+"43993-02","Resect intest/rect Hirschspg anstms/stma","43993-01","43993-01",0
+"43996-00","Total colectomy Hirschspg dis w anstms","43993-01","43993-01",0
+"43996-01","Other proc for Hirschsprung's disease","43993-01","43993-01",0
+"43999-00","Anal sphincterotomy Hirschsprung's dis","90338-00","90338-00",0
+"44105-00","Injection rectal mucosal prolapse, paed","32132-01","32132-01",0
+"45239-03","Revision of myocutaneous flap","45497-00","45497-00",0
+"45239-03","Revision of myocutaneous flap","45497-00","45498-00",1
+"45239-03","Revision of myocutaneous flap","45497-00","45499-00",2
+"45239-03","Revision of myocutaneous flap","45497-00","45496-00",3
+"45239-04","Revision of muscle flap","45497-00","45497-00",0
+"45239-04","Revision of muscle flap","45497-00","45498-00",1
+"45239-04","Revision of muscle flap","45497-00","45499-00",2
+"45239-04","Revision of muscle flap","45497-00","45496-00",3
+"45421-00","Split skin graft to burn of eyelid","45485-00","45485-00",0
+"45421-01","Split skin graft to burn of nose","45485-01","45485-01",0
+"45421-02","Split skin graft to burn of lip","45485-02","45485-02",0
+"45421-03","Split skin graft to burn of ear","45485-03","45485-03",0
+"45421-04","Split skin graft to burn of neck","45486-00","45486-00",0
+"45421-05","Split skin graft to burn of hand","45485-04","45485-04",0
+"45421-06","Split skin graft to burn of thumb","45488-01","45488-01",0
+"45421-07","Split skin graft to burn of finger","45488-00","45488-00",0
+"45421-08","Split skin graft to burn of genitals","45486-01","45486-01",0
+"45424-00","Allograft burn involving < 3% BSA","90670-01","90670-01",0
+"45424-01","Xenograft burn involving <3% BSA","90671-01","90671-01",0
+"45424-02","Synthetic skin graft burn inv <3% BSA","90672-01","90672-01",0
+"45427-00","Allograft burn inv >=3% & <6% BSA","90670-01","90670-01",0
+"45427-01","Xenograft burn inv >=3% & <6% BSA","90671-01","90671-01",0
+"45427-02","Synthetic sk gft brn inv >=3% & <6% BSA","90672-01","90672-01",0
+"45430-00","Allograft burn inv >=6% & <9% BSA","90670-01","90670-01",0
+"45430-01","Xenograft burn inv >=6% & <9% BSA","90671-01","90671-01",0
+"45430-02","Synthetic sk gft brn inv >=6% & <9% BSA","90672-01","90672-01",0
+"45433-00","Allograft burn inv >=9% & <12% BSA","90670-01","90670-01",0
+"45433-01","Xenograft burn inv >=9% & <12% BSA","90671-01","90671-01",0
+"45433-02","Synthc sk gft brn inv >=9% & <12% BSA","90672-01","90672-01",0
+"45436-00","Allograft burn involving >=12% BSA","90670-01","90670-01",0
+"45436-01","Xenograft burn involving >=12% BSA","90671-01","90671-01",0
+"45436-02","Synthetic skin graft burn inv >=12% BSA","90672-01","90672-01",0
+"45719-00","Osteotomy mandible with IF, unilateral","45723-00","45723-00",0
+"45719-01","Osteotomy maxilla with IF, unilateral","45723-01","45723-01",0
+"45719-02","Ostectomy mandible with IF, unilateral","45723-02","45723-02",0
+"45719-03","Ostectomy maxilla with IF, unilateral","45723-03","45723-03",0
+"45722-00","Osteotomy mandible with IF, bilateral","45729-00","45729-00",0
+"45722-01","Osteotomy maxilla with IF, bilateral","45729-01","45729-01",0
+"45722-02","Ostectomy mandible with IF, bilateral","45729-02","45729-02",0
+"45722-03","Ostectomy maxilla with IF, bilateral","45729-03","45729-03",0
+"45725-00","Osteotomy of mandible, unilateral","45720-00","45720-00",0
+"45725-01","Osteotomy of maxilla, unilateral","45720-01","45720-01",0
+"45725-02","Ostectomy of mandible, unilateral","45720-02","45720-02",0
+"45725-03","Ostectomy of maxilla, unilateral","45720-03","45720-03",0
+"45728-00","Osteotomy of mandible, bilateral","45726-00","45726-00",0
+"45728-01","Osteotomy of maxilla, bilateral","45726-01","45726-01",0
+"45728-02","Ostectomy of mandible, bilateral","45726-02","45726-02",0
+"45728-03","Ostectomy of maxilla, bilateral","45726-03","45726-03",0
+"45734-00","4 Osteo/ostectomies mandible & maxilla","45735-00","45735-00",0
+"45737-00","5 Osteo/ostectomies mandible & maxilla","45741-00","45741-00",0
+"45740-00",">6 Osteo/ostectomies mandible & maxilla","45747-00","45747-00",0
+"45743-00",">=3 Osteo/ostectomies mandible w IF","45732-00","45732-00",0
+"45743-01",">=3 Osteo/ostectomies maxilla w IF","45732-01","45732-01",0
+"45746-00","4 Osteo/ostectomies mand & maxilla w IF","45738-00","45738-00",0
+"45749-00","5 Osteo/ostectomies mand & maxilla w IF","45744-00","45744-00",0
+"47015-00","Closed reduct dislocation shoulder wo GA","47009-00","47009-00",0
+"47924-00","Removal of pin, screw or wire wo GA","47927-00","47927-00",0
+"48606-00","Post spinal fus wo IF scoliosis/kyphosis","48642-00","48642-00",0
+"48606-00","Post spinal fus wo IF scoliosis/kyphosis","48642-00","48645-00",1
+"48609-00","Post spin fus nonseg IF scoliosis/kyphs","48642-00","48642-00",0
+"48609-00","Post spin fus nonseg IF scoliosis/kyphs","48642-00","48645-00",1
+"48609-00","Post spin fus nonseg IF scoliosis/kyphs","48642-00","48681-00",2
+"48612-00","Post spin fus w seg IF, scoliosis/kyphs","48642-00","48642-00",0
+"48612-00","Post spin fus w seg IF, scoliosis/kyphs","48642-00","48645-00",1
+"48612-00","Post spin fus w seg IF, scoliosis/kyphs","48642-00","48684-00",2
+"48612-00","Post spin fus w seg IF, scoliosis/kyphs","48642-00","48687-00",3
+"48612-00","Post spin fus w seg IF, scoliosis/kyphs","48642-00","48690-00",4
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48642-00",0
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48645-00",1
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48660-00",2
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48669-00",3
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48684-00",4
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48687-00",5
+"48613-00","Ant & post spin fus seg IF sclios/kyphs","48642-00","48690-00",6
+"48615-00","Re-exploration w adjustment spinal fix","90025-00","90025-00",0
+"48615-01","Re-exploration w removal spinal fixation","90025-01","90025-01",0
+"48615-02","Re-explor w bone graft, scoliosis/kyphs","90025-02","90025-02",0
+"48618-00","Revision failed scoliosis/kyphosis surg","90025-03","90025-03",0
+"48621-00","Ant spin fus seg IF sclios/kyphs <=4 lvl","48660-00","48660-00",0
+"48621-00","Ant spin fus seg IF sclios/kyphs <=4 lvl","48660-00","48669-00",1
+"48621-00","Ant spin fus seg IF sclios/kyphs <=4 lvl","48660-00","48684-00",2
+"48621-00","Ant spin fus seg IF sclios/kyphs <=4 lvl","48660-00","48687-00",3
+"48624-00","Ant spin fus seg IF sclios/kyphs >=5 lvl","48660-00","48660-00",0
+"48624-00","Ant spin fus seg IF sclios/kyphs >=5 lvl","48660-00","48669-00",1
+"48624-00","Ant spin fus seg IF sclios/kyphs >=5 lvl","48660-00","48690-00",2
+"48627-00","Post spin fus w seg IF pelv sclios/kyphs","48642-00","48642-00",0
+"48627-00","Post spin fus w seg IF pelv sclios/kyphs","48642-00","48645-00",1
+"48627-00","Post spin fus w seg IF pelv sclios/kyphs","48642-00","48684-00",2
+"48627-00","Post spin fus w seg IF pelv sclios/kyphs","48642-00","48687-00",3
+"48627-00","Post spin fus w seg IF pelv sclios/kyphs","48642-00","48690-00",4
+"48630-00","Ant decomp cd, resect vert sclios/kyphs","90024-00","90024-00",0
+"48630-00","Ant decomp cd, resect vert sclios/kyphs","90024-00","90024-01",1
+"48630-00","Ant decomp cd, resect vert sclios/kyphs","90024-00","48639-00",2
+"48630-01","Ant decomp cd w inv resect vert sclios","90024-00","90024-00",0
+"48630-01","Ant decomp cd w inv resect vert sclios","90024-00","90024-01",1
+"48630-01","Ant decomp cd w inv resect vert sclios","90024-00","48639-01",2
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48660-00",0
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48669-00",1
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48642-00",2
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48645-00",3
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48648-00",4
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48651-00",5
+"48632-00","Resect vertebra fus congen sclios/kyphs","48660-00","48639-00",6
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48642-00",0
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48645-00",1
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48660-00",2
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48669-00",3
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48684-00",4
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48687-00",5
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48690-00",6
+"48640-00","Ant & post spin fusion seg IF & resect","48642-00","48639-00",7
+"49348-00","Closed reduction congen hip dislocation","47048-00","47048-00",0
+"49351-00","Immobilisation congen hip dislocation","50352-00","50352-00",0
+"49354-00","Open reduction congen hip dislocation","47051-00","47051-00",0
+"55034-00","Ultrasound of breast(s)","55070-00","55070-00",0
+"55040-00","U/s for detection of fetal abnormality","55700-00","55700-00",0
+"55040-01","U/s for fetal growth measurement","55700-01","55700-01",0
+"55040-02","U/s abdo/pelvis for other pregnancy cond","55700-02","55700-02",0
+"55042-00","Ultrasound of female pelvis","55731-00","55731-00",0
+"55050-00","Musculoskeletal ultrasound","55800-00","55800-00",0
+"55050-00","Musculoskeletal ultrasound","55800-00","55804-00",1
+"55050-00","Musculoskeletal ultrasound","55800-00","55808-00",2
+"55050-00","Musculoskeletal ultrasound","55800-00","55812-00",3
+"55050-00","Musculoskeletal ultrasound","55800-00","55816-00",4
+"55050-00","Musculoskeletal ultrasound","55800-00","55816-01",5
+"55050-00","Musculoskeletal ultrasound","55800-00","55824-00",6
+"55050-00","Musculoskeletal ultrasound","55800-00","55824-01",7
+"55050-00","Musculoskeletal ultrasound","55800-00","55828-00",8
+"55050-00","Musculoskeletal ultrasound","55800-00","55832-00",9
+"55050-00","Musculoskeletal ultrasound","55800-00","55836-00",10
+"55050-00","Musculoskeletal ultrasound","55800-00","55844-00",11
+"55050-00","Musculoskeletal ultrasound","55800-00","55852-00",12
+"55050-00","Musculoskeletal ultrasound","55800-00","90908-00",13
+"55052-00","Ultrasound of joint","55800-00","55800-00",0
+"55052-00","Ultrasound of joint","55800-00","55804-00",1
+"55052-00","Ultrasound of joint","55800-00","55808-00",2
+"55052-00","Ultrasound of joint","55800-00","55812-00",3
+"55052-00","Ultrasound of joint","55800-00","55816-00",4
+"55052-00","Ultrasound of joint","55800-00","55816-01",5
+"55052-00","Ultrasound of joint","55800-00","55824-00",6
+"55052-00","Ultrasound of joint","55800-00","55824-01",7
+"55052-00","Ultrasound of joint","55800-00","55828-00",8
+"55052-00","Ultrasound of joint","55800-00","55832-00",9
+"55052-00","Ultrasound of joint","55800-00","55836-00",10
+"55052-00","Ultrasound of joint","55800-00","55844-00",11
+"55052-00","Ultrasound of joint","55800-00","90908-00",12
+"55055-00","Unidimensional u/s of orbital contents","11240-00","11240-00",0
+"55058-00","U/s measurement of umbilical blood flow","55729-00","55729-00",0
+"60500-00","Fluoroscopy under general anaesthesia","60503-00","60503-00",0
+"90003-00","Implantation of intrcran neurostimulator","40709-00","40709-00",0
+"90003-01","Removal of intracranial neurostimulator","40709-01","40709-01",0
+"90004-00","Corticectomy of brain for trauma","40703-00","40703-00",0
+"90004-01","Partial lobectomy of brain for trauma","40703-02","40703-02",0
+"90005-00","Repair of dura of brain","39615-00","39615-00",0
+"90005-00","Repair of dura of brain","39615-00","39615-01",1
+"90142-00","Other repair of mouth","45676-00","45676-00",0
+"90216-02","Repair vena cava by direct anstms","38721-01","38721-01",0
+"90228-00","Endoluminal repair of aneurysm","33116-00","33116-00",0
+"90309-00","Other repair of large intestine","43816-02","43816-02",0
+"90332-00","Anorectal myectomy, short seg Hirschspg","90315-01","90315-01",0
+"90336-00","Isolation of segment of small intestine","30566-00","30566-00",0
+"90336-01","Isolation seg large intest for interpstn","32003-00","32003-00",0
+"90336-01","Isolation seg large intest for interpstn","32003-00","32006-00",1
+"90336-01","Isolation seg large intest for interpstn","32003-00","32003-01",2
+"90361-00","Formation of neobladder","36606-03","36606-03",0
+"90362-00","Transvaginl needle suspnsn stress incont","37043-00","37043-00",0
+"90471-00","External version","16501-00","16501-00",0
+"90471-01","Failed external version","16501-01","16501-01",0
+"90486-00","Epidural injection of LA during labour","92506-99","92506-99",0
+"90486-00","Epidural injection of LA during labour","92506-99","92506-90",1
+"90486-00","Epidural injection of LA during labour","92506-99","92506-19",2
+"90486-00","Epidural injection of LA during labour","92506-99","92506-10",3
+"90486-00","Epidural injection of LA during labour","92506-99","92506-29",4
+"90486-00","Epidural injection of LA during labour","92506-99","92506-20",5
+"90486-00","Epidural injection of LA during labour","92506-99","92506-39",6
+"90486-00","Epidural injection of LA during labour","92506-99","92506-30",7
+"90486-00","Epidural injection of LA during labour","92506-99","92506-49",8
+"90486-00","Epidural injection of LA during labour","92506-99","92506-40",9
+"90486-00","Epidural injection of LA during labour","92506-99","92506-59",10
+"90486-00","Epidural injection of LA during labour","92506-99","92506-50",11
+"90486-00","Epidural injection of LA during labour","92506-99","92506-69",12
+"90486-01","Epidural injection opioid during labour","92506-99","92506-99",0
+"90486-01","Epidural injection opioid during labour","92506-99","92506-90",1
+"90486-01","Epidural injection opioid during labour","92506-99","92506-19",2
+"90486-01","Epidural injection opioid during labour","92506-99","92506-10",3
+"90486-01","Epidural injection opioid during labour","92506-99","92506-29",4
+"90486-01","Epidural injection opioid during labour","92506-99","92506-20",5
+"90486-01","Epidural injection opioid during labour","92506-99","92506-39",6
+"90486-01","Epidural injection opioid during labour","92506-99","92506-30",7
+"90486-01","Epidural injection opioid during labour","92506-99","92506-49",8
+"90486-01","Epidural injection opioid during labour","92506-99","92506-40",9
+"90486-01","Epidural injection opioid during labour","92506-99","92506-59",10
+"90486-01","Epidural injection opioid during labour","92506-99","92506-50",11
+"90486-01","Epidural injection opioid during labour","92506-99","92506-69",12
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-99",0
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-90",1
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-19",2
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-10",3
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-29",4
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-20",5
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-39",6
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-30",7
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-49",8
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-40",9
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-59",10
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-50",11
+"90486-02","Epidural inj/o other thrpc during labour","92506-99","92506-69",12
+"90554-00","Wedge osteotomy of tibia","48418-00","48418-00",0
+"90576-00","Spinal fix wo fusion, scoliosis/kyphosis","40316-00","40316-00",0
+"90576-00","Spinal fix wo fusion, scoliosis/kyphosis","40316-00","48678-00",1
+"90576-00","Spinal fix wo fusion, scoliosis/kyphosis","40316-00","48681-00",2
+"90576-00","Spinal fix wo fusion, scoliosis/kyphosis","40316-00","48684-00",3
+"90576-00","Spinal fix wo fusion, scoliosis/kyphosis","40316-00","48687-00",4
+"90576-00","Spinal fix wo fusion, scoliosis/kyphosis","40316-00","48690-00",5
+"90591-00","Proc for acute osteomyelitis of site NEC","90573-00","90573-00",0
+"90591-01","Proc chronic osteomyelitis of site NEC","90573-00","90573-00",0
+"90664-00","Excision lesion SSCT of eyelid NEC","31230-00","31230-00",0
+"90664-01","Excision lesion SSCT of nose, NEC","31230-01","31230-01",0
+"90664-02","Excision lesion SSCT of ear, NEC","31230-02","31230-02",0
+"90664-03","Excision lesion SSCT of lip, NEC","31230-03","31230-03",0
+"90664-04","Exc lesion SSCT, other site of head NEC","31235-00","31235-00",0
+"90664-05","Excision lesion SSCT of neck, NEC","31235-01","31235-01",0
+"90664-06","Excision lesion SSCT of hand, NEC","31235-02","31235-02",0
+"90664-07","Excision lesion SSCT of digit, NEC","31230-04","31230-04",0
+"90664-08","Excision lesion SSCT, genitals NEC","31230-05","31230-05",0
+"90664-09","Excision lesion SSCT of leg, NEC","31235-03","31235-03",0
+"90664-10","Excision lesion SSCT of foot, NEC","31235-04","31235-04",0
+"90664-11","Excision lesion SSCT, oth site NEC","31205-00","31205-00",0
+"92021-00","General eye examination","42503-00","42503-00",0
+"92069-00","Dilation of anal sphincter","32153-00","32153-00",0
+"92072-00","Gastric gavage","92191-00","92191-00",0
+"92092-00","Digital examination of rectum wo anaes","32171-00","32171-00",0
+"92127-00","Gynaecological examination wo anaes","35500-00","35500-00",0
+"92501-00","Topical anaesthesia","92513-99","92513-99",0
+"92501-00","Topical anaesthesia","92513-99","92513-90",1
+"92501-00","Topical anaesthesia","92513-99","92513-19",2
+"92501-00","Topical anaesthesia","92513-99","92513-10",3
+"92501-00","Topical anaesthesia","92513-99","92513-29",4
+"92501-00","Topical anaesthesia","92513-99","92513-20",5
+"92501-00","Topical anaesthesia","92513-99","92513-39",6
+"92501-00","Topical anaesthesia","92513-99","92513-30",7
+"92501-00","Topical anaesthesia","92513-99","92513-49",8
+"92501-00","Topical anaesthesia","92513-99","92513-40",9
+"92501-00","Topical anaesthesia","92513-99","92513-59",10
+"92501-00","Topical anaesthesia","92513-99","92513-50",11
+"92501-00","Topical anaesthesia","92513-99","92513-69",12
+"92501-01","Local infiltration anaesthesia","92513-99","92513-99",0
+"92501-01","Local infiltration anaesthesia","92513-99","92513-90",1
+"92501-01","Local infiltration anaesthesia","92513-99","92513-19",2
+"92501-01","Local infiltration anaesthesia","92513-99","92513-10",3
+"92501-01","Local infiltration anaesthesia","92513-99","92513-29",4
+"92501-01","Local infiltration anaesthesia","92513-99","92513-20",5
+"92501-01","Local infiltration anaesthesia","92513-99","92513-39",6
+"92501-01","Local infiltration anaesthesia","92513-99","92513-30",7
+"92501-01","Local infiltration anaesthesia","92513-99","92513-49",8
+"92501-01","Local infiltration anaesthesia","92513-99","92513-40",9
+"92501-01","Local infiltration anaesthesia","92513-99","92513-59",10
+"92501-01","Local infiltration anaesthesia","92513-99","92513-50",11
+"92501-01","Local infiltration anaesthesia","92513-99","92513-69",12
+"92502-00","Intravenous general anaesthesia","92514-99","92514-99",0
+"92502-00","Intravenous general anaesthesia","92514-99","92514-90",1
+"92502-00","Intravenous general anaesthesia","92514-99","92514-19",2
+"92502-00","Intravenous general anaesthesia","92514-99","92514-10",3
+"92502-00","Intravenous general anaesthesia","92514-99","92514-29",4
+"92502-00","Intravenous general anaesthesia","92514-99","92514-20",5
+"92502-00","Intravenous general anaesthesia","92514-99","92514-39",6
+"92502-00","Intravenous general anaesthesia","92514-99","92514-30",7
+"92502-00","Intravenous general anaesthesia","92514-99","92514-49",8
+"92502-00","Intravenous general anaesthesia","92514-99","92514-40",9
+"92502-00","Intravenous general anaesthesia","92514-99","92514-59",10
+"92502-00","Intravenous general anaesthesia","92514-99","92514-50",11
+"92502-00","Intravenous general anaesthesia","92514-99","92514-69",12
+"92502-01","Inhalational general anaesthesia","92514-99","92514-99",0
+"92502-01","Inhalational general anaesthesia","92514-99","92514-90",1
+"92502-01","Inhalational general anaesthesia","92514-99","92514-19",2
+"92502-01","Inhalational general anaesthesia","92514-99","92514-10",3
+"92502-01","Inhalational general anaesthesia","92514-99","92514-29",4
+"92502-01","Inhalational general anaesthesia","92514-99","92514-20",5
+"92502-01","Inhalational general anaesthesia","92514-99","92514-39",6
+"92502-01","Inhalational general anaesthesia","92514-99","92514-30",7
+"92502-01","Inhalational general anaesthesia","92514-99","92514-49",8
+"92502-01","Inhalational general anaesthesia","92514-99","92514-40",9
+"92502-01","Inhalational general anaesthesia","92514-99","92514-59",10
+"92502-01","Inhalational general anaesthesia","92514-99","92514-50",11
+"92502-01","Inhalational general anaesthesia","92514-99","92514-69",12
+"92502-02","Intravenous & inhalational GA","92514-99","92514-99",0
+"92502-02","Intravenous & inhalational GA","92514-99","92514-90",1
+"92502-02","Intravenous & inhalational GA","92514-99","92514-19",2
+"92502-02","Intravenous & inhalational GA","92514-99","92514-10",3
+"92502-02","Intravenous & inhalational GA","92514-99","92514-29",4
+"92502-02","Intravenous & inhalational GA","92514-99","92514-20",5
+"92502-02","Intravenous & inhalational GA","92514-99","92514-39",6
+"92502-02","Intravenous & inhalational GA","92514-99","92514-30",7
+"92502-02","Intravenous & inhalational GA","92514-99","92514-49",8
+"92502-02","Intravenous & inhalational GA","92514-99","92514-40",9
+"92502-02","Intravenous & inhalational GA","92514-99","92514-59",10
+"92502-02","Intravenous & inhalational GA","92514-99","92514-50",11
+"92502-02","Intravenous & inhalational GA","92514-99","92514-69",12
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-99",0
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-90",1
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-19",2
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-10",3
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-29",4
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-20",5
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-39",6
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-30",7
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-49",8
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-40",9
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-59",10
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-50",11
+"92502-03","GA combined w major regional anaesthesia","92514-99","92514-69",12
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-99",13
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-90",14
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-19",15
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-10",16
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-29",17
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-20",18
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-39",19
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-30",20
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-49",21
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-40",22
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-59",23
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-50",24
+"92502-03","GA combined w major regional anaesthesia","92514-99","92508-69",25
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-99",0
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-90",1
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-19",2
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-10",3
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-29",4
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-20",5
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-39",6
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-30",7
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-49",8
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-40",9
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-59",10
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-50",11
+"92503-00","IV sedation, anaesthetist controlled","92515-99","92515-69",12
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-99",0
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-90",1
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-19",2
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-10",3
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-29",4
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-20",5
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-39",6
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-30",7
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-49",8
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-40",9
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-59",10
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-50",11
+"92503-01","Intravenous sedation, patient controlled","92515-99","92515-69",12
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-99",0
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-90",1
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-19",2
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-10",3
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-29",4
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-20",5
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-39",6
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-30",7
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-49",8
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-40",9
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-59",10
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-50",11
+"92503-02","Inhalation sedation anaesthetist control","92515-99","92515-69",12
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-99",0
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-90",1
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-19",2
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-10",3
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-29",4
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-20",5
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-39",6
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-30",7
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-49",8
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-40",9
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-59",10
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-50",11
+"92503-03","Inhalation sedation, patient controlled","92515-99","92515-69",12
+"92504-00","Opioid loading protocol","92518-01","92518-01",0
+"92504-01","Opioid infusion protocol","92518-01","92518-01",0
+"92504-02","Protocol based pt controlled analgesia","92518-00","92518-00",0
+"92504-03","Protocol based IV subc/IM injection","92193-00","92193-00",0
+"92505-00","Applicn loose facemask/oxygen v cannula","92205-00","No map",0
+"92505-01","Application of fitted facemask","92205-00","No map",0
+"92505-02","Application of laryngeal airway mask","92205-00","No map",0
+"93300-00","Psychiatric assessment","96175-00","96175-00",0
+"96000-01","General psychological assessment","96175-00","96175-00",0
+"96000-02","Neuropsychological assessment","96175-00","96175-00",0
+"96000-03","Complex psychological assessment","96175-00","96175-00",0
+"96015-00","Respiratory assessment","92001-00","92001-00",0
+"96016-00","Cardiorespiratory assessment","92001-00","92001-00",0
+"96017-00","Cardiovascular assessment","92001-00","92001-00",0
+"96033-00","Cognitive skills assessment","96175-00","96175-00",0
+"96036-00","Child health exam/devt status assessment","96184-00","96184-00",0
+"96036-00","Child health exam/devt status assessment","96184-00","92001-00",1
+"96060-00","Click evoked otoacoustic emissions evaln","11332-00","11332-00",0
+"96061-00","Distortion prdct otoacous emission evaln","11332-01","11332-01",0
+"96062-00","Other otoacoustic emissions evaluation","11332-02","11332-02",0
+"96083-00","Critical incident stress debriefing","96082-00","96082-00",0
+"96099-00","Psychotherapy","96180-00","96180-00",0
+"96099-00","Psychotherapy","96180-00","96177-00",1
+"96105-00","Relaxation therapy, NEC","96001-00","96001-00",0
+"96106-00","Resourcing intervention","96089-00","96089-00",0
+"96109-00","Other psychosocial therapies","96180-00","96180-00",0
+"96111-00","Skills training in act rel to memory","96113-00","96113-00",0
+"96149-00","Religious/spiritual therapy","96109-01","96109-01",0
+"96170-00","Procedure/intervention assistance","96164-00","96164-00",0
+"96172-00","Sterile precautions","92205-00","92205-00",0
+"96174-00","Other psychological therapies","96180-00","96180-00",0
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-99",0
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-90",1
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-19",2
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-10",3
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-29",4
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-20",5
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-39",6
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-30",7
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-49",8
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-40",9
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-59",10
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-50",11
+"97941-00","Local anaesthesia for dental procedure","92513-99","92513-69",12
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-99",0
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-90",1
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-19",2
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-10",3
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-29",4
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-20",5
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-39",6
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-30",7
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-49",8
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-40",9
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-59",10
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-50",11
+"97942-00","Intravenous sedation for dental proc","92515-99","92515-69",12
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-99",0
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-90",1
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-19",2
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-10",3
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-29",4
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-20",5
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-39",6
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-30",7
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-49",8
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-40",9
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-59",10
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-50",11
+"97943-00","Inhalation sedation for dental procedure","92515-99","92515-69",12
+"97944-01","Relaxation therapy for dental procedure","96001-00","96001-00",0
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-99",0
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-90",1
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-19",2
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-10",3
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-29",4
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-20",5
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-39",6
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-30",7
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-49",8
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-40",9
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-59",10
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-50",11
+"97949-00","General anaesthesia for dental procedure","92514-99","92514-69",12

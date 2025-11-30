@@ -1,0 +1,33 @@
+Data element {
+    Data Element Attributes
+        Identifying and definitional attributes
+        Metadata item type:
+        Short name:
+        Synonymous names:
+        METEOR identifier:
+        Registration status:
+        Definition:
+        Data Element Concept:
+        Value Domain:
+    Value domain attributes
+        Representational attributes
+            Representation class:
+            Data type:
+            Format:
+            Maximum character length:
+            Permissible values:
+        Source and reference attributes
+            Submitting organisation:
+            Origin:
+    Data element attributes 
+        Collection and usage attributes
+            Guide for use:
+        Source and reference attributes
+            Submitting organisation:
+            Origin:
+        Relational attributes
+            Implementation in Data Set Specifications:
+        Registry management attributes 
+            Created date/time:
+            Last updated date/time:
+}

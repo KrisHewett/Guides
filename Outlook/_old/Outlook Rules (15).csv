@@ -1,0 +1,16 @@
+Order,Rule Name,Condition,Action,Folder,Stop Processing,Notes
+1.0,Junk Filter (Built-in),Built-in Junk Filter,Set Junk Filter to High,Junk,Yes,Baseline spam control
+2.0,Mailing Lists to Other_JUNK,From Mailing Lists OR Other Bulk Messages,Move to Folder,Other_JUNK,Yes,Reduces non-critical bulk mail
+3.0,DL Lists to Org_JUNK,From Distribution Lists,Move to Folder,Org_JUNK,Yes,Filters internal bulk communications
+4.0,Known Contacts to INBOX,Known Contacts OR Org Contacts OR Me in BCC/CC OR To Me Only,Move to Folder,INBOX,Yes,Ensures priority for direct contacts
+5.0,Leadership to High Priority,From Leadership,Move to Folder,High Priority,No,Critical visibility for leadership
+6.0,Team to Team Inbox,From Team,Move to Folder,Team Inbox,No,Keeps team communication organized
+7.0,Newsletters to Read Later,Subject contains Newsletter OR Unsubscribe,Move to Folder,Read Later,No,Non-urgent reading material
+8.0,Social to Social,From Social Domains (LinkedIn, Facebook, Twitter),Move to Folder,Social,No,Segregates social notifications
+9.0,Promotions to Promotions,Subject contains Offer, Sale, Discount,Move to Folder,Promotions,No,Handles marketing emails
+10.0,Categorize Compliance Keywords,Subject contains CIM OR DAP OR NSQHS OR QUIP,Categorize: Compliance,,No,Compliance tagging for audits
+11.0,Flag Critical Keywords,Subject/Body contains Patient Safety, Data Analysis, Action Needed,Flag for Follow-up,,No,Ensures visibility for safety issues
+12.0,Forward Reports,Subject contains Report OR Dashboard,Forward to OneNote/Teams,,No,Automates reporting workflow
+13.0,AutoReplies to JUNK,Auto Replies,Move to Folder,Junk,Yes,Prevents clutter from auto responses
+14.0,Auto-Reply to Requests,Subject contains Request OR Action Needed,Send Template Reply + Flag,,No,Improves response time
+15.0,Prioritize Urgent,Subject contains Urgent, ASAP, Immediate,Set High Importance,,No,Highlights time-sensitive emails

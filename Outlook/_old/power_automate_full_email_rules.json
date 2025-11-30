@@ -1,0 +1,437 @@
+{
+    "name": "Email Rules Automation",
+    "properties": {
+        "definition": {
+            "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+            "actions": {
+                "Rule_1": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "Built-in Junk Filter"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "Junk"
+                                }
+                            }
+                        },
+                        "Terminate": {
+                            "type": "Terminate",
+                            "inputs": {
+                                "status": "Succeeded"
+                            }
+                        }
+                    }
+                },
+                "Rule_2": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "Mailing Lists"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "Other Bulk Messages"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "Other_JUNK"
+                                }
+                            }
+                        },
+                        "Terminate": {
+                            "type": "Terminate",
+                            "inputs": {
+                                "status": "Succeeded"
+                            }
+                        }
+                    }
+                },
+                "Rule_3": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "DL Lists"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "MyOrg_JUNK"
+                                }
+                            }
+                        },
+                        "Terminate": {
+                            "type": "Terminate",
+                            "inputs": {
+                                "status": "Succeeded"
+                            }
+                        }
+                    }
+                },
+                "Rule_4": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "My Contacts"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "Org Contacts"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "To Me Only"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "Inbox"
+                                }
+                            }
+                        },
+                        "Terminate": {
+                            "type": "Terminate",
+                            "inputs": {
+                                "status": "Succeeded"
+                            }
+                        }
+                    }
+                },
+                "Rule_5": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "Leadership"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "High Priority"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Rule_6": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "Team"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "Team Inbox"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Rule_7": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "Newsletter"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "Read Later"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Rule_8": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['from']",
+                                    "Social Domains"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "MoveEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/mail/move",
+                                "body": {
+                                    "destinationFolder": "Social"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Rule_9": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "CIM"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "DAP"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "NSQHS"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "QUIP"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "CategoriseEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "patch",
+                                "path": "/mail",
+                                "body": {
+                                    "categories": [
+                                        "CIM",
+                                        "DAP",
+                                        "NSQHS",
+                                        "QUIP"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "Rule_10": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "Patient Safety"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['body']",
+                                    "Action Needed"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "FlagEmail": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "patch",
+                                "path": "/mail",
+                                "body": {
+                                    "flag": {
+                                        "flagStatus": "flagged"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Rule_11": {
+                    "type": "If",
+                    "expression": {
+                        "or": [
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "Urgent"
+                                ]
+                            },
+                            {
+                                "contains": [
+                                    "@triggerBody()?['subject']",
+                                    "ASAP"
+                                ]
+                            }
+                        ]
+                    },
+                    "actions": {
+                        "SetImportance": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "shared_office365"
+                                    }
+                                },
+                                "method": "patch",
+                                "path": "/mail",
+                                "body": {
+                                    "importance": "high"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "triggers": {
+                "When_a_new_email_arrives": {
+                    "type": "ApiConnection",
+                    "inputs": {
+                        "host": {
+                            "connection": {
+                                "name": "shared_office365"
+                            }
+                        },
+                        "method": "get",
+                        "path": "/mail",
+                        "parameters": {
+                            "folderPath": "Inbox"
+                        }
+                    }
+                }
+            },
+            "description": "Automated email rules based on ordered CSV logic"
+        }
+    }
+}

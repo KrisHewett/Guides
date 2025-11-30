@@ -1,0 +1,60 @@
+{
+    "name": "Environmental factors",
+    "METeOR_id": 315988,
+    "type": "Object Class Specialisation",
+    "description": "Sub-types the environment into factors that make up the physical, social and attitudinal environment in which people live and conduct their lives."
+},
+{
+    "name": "Life event",
+    "METeOR_id": 280947,
+    "type": "Object Class Specialisation",
+    "description": "An instance of an event which occurs to or with a person during their life."
+},
+{
+    "name": "Location",
+    "METeOR_id": 428659,
+    "type": "Object Class Specialisation",
+    "description": "The act or process of locating or the state of being located."
+},
+{
+    "name": "Model of care",
+    "METeOR_id": 561340,
+    "type": "Object Class Specialisation",
+    "description": "The overarching design of how care is delivered to a person."
+},
+{
+    "name": "Organisation",
+    "METeOR_id": 281131,
+    "type": "Object Class Specialisation",
+    "description": "A business or administrative concern created for particular ends."
+},
+{
+    "name": "Party",
+    "METeOR_id": 483447,
+    "type": "Object Class Specialisation",
+    "description": "Those persons, party groups or organisations who are part of the health and welfare systems including those who are known to the system and those who are of interest to it. For example, a party as a recipient of services, provider of services, purchaser of services or funder of services."
+},
+{
+    "name": "Person/group of persons",
+    "METeOR_id": 281123,
+    "type": "Object Class Specialisation",
+    "description": "Sub-types people and groups according to whether they involve one or more people."
+},
+{
+    "name": "Service episode",
+    "METeOR_id": 333545,
+    "type": "Object Class Specialisation",
+    "description": "A period of time during which a person receives assistance from a service provider."
+},
+{
+    "name": "Service/care event",
+    "METeOR_id": 281121,
+    "type": "Object Class Specialisation",
+    "description": "Something that happens to or with a party."
+},
+{
+    "name": "Service/care provider",
+    "METeOR_id": 281114,
+    "type": "Object Class Specialisation",
+    "description": "An instance of a role that a party, as a service or care provider, plays in an event."
+},

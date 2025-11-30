@@ -1,0 +1,297 @@
+
+www.meteor.aihw.gov.au
+//----------------------------------
+METeOR: Business Rules V6 Jun 2013
+    File: "R:\Data Analysis and Reporting\_Resources\METeOR\METeOR Business Rules V6 Jun 2013.docx"
+
+AIHW: A guide to data development ISBN: 978-1-74024-655-2
+    File: "R:\Data Analysis and Reporting\_Resources\AIHW\A guide to data development 2007.pdf"
+
+     National Health Information Agreement
+
+Data Dictionary
+Schema
+
+//----------------------------------
+ISO 11179 structures
+    *The metadata structures used within METeOR are based on the international standard for  metadata registries ISO/IEC 11179. METeOR implements the ISO/IEC 11179 model of object classes, properties, data element concepts, data elements and value domains.*
+
+    A.	Object class: The person, place, event or thing that is being described.
+    B.	Property: The characteristic of the object that is of interest.
+    C.	Data element concept: A concept that can be represented in the form of a data element, described independently of any particular representation. In METeOR this is achieved by the union of an object class and a property
+    D.	Data element: A unit of data for which the definition, identification, representation and permissible values are specified by means of a set of attributes. In METeOR this is achieved by the union of a data element concept (definition and identification) and a value domain (representation and permissible values).
+    E.	Value domain: An implied and/or explicit set of values used to represent something/someone.
+    F.	Classification scheme: A system for classifying data which is recognised and endorsed by a national or international body.
+    G.	Glossary item: A term with a defined meaning that applies across all instances within a specified context.
+    H.	Data set specification: A grouping of data elements and/or data set specifications, and the conditions under which the grouping should be collected or reported.
+
+The above structures are supplemented by two navigational structures:
+    A.	Object class specialisation: These allow the building of a hierarchy of object classes based on sub-typing (e.g. Adult is a sub-type of Person).
+    B.	Property group: A system for grouping properties with similar characteristics. 
+
+
+Non 11179 structures
+    *The following structures support metadata for indicators and link to metadata structures developed in METeOR that implement the ISO/IEC 11179 model.*
+
+    A.	Indicator set: A single or multi-word designation assigned to a set of performance indicators. This appears in the heading for each performance indicator.
+    B.	Outcome area: A statement that specifically defines the target, standard or the ideal result of the performance indicator, against which performance is to be assessed. Outcomes should be strategic, high level and observable, expressed in clear, measurable and achievable terms. Several outcome areas may be identified for each objective.
+    C.	Indicator: A statistical measure used to describe the progress or performance of a system. The measure may be that of a population or the output of provision of goods and services.
+    D.	Framework: The name of the conceptual framework to which a performance indicator can be reported against. This may include tiers and dimensions and sub-dimensions. A conceptual framework provides a structure to guide the understanding and evaluation of the system (health/welfare) being investigated.
+    E.	Quality statement: A statement of multiple quality dimensions for the purpose of assessing the quality of the data for reporting against the performance indicator.
+    F.	Data source: A specific data set, database and reference from where data are sourced.
+//----------------------------------
+Data Set Specification {
+    Data Set Specification Attributes
+        Identifying and definitional attributes
+            Metadata item type:
+            METEOR identifier:
+            Registration status:
+            DSS type:
+            Scope:
+        Collection and usage attributes
+            Statistical unit:
+            Collection methods:
+            Implementation start date:
+            Implementation end date:
+            Comments:
+        Source and reference attributes
+            Submitting organisation:
+        Relational attributes
+            elated metadata references:
+        Metadata items in this Data Set Specification 
+            Seq No.,
+            Metadata item,
+            Obligation
+            Max occurs 
+        Registry management attributes 
+            Created date/time:
+            Last updated date/time:
+}
+    Data element {
+        Data Element Attributes
+            Identifying and definitional attributes
+            Metadata item type:
+            Short name:
+            Synonymous names:
+            METEOR identifier:
+            Registration status:
+            Definition:
+            Data Element Concept:
+            Value Domain:
+        Value domain attributes
+            Representational attributes
+                Representation class:
+                Data type:
+                Format:
+                Maximum character length:
+                Permissible values:
+            Source and reference attributes
+                Submitting organisation:
+                Origin:
+        Data element attributes 
+            Collection and usage attributes
+                Guide for use:
+            Source and reference attributes
+                Submitting organisation:
+                Origin:
+            Relational attributes
+                Implementation in Data Set Specifications:
+            Registry management attributes 
+                Created date/time:
+                Last updated date/time:
+    }
+            Data element concept {
+                Data Element Concept Attributes
+                Identifying and definitional attributes
+                    Metadata item type: 
+                    METEOR identifier: 
+                    Registration status: 
+                    Definition: 
+                Object Class attributes
+                    Identifying and definitional attributes
+                        Object class:
+                        METEOR identifier: 
+                        Registration status: 
+                        Definition: 
+                        Specialisation of: 
+                    Source and reference attributes
+                        Submitting organisation: 
+                    Property attributes
+                        Identifying and definitional attributes
+                            Property:
+                            METEOR identifier: 
+                            Registration status: 
+                            Definition: 
+                            Property group: 
+                        Source and reference attributes
+                            Submitting organisation: 
+                            Origin: 
+                    Data element concept attributes
+                        Source and reference attributes
+                            Submitting organisation: 
+                            Origin: 
+                        Relational attributes
+                            Related metadata references:
+                            Data Elements implementing this Data Element Concept: 
+                        Registry management attributes  
+                            Created date/time: 
+                            Last updated date/time: 
+            }
+
+//----------------------------------
+//----------------------------------
+                Object class
+                Property 
+            Value domain
+                Classification scheme
+    Navigational items
+        Object class specialisations
+        *Property groups
+            ID
+            Definition
+            Property group
+            Relational attributes
+
+
+    Glossary item
+    Data source
+    Data quality statement
+    Indicator items
+        Indicator set
+            Indicator
+            Framework
+            Outcome area
+    Help topic
+
+//----------------------------------
+
+}
+	"Data Set Specification": {
+		"Data element": {
+			"Data element concept": {
+				"Object class": {}
+				"Property": {}
+			},
+			"Value domain": {
+				"Classification scheme": {}
+			}
+		}
+	},
+	"Navigational items": {
+		"Object class specialisations": {},
+		"Property groups": {}
+	},
+	"Glossary item": {},
+	"Data source": {},
+	"Data quality statement": {},
+	"Indicator items": {
+		"Indicator set": {
+			"Indicator": {}
+			"Framework": {}
+			"Outcome area": {}
+		}
+	}
+}
+
+//----------------------------------
+{
+	"type": "object",
+	"additionalProperties": false,
+	"required": [
+		"name"
+	],
+	"description": "SA Health Safety & Quality Data Schema",
+	"properties": {
+		"$schema": {
+			"type": "string"
+		},
+		"name": {
+			"title": "SQU Data Schema name",
+			"type": "string"
+		},
+	"Data Set Specification": {
+		"type": "object",
+		"properties": {
+			"Identifying and definitional": {
+			"type": "object",
+			"additionalProperties": false,
+			"properties": {
+				"*": {
+					"type": "object",
+					"allOf": [{
+						"properties": {
+							"*": {
+							"type": "array",
+							"items": {
+								"type": "object",
+								"properties": {
+									"Metadata item type": {
+										"type": "boolean",
+										"title": "Metadata item type",
+										"description": "Metadata item type",
+										"$ref": "#/definitions/type"
+									},
+									"METEOR identifier": {
+										"type": "number"
+									},
+									"Registration status": {
+										"type": "string",
+										"oneOf": [
+											{
+											"const": "Active",
+											"title": "Active"
+											},
+											{
+											"const": "Inactive",
+											"title": "Inactive"
+											}
+										],
+										"title":""
+									}
+									"DSS type": {
+										"type": "boolean"
+									},
+									"Scope": {
+										"type": "boolean"
+									},
+
+								}
+							}
+							},
+						},
+					}
+				}
+			}
+			}
+		}
+	},
+	"definitions": {
+
+	}
+}
+//----------------------------------
+
+"Name": "Data Set Specification Attributes",
+"Description": "Data Set Specification Attributes"
+	"Attributes": {
+		"Identifying and definitional attributes",
+		"Collection and usage attributes",
+		"Source and reference attributes",
+		"Relational attributes",
+		"Metadata items in this Data Set Specification",
+		"Registry management attributes"
+	},
+	"Identifying and definitional attributes": {
+	Name: "
+	"Description": "Identifying and definitional attributes"
+	"Attributes": {
+		"Metadata item type",
+		"METEOR identifier",
+		"Registration status",
+		"DSS type",
+		"Scope"
+		}
+
+
+
+

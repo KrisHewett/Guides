@@ -1,0 +1,27 @@
+{
+    "name": "SQU_name",
+	"description": "Blank_Template",
+
+    "$schema": "**/*/SQU Schemas/metadataSchema",
+    "created": "2025-07-21",
+    "updated": "2025-07-21",
+    "version": "1",
+    "Active":false,
+    "additionalProperties": false,
+    "fields": [
+        {
+        "name": "KPI_ID",
+        "label": "KPI",
+        "dataType": "string",
+        "format": " [DataBase]-[MODULE]-[ID] | [A(3)]-[A(3)]-[N(2)] (eg., [DataBase = A(3)]-[Module A(3)]-[Id as N(2)] )",
+        "maxLength": 8,
+        "definition": "Unique KPI Identifier",
+        "comments": "Unique KPI was modified from the DAI-QUIP_HUB, where 'sq' is replaced with Database & Module. ",
+
+        "obligation": "Conditional",
+        "guideForUse": "Unique identifiers for KPI calculations",
+        "origin": "DAI / ",
+        "permissibleValues": [
+        ]
+    }]
+}

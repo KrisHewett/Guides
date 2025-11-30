@@ -1,0 +1,27 @@
+﻿Order,FullName,Theme,Tag,Colour,HexCode
+1,01. Urgent,Important,Urgent,DarkRed,#AC4E5E
+2,02. Important,Important,Important,Red,#DC626D
+3,03. To Do,Important,To Do,Orange,#E8825D
+4,04. Follow Up,Important,Follow Up,DarkOrange,#DF8E64
+5,05. PR & D,Important,PR & D,Brown,#BC8F6F
+6,06. Training,Training,Training,Peach,#FFCD8F
+7,07. Presentation,Training,Presentation,Yellow,#FDEE65
+8,08. Conference,Training,Conference,Gold,#DAC257
+9,09. Kids ( Personal ),Personal,Kids,LimeGreen,#B6D767
+10,10. Family ( Personal ),Personal,Family,DarkGreen,#4CA64C
+11,11. Friends ( Personal ),Personal,Friends,LightGreen,#52CE90
+12,12. Personal,Personal,Me,Green,#85B44C
+13,13. SA Health - Meeting,Meetings,SA Health,Steel,#4497A9
+14,14. DAP - Meeting,Meetings,DAP,Teal,#4BB4B7
+15,15. Safety & Quality - Meeting,Meetings,Safety & Quality,LightTeal,#57D2DA
+16,16. LHN's - Meeting,Meetings,LHN's,NavyBlue,#4179A3
+17,17. Patient Safety - Meeting,Meetings,Patient Safety,Blue,#5CA9E5
+18,18. Report Development,Development,Reports,DarkPurple,#A589CB
+19,19. Data  Development,Development,Data,Lavender,#B1AAEB
+20,20. Report Update,Update,Reports,DarkPink,#C34E98
+21,21. Data Update,Update,Data,Magenta,#EE5FB7
+22,22. Planned Leave,Leave,Leave,DarkGray,#8F8F8F
+23,23. Flexi Leave,Leave,Flexi,WarmGray,#C3C5BB
+24,24. Lunch,Leave,Lunch,Gray,#9FADB1
+25,25. Travel,Leave,Travel,LightGray,#C5CED1
+,,,,,

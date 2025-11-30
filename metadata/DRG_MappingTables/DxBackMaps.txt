@@ -1,0 +1,2348 @@
+"Code","Abbrev Descrip","Logical Map","Historical Map","Sequence Number"
+"E09.01","Impair gluc reg w perph angpthy wo gangr","R73.0","R73.0",0
+"E09.02","Impair gluc reg w perph angpthy w gangr","R73.0","R73.0",0
+"E09.1","Impair gluc reg w features insln resist","R73.0","R73.0",0
+"E09.8","Impair gluc reg w unspec complication","R73.0","R73.0",0
+"E09.9","Impaired glucose regulation without comp","R73.0","R73.0",0
+"E10.53","Type 1 DM w diab ischmc cardiomyopathy","E10.59","E10.59",0
+"E10.65","Type 1 DM with poor control","E10.9","E10.9",0
+"E10.65","Type 1 DM with poor control","E10.9","E10.8",1
+"E10.65","Type 1 DM with poor control","E10.9","E10.11",2
+"E10.65","Type 1 DM with poor control","E10.9","E10.12",3
+"E10.65","Type 1 DM with poor control","E10.9","E10.13",4
+"E10.65","Type 1 DM with poor control","E10.9","E10.14",5
+"E10.65","Type 1 DM with poor control","E10.9","E10.15",6
+"E10.65","Type 1 DM with poor control","E10.9","E10.16",7
+"E10.65","Type 1 DM with poor control","E10.9","E10.20",8
+"E10.65","Type 1 DM with poor control","E10.9","E10.21",9
+"E10.65","Type 1 DM with poor control","E10.9","E10.22",10
+"E10.65","Type 1 DM with poor control","E10.9","E10.23",11
+"E10.65","Type 1 DM with poor control","E10.9","E10.29",12
+"E10.65","Type 1 DM with poor control","E10.9","E10.30",13
+"E10.65","Type 1 DM with poor control","E10.9","E10.31",14
+"E10.65","Type 1 DM with poor control","E10.9","E10.32",15
+"E10.65","Type 1 DM with poor control","E10.9","E10.33",16
+"E10.65","Type 1 DM with poor control","E10.9","E10.34",17
+"E10.65","Type 1 DM with poor control","E10.9","E10.35",18
+"E10.65","Type 1 DM with poor control","E10.9","E10.36",19
+"E10.65","Type 1 DM with poor control","E10.9","E10.39",20
+"E10.65","Type 1 DM with poor control","E10.9","E10.40",21
+"E10.65","Type 1 DM with poor control","E10.9","E10.41",22
+"E10.65","Type 1 DM with poor control","E10.9","E10.42",23
+"E10.65","Type 1 DM with poor control","E10.9","E10.43",24
+"E10.65","Type 1 DM with poor control","E10.9","E10.49",25
+"E10.65","Type 1 DM with poor control","E10.9","E10.50",26
+"E10.65","Type 1 DM with poor control","E10.9","E10.51",27
+"E10.65","Type 1 DM with poor control","E10.9","E10.52",28
+"E10.65","Type 1 DM with poor control","E10.9","E10.59",29
+"E10.65","Type 1 DM with poor control","E10.9","E10.61",30
+"E10.65","Type 1 DM with poor control","E10.9","E10.62",31
+"E10.65","Type 1 DM with poor control","E10.9","E10.63",32
+"E10.65","Type 1 DM with poor control","E10.9","E10.64",33
+"E10.65","Type 1 DM with poor control","E10.9","E10.69",34
+"E10.65","Type 1 DM with poor control","E10.9","E10.71",35
+"E10.65","Type 1 DM with poor control","E10.9","E10.73",36
+"E11.53","Type 2 DM w diab ischmc cardiomyopathy","E11.59","E11.59",0
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.9",0
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.8",1
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.11",2
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.12",3
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.13",4
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.14",5
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.15",6
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.16",7
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.20",8
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.21",9
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.22",10
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.23",11
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.29",12
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.30",13
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.31",14
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.32",15
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.33",16
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.34",17
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.35",18
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.36",19
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.39",20
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.40",21
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.41",22
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.42",23
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.43",24
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.49",25
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.50",26
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.51",27
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.52",28
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.59",29
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.61",30
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.62",31
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.63",32
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.64",33
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.69",34
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.71",35
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.72",36
+"E11.65","Type 2 diabetes mellitus w poor control","E11.8","E11.73",37
+"E13.53","Oth spec DM w diab ischmc cardiomyopathy","E13.59","E13.59",0
+"E13.65","Oth spec DM w poor control","E13.9","E13.9",0
+"E13.65","Oth spec DM w poor control","E13.9","E13.8",1
+"E13.65","Oth spec DM w poor control","E13.9","E13.11",2
+"E13.65","Oth spec DM w poor control","E13.9","E13.12",3
+"E13.65","Oth spec DM w poor control","E13.9","E13.13",4
+"E13.65","Oth spec DM w poor control","E13.9","E13.14",5
+"E13.65","Oth spec DM w poor control","E13.9","E13.15",6
+"E13.65","Oth spec DM w poor control","E13.9","E13.16",7
+"E13.65","Oth spec DM w poor control","E13.9","E13.20",8
+"E13.65","Oth spec DM w poor control","E13.9","E13.21",9
+"E13.65","Oth spec DM w poor control","E13.9","E13.22",10
+"E13.65","Oth spec DM w poor control","E13.9","E13.23",11
+"E13.65","Oth spec DM w poor control","E13.9","E13.29",12
+"E13.65","Oth spec DM w poor control","E13.9","E13.30",13
+"E13.65","Oth spec DM w poor control","E13.9","E13.31",14
+"E13.65","Oth spec DM w poor control","E13.9","E13.32",15
+"E13.65","Oth spec DM w poor control","E13.9","E13.33",16
+"E13.65","Oth spec DM w poor control","E13.9","E13.34",17
+"E13.65","Oth spec DM w poor control","E13.9","E13.35",18
+"E13.65","Oth spec DM w poor control","E13.9","E13.36",19
+"E13.65","Oth spec DM w poor control","E13.9","E13.39",20
+"E13.65","Oth spec DM w poor control","E13.9","E13.40",21
+"E13.65","Oth spec DM w poor control","E13.9","E13.41",22
+"E13.65","Oth spec DM w poor control","E13.9","E13.42",23
+"E13.65","Oth spec DM w poor control","E13.9","E13.43",24
+"E13.65","Oth spec DM w poor control","E13.9","E13.49",25
+"E13.65","Oth spec DM w poor control","E13.9","E13.50",26
+"E13.65","Oth spec DM w poor control","E13.9","E13.51",27
+"E13.65","Oth spec DM w poor control","E13.9","E13.52",28
+"E13.65","Oth spec DM w poor control","E13.9","E13.59",29
+"E13.65","Oth spec DM w poor control","E13.9","E13.61",30
+"E13.65","Oth spec DM w poor control","E13.9","E13.62",31
+"E13.65","Oth spec DM w poor control","E13.9","E13.63",32
+"E13.65","Oth spec DM w poor control","E13.9","E13.64",33
+"E13.65","Oth spec DM w poor control","E13.9","E13.69",34
+"E13.65","Oth spec DM w poor control","E13.9","E13.71",35
+"E13.65","Oth spec DM w poor control","E13.9","E13.72",36
+"E13.65","Oth spec DM w poor control","E13.9","E13.73",37
+"E14.53","Unspec DM w diab ischmc cardiomyopathy","E14.59","E14.59",0
+"E14.65","Unspec DM w poor control","E14.8","E14.9",0
+"E14.65","Unspec DM w poor control","E14.8","E14.8",1
+"E14.65","Unspec DM w poor control","E14.8","E14.11",2
+"E14.65","Unspec DM w poor control","E14.8","E14.12",3
+"E14.65","Unspec DM w poor control","E14.8","E14.13",4
+"E14.65","Unspec DM w poor control","E14.8","E14.14",5
+"E14.65","Unspec DM w poor control","E14.8","E14.15",6
+"E14.65","Unspec DM w poor control","E14.8","E14.16",7
+"E14.65","Unspec DM w poor control","E14.8","E14.20",8
+"E14.65","Unspec DM w poor control","E14.8","E14.21",9
+"E14.65","Unspec DM w poor control","E14.8","E14.22",10
+"E14.65","Unspec DM w poor control","E14.8","E14.23",11
+"E14.65","Unspec DM w poor control","E14.8","E14.29",12
+"E14.65","Unspec DM w poor control","E14.8","E14.30",13
+"E14.65","Unspec DM w poor control","E14.8","E14.31",14
+"E14.65","Unspec DM w poor control","E14.8","E14.32",15
+"E14.65","Unspec DM w poor control","E14.8","E14.33",16
+"E14.65","Unspec DM w poor control","E14.8","E14.34",17
+"E14.65","Unspec DM w poor control","E14.8","E14.35",18
+"E14.65","Unspec DM w poor control","E14.8","E14.36",19
+"E14.65","Unspec DM w poor control","E14.8","E14.39",20
+"E14.65","Unspec DM w poor control","E14.8","E14.40",21
+"E14.65","Unspec DM w poor control","E14.8","E14.41",22
+"E14.65","Unspec DM w poor control","E14.8","E14.42",23
+"E14.65","Unspec DM w poor control","E14.8","E14.43",24
+"E14.65","Unspec DM w poor control","E14.8","E14.49",25
+"E14.65","Unspec DM w poor control","E14.8","E14.50",26
+"E14.65","Unspec DM w poor control","E14.8","E14.51",27
+"E14.65","Unspec DM w poor control","E14.8","E14.52",28
+"E14.65","Unspec DM w poor control","E14.8","E14.59",29
+"E14.65","Unspec DM w poor control","E14.8","E14.61",30
+"E14.65","Unspec DM w poor control","E14.8","E14.62",31
+"E14.65","Unspec DM w poor control","E14.8","E14.63",32
+"E14.65","Unspec DM w poor control","E14.8","E14.64",33
+"E14.65","Unspec DM w poor control","E14.8","E14.69",34
+"E14.65","Unspec DM w poor control","E14.8","E14.71",35
+"E14.65","Unspec DM w poor control","E14.8","E14.72",36
+"E14.65","Unspec DM w poor control","E14.8","E14.73",37
+"F32.00","Mild depres ep not in postnatal period","F32.0","F32.0",0
+"F32.01","Mild depres ep in postnatal period","F32.0","F32.0",0
+"F32.10","Mod depres ep not in postnatal period","F32.1","F32.1",0
+"F32.11","Mod depres ep in postnatal period","F32.1","F32.1",0
+"F32.20","Sev depres ep wo psych sym not postnatal","F32.2","F32.2",0
+"F32.21","Sev depres ep wo psych sym in postnatal","F32.2","F32.2",0
+"F32.30","Sev depres ep w psych sym not postnatal","F32.3","F32.3",0
+"F32.31","Sev depres ep w psych sym in postnatal","F32.3","F32.3",0
+"F32.80","Other depres ep not in postnatal period","F32.8","F32.8",0
+"F32.81","Other depres ep in postnatal period","F32.8","F32.8",0
+"F32.90","Depres ep not in the postnatal period","F32.9","F32.9",0
+"F32.91","Depres ep unspec in the postnatal period","F32.9","F32.9",0
+"G40.00","Local-rel idiopath epil local sez wo IE","G40.0","G40.0",0
+"G40.01","Local-rel idiopath epil local sez w IE","G40.0","G40.0",0
+"G40.10","Local-rel sym epil simp part sez wo IE","G40.1","G40.1",0
+"G40.11","Local-rel sym epil simp part sez w IE","G40.1","G40.1",0
+"G40.20","Local-rel sym epil complx part sez wo IE","G40.2","G40.2",0
+"G40.21","Local-rel sym epil complx part sez w IE","G40.2","G40.2",0
+"G40.30","Genl idiopath epil & epil syndr wo IE","G40.3","G40.3",0
+"G40.31","Genl idiopath epil & epil syndr w IE","G40.3","G40.3",0
+"G40.40","Oth genl epil & epil syndr wo IE","G40.4","G40.4",0
+"G40.41","Oth genl epil & epil syndr w IE","G40.4","G40.4",0
+"G40.50","Special epil syndr wo IE","G40.5","G40.5",0
+"G40.51","Special epil syndr w IE","G40.5","G40.5",0
+"G40.60","Gr mal sez NOS +/- pet mal wo IE","G40.6","G40.6",0
+"G40.61","Gr mal sez NOS +/- pet mal w IE","G40.6","G40.6",0
+"G40.70","Pet mal NOS wo gr mal sez wo IE","G40.7","G40.7",0
+"G40.71","Pet mal NOS wo gr mal sez w IE","G40.7","G40.7",0
+"G40.80","Other epil wo IE","G40.8","G40.8",0
+"G40.81","Other epil w IE","G40.8","G40.8",0
+"G40.90","Epil unspecified wo IE","G40.9","G40.9",0
+"G40.91","Epil unspecified w IE","G40.9","G40.9",0
+"I27.2","Other secondary pulmonary hypertension","I27.0","I27.0",0
+"K63.50","Polyp of colon, unspecified","K63.5","K63.5",0
+"K63.51","Juvenile polyp of colon","K63.5","K63.5",0
+"K63.58","Other polyp of colon","K63.5","K63.5",0
+"M72.60","Necrotising fasciitis mult sites","M72.50","M72.50",0
+"M72.61","Necrotising fasciitis shoulder","M72.51","M72.51",0
+"M72.62","Necrotising fasciitis upper arm","M72.52","M72.52",0
+"M72.63","Necrotising fasciitis forearm","M72.53","M72.53",0
+"M72.64","Necrotising fasciitis hand","M72.54","M72.54",0
+"M72.65","Necrotising fasciitis pelvis  thgh","M72.55","M72.55",0
+"O24.11","Pre-exist DM Type 2 in preg noninsln trt","O24.1","O24.1",0
+"O24.12","Pre-exist DM Type 2 in preg insulin trt","O24.1","O24.1",0
+"O24.21","Pre-exist DM oth spec preg non-insln trt","O24.2","O24.2",0
+"O24.22","Pre-exist DM oth spec in preg insln trt","O24.2","O24.2",0
+"O24.31","Pre-exist DM unspec preg non-insln trt","O24.3","O24.3",0
+"O24.32","Pre-exist DM unspec preg non-insln trt","O24.3","O24.3",0
+"O24.91","DM in preg unspec onset noninsln trt","O24.9","O24.9",0
+"O24.92","DM in preg unspec onset insln trt","O24.9","O24.9",0
+"O43.2","Morbidly adherent placenta","O72.0","O72.0",0
+"O43.2","Morbidly adherent placenta","O72.0","O73.0",1
+"O94","Seq comp preg childbirth puerp","O99.8","O99.8",0
+"P07.01","Extremely low birth weight 499g or less","P07.0","P07.0",0
+"P07.02","Extremely low birth weight 500 - 749g","P07.0","P07.0",0
+"P07.03","Extremely low birth weight 750 - 999g","P07.0","P07.0",0
+"P07.11","Other low birth weight 1000 - 1249g","P07.1","P07.1",0
+"P07.12","Other low birth weight 1250 - 1499g","P07.1","P07.1",0
+"P07.13","Other low birth weight 1500 - 2499g","P07.1","P07.1",0
+"P07.21","Extr immat, less than 24 completed wk","P07.2","P07.2",0
+"P07.22","Extr immat>=24 compl wk but <28 compl wk","P07.2","P07.2",0
+"P07.30","Prematurity NOS","P07.3","P07.3",0
+"P07.31","Oth pret infnt >=28 but <32 compl wk","P07.3","P07.3",0
+"P07.32","Oth pret infnt >=32 but <37 compl wk","P07.3","P07.3",0
+"P28.40","Apnoea of newborn, unspecified","P28.4","P28.4",0
+"P28.41","Apnoea of prematurity","P28.4","P28.4",0
+"P28.42","Obstructive apnoea of newborn","P28.4","P28.4",0
+"P28.49","Other apnoea of newborn","P28.4","P28.4",0
+"P28.81","Snuffles in newborn","P28.8","P28.8",0
+"P28.82","Acquired subglottic stenosis in newborn","P28.8","P28.8",0
+"P28.83","Grunting in newborn","P28.8","P28.8",0
+"P28.89","Oth spec respiratory cond of newborn","P28.8","P28.8",0
+"P29.81","Neonatal hypotension","P29.8","P29.8",0
+"P29.82","Ben & innocent card murmurs in newborn","P29.8","P29.8",0
+"P29.89","Oth cardiovascular disrd","P29.8","P29.8",0
+"P37.50","Neonatal candidiasis, unspecified","P37.5","P37.5",0
+"P37.51","Top or GI neonatal candidiasis","P37.5","P37.5",0
+"P37.52","Invasive neonatal candidiasis","P37.5","P37.5",0
+"P37.59","Other neonatal candidiasis","P37.5","P37.5",0
+"P74.20","Disturb of sodium bal of newborn, unspec","P74.2","P74.2",0
+"P74.21","Hypernatraemia of newborn","P74.2","P74.2",0
+"P74.22","Hyponatraemia of newborn","P74.2","P74.2",0
+"P74.29","Oth disturbances sodium balance newborn","P74.2","P74.2",0
+"P74.30","Disturb of K+ bal of newborn, unspec","P74.3","P74.3",0
+"P74.31","Hyperkalaemia of newborn","P74.3","P74.3",0
+"P74.32","Hypokalaemia of newborn","P74.3","P74.3",0
+"P74.39","Oth disturb of potassium bal of newborn","P74.3","P74.3",0
+"P91.81","Neonatal encephalopathy","P91.8","P91.8",0
+"P91.89","Oth spec disturb cerebral status newborn","P91.8","P91.8",0
+"P96.50","Fetus & newb aff by unsp IU proc","P96.5","P96.5",0
+"P96.51","Fetus & newb affected by amniocentesis","P96.5","P96.5",0
+"P96.52","Fetus & newb aff by chori villous sampl","P96.5","P96.5",0
+"P96.53","Fetus & newb aff by fetal bl sampling","P96.5","P96.5",0
+"P96.54","Fetus & newb aff by comp IU fetal surg","P96.5","P96.5",0
+"P96.59","Fetus & newb aff by oth IU proc","P96.5","P96.5",0
+"P96.81","Jittery baby","P96.8","P96.8",0
+"P96.89","Oth spec conditions in perinatal period","P96.8","P96.8",0
+"Q00.00","Anencephaly, unspecified","Q00.0","Q00.0",0
+"Q00.01","Incomplete anencephaly","Q00.0","Q00.0",0
+"Q00.09","Other anencephaly","Q00.0","Q00.0",0
+"Q00.20","Iniencephaly, unspecified","Q00.2","Q00.2",0
+"Q00.21","Iniencephaly, open","Q00.2","Q00.2",0
+"Q00.22","Iniencephaly, closed","Q00.2","Q00.2",0
+"Q01.81","Parietal encephalocele","Q01.8","Q01.8",0
+"Q01.82","Orbital encephalocele","Q01.8","Q01.8",0
+"Q01.83","Nasal encephalocele","Q01.8","Q01.8",0
+"Q01.84","Nasopharyngeal encephalocele","Q01.8","Q01.8",0
+"Q01.89","Encephalocele of other specified sites","Q01.8","Q01.8",0
+"Q04.00","Cong malform corpus callosum NOS","Q04.0","Q04.0",0
+"Q04.01","Agenesis of corpus callosum","Q04.0","Q04.0",0
+"Q04.09","Oth cong malform corpus callosum","Q04.0","Q04.0",0
+"Q04.31","Reduction anomalies of cerebrum","Q04.3","Q04.3",0
+"Q04.32","Reduction anomalies of hypothalamus","Q04.3","Q04.3",0
+"Q04.33","Reduction anomalies of cerebellum","Q04.3","Q04.3",0
+"Q04.34","Agyria and lissencephaly","Q04.3","Q04.3",0
+"Q04.35","Microgyria and pachygyria","Q04.3","Q04.3",0
+"Q04.36","Hydranencephaly","Q04.3","Q04.3",0
+"Q04.39","Other reduction anomalies of brain","Q04.3","Q04.3",0
+"Q04.60","Congenital cerebral cysts, unspecified","Q04.6","Q04.6",0
+"Q04.61","Multiple congenital cerebral cysts","Q04.6","Q04.6",0
+"Q04.62","Single congenital cerebral cyst","Q04.6","Q04.6",0
+"Q05.00","Cerv spina bifida w hydrocephalus NOS","Q05.0","Q05.0",0
+"Q05.01","Cerv spina bifida w hydrocephalus open","Q05.0","Q05.0",0
+"Q05.02","Cerv spina bifida w hydrocephalus closed","Q05.0","Q05.0",0
+"Q05.10","Thor spina bifida w hydrocephalus NOS","Q05.1","Q05.1",0
+"Q05.11","Thor spina bifida w hydrocephalus open","Q05.1","Q05.1",0
+"Q05.12","Thor spina bifida w hydrocephalus closed","Q05.1","Q05.1",0
+"Q05.20","Lumb spina bifida w hydrocephalus NOS","Q05.2","Q05.2",0
+"Q05.21","Lumb spina bifida w hydrocephalus open","Q05.2","Q05.2",0
+"Q05.22","Lumb spina bifida w hydrocephalus closed","Q05.2","Q05.2",0
+"Q05.30","Scrl spina bifida w hydrocephalus NOS","Q05.3","Q05.3",0
+"Q05.31","Scrl spina bifida w hydrocephalus open","Q05.3","Q05.3",0
+"Q05.32","Scrl spina bifida w hydrocephalus closed","Q05.3","Q05.3",0
+"Q05.40","NOS spina bifida w hydrocephalus NOS","Q05.4","Q05.4",0
+"Q05.41","NOS spina bifida w hydrocephalus open","Q05.4","Q05.4",0
+"Q05.42","NOS spina bifida w hydrocephalus closed","Q05.4","Q05.4",0
+"Q05.50","Cerv spina bifida wt hydrocephalus NOS","Q05.5","Q05.5",0
+"Q05.51","Cerv spina bifida wo hydrocephalus open","Q05.5","Q05.5",0
+"Q05.52","Cerv spina bifida wo hydrocephalus clsd","Q05.5","Q05.5",0
+"Q05.60","Thor spina bifida wo hydrocephalus NOS","Q05.6","Q05.6",0
+"Q05.61","Thor spina bifida wo hydrocephalus open","Q05.6","Q05.6",0
+"Q05.62","Thor spina bifida wo hydrocephalus clsd","Q05.6","Q05.6",0
+"Q05.70","Lumb spina bifida wo hydrocephalus NOS","Q05.7","Q05.7",0
+"Q05.71","Lumb spina bifida wo hydrocephalus open","Q05.7","Q05.7",0
+"Q05.72","Lumb spina bifida wo hydrocephalus clsd","Q05.7","Q05.7",0
+"Q05.80","Scrl spina bifida wo hydrocephalus NOS","Q05.8","Q05.8",0
+"Q05.81","Scrl spina bifida open","Q05.8","Q05.8",0
+"Q05.82","Scrl spina bifida closed","Q05.8","Q05.8",0
+"Q05.90","Spina bifida, unspecified NOS","Q05.9","Q05.9",0
+"Q05.91","Spina bifida, unspecified open","Q05.9","Q05.9",0
+"Q05.92","Spina bifida unspecified closed","Q05.9","Q05.9",0
+"Q07.81","Jaw-winking syndrome","Q07.8","Q07.8",0
+"Q07.82","Optic nerve hypoplasia","Q07.8","Q07.8",0
+"Q07.89","Oth spec cong malform nervous system","Q07.8","Q07.8",0
+"Q31.5","Congenital laryngomalacia","Q31.4","Q31.4",0
+"Q39.11","Atrsa oesoph w fist b trach & upp oesoph","Q39.1","Q39.1",0
+"Q39.12","Atrs oesoph w fist b trach & low oesoph","Q39.1","Q39.1",0
+"Q39.19","Atresia oesoph w tracheo-oesoph fist","Q39.1","Q39.1",0
+"Q39.21","Cong tracheo-oesoph fistula wo atresia","Q39.2","Q39.2",0
+"Q39.22","Cong broncho-oesoph fistula wo atresia","Q39.2","Q39.2",0
+"Q39.81","Congenital duplication of oesophagus","Q39.8","Q39.8",0
+"Q39.82","Oesophageal dysmotility","Q39.8","Q39.8",0
+"Q39.89","Oth congenital malformations oesoph","Q39.8","Q39.8",0
+"Q42.00","Cong absc atrsa stenos rect unspec fist","Q42.0","Q42.0",0
+"Q42.01","Cong absc atrs stenos rect recturth fist","Q42.0","Q42.0",0
+"Q42.02","Cong absc atrs stenos rect rectvesc fist","Q42.0","Q42.0",0
+"Q42.03","Cong absc atrs stenos rect rectvlvl fist","Q42.0","Q42.0",0
+"Q42.04","Cong absc atrs stenos rect rectocut fist","Q42.0","Q42.0",0
+"Q42.05","Cong absc atrs stenos rect rectclcl fist","Q42.0","Q42.0",0
+"Q42.09","Cong absc atrs & stenos rect w oth fist","Q42.0","Q42.0",0
+"Q42.20","Cong absc atrs stenos ans w unspec fist","Q42.2","Q42.2",0
+"Q42.21","Cong absc atrs stenos ans anocutan fist","Q42.2","Q42.2",0
+"Q42.22","Cong absc atrs stenos ans anovestib fist","Q42.2","Q42.2",0
+"Q42.29","Cong absc atrs stenos anus w oth fist","Q42.2","Q42.2",0
+"Q43.10","Hirschsprung's disease, unspecified","Q43.1","Q43.1",0
+"Q43.11","Short segment Hirschsprung's disease","Q43.1","Q43.1",0
+"Q43.12","Long segment Hirschsprung's disease","Q43.1","Q43.1",0
+"Q43.19","Other Hirschsprung's disease","Q43.1","Q43.1",0
+"Q43.31","Malrotation of colon","Q43.3","Q43.3",0
+"Q43.32","Cong intra-abdominal adhesions (bands)","Q43.3","Q43.3",0
+"Q43.39","Oth cong malform of intestinal fixation","Q43.3","Q43.3",0
+"Q45.31","Ectopic pancreas","Q45.3","Q45.3",0
+"Q45.39","Oth cong malform pancreas pancr duct","Q45.3","Q45.3",0
+"Q45.81","Absc (compl) (part) alimntry tract NEC","Q45.8","Q45.8",0
+"Q45.82","Duplication of digestive organs NEC","Q45.8","Q45.8",0
+"Q45.83","Cong malposition of digestive organs NEC","Q45.8","Q45.8",0
+"Q45.84","Congenital mesenteric cyst, NEC","Q45.8","Q45.8",0
+"Q45.89","Oth spec cong malform digestive system","Q45.8","Q45.8",0
+"Q50.00","Congenital absence of ovary NOS","Q50.0","Q50.0",0
+"Q50.01","Congenital absence of ovary unilateral","Q50.0","Q50.0",0
+"Q50.02","Congenital absence of ovary bilateral","Q50.0","Q50.0",0
+"Q50.10","Developmental ovarian cyst NOS","Q50.1","Q50.1",0
+"Q50.11","Developmental ovarian cyst single","Q50.1","Q50.1",0
+"Q50.12","Developmental ovarian cyst multiple","Q50.1","Q50.1",0
+"Q50.31","Ovarian streak","Q50.3","Q50.3",0
+"Q50.39","Oth cong malformations of ovary","Q50.3","Q50.3",0
+"Q50.61","Absence  fallopian tube & broad ligament","Q50.6","Q50.6",0
+"Q50.69","Oth cong malform fall tbe & brd ligmt","Q50.6","Q50.6",0
+"Q55.00","Absence and aplasia of testis NOS","Q55.0","Q55.0",0
+"Q55.01","Absence and aplasia of testis unilateral","Q55.0","Q55.0",0
+"Q55.02","Absence and aplasia of testis bilateral","Q55.0","Q55.0",0
+"Q55.21","Retractile testis","Q55.2","Q55.2",0
+"Q55.22","Bifid scrotum","Q55.2","Q55.2",0
+"Q55.29","Other cong malform of testis or scrotum","Q55.2","Q55.2",0
+"Q61.40","Renal dysplasia, unspecified","Q61.4","Q61.4",0
+"Q61.41","Cystic renal dysplasia unilateral","Q61.4","Q61.4",0
+"Q61.42","Cystic renal dysplasia bilateral","Q61.4","Q61.4",0
+"Q61.50","Medullary cystic kidney unspecified","Q61.5","Q61.5",0
+"Q61.51","Juvenile medullary cystic kidney","Q61.5","Q61.5",0
+"Q61.52","Adult type medullary cystic kidney","Q61.5","Q61.5",0
+"Q62.11","Atrs stenos ureteropelvic junction unil","Q62.1","Q62.1",0
+"Q62.12","Atrs & stenos ureteropelvic junction bil","Q62.1","Q62.1",0
+"Q62.13","Atrs stenos ureterovesical junction unil","Q62.1","Q62.1",0
+"Q62.14","Atrs stenos ureterovesical junction bil","Q62.1","Q62.1",0
+"Q62.18","Atrs stenos oth unspec site ureter unil","Q62.1","Q62.1",0
+"Q62.19","Atrs & stenos oth unspec site ureter bil","Q62.1","Q62.1",0
+"Q62.31","Ectopic ureterocele","Q62.3","Q62.3",0
+"Q62.32","Orthotopic ureterocele","Q62.3","Q62.3",0
+"Q62.33","Congenital polyp of ureter","Q62.3","Q62.3",0
+"Q62.34","Congenital hydroureter","Q62.3","Q62.3",0
+"Q62.39","Oth obstructive dfct renal pelvis ureter","Q62.3","Q62.3",0
+"Q62.51","Double ureter","Q62.5","Q62.5",0
+"Q62.52","Triple ureter","Q62.5","Q62.5",0
+"Q62.59","Other duplication of ureter","Q62.5","Q62.5",0
+"Q62.60","Malpos ureter ureteric drainage site NOS","Q62.6","Q62.6",0
+"Q62.61","Malpos ureter uretc drain v bladder neck","Q62.6","Q62.6",0
+"Q62.62","Malpos ureter ureteric drain v urethra","Q62.6","Q62.6",0
+"Q62.63","Malpos ureter ureteric drain v vagina","Q62.6","Q62.6",0
+"Q62.64","Malpos ureter ureteric drain v vulva","Q62.6","Q62.6",0
+"Q62.65","Malpos ureter ureteric drain v vas","Q62.6","Q62.6",0
+"Q62.66","Malpos ureter ureteric drain v sem ves","Q62.6","Q62.6",0
+"Q62.69","Malpos ureter ureteric drain v oth site","Q62.6","Q62.6",0
+"Q62.70","Cong vesico-uretero-renal reflux unspec","Q62.7","Q62.7",0
+"Q62.71","Cong vesico-uretero-renal reflux unil","Q62.7","Q62.7",0
+"Q62.72","Cong vesico-uretero-renal reflux bil","Q62.7","Q62.7",0
+"Q63.01","Double kidney","Q63.0","Q63.0",0
+"Q63.02","Triple kidney","Q63.0","Q63.0",0
+"Q63.09","Other accessory kidney","Q63.0","Q63.0",0
+"Q63.10","Renal fusion anomaly NOS","Q63.1","Q63.1",0
+"Q63.11","Horseshoe kidney","Q63.1","Q63.1",0
+"Q63.19","Other specified renal fusion anomaly","Q63.1","Q63.1",0
+"Q63.20","Renal ectopia NOS","Q63.2","Q63.2",0
+"Q63.21","Pelvic kidney","Q63.2","Q63.2",0
+"X26.09","Contact with jellyfish unspecified","X26","X26",0
+"M72.66","Necrotising fasciitis, lower leg","M72.56","M72.56",0
+"M72.67","Necrotising fasciitis, ankle and foot","M72.57","M72.57",0
+"M72.68","Necrotising fasciitis, other site","M72.58","M72.58",0
+"Q63.22","Crossed ectopia kidney wo fusion anomaly","Q63.2","Q63.2",0
+"Q63.23","Crossed ectopia kidney w fusion anomaly","Q63.2","Q63.2",0
+"Q63.29","Other specified renal ectopia","Q63.2","Q63.2",0
+"Q63.81","Congenital calyceal diverticulum","Q63.8","Q63.8",0
+"Q63.89","Oth spec cong malform kidney","Q63.8","Q63.8",0
+"Q64.11","Cloacal exstrophy","Q64.1","Q64.1",0
+"Q64.19","Exstrophy of urinary bladder","Q64.1","Q64.1",0
+"Q64.20","Congenital urethral valves NOS","Q64.2","Q64.2",0
+"Q64.21","Congenital posterior urethral valves","Q64.2","Q64.2",0
+"Q64.22","Congenital anterior urethral valves","Q64.2","Q64.2",0
+"Q64.31","Atresia and stenosis of bladder neck","Q64.3","Q64.3",0
+"Q64.32","Atresia and stenosis of urethra","Q64.3","Q64.3",0
+"Q64.33","Atresia and stenosis of urethral meatus","Q64.3","Q64.3",0
+"Q64.34","Hypoplasia of urethra","Q64.3","Q64.3",0
+"Q64.39","Oth atrs stenos urethra & bladder neck","Q64.3","Q64.3",0
+"Q64.41","Cyst of urachus","Q64.4","Q64.4",0
+"Q64.42","Patent urachus","Q64.4","Q64.4",0
+"Q64.43","Urachal diverticulum","Q64.4","Q64.4",0
+"Q64.49","Other specified malformation of urachus","Q64.4","Q64.4",0
+"Q64.71","Cong anterior urethral diverticulum","Q64.7","Q64.7",0
+"Q64.72","Congenital prolapse bladder (mucosa)","Q64.7","Q64.7",0
+"Q64.73","Double urethra","Q64.7","Q64.7",0
+"Q64.74","Ectopic urethra or urethral orifice","Q64.7","Q64.7",0
+"Q64.75","Cong gastrointestinal-urinary tract fist","Q64.7","Q64.7",0
+"Q64.76","Congenital megaurethra","Q64.7","Q64.7",0
+"Q64.77","Megacystitis-megaureter syndrome","Q64.7","Q64.7",0
+"Q64.78","Congenital urethral syringocele","Q64.7","Q64.7",0
+"Q64.79","Oth cong malform bladder & urethra","Q64.7","Q64.7",0
+"Q65.60","Unstable hip, unspecified","Q65.6","Q65.6",0
+"Q65.61","Unstable hip, unilateral","Q65.6","Q65.6",0
+"Q65.62","Unstable hip, bilateral","Q65.6","Q65.6",0
+"Q67.41","Depressions in skull","Q67.4","Q67.4",0
+"Q67.42","Deviation of nasal septum, congenital","Q67.4","Q67.4",0
+"Q67.49","Oth cong deformities skull face & jaw","Q67.4","Q67.4",0
+"Q67.51","Congenital scoliosis, postural","Q67.5","Q67.5",0
+"Q67.52","Congenital postural curvature of spine","Q67.5","Q67.5",0
+"Q67.59","Other specified cong deformity spine","Q67.5","Q67.5",0
+"Q71.31","Cong absc fngr(s) w remndr hnd intct","Q71.3","Q71.3",0
+"Q71.32","Cong absence thumb w oth digits intact","Q71.3","Q71.3",0
+"Q71.33","Congenital absence of hand and finger(s)","Q71.3","Q71.3",0
+"Q72.31","Cong absc toe(s) w remainder foot intact","Q72.3","Q72.3",0
+"Q72.32","Cong absc 1st toe w all oth digits intct","Q72.3","Q72.3",0
+"Q72.33","Congenital absence of foot and toe(s)","Q72.3","Q72.3",0
+"Q73.80","Reduction defects of NOS limb(s) NOS","Q73.8","Q73.8",0
+"Q73.89","Oth reduction defects of NOS limb(s)","Q73.8","Q73.8",0
+"Q74.01","Accessory carpal bones","Q74.0","Q74.0",0
+"Q74.02","Macrodactylia (fingers)","Q74.0","Q74.0",0
+"Q74.03","Triphalangeal thumb","Q74.0","Q74.0",0
+"Q74.04","Radioulnar synostosis","Q74.0","Q74.0",0
+"Q74.05","Humeroulnar synostosis","Q78.8","Q78.8",0
+"Q74.06","Humeroradial synostosis","Q78.8","Q78.8",0
+"Q74.07","Bifid digit(s) of upper limb","Q74.0","Q74.0",0
+"Q74.08","Sprengel's deformity","Q74.0","Q74.0",0
+"Q74.09","Oth cong malform upp lmb incl shoulder","Q74.0","Q74.0",0
+"Q74.81","Brachydactyly","Q74.8","Q74.8",0
+"Q74.82","Congenital overgrowth of limb(s)","Q74.8","Q74.8",0
+"Q74.83","Congenital undergrowth of limb(s)","Q74.8","Q74.8",0
+"Q74.84","Congenital limb asymmetry","Q74.8","Q74.8",0
+"Q74.85","Larsen's syndrome","Q74.8","Q74.8",0
+"Q74.89","Oth specified cong malform limb(s)","Q74.8","Q74.8",0
+"Q75.01","Coronal craniosynostosis","Q75.0","Q75.0",0
+"Q75.02","Saggittal craniosynostosis","Q75.0","Q75.0",0
+"Q75.03","Trigonocephaly","Q75.0","Q75.0",0
+"Q75.04","Craniosynostosis other multiple sutures","Q75.0","Q75.0",0
+"Q75.05","Pfeiffer syndrome","Q75.0","Q75.0",0
+"Q75.05","Pfeiffer syndrome","Q75.0","Q87.0",1
+"Q75.06","Clover leaf skull","Q75.0","Q75.0",0
+"Q75.09","Other craniosynostosis","Q75.0","Q75.0",0
+"Q75.31","Familial (benign) macrocephaly","Q75.3","Q75.3",0
+"Q75.39","Other macrocephaly","Q75.3","Q75.3",0
+"Q75.81","Frontonasal dysplasia","Q75.8","Q75.8",0
+"Q75.89","Oth spec cong malform skull & face bones","Q75.8","Q75.8",0
+"Q76.31","Single hemivertebra w cong scoliosis","Q76.3","Q76.3",0
+"Q76.39","Cong sclios dt oth cong bony malform","Q76.3","Q76.3",0
+"Q76.41","Congenital absence of vertebra(e)","Q76.4","Q76.4",0
+"Q76.42","Cong anomalies of sacral vertebra(e)","Q76.4","Q76.4",0
+"Q76.43","Congenital anomalies  oth vertebra(e)","Q76.4","Q76.4",0
+"Q76.44","Congenital lordosis, postural","Q76.4","Q76.4",0
+"Q76.45","Hemivertebra","Q76.4","Q76.4",0
+"Q76.49","Oth malform spine not assoc w scoliosis","Q76.4","Q76.4",0
+"Q76.61","Congential absence of rib","Q76.6","Q76.6",0
+"Q76.62","Congenital fusion of ribs","Q76.6","Q76.6",0
+"Q76.63","Accessory rib","Q76.6","Q76.6",0
+"Q76.69","Other congenital malformation of ribs","Q76.6","Q76.6",0
+"Q76.71","Congenital absence of sternum","Q76.7","Q76.7",0
+"Q76.72","Sternum bifidum","Q76.7","Q76.7",0
+"Q76.79","Oth spec cong malform of sternum","Q76.7","Q76.7",0
+"Q77.00","Achondrogenesis, unspecified","Q77.0","Q77.0",0
+"Q77.01","Achondrogenesis, type I","Q77.0","Q77.0",0
+"Q77.02","Achondrogenesis, type II","Q77.0","Q77.0",0
+"Q77.03","Hypochondrogenesis","Q77.0","Q77.0",0
+"Q77.09","Other achondrogenesis","Q77.0","Q77.0",0
+"Q77.81","Metatropic dwarfism","Q77.8","Q77.8",0
+"Q77.82","Metaphyseal chondroplasia","Q77.8","Q77.8",0
+"Q77.89","Oth ostchondysplas dfct grth bone spine","Q77.8","Q77.8",0
+"Q84.81","Aplasia cutis congenita","Q84.8","Q84.8",0
+"Q84.89","Oth spec cong malform integument","Q84.8","Q84.8",0
+"Q85.81","Peutz-Jeghers syndrome","Q85.8","Q85.8",0
+"Q85.82","Sturge-Weber (-Dimitri) syndrome","Q85.8","Q85.8",0
+"Q85.83","Von Hippel-Lindau syndrome","Q85.8","Q85.8",0
+"Q85.84","Gardner's syndrome","Q85.8","Q85.8",0
+"Q85.89","Other specified phakomatoses","Q85.8","Q85.8",0
+"Q86.81","Cong malform dt valproate","Q86.8","Q86.8",0
+"Q86.82","Cong malform dt Vitamin A","Q86.8","Q86.8",0
+"Q86.83","Cong malform dt thalidomide","Q86.8","Q86.8",0
+"Q86.84","Cong malform dt cytotoxic agents","Q86.8","Q86.8",0
+"Q86.85","Cong malform dt other drugs","Q86.8","Q86.8",0
+"Q86.86","Cong malform dt ionising radiation","Q86.8","Q86.8",0
+"Q86.87","Cong malform dt methylmercury","Q86.8","Q86.8",0
+"Q86.89","Cong malform dt oth spec exog causes","Q86.8","Q86.8",0
+"Q87.01","Acrocephalopolysyndactyly","Q87.0","Q87.0",0
+"Q87.02","Acrocephalosyndactyly","Q87.0","Q87.0",0
+"Q87.03","Cryptophthalmos syndrome","Q87.0","Q87.0",0
+"Q87.04","TreacherCollins FranceschettiKlein syndr","Q87.0","Q87.0",0
+"Q87.05","Hallerman-Streiff syndrome","Q87.0","Q87.0",0
+"Q87.06","Pierre Robin sequence","Q87.0","Q87.0",0
+"Q87.07","Pena-Shokeir syndrome","Q87.0","Q87.0",0
+"Q87.07","Pena-Shokeir syndrome","Q87.0","Q87.2",1
+"Q87.07","Pena-Shokeir syndrome","Q87.0","Q87.5",2
+"Q87.09","Oth cong syndr predom aff facial appear","Q87.0","Q87.0",0
+"Q87.11","Cockayne syndrome","Q87.1","Q87.1",0
+"Q87.12","Cornelia de Lange syndrome","Q87.1","Q87.1",0
+"Q87.13","Noonan syndrome","Q87.1","Q87.1",0
+"Q87.14","Prader-Willi syndrome","Q87.1","Q87.1",0
+"Q87.15","Russell-Silver syndrome","Q87.1","Q87.1",0
+"Q87.16","Seckel syndrome","Q87.1","Q87.1",0
+"Q87.17","Smith-Lemli-Opitz syndrome","Q87.1","Q87.1",0
+"Q87.18","Sjogren-Larsson syndrome","Q87.1","Q87.1",0
+"Q87.19","Oth cong syndr predom w short stature","Q87.1","Q87.1",0
+"Q87.21","Holt-Oram syndrome","Q87.2","Q87.2",0
+"Q87.22","Klippel-Trenaunay-Weber syndrome","Q87.2","Q87.2",0
+"Q87.23","Nail patella syndrome","Q87.2","Q87.2",0
+"Q87.24","Rubinstein-Taybi syndrome","Q87.2","Q87.2",0
+"Q87.25","Sirenomelia syndrome","Q87.2","Q87.2",0
+"Q87.26","Thrombocytopaenia w absent radius syndr","Q87.2","Q87.2",0
+"Q87.27","VATER association","Q87.2","Q87.2",0
+"Q87.29","Oth cong malform syndr predom inv limb","Q87.2","Q87.2",0
+"Q87.31","Beckwith-Wiedemann syndrome","Q87.3","Q87.3",0
+"Q87.32","Sotos syndrome","Q87.3","Q87.3",0
+"Q87.33","Weaver syndrome","Q87.3","Q87.3",0
+"Q87.39","Oth cong syndr inv early overgrowth","Q87.3","Q87.3",0
+"Q87.81","Alport's syndrome","Q87.8","Q87.8",0
+"Q87.82","Laurence-Moon-Biedl syndrome","Q87.8","Q87.8",0
+"Q87.83","Zellweger syndrome","Q87.8","Q87.8",0
+"Q87.84","William's syndrome","Q87.8","Q87.8",0
+"Q87.85","Angelman syndrome","Q93.5","Q93.5",0
+"Q87.89","Oth specified malform syndr NEC","Q87.8","Q87.8",0
+"Q89.01","Congenital asplenia","Q89.0","Q89.0",0
+"Q89.09","Oth spec cong malform of spleen","Q89.0","Q89.0",0
+"Q89.11","Congenital absence of adrenal gland","Q89.1","Q89.1",0
+"Q89.12","Congenital adrenal hypoplasia","Q89.1","Q89.1",0
+"Q89.19","Oth spec cong malform adrenal gland","Q89.1","Q89.1",0
+"Q89.21","Congenital malformations pituitary gland","Q89.2","Q89.2",0
+"Q89.22","Congenital malformations thyroid gland","Q89.2","Q89.2",0
+"Q89.23","Persistent thyroglossal cyst","Q89.2","Q89.2",0
+"Q89.24","Thyroglossal cyst","Q89.2","Q89.2",0
+"Q89.25","Cong malformations parathyroid gland","Q89.2","Q89.2",0
+"Q89.26","Congenital malformations of thymus","Q89.2","Q89.2",0
+"Q89.29","Cong malform oth endocrine glands","Q89.2","Q89.2",0
+"Q89.30","Situs inversus, unspecified","Q89.3","Q89.3",0
+"Q89.31","Dextrocardia with situs inversus","Q89.3","Q89.3",0
+"Q89.32","Mirror-image atrl arrgmt situs inversus","Q89.3","Q89.3",0
+"Q89.33","Situs inversus abdominalis","Q89.3","Q89.3",0
+"Q89.34","Situs inversus thoracis","Q89.3","Q89.3",0
+"Q89.35","Kartagener's syndrome","Q89.3","Q89.3",0
+"Q89.39","Other specified situs inversus","Q89.3","Q89.3",0
+"Q89.41","Dicephaly","Q89.4","Q89.4",0
+"Q89.42","Craniopagus","Q89.4","Q89.4",0
+"Q89.43","Thoracopagus","Q89.3","Q89.3",0
+"Q89.44","Xiphopagus","Q89.4","Q89.4",0
+"Q89.45","Pygopagus","Q89.4","Q89.4",0
+"Q89.46","Acardiac twin","Q89.4","Q89.4",0
+"Q89.49","Other specified conjoined twins","Q89.4","Q89.4",0
+"Q89.71","Dysmorphic features","Q89.7","Q89.7",0
+"Q89.79","Multiple congenital malformations NEC","Q89.7","Q89.7",0
+"Q89.81","Caudal dysplasia sequence","Q89.8","Q89.8",0
+"Q89.89","Other specified congenital malformations","Q89.8","Q89.8",0
+"R45.81","Suicidal ideation","Z91.5","Z91.5",0
+"R45.89","Oth symptoms & signs inv emotional state","R45.8","R45.8",0
+"R73","Elevated blood glucose level","R73.0","R73.0",0
+"R73","Elevated blood glucose level","R73.0","R73.9",1
+"T81.41","Wound infection following a procedure","T81.4","T81.4",0
+"T81.42","Sepsis following a procedure","T81.4","T81.4",0
+"U50.00","Australian rules","Y93.01","Y93.01",0
+"U50.01","Rugby Union","Y93.00","Y93.00",0
+"U50.02","Rugby League","Y93.00","Y93.00",0
+"U50.03","Rugby, unspecified","Y93.00","Y93.00",0
+"U50.04","Soccer","Y93.02","Y93.02",0
+"U50.05","Touch football","Y93.00","Y93.00",0
+"U50.05","Touch football","Y93.00","Y93.01",1
+"U50.05","Touch football","Y93.00","Y93.02",2
+"U50.08","Other specified football","Y93.00","Y93.00",0
+"U50.08","Other specified football","Y93.00","Y93.01",1
+"U50.08","Other specified football","Y93.00","Y93.02",2
+"U50.09","Football, unspecified","Y93.00","Y93.00",0
+"U50.09","Football, unspecified","Y93.00","Y93.01",1
+"U50.09","Football, unspecified","Y93.00","Y93.02",2
+"U50.1","Basketball","Y93.05","Y93.05",0
+"U50.2","Handball, team","Y93.09","Y93.09",0
+"U50.30","Netball indoor","Y93.06","Y93.06",0
+"U50.39","Netball, other and unspecified","Y93.06","Y93.06",0
+"U50.4","Korfball","Y93.09","Y93.09",0
+"U50.5","Volleyball","Y93.09","Y93.09",0
+"U50.8","Other specified team ball sport","Y93.09","Y93.09",0
+"U50.9","Unspecified team ball sport","Y93.09","Y93.09",0
+"U51.0","Baseball","Y93.09","Y93.09",0
+"U51.1","Cricket","Y93.07","Y93.07",0
+"U51.20","Hockey, ice","Y93.03","Y93.03",0
+"U51.21","Hockey, street and ball","Y93.03","Y93.03",0
+"U51.22","Hockey, field","Y93.03","Y93.03",0
+"U51.23","Hockey, floor","Y93.03","Y93.03",0
+"U51.28","Other specified hockey","Y93.03","Y93.03",0
+"U51.29","Hockey, unspecified","Y93.03","Y93.03",0
+"U51.3","Softball","Y93.09","Y93.09",0
+"U51.4","T-ball","Y93.09","Y93.09",0
+"U51.8","Other specified team bat or stick sport","Y93.09","Y93.09",0
+"U51.9","Unspecified team bat or stick sport","Y93.09","Y93.09",0
+"U52.0","Synchronised swimming","Y93.09","Y93.09",0
+"U52.1","Water polo","Y93.09","Y93.09",0
+"U52.8","Other specified team water sport","Y93.09","Y93.09",0
+"U52.9","Unspecified team water sport","Y93.09","Y93.09",0
+"U53.0","Canoeing","Y93.09","Y93.09",0
+"U53.1","Jet skiing","Y93.09","Y93.09",0
+"U53.2","Kayaking","Y93.09","Y93.09",0
+"U53.3","Power boat racing","Y93.09","Y93.09",0
+"U53.4","Rowing and sculling","Y93.09","Y93.09",0
+"U53.5","Surf boating","Y93.09","Y93.09",0
+"U53.6","Yachting and sailing","Y93.09","Y93.09",0
+"U53.7","Surf skiing","Y93.09","Y93.09",0
+"U53.8","Other specified boating sport","Y93.09","Y93.09",0
+"U53.9","Unspecified boating sport","Y93.09","Y93.09",0
+"U54.00","Diving, cliff","Y93.09","Y93.09",0
+"U54.01","Diving, springboard","Y93.09","Y93.09",0
+"U54.02","Diving, platform","Y93.09","Y93.09",0
+"U54.08","Other specified diving","Y93.09","Y93.09",0
+"U54.09","Diving, unspecified","Y93.09","Y93.09",0
+"U54.10","Rock fishing","Y93.09","Y93.09",0
+"U54.18","Other specified fishing","Y93.09","Y93.09",0
+"U54.19","Fishing, unspecified","Y93.09","Y93.09",0
+"U54.2","Scuba diving","Y93.09","Y93.09",0
+"U54.3","Snorkelling","Y93.09","Y93.09",0
+"U54.4","Surfing and boogie boarding","Y93.09","Y93.09",0
+"U54.50","Swimming, competitive","Y93.09","Y93.09",0
+"U54.51","Swimming, recreational","Y93.09","Y93.09",0
+"U54.59","Swimming, unspecified","Y93.09","Y93.09",0
+"U54.6","Water skiing","Y93.09","Y93.09",0
+"U54.7","Wind surfing","Y93.09","Y93.09",0
+"U54.8","Other specified individual water sport","Y93.09","Y93.09",0
+"U54.9","Unspecified individual water sport","Y93.09","Y93.09",0
+"U55.0","Bobsledding","Y93.09","Y93.09",0
+"U55.1","Ice skating and ice dancing","Y93.09","Y93.09",0
+"U55.20","Skiing, alpine and downhill","Y93.09","Y93.09",0
+"U55.21","Skiing, nordic and cross country","Y93.09","Y93.09",0
+"U55.22","Skiing, freestyle","Y93.09","Y93.09",0
+"U55.23","Skiing, snow ski jumping","Y93.09","Y93.09",0
+"U55.28","Other specified skiing","Y93.09","Y93.09",0
+"U55.29","Skiing, unspecified","Y93.09","Y93.09",0
+"U55.3","Snowmobiling","Y93.09","Y93.09",0
+"U55.4","Snow boarding","Y93.09","Y93.09",0
+"U55.5","Speed skating","Y93.09","Y93.09",0
+"U55.6","Tobogganing","Y93.09","Y93.09",0
+"U55.7","Curling","Y93.09","Y93.09",0
+"U55.8","Other specified ice or snow sport","Y93.09","Y93.09",0
+"U55.9","Unspecified ice or snow sport","Y93.09","Y93.09",0
+"U56.00","Aerobics","Y93.09","Y93.09",0
+"U56.01","Calisthenics","Y93.09","Y93.09",0
+"U56.1","Jogging and running","Y93.09","Y93.09",0
+"U56.2","Walking","Y93.09","Y93.09",0
+"U56.30","Racing over obstacles and hurdles","Y93.09","Y93.09",0
+"U56.31","Track & field sprinting & mid distance","Y93.09","Y93.09",0
+"U56.32","Track & field run long distances","Y93.09","Y93.09",0
+"U56.33","Track and field high jump","Y93.09","Y93.09",0
+"U56.34","Track and field long jump","Y93.09","Y93.09",0
+"U56.35","Track and field pole vault","Y93.09","Y93.09",0
+"U56.36","Track and field triple jump","Y93.09","Y93.09",0
+"U56.37","Track and field throwing events","Y93.09","Y93.09",0
+"U56.38","Other specified track and field","Y93.09","Y93.09",0
+"U56.39","Track and field unspecified","Y93.09","Y93.09",0
+"U56.4","Walking","Y93.09","Y93.09",0
+"U56.5","Marathon running","Y93.09","Y93.09",0
+"U56.8","Other spec individual athletic act","Y93.09","Y93.09",0
+"U56.9","Unspecified individual athletic activity","Y93.09","Y93.09",0
+"U57.00","Gymnastics, balance beam","Y93.09","Y93.09",0
+"U57.01","Gymnastics, floor","Y93.09","Y93.09",0
+"U57.02","Gymnastics, high bar","Y93.09","Y93.09",0
+"U57.03","Gymnastics, parallel bars","Y93.09","Y93.09",0
+"U57.04","Gymnastics, rings","Y93.09","Y93.09",0
+"U57.05","Gymnastics, side horse and pommel horse","Y93.09","Y93.09",0
+"U57.06","Gym trampoline & mini-trampoline","Y93.09","Y93.09",0
+"U57.07","Gymnastics vault","Y93.09","Y93.09",0
+"U57.08","Other specified gymnastics","Y93.09","Y93.09",0
+"U57.09","Gymnastics unspecified","Y93.09","Y93.09",0
+"U57.8","Other specified acrobatic sport","Y93.09","Y93.09",0
+"U57.9","Unspecified acrobatic sport","Y93.09","Y93.09",0
+"U58.0","Dancing","Y93.09","Y93.09",0
+"U58.8","Other specified aesthetic sport","Y93.09","Y93.09",0
+"U58.9","Unspecified aesthetic sport","Y93.09","Y93.09",0
+"U59.0","Badminton","Y93.09","Y93.09",0
+"U59.1","Racquetball","Y93.09","Y93.09",0
+"U59.2","Squash","Y93.04","Y93.04",0
+"U59.3","Table tennis and Ping-Pong","Y93.09","Y93.09",0
+"U59.4","Tennis","Y93.09","Y93.09",0
+"U59.8","Other specified racquet sport","Y93.09","Y93.09",0
+"U59.9","Unspecified racquet sport","Y93.09","Y93.09",0
+"U60.0","Archery","Y93.09","Y93.09",0
+"U60.1","Billiards, pool and snooker","Y93.09","Y93.09",0
+"U60.20","Lawn bowling","Y93.09","Y93.09",0
+"U60.21","Ten-pin bowling","Y93.09","Y93.09",0
+"U60.22","Indoor bowling","Y93.09","Y93.09",0
+"U60.29","Bowling, other and unspecified","Y93.09","Y93.09",0
+"U60.3","Croquet","Y93.09","Y93.09",0
+"U60.4","Darts","Y93.09","Y93.09",0
+"U60.5","Golf","Y93.09","Y93.09",0
+"U60.6","Firearm shooting","Y93.09","Y93.09",0
+"U60.8","Oth spec target & precision sport","Y93.09","Y93.09",0
+"U60.9","Unspecified target and precision sports","Y93.09","Y93.09",0
+"U61.0","Aikido","Y93.09","Y93.09",0
+"U61.1","Boxing","Y93.09","Y93.09",0
+"U61.2","Fencing","Y93.09","Y93.09",0
+"U61.30","Judo","Y93.09","Y93.09",0
+"U61.31","Jujitsu","Y93.09","Y93.09",0
+"U61.32","Karate","Y93.09","Y93.09",0
+"U61.33","Kendo","Y93.09","Y93.09",0
+"U61.34","Kick-boxing","Y93.09","Y93.09",0
+"U61.35","Kung fu","Y93.09","Y93.09",0
+"U61.36","Tae kwon do","Y93.09","Y93.09",0
+"U61.38","Other specified martial arts","Y93.09","Y93.09",0
+"U61.39","Martial arts, unspecified","Y93.09","Y93.09",0
+"U61.40","Wrestling freestyle","Y93.09","Y93.09",0
+"U61.41","Wrestling Greco-Roman","Y93.09","Y93.09",0
+"U61.42","Wrestling professional","Y93.09","Y93.09",0
+"U61.48","Other specified wrestling","Y93.09","Y93.09",0
+"U61.49","Wrestling, unspecified","Y93.09","Y93.09",0
+"U61.5","Self defence training","Y93.09","Y93.09",0
+"U61.8","Other specified combative sport","Y93.09","Y93.09",0
+"U61.9","Unspecified combative sport","Y93.09","Y93.09",0
+"U62.0","Power lifting","Y93.09","Y93.09",0
+"U62.1","Weight lifting","Y93.09","Y93.09",0
+"U62.3","Strength training and body building","Y93.09","Y93.09",0
+"U62.4","Wood chopping","Y93.09","Y93.09",0
+"U62.5","Wood sawing","Y93.09","Y93.09",0
+"U62.8","Other specified power sport","Y93.09","Y93.09",0
+"U62.9","Unspecified power sport","Y93.09","Y93.09",0
+"U63.01","Dressage","Y93.09","Y93.09",0
+"U63.02","Show jumping","Y93.09","Y93.09",0
+"U63.03","Steeplechase","Y93.09","Y93.09",0
+"U63.08","Other specified equestrian event","Y93.09","Y93.09",0
+"U63.09","Equestrian event unspecified","Y93.09","Y93.09",0
+"U63.1","Endurance riding","Y93.09","Y93.09",0
+"U63.2","Polo and polocrosse","Y93.09","Y93.09",0
+"U63.3","Horse racing","Y93.09","Y93.09",0
+"U63.4","Rodeo","Y93.09","Y93.09",0
+"U63.5","Trail or general horseback riding","Y93.09","Y93.09",0
+"U63.6","Trotting and harness","Y93.09","Y93.09",0
+"U63.8","Other specified equestrian activity","Y93.09","Y93.09",0
+"U63.9","Unspecified equestrian activity","Y93.09","Y93.09",0
+"U64.0","Abseiling and rappelling","Y93.09","Y93.09",0
+"U64.1","Hiking","Y93.09","Y93.09",0
+"U64.2","Mountaineering","Y93.09","Y93.09",0
+"U64.3","Orienteering and rogaining","Y93.09","Y93.09",0
+"U64.4","River rafting","Y93.09","Y93.09",0
+"U64.5","White-water rafting","Y93.09","Y93.09",0
+"U64.6","Rock climbing","Y93.09","Y93.09",0
+"U64.7","Bungy jumping","Y93.09","Y93.09",0
+"U64.8","Other specified adventure sport","Y93.09","Y93.09",0
+"U64.9","Unspecified adventure sport","Y93.09","Y93.09",0
+"U65.0","Riding an all-terrain vehicle (ATV)","Y93.09","Y93.09",0
+"U65.1","Motorcycling","Y93.09","Y93.09",0
+"U65.2","Motor car racing","Y93.09","Y93.09",0
+"U65.3","Go-carting","Y93.09","Y93.09",0
+"U65.8","Other specified motor sport","Y93.09","Y93.09",0
+"U65.9","Unspecified motor sport","Y93.09","Y93.09",0
+"U66.00","Cycling, BMX","Y93.09","Y93.09",0
+"U66.01","Cycling, mountain","Y93.09","Y93.09",0
+"U66.02","Cycling road","Y93.09","Y93.09",0
+"U66.03","Cycling, track and velodrome","Y93.09","Y93.09",0
+"U66.08","Other specified cycling","Y93.09","Y93.09",0
+"U66.09","Cycling, unspecified","Y93.09","Y93.09",0
+"U66.1","In-line skating and rollerblading","Y93.08","Y93.08",0
+"U66.2","Roller skating","Y93.08","Y93.08",0
+"U66.3","Skate boarding","Y93.08","Y93.08",0
+"U66.40","Scooter riding folding scooter","Y93.09","Y93.09",0
+"U66.49","Scooter riding oth non-motored scooter ","Y93.09","Y93.09",0
+"U66.8","Oth spec wheeled non-motored sport","Y93.09","Y93.09",0
+"U66.9","Unspecified wheeled non-motored sport","Y93.09","Y93.09",0
+"U67.0","Biathlon, winter","Y93.09","Y93.09",0
+"U67.1","Decathlon","Y93.09","Y93.09",0
+"U67.2","Heptathlon","Y93.09","Y93.09",0
+"U67.3","Modern Pentathlon","Y93.09","Y93.09",0
+"U67.40","Triathlon cycling event","Y93.09","Y93.09",0
+"U67.41","Triathlon running event","Y93.09","Y93.09",0
+"U67.42","Triathlon swimming event","Y93.09","Y93.09",0
+"U67.49","Triathlon unspecified event","Y93.09","Y93.09",0
+"U67.8","Other specified multidiscipline sport","Y93.09","Y93.09",0
+"U67.9","Unspecified multidiscipline sport","Y93.09","Y93.09",0
+"U68.1","Aerobatics","Y93.09","Y93.09",0
+"U68.2","Gliding","Y93.09","Y93.09",0
+"U68.3","Hang gliding","Y93.09","Y93.09",0
+"U68.4","Parachuting and sky diving","Y93.09","Y93.09",0
+"U68.5","Paragliding and parasailing","Y93.09","Y93.09",0
+"U68.6","Hot air ballooning","Y93.09","Y93.09",0
+"U68.8","Other specified aero sport","Y93.09","Y93.09",0
+"U68.9","Unspecified aero sport","Y93.09","Y93.09",0
+"U69.0","School physical education class","Y93.09","Y93.09",0
+"U69.1","School free play","Y93.09","Y93.09",0
+"U69.8","Oth spec school-rel recreational act","Y93.09","Y93.09",0
+"U69.9","?school-rel recreational act","Y93.09","Y93.09",0
+"U70.0","Athletic act inv fitness equipment NEC","Y93.09","Y93.09",0
+"U70.8","Oth specified sport & exercise activity","Y93.09","Y93.09",0
+"U71","Unspecified sport and exercise activity","Y93.09","Y93.09",0
+"U72","Leisure activity NEC","Y93.1","Y93.1",0
+"U73.00","Agriculture, forestry and fishing","Y93.2","Y93.2",0
+"U73.01","Mining","Y93.2","Y93.2",0
+"U73.02","Manufacturing","Y93.2","Y93.2",0
+"U73.03","Construction","Y93.2","Y93.2",0
+"U73.04","Wholesale and retail trade","Y93.2","Y93.2",0
+"U73.05","Transport and storage","Y93.2","Y93.2",0
+"U73.06","Government administration and defence ","Y93.2","Y93.2",0
+"U73.07","Health services","Y93.2","Y93.2",0
+"U73.08","Other specified work for income","Y93.2","Y93.2",0
+"U73.09"," While working for income, unspecified","Y93.2","Y93.2",0
+"U73.1","While engaged in other types of work","Y93.3","Y93.3",0
+"U73.2","While rest sleep eat engaging vtl act","Y93.4","Y93.4",0
+"U73.8","Other specified activity","Y93.8","Y93.8",0
+"U73.9","Unspecified activity","Y93.9","Y93.9",0
+"V20.00","Mtrcyc w ped/animal drvr nontrf msctr","V20.0","V20.0",0
+"V20.01","Mtrcyc w ped drvr nontrf mtrcyc onrd","V20.0","V20.0",0
+"V20.02","Mtrcyc w ped drvr nontrf mtrcyc offrd","V20.0","V20.0",0
+"V20.08","Mtrcyc w ped drvr nontrf oth mtrcyc","V20.0","V20.0",0
+"V20.09","Mtrcyc w ped/animal drvr nontrf ?mtrcyc","V20.0","V20.0",0
+"V20.10","Mtrcyc rdr w ped/anml pass nontrf msctr","V20.1","V20.1",0
+"V20.11","Mtrcyc rdr w ped pass nontrf mtrcyc onrd","V20.1","V20.1",0
+"V20.12","Mtrcyc w ped pass nontrf mtrcyc offrd","V20.1","V20.1",0
+"V20.18","Mtrcyc w ped/anml pass nontrf oth mtrcyc","V20.1","V20.1",0
+"V20.19","Mtrcyc w ped/anml pass nontrf ?mtrcyc","V20.1","V20.1",0
+"V20.20","Mtrcyc/ped anml ?mtrcyc rdr nontrf msctr","V20.2","V20.2",0
+"V20.21","Mtrcyc/ped ?rdr nontrf mtrcyc onrd","V20.2","V20.2",0
+"V20.22","Mtrcyc/ped ?rdr nontrf mtrcyc offrd","V20.2","V20.2",0
+"V20.28","Mtrcyc/ped ?mtrcyc rdr nontrf oth mtrcyc","V20.2","V20.2",0
+"V20.29","Mtrcyc/ped ?mtrcyc rdr nontrf ?mtrcyc","V20.2","V20.2",0
+"V20.30","Mtrcyc rdr w ped/anml board/alight msctr","V20.3","V20.3",0
+"V20.31","Mtrcyc rdr/ped board/alight mtrcyc onrd","V20.3","V20.3",0
+"V20.32","Mtrcyc rdr/ped board/alight mtrcyc offrd","V20.3","V20.3",0
+"V20.38","Mtrcyc rdr w ped board/alight oth mtrcyc","V20.3","V20.3",0
+"V20.39","Mtrcyc rdr w ped board/alight ?mtrcyc","V20.3","V20.3",0
+"V20.40","Mtrcyc rdr/ped drvr traf accdnt msctr ","V20.4","V20.4",0
+"V20.41","Mtrcyc w ped drvr traf mtrcyc onrd ","V20.4","V20.4",0
+"V20.42","Mtrcyc rdr/ped drvr traf mtrcyc offrd ","V20.4","V20.4",0
+"V20.48","Mtrcyc rdr/ped drvr traf oth mtrcyc","V20.4","V20.4",0
+"V20.49","Mtrcyc rdr/ped drvr traf accdnt ?mtrcyc ","V20.4","V20.4",0
+"V20.50","Mtrcyc rdr/ped pass traf accdnt msctr","V20.5","V20.5",0
+"V20.51","Mtrcyc/ped pass traf accdnt mtrcyc onrd","V20.5","V20.5",0
+"V20.52","Mtrcyc rdr/ped traf accdnt mtrcyc offrd","V20.5","V20.5",0
+"V20.58","Mtrcyc rdr/ped traf accdnt oth mtrcyc","V20.5","V20.5",0
+"V20.59","Mtrcyc rdr/ped pass traf accdnt ?mtrcyc","V20.5","V20.5",0
+"V20.90","Mtrcyc/ped ?mtrcyc rdr traffic msctr","V20.9","V20.9",0
+"V20.91","Mtrcyc/ped ?mtrcyc rdr traff mtrcyc onrd","V20.9","V20.9",0
+"V20.92","Mtrcyc/ped ?mtrcyc rdr traf mtrcyc offrd","V20.9","V20.9",0
+"V20.98","Mtrcyc/ped ?mtrcyc rdr traff oth mtrcyc","V20.9","V20.9",0
+"V20.99","Mtrcyc/ped ?mtrcyc rdr traffic ?mtrcyc","V20.9","V20.9",0
+"V21.00","Mtrcyc rdr w cycl drvr nontrf msctr","V21.0","V21.0",0
+"V21.01","Mtrcyc w cycl drvr nontrf mtrcyc onrd","V21.0","V21.0",0
+"V21.02","Mtrcyc w cycl drvr nontrf mtrcyc offrd","V21.0","V21.0",0
+"V21.08","Mtrcyc rdr w cycl drvr nontrf oth mtrcyc","V21.0","V21.0",0
+"V21.09","Mtrcyc rdr w cycl drvr nontrf ?mtrcyc","V21.0","V21.0",0
+"V21.10","Mtrcyc rdr w cycl pass nontrf msctr","V21.1","V21.1",0
+"V21.11","Mtrcyc w cycl pass nontrf mtrcyc onrd","V21.1","V21.1",0
+"V21.12","Mtrcyc w cycl pass nontrf mtrcyc offrd","V21.1","V21.1",0
+"V21.18","Mtrcyc rdr w cycl pass nontrf oth mtrcyc","V21.1","V21.1",0
+"V21.19","Mtrcyc rdr w cycl pass nontrf ?mtrcyc","V21.1","V21.1",0
+"V21.20","Mtrcyc w cycl ?mtrcyc rdr nontrf msctr","V21.2","V21.2",0
+"V21.21","Mtrcyc w cycl ?rdr nontrf mtrcyc onrd","V21.2","V21.2",0
+"V21.22","Mtrcyc w cycl ?rdr nontrf mtrcyc offrd","V21.2","V21.2",0
+"V21.28","Mtrcyc rdr w cycl ?rdr nontrf oth mtrcyc","V21.2","V21.2",0
+"V21.29","Mtrcyc rdr w cycl ?rdr nontrf ?mtrcyc","V21.2","V21.2",0
+"V21.30","Mtrcyc rdr w cycl board/alight msctr","V21.3","V21.3",0
+"V21.31","Mtrcyc w cycl board/alight mtrcyc onrd","V21.3","V21.3",0
+"V21.32","Mtrcyc w cycl board/alight mtrcyc offrd","V21.3","V21.3",0
+"V21.38","Mtrcyc w cycl board/alight oth mtrcyc","V21.3","V21.3",0
+"V21.39","Mtrcyc rdr w cycl board/alight ?mtrcyc","V21.3","V21.3",0
+"V21.40","Mtrcyc rdr w cycl drvr traf accdnt msctr","V21.4","V21.4",0
+"V21.41","Mtrcyc rdr w cycl drvr traf mtrcyc onrd","V21.4","V21.4",0
+"V21.42","Mtrcyc rdr w cycl drvr traf mtrcyc offrd","V21.4","V21.4",0
+"V21.48","Mtrcyc rdr w cycl drvr traf oth mtrcyc","V21.4","V21.4",0
+"V21.49","Mtrcyc rdr w cycl drvr traf ?mtrcyc","V21.4","V21.4",0
+"V21.50","Mtrcyc rdr w cycl pass traf accdnt msctr","V21.5","V21.5",0
+"V21.51","Mtrcyc rdr w cycl pass traf mtrcyc onrd","V21.5","V21.5",0
+"V21.52","Mtrcyc rdr w cycl pass traf mtrcyc offrd","V21.5","V21.5",0
+"V21.58","Mtrcyc rdr w cycl pass traf oth mtrcyc","V21.5","V21.5",0
+"V21.59","Mtrcyc w cycl pass traf accdnt ?mtrcyc","V21.5","V21.5",0
+"V21.90","Mtrcyc/cyc ?rdr traf accdnt msctr","V21.9","V21.9",0
+"V21.91","Mtrcyc/cyc ?rdr traf accdnt mtrcyc onrd","V21.9","V21.9",0
+"V21.92","Mtrcyc/cyc ?rdr traf accdnt mtrcyc offrd","V21.9","V21.9",0
+"V21.98","Mtrcyc/cyc ?rdr traf accdnt oth mtrcyc","V21.9","V21.9",0
+"V21.99","Mtrcy rdr w cyc ?rdr traf accdnt ?mtrcyc","V21.9","V21.9",0
+"V22.00","Mtrcyc rdr w 2-3wl MV drvr nontrf msctr","V22.0","V22.0",0
+"V22.01","Mtrcyc/2-3wl MV drvr nontrf mtrcyc onrd","V22.0","V22.0",0
+"V22.02","Mtrcyc/2-3wl MV drvr nontrf mtrcyc offrd","V22.0","V22.0",0
+"V22.08","Mtrcyc w 2-3wl MV drvr nontrf oth mtrcyc","V22.0","V22.0",0
+"V22.09","Mtrcyc w 2-3wl MV drvr nontrf ?mtrcyc","V22.0","V22.0",0
+"V22.10","Mtrcyc rdr w 2-3wl MV pass nontrf msctr","V22.1","V22.1",0
+"V22.11","Mtrcyc/2-3wl MV pass nontrf mtrcyc onrd","V22.1","V22.1",0
+"V22.12","Mtrcyc/2-3wl MV pass nontrf mtrcyc offrd","V22.1","V22.1",0
+"V22.18","Mtrcyc/2-3wl MV pass nontrf oth mtrcyc","V22.1","V22.1",0
+"V22.19","Mtrcyc w 2-3wl MV pass nontrf ?mtrcyc","V22.1","V22.1",0
+"V22.20","Mtrcyc/2-3wl MV ?mtrcyc rdr nontrf msctr","V22.2","V22.2",0
+"V22.21","Mtrcyc/2-3wl MV ? rdr nontrf mtrcyc onrd","V22.2","V22.2",0
+"V22.22","Mtrcyc/2-3wl MV ?rdr nontrf mtrcyc offrd","V22.2","V22.2",0
+"V22.28","Mtrcyc/2-3wl MV ?rdr nontrf oth mtrcyc","V22.2","V22.2",0
+"V22.29","Mtrcyc w 2-3wl MV ? rdr nontrf ?mtrcyc","V22.2","V22.2",0
+"V22.30","Mtrcyc rdr w 2-3wl MV board/alight msctr","V22.3","V22.3",0
+"V22.31","Mtrcyc w 2-3wl MV brd/algt mtrcyc onrd","V22.3","V22.3",0
+"V22.32","Mtrcy w 2-3wl MV brd/algt mtrcyc offrd","V22.3","V22.3",0
+"V22.38","Mtrcyc w 2-3wl MV brd/algt oth mtrcyc","V22.3","V22.3",0
+"V22.39","Mtrcyc rdr w 2-3wl MV brd/alight ?mtrcyc","V22.3","V22.3",0
+"V22.40","Mtrcyc/2-3wl MV drvr traf accdnt msctr","V22.4","V22.4",0
+"V22.41","Mtrcyc/2-3wl MV drvr traf mtrcyc onrd","V22.4","V22.4",0
+"V22.42","Mtrcyc/2-3wl MV drvr traf mtrcyc offrd","V22.4","V22.4",0
+"V22.48","Mtrcyc/2-3wl MV drvr traf oth mtrcyc","V22.4","V22.4",0
+"V22.49","Mtrcyc/2-3wl MV drvr traf accdnt ?mtrcyc","V22.4","V22.4",0
+"V22.50","Mtrcyc rdr/2-3wl MV pass traf msctr","V22.5","V22.5",0
+"V22.51","Mtrcyc w 2-3wl MV pass traf mtrcyc onrd","V22.5","V22.5",0
+"V22.52","Mtrcyc w 2-3wl MV pass traf mtrcyc offrd","V22.5","V22.5",0
+"V22.58","Mtrcyc rdr/2-3wl MV pass traf oth mtrcyc","V22.5","V22.5",0
+"V22.59","Mtrcyc rdr w 2-3wl MV pass traf ?mtrcyc","V22.5","V22.5",0
+"V22.90","Mtrcyc rdr/2-3wl MV ?rdr traf msctr","V22.9","V22.9",0
+"V22.91","Mtrcyc w 2-3wl MV ?rdr traf mtrcyc onrd","V22.9","V22.9",0
+"V22.92","Mtrcyc w 2-3wl MV ?rdr traf mtrcyc offrd","V22.9","V22.9",0
+"V22.98","Mtrcyc rdr/2-3wl MV ?rdr traf oth mtrcyc","V22.9","V22.9",0
+"V22.99","Mtrcyc rdr/2-3wl MV ?rdr traf ?mtrcyc","V22.9","V22.9",0
+"V23.00","Mtrcyc rdr w car truck drvr nontrf msctr","V23.0","V23.0",0
+"V23.01","Mtrcyc/car truck drvr nontrf mtrcyc onrd","V23.0","V23.0",0
+"V23.02","Mtrcyc/car trck drvr nontrf mtrcyc offrd","V23.0","V23.0",0
+"V23.08","Mtrcyc/car trck drvr nontrf oth mtrcyc","V23.0","V23.0",0
+"V23.09","Mtrcyc w car truck drvr nontrf ?mtrcyc","V23.0","V23.0",0
+"V23.10","Mtrcyc rdr w car trck pass nontrf msctr","V23.1","V23.1",0
+"V23.11","Mtrcyc/car trck pass nontrf mtrcyc onrd","V23.1","V23.1",0
+"V23.12","Mtrcyc/car trck pass nontrf mtrcyc offrd","V23.1","V23.1",0
+"V23.18","Mtrcyc w car trck pass nontrf oth mtrcyc","V23.1","V23.1",0
+"V23.19","Mtrcyc w car trck pass nontrf ?mtrcyc","V23.1","V23.1",0
+"V23.20","Mtrcyc rdr w car trck ?rdr nontrf msctr","V23.2","V23.2",0
+"V23.21","Mtrcyc/car trck ?rdr nontrf mtrcyc onrd","V23.2","V23.2",0
+"V23.22","Mtrcyc/car trck ?rdr nontrf mtrcyc offrd","V23.2","V23.2",0
+"V23.28","Mtrcyc w car trck ?rdr nontrf oth mtrcyc","V23.2","V23.2",0
+"V23.29","Mtrcyc w car trck ?rdr nontrf ?mtrcyc","V23.2","V23.2",0
+"V23.30","Mtrcyc rdr w car truck brd/algt msctr","V23.3","V23.3",0
+"V23.31","Mtrcyc w car trck brd/algt mtrcyc onrd","V23.3","V23.3",0
+"V23.32","Mtrcyc w car truck brd/algt mtrcyc offrd","V23.3","V23.3",0
+"V23.38","Mtrcyc w car truck brd/algt oth mtrcyc","V23.3","V23.3",0
+"V23.39","Mtrcyc rdr w car truck brd/algt ?mtrcyc","V23.3","V23.3",0
+"V23.40","Mtrcyc rdr w car trck drvr traf msctr ","V23.4","V23.4",0
+"V23.41","Mtrcyc w car trck drvr traf mtrcyc onrd","V23.4","V23.4",0
+"V23.42","Mtrcyc w car trck drvr traf mtrcyc offrd","V23.4","V23.4",0
+"V23.48","Mtrcyc w car trck drvr traf oth mtrcyc","V23.4","V23.4",0
+"V23.49","Mtrcyc rdr w car trck drvr traf ?mtrcyc","V23.4","V23.4",0
+"V23.50","Mtrcyc rdr w car trck pass traf msctr ","V23.5","V23.5",0
+"V23.51","Mtrcyc w car trck pass traf mtrcyc onrd","V23.5","V23.5",0
+"V23.52","Mtrcyc w car trck pass traf mtrcyc offrd","V23.5","V23.5",0
+"V23.58","Mtrcyc w car trck pass traf oth mtrcyc","V23.5","V23.5",0
+"V23.59","Mtrcyc rdr w car trck pass traf ?mtrcyc","V23.5","V23.5",0
+"V23.90","Mtrcyc rdr w car trck ?rdr traf msctr","V23.9","V23.9",0
+"V23.91","Mtrcyc w car trck ?rdr traf mtrcyc onrd","V23.9","V23.9",0
+"V23.92","Mtrcyc w car trck ?rdr traf mtrcyc offrd","V23.9","V23.9",0
+"V23.98","Mtrcyc w car trck ?rdr traf oth mtrcyc","V23.9","V23.9",0
+"V23.99","Mtrcyc rdr w car trck ?rdr traf ?mtrcyc","V23.9","V23.9",0
+"V24.00","Mtrcyc rdr/trnspt bus drvr nontrf msctr","V24.0","V24.0",0
+"V24.01","Mtrcyc w trnspt drvr nontrf mtrcyc onrd","V24.0","V24.0",0
+"V24.02","Mtrcyc w trnspt drvr nontrf mtrcyc offrd","V24.0","V24.0",0
+"V24.08","Mtrcyc w trnspt drvr nontrf oth mtrcyc","V24.0","V24.0",0
+"V24.09","Mtrcyc w trnspt bus drvr nontrf ?mtrcyc","V24.0","V24.0",0
+"V24.10","Mtrcyc rdr w trnspt pass nontrf msctr","V24.1","V24.1",0
+"V24.11","Mtrcyc w trnspt pass nontrf mtrcyc onrd","V24.1","V24.1",0
+"V24.12","Mtrcyc w trnspt pass nontrf mtrcyc offrd","V24.1","V24.1",0
+"V24.18","Mtrcyc w trnspt pass nontrf oth mtrcyc","V24.1","V24.1",0
+"V24.19","Mtrcyc rdr w trnspt pass nontrf ?mtrcyc","V24.1","V24.1",0
+"V24.20","Mtrcyc rdr w trnspt ?rdr nontrf msctr","V24.2","V24.2",0
+"V24.21","Mtrcyc w trnspt ?rdr nontrf mtrcyc onrd","V24.2","V24.2",0
+"V24.22","Mtrcyc w trnspt ?rdr nontrf mtrcyc offrd","V24.2","V24.2",0
+"V24.28","Mtrcyc w trnspt ?rdr nontrf oth mtrcyc","V24.2","V24.2",0
+"V24.29","Mtrcyc rdr w trnspt ?rdr nontrf ?mtrcyc","V24.2","V24.2",0
+"V24.30","Mtrcyc rdr w trnspt board/alight msctr","V24.3","V24.3",0
+"V24.31","Mtrcyc w trnspt board/alight mtrcyc onrd","V24.3","V24.3",0
+"V24.32","Mtrcyc/trnspt board/alight mtrcyc offrd","V24.3","V24.3",0
+"V24.38","Mtrcyc w trnspt board/alight oth mtrcyc","V24.3","V24.3",0
+"V24.39","Mtrcyc rdr w trnspt board/alight ?mtrcyc","V24.3","V24.3",0
+"V24.40","Mtrcyc rdr/trnspt bus drvr traf msctr ","V24.4","V24.4",0
+"V24.41","Mtrcyc/trnspt bus drvr traf mtrcyc onrd","V24.4","V24.4",0
+"V24.42","Mtrcyc/trnspt bus drvr traf mtrcyc offrd","V24.4","V24.4",0
+"V24.48","Mtrcyc/trnspt bus drvr traf oth mtrcyc","V24.4","V24.4",0
+"V24.49","Mtrcyc rdr/trnspt bus drvr traf ?mtrcyc","V24.4","V24.4",0
+"V24.50","Mtrcyc rdr/trnspt bus pass traf msctr ","V24.5","V24.5",0
+"V24.51","Mtrcyc/trnspt bus pass traf mtrcyc onrd","V24.5","V24.5",0
+"V24.52","Mtrcyc/trnspt bus pass traf mtrcyc offrd","V24.5","V24.5",0
+"V24.58","Mtrcyc w trnspt bus pass traf oth mtrcyc","V24.5","V24.5",0
+"V24.59","Mtrcyc rdr/trnspt bus pass traf ?mtrcyc","V24.5","V24.5",0
+"V24.90","Mtrcyc rdr/trnspt bus ?rdr traf msctr","V24.9","V24.9",0
+"V24.91","Mtrcyc /trnspt bus ?rdr traf mtrcyc onrd","V24.9","V24.9",0
+"V24.92","Mtrcyc/trnspt bus ?rdr traf mtrcyc offrd","V24.9","V24.9",0
+"V24.98","Mtrcyc w trnspt bus ?rdr traf oth mtrcyc","V24.9","V24.9",0
+"V24.99","Mtrcyc rdr/trnspt bus ?rdr traf ?mtrcyc","V24.9","V24.9",0
+"V25.00","Mtrcyc rdr w train drvr nontrf msctr","V25.0","V25.0",0
+"V25.01","Mtrcyc w train drvr nontrf mtrcyc onrd","V25.0","V25.0",0
+"V25.02","Mtrcyc w train drvr nontrf mtrcyc offrd","V25.0","V25.0",0
+"V25.08","Mtrcyc w train drvr nontrf oth mtrcyc","V25.0","V25.0",0
+"V25.09","Mtrcyc rdr w train drvr nontrf ?mtrcyc","V25.0","V25.0",0
+"V25.10","Mtrcyc rdr w train pass nontrf msctr","V25.1","V25.1",0
+"V25.11","Mtrcyc w train pass nontrf mtrcyc onrd","V25.1","V25.1",0
+"V25.12","Mtrcyc w train pass nontrf mtrcyc offrd","V25.1","V25.1",0
+"V25.18","Mtrcyc w train pass nontrf oth mtrcyc","V25.1","V25.1",0
+"V25.19","Mtrcyc rdr w train pass nontrf ?mtrcyc","V25.1","V25.1",0
+"V25.20","Mtrcyc rdr/train rail ?rdr nontrf msctr","V25.2","V25.2",0
+"V25.21","Mtrcyc w train ?rdr nontrf mtrcyc onrd","V25.2","V25.2",0
+"V25.22","Mtrcyc w train ?rdr nontrf mtrcyc offrd","V25.2","V25.2",0
+"V25.28","Mtrcyc/train rail ?rdr nontrf oth mtrcyc","V25.2","V25.2",0
+"V25.29","Mtrcyc w train rail ?rdr nontrf ?mtrcyc","V25.2","V25.2",0
+"V25.30","Mtrcyc rdr w train rail brd/algt msctr","V25.3","V25.3",0
+"V25.31","Mtrcyc w train rail brd/algt mtrcyc onrd","V25.3","V25.3",0
+"V25.32","Mtrcyc/train rail brd/algt mtrcyc offrd","V25.3","V25.3",0
+"V25.38","Mtrcyc w train rail brd/algt oth mtrcyc","V25.3","V25.3",0
+"V25.39","Mtrcyc rdr w train rail brd/algt ?mtrcyc","V25.3","V25.3",0
+"V25.40","Mtrcyc rdr/train rail drvr traf msctr","V25.4","V25.4",0
+"V25.41","Mtrcyc rdr w train drvr traf mtrcyc onrd","V25.4","V25.4",0
+"V25.42","Mtrcyc rdr/train drvr traf mtrcyc offrd","V25.4","V25.4",0
+"V25.48","Mtrcyc w train rail drvr traf oth mtrcyc","V25.4","V25.4",0
+"V25.49","Mtrcyc rdr/train rail drvr traf ?mtrcyc","V25.4","V25.4",0
+"V25.50","Mtrcyc rdr/train rail pass traf msctr","V25.5","V25.5",0
+"V25.51","Mtrcyc/train rail pass traf mtrcyc onrd","V25.5","V25.5",0
+"V25.52","Mtrcyc/train rail pass traf mtrcyc offrd","V25.5","V25.5",0
+"V25.58","Mtrcyc/train rail pass traf oth mtrcyc","V25.5","V25.5",0
+"V25.59","Mtrcyc rdr/train rail pass traf ?mtrcyc","V25.5","V25.5",0
+"V25.90","Mtrcyc rdr/train rail ?rdr traf msctr","V25.9","V25.9",0
+"V25.91","Mtrcyc/train rail ?rdr traf mtrcyc onrd","V25.9","V25.9",0
+"V25.92","Mtrcyc/train rail ?rdr traf mtrcyc offrd","V25.9","V25.9",0
+"V25.98","Mtrcyc/train rail ?rdr traf oth mtrcyc","V25.9","V25.9",0
+"V25.99","Mtrcyc rdr/train rail ?rdr traf ?mtrcyc","V25.9","V25.9",0
+"V26.00","Mtrcyc w oth non-MV drvr nontrf msctr","V26.0","V26.0",0
+"V26.01","Mtrcyc w non-MV drvr nontrf mtrcyc onrd","V26.0","V26.0",0
+"V26.02","Mtrcyc w non-MV drvr nontrf mtrcyc offrd","V26.0","V26.0",0
+"V26.08","Mtrcyc w non-MV drvr nontrf oth mtrcyc","V26.0","V26.0",0
+"V26.09","Mtrcyc w oth non-MV drvr nontrf ?mtrcyc","V26.0","V26.0",0
+"V26.10","Mtrcyc rdr w non-MV pass nontrf msctr","V26.1","V26.1",0
+"V26.11","Mtrcyc w non-MV pass nontrf mtrcyc onrd","V26.1","V26.1",0
+"V26.12","Mtrcyc w non-MV pass nontrf mtrcyc offrd","V26.1","V26.1",0
+"V26.18","Mtrcyc w non-MV pass nontrf oth mtrcyc","V26.1","V26.1",0
+"V26.19","Mtrcyc rdr w non-MV pass nontrf ?mtrcyc","V26.1","V26.1",0
+"V26.20","Mtrcyc rdr w non-MV ?rdr nontrf msctr","V26.2","V26.2",0
+"V26.21","Mtrcyc w non-MV ?rdr nontrf mtrcyc onrd","V26.2","V26.2",0
+"V26.22","Mtrcyc w non-MV ?rdr nontrf mtrcyc offrd","V26.2","V26.2",0
+"V26.28","Mtrcyc w non-MV ?rdr nontrf oth mtrcyc","V26.2","V26.2",0
+"V26.29","Mtrcyc rdr w non-MV ?rdr nontrf ?mtrcyc","V26.2","V26.2",0
+"V26.30","Mtrcyc rdr w oth non-MV brd/algt msctr","V26.3","V26.3",0
+"V26.31","Mtrcyc w oth non-MV brd/algt mtrcyc onrd","V26.3","V26.3",0
+"V26.32","Mtrcyc w oth nonMV brd/algt mtrcyc offrd","V26.3","V26.3",0
+"V26.38","Mtrcyc w oth non-MV brd/algt oth mtrcyc","V26.3","V26.3",0
+"V26.39","Mtrcyc rdr w oth non-MV brd/algt ?mtrcyc","V26.3","V26.3",0
+"V26.40","Mtrcyc rdr w non-MV drvr traf msctr","V26.4","V26.4",0
+"V26.41","Mtrcyc w non-MV drvr traf mtrcyc onrd","V26.4","V26.4",0
+"V26.42","Mtrcyc w non-MV drvr traf mtrcyc offrd","V26.4","V26.4",0
+"V26.48","Mtrcyc rdr w non-MV drvr traf oth mtrcyc","V26.4","V26.4",0
+"V26.49","Mtrcyc rdr w non-MV drvr traf ?mtrcyc","V26.4","V26.4",0
+"V26.50","Mtrcyc rdr w non-MV pass traf msctr ","V26.5","V26.5",0
+"V26.51","Mtrcyc w non-MV pass traf mtrcyc onrd","V26.5","V26.5",0
+"V26.52","Mtrcyc w non-MV pass traf mtrcyc offrd","V26.5","V26.5",0
+"V26.58","Mtrcyc rdr w non-MV pass traf oth mtrcyc","V26.5","V26.5",0
+"V26.59","Mtrcyc rdr w non-MV pass traf ?mtrcyc","V26.5","V26.5",0
+"V26.90","Mtrcyc rdr w non-MV ?rdr traf msctr","V26.9","V26.9",0
+"V26.91","Mtrcyc w non-MV ?rdr traf mtrcyc onrd","V26.9","V26.9",0
+"V26.92","Mtrcyc w non-MV ?rdr traf mtrcyc offrd","V26.9","V26.9",0
+"V26.98","Mtrcyc rdr w non-MV ?rdr traf oth mtrcyc","V26.9","V26.9",0
+"V26.99","Mtrcyc rdr w non-MV ?rdr traf ?mtrcyc","V26.9","V26.9",0
+"V27.00","Mtrcyc w fix statnry drvr nontrf msctr","V27.0","V27.0",0
+"V27.01","Mtrcyc w fix drvr nontrf mtrcyc onrd","V27.0","V27.0",0
+"V27.02","Mtrcyc w fix drvr nontrf mtrcyc offrd","V27.0","V27.0",0
+"V27.08","Mtrcyc w fix drvr nontrf oth mtrcyc","V27.0","V27.0",0
+"V27.09","Mtrcyc w fix statnry drvr nontrf ?mtrcyc","V27.0","V27.0",0
+"V27.10","Mtrcyc rdr w fix pass nontrf msctr","V27.1","V27.1",0
+"V27.11","Mtrcyc rdr w fix pass nontrf mtrcyc onrd","V27.1","V27.1",0
+"V27.12","Mtrcyc w fix pass nontrf mtrcyc offrd","V27.1","V27.1",0
+"V27.18","Mtrcyc rdr w fix pass nontrf oth mtrcyc","V27.1","V27.1",0
+"V27.19","Mtrcyc rdr w fix pass nontrf ?mtrcyc","V27.1","V27.1",0
+"V27.20","Mtrcyc w fix statnry ?rdr nontrf msctr","V27.2","V27.2",0
+"V27.21","Mtrcyc rdr w fix ?rdr nontrf mtrcyc onrd","V27.2","V27.2",0
+"V27.22","Mtrcyc w fix ?rdr nontrf mtrcyc offrd","V27.2","V27.2",0
+"V27.28","Mtrcyc rdr w fix ?rdr nontrf oth mtrcyc","V27.2","V27.2",0
+"V27.29","Mtrcyc w fix statnry ?rdr nontrf ?mtrcyc","V27.2","V27.2",0
+"V27.30","Mtrcyc rdr w fix statnry brd/algt msctr","V27.3","V27.3",0
+"V27.31","Mtrcyc/fix statnry brd/algt mtrcyc onrd","V27.3","V27.3",0
+"V27.32","Mtrcyc/fix statnry brd/algt mtrcyc offrd","V27.3","V27.3",0
+"V27.38","Mtrcyc w fix statnry brd/algt oth mtrcyc","V27.3","V27.3",0
+"V27.39","Mtrcyc w fix statnry brd/algt ?mtrcyc","V27.3","V27.3",0
+"V27.40","Mtrcyc rdr/fix statnry drvr traf msctr","V27.4","V27.4",0
+"V27.41","Mtrcyc/fix statnry drvr traf mtrcyc onrd","V27.4","V27.4",0
+"V27.42","Mtrcyc w fix drvr traf mtrcyc offrd","V27.4","V27.4",0
+"V27.48","Mtrcyc/fix statnry drvr traf oth mtrcyc","V27.4","V27.4",0
+"V27.49","Mtrcyc rdr/fix statnry drvr traf ?mtrcyc","V27.4","V27.4",0
+"V27.50","Mtrcyc/fix statnry pass traf msctr","V27.5","V27.5",0
+"V27.51","Mtrcyc/fix statnry pass traf mtrcyc onrd","V27.5","V27.5",0
+"V27.52","Mtrcyc w fix pass traf mtrcyc offrd","V27.5","V27.5",0
+"V27.58","Mtrcyc /fix statnry pass traf oth mtrcyc","V27.5","V27.5",0
+"V27.59","Mtrcyc /fix statnry pass traf ?mtrcyc","V27.5","V27.5",0
+"V27.90","Mtrcyc/fix statnry ?rdr traf msctr","V27.9","V27.9",0
+"V27.91","Mtrcyc/fix statnry ?rdr traf mtrcyc onrd","V27.9","V27.9",0
+"V27.92","Mtrcyc w fix ?rdr traf mtrcyc offrd","V27.9","V27.9",0
+"V27.98","Mtrcyc/fix statnry ?rdr traf oth mtrcyc","V27.9","V27.9",0
+"V27.99","Mtrcyc/fix statnry ?rdr traf ?mtrcyc","V27.9","V27.9",0
+"V28.00","Mtrcyc noncol trnspt drvr nontrf msctr","V28.0","V28.0",0
+"V28.01","Mtrcyc noncol drvr nontrf mtrcyc onrd","V28.0","V28.0",0
+"V28.02","Mtrcyc noncol drvr nontrf mtrcyc offrd","V28.0","V28.0",0
+"V28.08","Mtrcyc noncol drvr nontrf oth mtrcyc","V28.0","V28.0",0
+"V28.09","Mtrcyc noncol trnspt drvr nontrf ?mtrcyc","V28.0","V28.0",0
+"V28.10","Mtrcyc rdr noncol pass nontrf msctr","V28.1","V28.1",0
+"V28.11","Mtrcyc noncol pass nontrf mtrcyc onrd","V28.1","V28.1",0
+"V28.12","Mtrcyc noncol pass nontrf mtrcyc offrd","V28.1","V28.1",0
+"V28.18","Mtrcyc rdr noncol pass nontrf oth mtrcyc","V28.1","V28.1",0
+"V28.19","Mtrcyc rdr noncol pass nontrf ?mtrcyc","V28.1","V28.1",0
+"V28.20","Mtrcyc noncol trnspt ?rdr nontrf msctr","V28.2","V28.2",0
+"V28.21","Mtrcyc noncol ?rdr nontrf mtrcyc onrd","V28.2","V28.2",0
+"V28.22","Mtrcyc noncol ?rdr nontrf mtrcyc offrd","V28.2","V28.2",0
+"V28.28","Mtrcyc noncol ?rdr nontrf oth mtrcyc","V28.2","V28.2",0
+"V28.29","Mtrcyc noncol trnspt ?rdr nontrf ?mtrcyc","V28.2","V28.2",0
+"V28.30","Mtrcyc rdr noncol trnspt brd/algt msctr","V28.3","V28.3",0
+"V28.31","Mtrcyc rdr noncol brd/algt mtrcyc onrd","V28.3","V28.3",0
+"V28.32","Mtrcyc rdr noncol brd/algt mtrcyc offrd","V28.3","V28.3",0
+"V28.38","Mtrcyc rdr noncol brd/algt oth mtrcyc","V28.3","V28.3",0
+"V28.39","Mtrcyc noncol trnspt brd/algt ?mtrcyc","V28.3","V28.3",0
+"V28.40","Mtrcyc noncol trnspt drvr traf msctr","V28.4","V28.4",0
+"V28.41","Mtrcyc noncol drvr traf mtrcyc onrd","V28.4","V28.4",0
+"V28.42","Mtrcyc noncol drvr traf mtrcyc offrd","V28.4","V28.4",0
+"V28.48","Mtrcyc noncol drvr traf oth mtrcyc","V28.4","V28.4",0
+"V28.49","Mtrcyc noncol trnspt drvr traf ?mtrcyc","V28.4","V28.4",0
+"V28.50","Mtrcyc noncol trnspt pass traf msctr ","V28.5","V28.5",0
+"V28.51","Mtrcyc noncol pass traf mtrcyc onrd","V28.5","V28.5",0
+"V28.52","Mtrcyc noncol pass traf mtrcyc offrd","V28.5","V28.5",0
+"V28.58","Mtrcyc noncol pass traf oth mtrcyc","V28.5","V28.5",0
+"V28.59","Mtrcyc noncol trnspt pass traf ?mtrcyc","V28.5","V28.5",0
+"V28.90","Mtrcyc noncol trnspt ?rdr traf msctr","V28.9","V28.9",0
+"V28.91","Mtrcyc noncol ?rdr traf mtrcyc onrd","V28.9","V28.9",0
+"V28.92","Mtrcyc noncol ?rdr traf mtrcyc offrd","V28.9","V28.9",0
+"V28.98","Mtrcyc noncol ?rdr traf oth mtrcyc","V28.9","V28.9",0
+"V28.99","Mtrcyc noncol trnspt ?rdr traf ?mtrcyc","V28.9","V28.9",0
+"V40.00","Car occ w ped/anml drvr nontrf sdn","V40.0","V40.0",0
+"V40.01","Car occ w ped/anml drvr nontrf atrn 4WD","V40.0","V40.0",0
+"V40.02","Car occ w ped/anml drvr nontrf 4wlmtrcyc","V40.0","V40.0",0
+"V40.03","Car occ w ped/anml drvr nontrf pvan","V40.0","V40.0",0
+"V40.08","Car occ w ped/anml drvr nontrf oth car","V40.0","V40.0",0
+"V40.09","Car occ w ped/anml drvr nontrf ?car","V40.0","V40.0",0
+"V40.10","Car occ w ped/anml pass nontrf sdn","V40.1","V40.1",0
+"V40.11","Car occ w ped/anml pass nontrf atrn 4WD","V40.1","V40.1",0
+"V40.12","Car occ w ped/anml pass nontrf 4wlmtrcyc","V40.1","V40.1",0
+"V40.13","Car occ w ped/anml pass nontrf pvan","V40.1","V40.1",0
+"V40.18","Car occ w ped/anml pass nontrf oth car","V40.1","V40.1",0
+"V40.19","Car occ w ped/anml pass nontrf ?car","V40.1","V40.1",0
+"V40.20","Car occ w ped/anml nontrf sdn","V40.2","V40.2",0
+"V40.21","Car occ w ped/anml nontrf atrn 4WD","V40.2","V40.2",0
+"V40.22","Car occ  w ped/anml nontrf 4wlmtrcyc","V40.2","V40.2",0
+"V40.23","Car occ  w ped/anml nontrf pvan","V40.2","V40.2",0
+"V40.28","Car occ  w ped/anml nontrf oth car","V40.2","V40.2",0
+"V40.29","Car occ  w ped/anml nontrf ?car","V40.2","V40.2",0
+"V40.30","Car occ w ped/anml ?occ nontrf sdn","V40.3","V40.3",0
+"V40.31","Car occ w ped/anml ?occ nontrf atrn 4WD","V40.3","V40.3",0
+"V40.32","Car occ w ped/anml ?occ nontrf 4wlmtrcyc","V40.3","V40.3",0
+"V40.33","Car occ w ped/anml ?occ nontrf pvan","V40.3","V40.3",0
+"V40.38","Car occ w ped/anml ?occ nontrf oth car","V40.3","V40.3",0
+"V40.39","Car occ w ped/anml ?occ nontrf ?car","V40.3","V40.3",0
+"V40.40","Car occ w ped/anml brd/alight sdn","V40.4","V40.4",0
+"V40.41","Car occ w ped/anml brd/alight atrn 4WD","V40.4","V40.4",0
+"V40.42","Car occ w ped/anml brd/alight 4wlmtrcyc","V40.4","V40.4",0
+"V40.43","Car occ w ped/anml brd/alight pvan","V40.4","V40.4",0
+"V40.48","Car occ w ped/anml brd/alight oth car","V40.4","V40.4",0
+"V40.49","Car occ w ped/anml brd/alight ?car","V40.4","V40.4",0
+"V40.50","Car occ w ped/anml drvr traf accdnt sdn","V40.5","V40.5",0
+"V40.51","Car occ w ped/anml drvr traf atrn 4WD","V40.5","V40.5",0
+"V40.52","Car occ w ped/anml drvr traf 4wlmtrcyc","V40.5","V40.5",0
+"V40.53","Car occ w ped/anml drvr traf pvan","V40.5","V40.5",0
+"V40.58","Car occ w ped/anml drvr traf oth car","V40.5","V40.5",0
+"V40.59","Car occ w ped/anml drvr traf ?car","V40.5","V40.5",0
+"V40.60","Car occ w ped/anml pass traf sedan","V40.6","V40.6",0
+"V40.61","Car occ w ped/anml pass traf atrn 4WD","V40.6","V40.6",0
+"V40.62","Car occ w ped/anml pass traf 4wlmtrcyc","V40.6","V40.6",0
+"V40.63","Car occ w ped/anml pass traf pvan","V40.6","V40.6",0
+"V40.68","Car occ w ped/anml pass traf oth car","V40.6","V40.6",0
+"V40.69","Car occ w ped/anml pass traf ?car","V40.6","V40.6",0
+"V40.70","Car occ  w ped/anml traf sedan ","V40.7","V40.7",0
+"V40.71","Car occ  w ped/anml traf atrn 4WD","V40.7","V40.7",0
+"V40.72","Car occ  w ped/anml traf 4wlmtrcyc","V40.7","V40.7",0
+"V40.73","Car occ  w ped/anml traf pvan","V40.7","V40.7",0
+"V40.78","Car occ  w ped/anml traf oth car","V40.7","V40.7",0
+"V40.79","Car occ  w ped/anml traf ?car","V40.7","V40.7",0
+"V40.90","Car occ/ped anml ?occ traf sedan ","V40.9","V40.9",0
+"V40.91","Car occ/ped anml ?occ atrn 4WD","V40.9","V40.9",0
+"V40.92","Car occ/ped anml ?occ 4wlmtrcyc","V40.9","V40.9",0
+"V40.93","Car occ/ped anml ?occ pvan","V40.9","V40.9",0
+"V40.98","Car occ/ped anml ?occ oth car","V40.9","V40.9",0
+"V40.99","? Car occ/ped anml ?occ ?car","V40.9","V40.9",0
+"V41.00","Car occ  w pdl cycle drvr nontrf sedan ","V41.0","V41.0",0
+"V41.01","Car occ  w pdlcycle drvr nontrf atrn4WD","V41.0","V41.0",0
+"V41.02","Car occ w pdlcycle drvr nontrf 4wlmtrcyc","V41.0","V41.0",0
+"V41.03","Car occ  w pdlcycle drvr nontrf pvan","V41.0","V41.0",0
+"V41.08","Car occ  w pdlcycle drvr nontrf oth car","V41.0","V41.0",0
+"V41.09","Car occ  w pdlcycle drvr nontrf ?car","V41.0","V41.0",0
+"V41.10","Car occ w pdlcycl pass nontrf sedan","V41.1","V41.1",0
+"V41.11","Car occ w pdlcycl nontrf atrn 4WD","V41.1","V41.1",0
+"V41.12","Car occ w pdlcycl nontrf 4wlmtrcyc","V41.1","V41.1",0
+"V41.13","Car occ w pdlcycl nontrf pvan","V41.1","V41.1",0
+"V41.18","Car occ w pdlcycl nontrf oth spec car","V41.1","V41.1",0
+"V41.19","Car occ w pdlcycl nontrf ?car","V41.1","V41.1",0
+"V41.20","Car occ w pdlcycl ?occ nontrf sedan","V41.2","V41.2",0
+"V41.21","Car occ w pdlcycl ?occ nontrf atrn 4WD","V41.2","V41.2",0
+"V41.22","Car occ w pdlcycl ?occ nontrf 4wlmtrcyc","V41.2","V41.2",0
+"V41.23","Car occ w pdlcycl ?occ nontrf pvan","V41.2","V41.2",0
+"V41.28","Car occ w cycl ?occ nontrf oth spec car","V41.2","V41.2",0
+"V41.29","Car occ vs pdlcycl ?occ nontrf ?car","V41.2","V41.2",0
+"V41.30","Car occ vs w pdlcycl unspec occ nontrf","V41.3","V41.3",0
+"V41.31","Car occ w pdlcycl ?occ nontrf sdn","V41.3","V41.3",0
+"V41.32","Car occ w pdlcycl ?occ nontrf atrn 4WD","V41.3","V41.3",0
+"V41.33","Car occ w pdlcycl ?occ nontrf 4wlmtrcyc","V41.3","V41.3",0
+"V41.38","Car occ w pdlcycl ?occ nontrf pvan","V41.3","V41.3",0
+"V41.39","Car occ w pdlcycl ?occ nontrf oth car","V41.3","V41.3",0
+"V41.40","Car occupant w vs cycl board or alight","V41.4","V41.4",0
+"V41.41","Car occ w cycl board/alight sedan","V41.4","V41.4",0
+"V41.42","Car occ w cycl board/alight atrn 4WD","V41.4","V41.4",0
+"V41.43","Car occ w cycl board/alight 4wlmtrcyc","V41.4","V41.4",0
+"V41.48","Car occ w cycl board/alight pvan","V41.4","V41.4",0
+"V41.49","Car occ  w cycl board/alight oth car","V41.4","V41.4",0
+"V41.50","Car occ w vs cycl drvr traffic accdnt","V41.5","V41.5",0
+"V41.51","Car occ w cycl drvr trf accdnt sedan","V41.5","V41.5",0
+"V41.52","Car occ w cycl drvr trf accdnt atrn 4WD","V41.5","V41.5",0
+"V41.53","Car occ w cycl drvr trf accdnt 4wlmtrcyc","V41.5","V41.5",0
+"V41.58","Car occ w cycl drvr trf accdnt pvan","V41.5","V41.5",0
+"V41.59","Car occ w cycl drvr trf accdnt oth car","V41.5","V41.5",0
+"V41.60","Car occ w vs cycl pass traffic accdnt","V41.6","V41.6",0
+"V41.61","Car occ w cycl pass trff accdnt sedan","V41.6","V41.6",0
+"V41.62","Car occ w cycl pass trff accdnt atrn 4WD","V41.6","V41.6",0
+"V41.63","Car w cycl pass trff accdnt 4wlmtrcyc","V41.6","V41.6",0
+"V41.68","Car occ w cycl pass trff accdnt pvan","V41.6","V41.6",0
+"V41.69","Car occ w cycl pass trff accdnt oth car ","V41.6","V41.6",0
+"V41.70","Car occupant w vs cycl traf accdnt","V41.7","V41.7",0
+"V41.71","Car occ w cycl traf accdnt sedan","V41.7","V41.7",0
+"V41.72","Car occ w cycl traf accdnt atrn 4WD","V41.7","V41.7",0
+"V41.73","Car occ w cycl traf accdnt 4wlmtrcyc","V41.7","V41.7",0
+"V41.78","Car occ w cycl traf accdnt pvan","V41.7","V41.7",0
+"V41.79","Car occ w cycl traf accdnt oth spec car","V41.7","V41.7",0
+"V41.90","Car occ w cycl ?occ traf accdnt sedan","V41.9","V41.9",0
+"V41.91","Car occ w cycl ?occ traf accdnt atrn 4WD","V41.9","V41.9",0
+"V41.92","Car w cycl ?occ traf accdnt 4wlmtrcyc","V41.9","V41.9",0
+"V41.93","Car occ w cycl ?occ traf accdnt pvan","V41.9","V41.9",0
+"V41.98","Car occ w cycl ?occ traf accdnt oth car","V41.9","V41.9",0
+"V41.99","Car occ w cycl ?occ traf accdnt ?car","V41.9","V41.9",0
+"V42.00","Car occ w 2-3wl MV drvr nontrf sedan","V42.0","V42.0",0
+"V42.01","Car occ w 2-3wl MV drvr nontrf atrn 4WD","V42.0","V42.0",0
+"V42.02","Car occ w 2-3wl MV drvr nontrf 4wlmtrcyc","V42.0","V42.0",0
+"V42.03","Car occ w 2-3wl MV drvr nontrf pvan","V42.0","V42.0",0
+"V42.08","Car occ w 2-3wl MV drvr nontrf oth car","V42.0","V42.0",0
+"V42.09","Car occ w 2-3wl MV drvr nontrf ?car","V42.0","V42.0",0
+"V42.10","Car occ w 2-3wl MV pass nontrf sedan","V42.1","V42.1",0
+"V42.11","Car occ w 2-3wl MV pass nontrf atrn 4WD","V42.1","V42.1",0
+"V42.12","Car occ w 2-3wl MV pass nontrf 4wlmtrcyc","V42.1","V42.1",0
+"V42.13","Car occ w 2-3wl MV pass nontrf pvan","V42.1","V42.1",0
+"V42.18","Car occ w 2-3wl MV pass nontrf oth car","V42.1","V42.1",0
+"V42.19","Car occ w 2-3wl MV pass nontrf ?car","V42.1","V42.1",0
+"V42.20","Car occ w 2-3wl MV nontrf sedan","V42.2","V42.2",0
+"V42.21","Car occ w 2-3wl MV nontrf atrn 4WD","V42.2","V42.2",0
+"V42.22","Car occ w 2-3wl MV nontrf 4wlmtrcyc","V42.2","V42.2",0
+"V42.23","Car occ w 2-3wl MV nontrf pvan","V42.2","V42.2",0
+"V42.28","Car occ w 2-3wl MV nontrf oth spec car","V42.2","V42.2",0
+"V42.29","Car occ w 2-3wl MV nontrf ?car","V42.2","V42.2",0
+"V42.30","Car occ w 2-3wl MV ?occ nontrf sedan","V42.3","V42.3",0
+"V42.31","Car occ w 2-3wl MV ?occ nontrf atrn 4WD","V42.3","V42.3",0
+"V42.32","Car occ w 2-3wl MV ?occ nontrf 4wlmtrcyc","V42.3","V42.3",0
+"V42.33","Car occ w 2-3wl MV ?occ nontrf pvan","V42.3","V42.3",0
+"V42.38","Car occ w 2-3wl MV ?occ nontrf oth car","V42.3","V42.3",0
+"V42.39","Car occ w 2-3wl MV ?occ nontrf ?car","V42.3","V42.3",0
+"V42.40","Car occ w 2-3wl MV board/alight sedan","V42.4","V42.4",0
+"V42.41","Car occ w 2-3wl MV board/alight atrn 4WD","V42.4","V42.4",0
+"V42.42","Car  w 2-3wl MV board/alight 4wlmtrcyc","V42.4","V42.4",0
+"V42.43","Car occ w 2-3wl MV board/alight pvan","V42.4","V42.4",0
+"V42.48","Car occ w 2-3wl MV board/alight oth car","V42.4","V42.4",0
+"V42.49","Car occ w 2-3wl MV board/alight ?car","V42.4","V42.4",0
+"V42.50","Car occ 2-3wl MV drvr traf accdnt sedan","V42.5","V42.5",0
+"V42.51","Car w 2-3wl MV drvr traf accdnt atrn 4WD","V42.5","V42.5",0
+"V42.52","Car w 2-3wlMV drvr traf accdnt 4wlmtrcyc","V42.5","V42.5",0
+"V42.53","Car occ w 2-3wl MV drvr traf accdnt pvan","V42.5","V42.5",0
+"V42.58","Car w 2-3wl MV drvr traf accdnt oth car","V42.5","V42.5",0
+"V42.59","Car occ w 2-3wl MV drvr traf accdnt ?car","V42.5","V42.5",0
+"V42.60","Car w 2-3wl MV pass traf accdnt sedan","V42.6","V42.6",0
+"V42.61","Car w 2-3wl MV pass traf accdnt atrn 4WD","V42.6","V42.6",0
+"V42.62","Car w 2-3wlMV pass traf accdnt 4wlmtrcyc","V42.6","V42.6",0
+"V42.63","Car w 2-3wl MV pass traf accdnt pvan","V42.6","V42.6",0
+"V42.68","Car w 2-3wl MV pass traf accdnt oth car","V42.6","V42.6",0
+"V42.69","Car w 2-3wl MV pass traf accdnt ?car","V42.6","V42.6",0
+"V42.70","Car occ w 2-3wl MV traf accdnt sedan","V42.7","V42.7",0
+"V42.71","Car occ w 2-3wl MV traf accdnt atrn 4WD","V42.7","V42.7",0
+"V42.72","Car occ w 2-3wl MV traf accdnt 4wlmtrcyc","V42.7","V42.7",0
+"V42.73","Car occ w 2-3wl MV traf accdnt pvan","V42.7","V42.7",0
+"V42.78","Car occ w 2-3wl MV traf accdnt oth car","V42.7","V42.7",0
+"V42.79","Car occ w 2-3wl MV traf accdnt ?car","V42.7","V42.7",0
+"V42.90","?car occ w 2-3 wl MV traf accdnt sedan","V42.9","V42.9",0
+"V42.91","?car occ w 2-3wl MV traf accdnt atrn 4WD","V42.9","V42.9",0
+"V42.92","?car occ w 2-3wl MV traf 4wlmtrcyc","V42.9","V42.9",0
+"V42.93","?car occ w 2-3 wl MV traf accdnt pvan","V42.9","V42.9",0
+"V42.98","?car occ vs 2-3wl MV traf accdnt oth car","V42.9","V42.9",0
+"V42.99","?car occ vs 2-3wl MV traf accdnt ?car","V42.9","V42.9",0
+"V43.00","Car occ w car truck drvr nontrf sedan","V43.0","V43.0",0
+"V43.01","Car occ w car truck drvr nontrf atrn 4WD","V43.0","V43.0",0
+"V43.02","Car occ w car trck drvr nontrf 4wlmtrcyc","V43.0","V43.0",0
+"V43.03","Car occ w car truck drvr nontrf pvan","V43.0","V43.0",0
+"V43.08","Car occ w car truck drvr nontrf oth car","V43.0","V43.0",0
+"V43.09","Car occ w car truck drvr nontrf ?car","V43.0","V43.0",0
+"V43.10","Car occ w car truck pass nontrf sedan","V43.1","V43.1",0
+"V43.11","Car occ w car truck pass nontrf atrn 4WD","V43.1","V43.1",0
+"V43.12","Car w car truck pass nontrf 4wlmtrcyc","V43.1","V43.1",0
+"V43.13","Car occ w car truck pass nontrf pvan","V43.1","V43.1",0
+"V43.18","Car occ w car truck pass nontrf oth car","V43.1","V43.1",0
+"V43.19","Car occ w car truck pass nontrf ?car","V43.1","V43.1",0
+"V43.20","Car occ w car trck nontrf sedan","V43.2","V43.2",0
+"V43.21","Car occ w car trck nontrf atrn 4WD","V43.2","V43.2",0
+"V43.22","Car occ w car trck nontrf 4wlmtrcyc","V43.2","V43.2",0
+"V43.23","Car occ w car trck nontrf pvan","V43.2","V43.2",0
+"V43.28","Car occ w car trck nontrf oth spec car","V43.2","V43.2",0
+"V43.29","Car occ w car trck nontrf ?car","V43.2","V43.2",0
+"V43.30","Car occ w car trck ?occ nontrf sedan","V43.3","V43.3",0
+"V43.31","Car occ w car trck ?occ nontrf atrn 4WD","V43.3","V43.3",0
+"V43.32","Car occ w car trck ?occ nontrf 4wlmtrcyc","V43.3","V43.3",0
+"V43.33","Car occ w car trck ?occ nontrf pvan","V43.3","V43.3",0
+"V43.38","Car occ w car trck ?occ nontrf oth car","V43.3","V43.3",0
+"V43.39","Car occ w car trck ?occ nontrf ?car","V43.3","V43.3",0
+"V43.40","Car occ vs car truck board/alight sedan","V43.4","V43.4",0
+"V43.41","Car occ car truck board/alight atrn 4WD","V43.4","V43.4",0
+"V43.42","Car occ car truck board/alight 4wlmtrcyc","V43.4","V43.4",0
+"V43.43","Car occ vs car truck board/alight pvan","V43.4","V43.4",0
+"V43.48","Car occ vs car trck board/alight car","V43.4","V43.4",0
+"V43.49","Car occ vs car truck board/alight ?car","V43.4","V43.4",0
+"V43.50","Car w car trck drvr traf accdnt sedan","V43.5","V43.5",0
+"V43.51","Car w car trck drvr traf accdnt atrn 4WD","V43.5","V43.5",0
+"V43.52","Car w car drvr traf accdnt 4wlmtrcyc","V43.5","V43.5",0
+"V43.53","Car w car trck drvr traf accdnt pvan","V43.5","V43.5",0
+"V43.58","Car w car trck drvr traf accdnt oth car","V43.5","V43.5",0
+"V43.59","Car w car trck drvr traf accdnt ?car","V43.5","V43.5",0
+"V43.60","Car w car trck pass traf accdnt sedan","V43.6","V43.6",0
+"V43.61","Car w car trck pass traf accdnt atrn 4WD","V43.6","V43.6",0
+"V43.62","Car w car pass traf accdnt 4wlmtrcyc","V43.6","V43.6",0
+"V43.63","Car w car trck pass traf accdnt pvan","V43.6","V43.6",0
+"V43.68","Car w car trck pass traf accdnt oth car","V43.6","V43.6",0
+"V43.69","Car w car trck pass traf accdnt ?car","V43.6","V43.6",0
+"V43.70","Car occ w car trck traf accdnt sedan","V43.7","V43.7",0
+"V43.71","Car occ w car trck traf accdnt atrn 4WD","V43.7","V43.7",0
+"V43.72","Car occ w car trck traf accdnt 4wlmtrcyc","V43.7","V43.7",0
+"V43.73","Car occ w car trck traf accdnt pvan","V43.7","V43.7",0
+"V43.78","Car occ w car trck traf accdnt oth car","V43.7","V43.7",0
+"V43.79","Car occ w car trck traf accdnt ?car","V43.7","V43.7",0
+"V43.90","?car occ w car trck traf accdnt sedan","V43.9","V43.9",0
+"V43.91","?car occ w car trck traf accdnt atrn 4WD","V43.9","V43.9",0
+"V43.92","?car occ w car traf accdnt 4wlmtrcyc","V43.9","V43.9",0
+"V43.93","?car occ w car trck traf accdnt pvan","V43.9","V43.9",0
+"V43.98","?car occ w car trck traf accdnt oth car","V43.9","V43.9",0
+"V43.99","?car occ w car trck traf accdnt ?car","V43.9","V43.9",0
+"V44.00","Car occ w trnspt bus drvr nontrf sedan","V44.0","V44.0",0
+"V44.01","Car occ w trnspt drvr nontrf atrn 4WD","V44.0","V44.0",0
+"V44.02","Car occ w trnspt drvr nontrf 4wlmtrcyc","V44.0","V44.0",0
+"V44.03","Car occ w trnspt bus drvr nontrf pvan","V44.0","V44.0",0
+"V44.08","Car occ w trnspt bus drvr nontrf oth car","V44.0","V44.0",0
+"V44.09","Car occ w trnspt bus drvr nontrf ?car","V44.0","V44.0",0
+"V44.10","Car occ  w trnspt bus pass nontrf sedan","V44.1","V44.1",0
+"V44.11","Car w trnspt bus pass nontrf atrn 4WD","V44.1","V44.1",0
+"V44.12","Car w trnspt bus pass nontrf 4wlmtrcyc","V44.1","V44.1",0
+"V44.13","Car occ  w trnspt bus pass nontrf pvan","V44.1","V44.1",0
+"V44.18","Car w trnspt bus pass nontrf oth car","V44.1","V44.1",0
+"V44.19","Car occ  w trnspt bus pass nontrf ?car","V44.1","V44.1",0
+"V44.20","Car occ w trnspt bus nontrf sedan","V44.2","V44.2",0
+"V44.21","Car occ w trnspt bus nontrf atrn 4WD","V44.2","V44.2",0
+"V44.22","Car occ w trnspt bus nontrf 4wlmtrcyc","V44.2","V44.2",0
+"V44.23","Car occ w trnspt bus nontrf pvan","V44.2","V44.2",0
+"V44.28","Car occ w trnspt bus nontrf oth spec car","V44.2","V44.2",0
+"V44.29","Car occ w trnspt bus nontrf ?car","V44.2","V44.2",0
+"V44.30","Car occ w trnspt bus ?occ nontrf sedan","V44.3","V44.3",0
+"V44.31","Car w trnspt bus ?occ nontrf atrn 4WD","V44.3","V44.3",0
+"V44.32","Car w trnspt bus ?occ nontrf 4wlmtrcyc","V44.3","V44.3",0
+"V44.33","Car occ w trnspt bus ?occ nontrf pvan","V44.3","V44.3",0
+"V44.38","Car occ w trnspt bus ?occ nontrf oth car","V44.3","V44.3",0
+"V44.39","Car occ w trnspt bus ?occ nontrf ?car","V44.3","V44.3",0
+"V44.40","Car occ w trnspt bus board/alight sedan","V44.4","V44.4",0
+"V44.41","Car w trnspt bus board/alight atrn 4WD","V44.4","V44.4",0
+"V44.42","Car w trnspt bus board/alight 4wlmtrcyc","V44.4","V44.4",0
+"V44.43","Car occ w trnspt bus board/alight pvan","V44.4","V44.4",0
+"V44.48","Car w trnspt bus board/alight oth car","V44.4","V44.4",0
+"V44.49","Car occ w trnspt bus board/alight ?car","V44.4","V44.4",0
+"V44.50","Car w trnspt bus drvr traf accdnt sedan","V44.5","V44.5",0
+"V44.51","Car w trnspt drvr traf accdnt atrn 4WD","V44.5","V44.5",0
+"V44.52","Car w trnspt drvr traf accdnt 4wlmtrcyc","V44.5","V44.5",0
+"V44.53","Car w trnspt bus drvr traf accdnt pvan","V44.5","V44.5",0
+"V44.58","Car w trnspt drvr traf accdnt oth car","V44.5","V44.5",0
+"V44.59","Car w trnspt bus drvr traf accdnt ?car","V44.5","V44.5",0
+"V44.60","Car w trnspt bus pass traf accdnt sedan","V44.6","V44.6",0
+"V44.61","Car w trnspt pass traf accdnt atrn 4WD","V44.6","V44.6",0
+"V44.62","Car w trnspt pass traf accdnt 4wlmtrcyc","V44.6","V44.6",0
+"V44.63","Car w trnspt bus pass traf accdnt pvan","V44.6","V44.6",0
+"V44.68","Car w trnspt pass traf accdnt oth car","V44.6","V44.6",0
+"V44.69","Car w trnspt bus pass traf accdnt ?car","V44.6","V44.6",0
+"V44.70","Car occ w trnspt bus traf accdnt sedan","V44.7","V44.7",0
+"V44.71","Car w trnspt bus traf accdnt atrn 4WD","V44.7","V44.7",0
+"V44.72","Car w trnspt bus traf accdnt 4wlmtrcyc","V44.7","V44.7",0
+"V44.73","Car occ w trnspt bus traf accdnt pvan","V44.7","V44.7",0
+"V44.78","Car occ w trnspt bus traf accdnt oth car","V44.7","V44.7",0
+"V44.79","Car occ w trnspt bus traf accdnt ?car","V44.7","V44.7",0
+"V44.90","?car occ w trnspt bus traf accdnt sedan","V44.9","V44.9",0
+"V44.91","?car w trnspt bus traf accdnt atrn 4WD","V44.9","V44.9",0
+"V44.92","?car w trnspt bus traf accdnt 4wlmtrcyc","V44.9","V44.9",0
+"V44.93","?car occ w trnspt bus traf accdnt pvan","V44.9","V44.9",0
+"V44.98","?car w trnspt bus traf accdnt oth car","V44.9","V44.9",0
+"V44.99","?car occ w trnspt bus traf accdnt ?car","V44.9","V44.9",0
+"V45.00","Car occ w train rail drvr nontrf sedan","V45.0","V45.0",0
+"V45.01","Car w train rail drvr nontrf atrn 4WD","V45.0","V45.0",0
+"V45.02","Car w train rail drvr nontrf 4wlmtrcyc","V45.0","V45.0",0
+"V45.03","Car occ w train rail drvr nontrf pvan","V45.0","V45.0",0
+"V45.08","Car occ w train rail drvr nontrf oth car","V45.0","V45.0",0
+"V45.09","Car occ w train rail drvr nontrf ?car","V45.0","V45.0",0
+"V45.10","Car occ w train rail pass nontrf sedan","V45.1","V45.1",0
+"V45.11","Car w train rail pass nontrf atrn 4WD","V45.1","V45.1",0
+"V45.12","Car w train rail pass nontrf 4wlmtrcyc","V45.1","V45.1",0
+"V45.13","Car occ w train rail pass nontrf pvan","V45.1","V45.1",0
+"V45.18","Car occ w train rail pass nontrf oth car","V45.1","V45.1",0
+"V45.19","Car occ w train rail pass nontrf ?car","V45.1","V45.1",0
+"V45.20","Car occ w train outside veh nontrf sedan","V45.2","V45.2",0
+"V45.21","Car w train outside veh nontrf atrn 4WD","V45.2","V45.2",0
+"V45.22","Car w train outside veh nontrf 4wlmtrcyc","V45.2","V45.2",0
+"V45.23","Car occ w train outside veh nontrf pvan","V45.2","V45.2",0
+"V45.28","Car w train outside veh nontrf oth car","V45.2","V45.2",0
+"V45.29","Car occ w train outside veh nontrf ?car","V45.2","V45.2",0
+"V45.30","?car occ w train rail nontrf sedan","V45.3","V45.3",0
+"V45.31","?car occ w train rail nontrf atrn 4WD","V45.3","V45.3",0
+"V45.32","?car occ w train rail nontrf 4wlmtrcyc","V45.3","V45.3",0
+"V45.33","?car occ w train rail nontrf pvan","V45.3","V45.3",0
+"V45.38","?car occ train rail nontrf oth spec car","V45.3","V45.3",0
+"V45.39","?car occ w train rail nontrf ?car","V45.3","V45.3",0
+"V45.40","Car occ  w train rail board/alight sedan","V45.4","V45.4",0
+"V45.41","Car w train rail board/alight atrn 4WD","V45.4","V45.4",0
+"V45.42","Car w train rail board/alight 4wlmtrcyc","V45.4","V45.4",0
+"V45.43","Car occ  w train rail board/alight pvan","V45.4","V45.4",0
+"V45.48","Car w train rail board/alight oth car","V45.4","V45.4",0
+"V45.49","Car occ  w train rail board/alight ?car","V45.4","V45.4",0
+"V45.50","Car w train rail drvr traf accdnt sedan","V45.5","V45.5",0
+"V45.51","Car w train drvr traf accdnt atrn 4WD","V45.5","V45.5",0
+"V45.52","Car w train drvr traf accdnt 4wlmtrcyc","V45.5","V45.5",0
+"V45.53","Car w train rail drvr traf accdnt pvan","V45.5","V45.5",0
+"V45.58","Car w train drvr traf accdnt oth car","V45.5","V45.5",0
+"V45.59","Car w train rail drvr traf accdnt ?car","V45.5","V45.5",0
+"V45.60","Car w train rail pass traf accdnt sedan","V45.6","V45.6",0
+"V45.61","Car w train pass traf accdnt atrn 4WD","V45.6","V45.6",0
+"V45.62","Car w train pass traf accdnt 4wlmtrcyc","V45.6","V45.6",0
+"V45.63","Car w train rail pass traf accdnt pvan","V45.6","V45.6",0
+"V45.68","Car w train pass traf accdnt oth car","V45.6","V45.6",0
+"V45.69","Car w train rail pass traf accdnt ?car","V45.6","V45.6",0
+"V45.70","Car w train out veh traf accdnt sedan","V45.7","V45.7",0
+"V45.71","Car w train out veh traf accdnt atrn 4WD","V45.7","V45.7",0
+"V45.72","Car w train outveh traf accdnt 4wlmtrcyc","V45.7","V45.7",0
+"V45.73","Car occ w train out veh traf accdnt pvan","V45.7","V45.7",0
+"V45.78","Car w train out veh traf accdnt oth car","V45.7","V45.7",0
+"V45.79","Car occ w train out veh traf accdnt ?car","V45.7","V45.7",0
+"V45.90","?car occ/train rail traf accdnt sedan","V45.9","V45.9",0
+"V45.91","?car occ/train rail traf accdnt atrn 4WD","V45.9","V45.9",0
+"V45.92","?car occ/train traf accdnt 4wlmtrcyc","V45.9","V45.9",0
+"V45.93","?car occ/train rail traf accdnt pvan","V45.9","V45.9",0
+"V45.98","?car occ/train rail traf accdnt oth car","V45.9","V45.9",0
+"V45.99","?car occ/train rail traf accdnt ?car","V45.9","V45.9",0
+"V46.00","Car occ w oth non-MV drvr nontrf sedan","V46.0","V46.0",0
+"V46.01","Car occ w oth nonMV drvr nontrf atrn 4WD","V46.0","V46.0",0
+"V46.02","Car w oth non-MV drvr nontrf 4wlmtrcyc","V46.0","V46.0",0
+"V46.03","Car occ w oth non-MV drvr nontrf pvan","V46.0","V46.0",0
+"V46.08","Car w oth nonMV drvr nontrf oth spec car","V46.0","V46.0",0
+"V46.09","Car occ w oth non-MV drvr nontrf ?car","V46.0","V46.0",0
+"V46.10","Car occ w oth non-MV pass nontrf sedan","V46.1","V46.1",0
+"V46.11","Car occ w oth nonMV pass nontrf atrn 4WD","V46.1","V46.1",0
+"V46.12","Car w oth non-MV pass nontrf 4wlmtrcyc","V46.1","V46.1",0
+"V46.13","Car occ w oth non-MV pass nontrf pvan","V46.1","V46.1",0
+"V46.18","Car w oth nonMV pass nontrf oth spec car","V46.1","V46.1",0
+"V46.19","Car occ w oth non-MV pass nontrf ?car","V46.1","V46.1",0
+"V46.20","Car occ w non-MV nontrf sedan","V46.2","V46.2",0
+"V46.21","Car occ w non-MV nontrf atrn 4WD","V46.2","V46.2",0
+"V46.22","Car occ w non-MV nontrf 4wlmtrcyc","V46.2","V46.2",0
+"V46.23","Car occ w non-MV nontrf pvan","V46.2","V46.2",0
+"V46.28","Car occ w non-MV nontrf oth spec car","V46.2","V46.2",0
+"V46.29","Car occ w non-MV nontrf ?car","V46.2","V46.2",0
+"V46.30","Car occ w non-MV ?occ nontrf sedan","V46.3","V46.3",0
+"V46.31","Car occ w non-MV ?occ nontrf atrn 4WD","V46.3","V46.3",0
+"V46.32","Car occ w non-MV ?occ nontrf 4wlmtrcyc","V46.3","V46.3",0
+"V46.33","Car occ w non-MV ?occ nontrf pvan","V46.3","V46.3",0
+"V46.38","Car occ w nonMV ?occ nontrf oth spec car","V46.3","V46.3",0
+"V46.39","Car occ w non-MV ?occ nontrf ?car","V46.3","V46.3",0
+"V46.40","Car occ w oth non-MV board/alight sedan","V46.4","V46.4",0
+"V46.41","Car w oth non-MV board/alight atrn 4WD","V46.4","V46.4",0
+"V46.42","Car w oth non-MV board/alight 4wlmtrcyc","V46.4","V46.4",0
+"V46.43","Car occ w oth non-MV board/alight pvan","V46.4","V46.4",0
+"V46.48","Car w oth non-MV board/alight oth car","V46.4","V46.4",0
+"V46.49","Car occ w oth non-MV board/alight ?car","V46.4","V46.4",0
+"V46.50","Car occ w non-MV drvr traf accdnt sedan","V46.5","V46.5",0
+"V46.51","Car w non-MV drvr traf accdnt atrn 4WD","V46.5","V46.5",0
+"V46.52","Car w non-MV drvr traf accdnt 4wlmtrcyc","V46.5","V46.5",0
+"V46.53","Car occ w non-MV drvr traf accdnt pvan","V46.5","V46.5",0
+"V46.58","Car w non-MV drvr traf accdnt oth car","V46.5","V46.5",0
+"V46.59","Car occ w non-MV drvr traf accdnt ?car","V46.5","V46.5",0
+"V46.60","Car occ w non-MV pass traf accdnt sedan","V46.6","V46.6",0
+"V46.61","Car w non-MV pass traf accdnt atrn 4WD","V46.6","V46.6",0
+"V46.62","Car w non-MV pass traf accdnt 4wlmtrcyc","V46.6","V46.6",0
+"V46.63","Car occ w non-MV pass traf accdnt pvan","V46.6","V46.6",0
+"V46.68","Car occ w nonMV pass traf accdnt oth car","V46.6","V46.6",0
+"V46.69","Car occ w non-MV pass traf accdnt ?car","V46.6","V46.6",0
+"V46.70","Car occ w non-MV traf accdnt sedan","V46.7","V46.7",0
+"V46.71","Car occ w non-MV traf accdnt atrn 4WD","V46.7","V46.7",0
+"V46.72","Car occ w non-MV traf accdnt 4wlmtrcyc","V46.7","V46.7",0
+"V46.73","Car occ w non-MV traf accdnt pvan","V46.7","V46.7",0
+"V46.78","Car occ w nonMV traf accdnt oth spec car","V46.7","V46.7",0
+"V46.79","Car occ w non-MV traf accdnt ?car","V46.7","V46.7",0
+"V46.90","Car occ w nonMV ?occ traf accdnt sedan","V46.9","V46.9",0
+"V46.91","Car occ w nonMV ?occ traf accdnt atrn4WD","V46.9","V46.9",0
+"V46.92","Car w nonMV ?occ traf accdnt 4wlmtrcyc","V46.9","V46.9",0
+"V46.93","Car occ w nonMV ?occ traf accdnt pvan","V46.9","V46.9",0
+"V46.98","Car occ w nonMV ?occ traf accdnt oth car","V46.9","V46.9",0
+"V46.99","Car occ w nonMV ?occ traf accdnt ?car","V46.9","V46.9",0
+"V47.00","Car occ w fix statnry drvr nontrf sedan","V47.0","V47.0",0
+"V47.01","Car w fix statnry drvr nontrf atrn 4WD","V47.0","V47.0",0
+"V47.02","Car w fix statnry drvr nontrf 4wlmtrcyc","V47.0","V47.0",0
+"V47.03","Car occ w fix statnry drvr nontrf pvan","V47.0","V47.0",0
+"V47.08","Car w fix statnry drvr nontrf oth car","V47.0","V47.0",0
+"V47.09","Car occ w fix statnry drvr nontrf ?car","V47.0","V47.0",0
+"V47.10","Car occ w fix statnry pass nontrf sedan","V47.1","V47.1",0
+"V47.11","Car w fix statnry pass nontrf atrn 4WD","V47.1","V47.1",0
+"V47.12","Car w fix statnry pass nontrf 4wlmtrcyc","V47.1","V47.1",0
+"V47.13","Car occ w fix statnry pass nontrf pvan","V47.1","V47.1",0
+"V47.18","Car w fix statnry pass nontrf oth car","V47.1","V47.1",0
+"V47.19","Car occ w fix statnry pass nontrf ?car","V47.1","V47.1",0
+"V47.20","Car occ w fix statnry nontrf sedan","V47.2","V47.2",0
+"V47.21","Car occ w fix statnry nontrf atrn 4WD","V47.2","V47.2",0
+"V47.22","Car occ w fix statnry nontrf 4wlmtrcyc","V47.2","V47.2",0
+"V47.23","Car occ w fix statnry nontrf pvan","V47.2","V47.2",0
+"V47.28","Car w fix statnry nontrf oth spec car","V47.2","V47.2",0
+"V47.29","Car occ w fix statnry nontrf ?car","V47.2","V47.2",0
+"V47.30","Car occ w statnry ?occ nontrf sedan","V47.3","V47.3",0
+"V47.31","Car occ w statnry ?occ nontrf atrn 4WD","V47.3","V47.3",0
+"V47.32","Car occ w statnry ?occ nontrf 4wlmtrcyc","V47.3","V47.3",0
+"V47.33","Car occ w statnry ?occ nontrf pvan","V47.3","V47.3",0
+"V47.38","Car occ w statnry ?occ nontrf oth car","V47.3","V47.3",0
+"V47.39","Car occ w statnry ?occ nontrf ?car","V47.3","V47.3",0
+"V47.40","Car occ w fix statnry board/alight sedan","V47.4","V47.4",0
+"V47.41","Car w fix statnry board/alight atrn 4WD","V47.4","V47.4",0
+"V47.42","Car w fix statnry board/alight 4wlmtrcyc","V47.4","V47.4",0
+"V47.43","Car occ w fix statnry board/alight pvan","V47.4","V47.4",0
+"V47.48","Car w fix statnry board/alight oth car","V47.4","V47.4",0
+"V47.49","Car occ w fix statnry board/alight ?car","V47.4","V47.4",0
+"V47.50","Car occ w statnry drvr traf accdnt sedan","V47.5","V47.5",0
+"V47.51","Car w statnry drvr traf accdnt atrn 4WD","V47.5","V47.5",0
+"V47.52","Car w statnry drvr traf accdnt 4wlmtrcyc","V47.5","V47.5",0
+"V47.53","Car occ w statnry drvr traf accdnt pvan","V47.5","V47.5",0
+"V47.58","Car w statnry drvr traf accdnt oth car","V47.5","V47.5",0
+"V47.59","Car occ w statnry drvr traf accdnt ?car","V47.5","V47.5",0
+"V47.60","Car occ w statnry pass traf accdnt sedan","V47.6","V47.6",0
+"V47.61","Car w statnry pass traf accdnt atrn 4WD","V47.6","V47.6",0
+"V47.62","Car w statnry pass traf accdnt 4wlmtrcyc","V47.6","V47.6",0
+"V47.63","Car occ w statnry pass traf accdnt pvan","V47.6","V47.6",0
+"V47.68","Car w statnry pass traf accdnt oth car","V47.6","V47.6",0
+"V47.69","Car occ w statnry pass traf accdnt ?car","V47.6","V47.6",0
+"V47.70","Car occ w statnry traf accdnt sedan","V47.7","V47.7",0
+"V47.71","Car occ w statnry traf accdnt atrn 4WD","V47.7","V47.7",0
+"V47.72","Car occ w statnry traf accdnt 4wlmtrcyc","V47.7","V47.7",0
+"V47.73","Car occ w statnry traf accdnt pvan","V47.7","V47.7",0
+"V47.78","Car w statnry traf accdnt oth spec car","V47.7","V47.7",0
+"V47.79","Car occ w statnry traf accdnt ?car","V47.7","V47.7",0
+"V47.90","Car w statnry ?occ traf accdnt sedan","V47.9","V47.9",0
+"V47.91","Car w statnry ?occ traf accdnt atrn 4WD","V47.9","V47.9",0
+"V47.92","Car w statnry ?occ traf accdnt 4wlmtrcyc","V47.9","V47.9",0
+"V47.93","Car occ w statnry ?occ traf accdnt pvan","V47.9","V47.9",0
+"V47.98","Car w statnry ?occ traf accdnt oth car","V47.9","V47.9",0
+"V47.99","Car occ w statnry ?occ traf accdnt ?car","V47.9","V47.9",0
+"V48.00","Car occ noncol trnspt drvr nontrf sedan","V48.0","V48.0",0
+"V48.01","Car noncol trnspt drvr nontrf atrn 4WD","V48.0","V48.0",0
+"V48.02","Car noncol trnspt drvr nontrf 4wlmtrcyc","V48.0","V48.0",0
+"V48.03","Car occ noncol trnspt drvr nontrf pvan","V48.0","V48.0",0
+"V48.08","Car noncol trnspt drvr nontrf oth car","V48.0","V48.0",0
+"V48.09","Car occ noncol trnspt drvr nontrf ?car","V48.0","V48.0",0
+"V48.10","Car occ noncol trnspt pass nontrf sedan","V48.1","V48.1",0
+"V48.11","Car noncol trnspt pass nontrf atrn 4WD","V48.1","V48.1",0
+"V48.12","Car noncol trnspt pass nontrf 4wlmtrcyc","V48.1","V48.1",0
+"V48.13","Car occ noncol trnspt pass nontrf pvan","V48.1","V48.1",0
+"V48.18","Car noncol trnspt pass nontrf oth car","V48.1","V48.1",0
+"V48.19","Car occ noncol trnspt pass nontrf ?car","V48.1","V48.1",0
+"V48.20","Car occ noncol trnspt nontrf sedan","V48.2","V48.2",0
+"V48.21","Car occ noncol trnspt nontrf atrn 4WD","V48.2","V48.2",0
+"V48.22","Car occ noncol trnspt nontrf 4wlmtrcyc","V48.2","V48.2",0
+"V48.23","Car occ noncol trnspt nontrf pvan","V48.2","V48.2",0
+"V48.28","Car occ noncol trnspt nontrf oth vcar","V48.2","V48.2",0
+"V48.29","Car occ noncol trnspt nontrf ?car","V48.2","V48.2",0
+"V48.30","Car occ noncol trnspt ?occ nontrf sedan","V48.3","V48.3",0
+"V48.31","Car occ noncol ?occ nontrf atrn 4WD","V48.3","V48.3",0
+"V48.32","Car occ noncol ?occ nontrf 4wlmtrcyc","V48.3","V48.3",0
+"V48.33","Car occ noncol trnspt ?occ nontrf pvan","V48.3","V48.3",0
+"V48.38","Car occ noncol ?occ nontrf oth spec car","V48.3","V48.3",0
+"V48.39","Car occ noncol trnspt ?occ nontrf ?car","V48.3","V48.3",0
+"V48.40","Car occ noncol trnspt board/algt sedan","V48.4","V48.4",0
+"V48.41","Car occ noncol board/algt atrn 4WD","V48.4","V48.4",0
+"V48.42","Car occ noncol board/algt 4wlmtrcyc","V48.4","V48.4",0
+"V48.43","Car occ noncol trnspt board/algt pvan","V48.4","V48.4",0
+"V48.48","Car occ noncol board/algt oth spec car","V48.4","V48.4",0
+"V48.49","Car occ noncol trnspt board/algt ?car","V48.4","V48.4",0
+"V48.50","Car occ noncol drvr traf accdnt sedan","V48.5","V48.5",0
+"V48.51","Car occ noncol drvr traf accdnt atrn 4WD","V48.5","V48.5",0
+"V48.52","Car occ noncol drvr traf accdnt 4wlmtrcyc","V48.5","V48.5",0
+"V48.53","Car occ noncol drvr traf accdnt pvan","V48.5","V48.5",0
+"V48.58","Car occ noncol drvr traf accdnt oth car","V48.5","V48.5",0
+"V48.59","Car occ noncol drvr traf accdnt ?car","V48.5","V48.5",0
+"V48.60","Car occ noncol pass traf accdnt sedan","V48.6","V48.6",0
+"V48.61","Car occ noncol pass traf accdnt atrn 4WD","V48.6","V48.6",0
+"V48.62","Car noncol pass traf accdnt 4wlmtrcyc","V48.6","V48.6",0
+"V48.63","Car occ noncol pass traf accdnt pvan","V48.6","V48.6",0
+"V48.68","Car occ noncol pass traf accdnt oth car","V48.6","V48.6",0
+"V48.69","Car occ noncol pass traf accdnt ?car","V48.6","V48.6",0
+"V48.70","Car occ noncol trnspt traf accdnt sedan","V48.7","V48.7",0
+"V48.71","Car occ noncol traf accdnt atrn 4WD","V48.7","V48.7",0
+"V48.72","Car occ noncol traf accdnt 4wlmtrcyc","V48.7","V48.7",0
+"V48.73","Car occ noncol trnspt traf accdnt pvan","V48.7","V48.7",0
+"V48.78","Car occ noncol traf accdnt oth spec car","V48.7","V48.7",0
+"V48.79","Car occ noncol trnspt traf accdnt ?car","V48.7","V48.7",0
+"V48.90","Car occ noncol ?occ traf accdnt sedan","V48.9","V48.9",0
+"V48.91","Car occ noncol ?occ traf accdnt atrn 4WD","V48.9","V48.9",0
+"V48.92","Car noncol ?occ traf accdnt 4wlmtrcyc","V48.9","V48.9",0
+"V48.93","Car occ noncol ?occ traf accdnt pvan","V48.9","V48.9",0
+"V48.98","Car noncol ?occ traf accdnt oth spec car","V48.9","V48.9",0
+"V48.99","Car occ noncol ?occ traf accdnt ?car","V48.9","V48.9",0
+"V80.00","Rdr fl horse noncol ","V80.0","V80.0",0
+"V80.01","Rdr fl oth anml noncol","V80.0","V80.0",0
+"V80.09","Oth rdr/occ fl anml/anml drwn veh noncol","V80.0","V80.0",0
+"V86.00","Driver all-terrain/off-road MV traf 2wl","V86.0","V86.0",0
+"V86.01","Driver all-terrain/off-road MV traf 3wl","V86.0","V86.0",0
+"V86.02","Driver all-terrain/off-road MV traf 4wl","V86.0","V86.0",0
+"V86.09","Driver all-terrain/off-road MV traf ?wl","V86.0","V86.0",0
+"V86.10","Pass all-terrain/off-road MV traf 2wl","V86.1","V86.1",0
+"V86.11","Pass all-terrain/off-road MV traf 3wl","V86.1","V86.1",0
+"V86.12","Pass all-terrain/off-road MV traf 4wl","V86.1","V86.1",0
+"V86.19","Pass all-terrain/off-road MV traf ?wl","V86.1","V86.1",0
+"V86.20","Person outside off-road MV traf 2wl","V86.2","V86.2",0
+"V86.21","Person outside off-road MV traf 3wl","V86.2","V86.2",0
+"V86.22","Person outside off-road MV traf 4wl","V86.2","V86.2",0
+"V86.29","Person outside off-road MV traf ?wl","V86.2","V86.2",0
+"V86.30","?occupant of off-road MV traf 2wl","V86.3","V86.3",0
+"V86.31","?occupant of off-road MV traf 3wl","V86.3","V86.3",0
+"V86.32","?occupant of off-road MV traf 4wl","V86.3","V86.3",0
+"V86.39","?occupant of off-road MV traf ?wl","V86.3","V86.3",0
+"V86.40","Person board/algt from off-road MV 2wl","V86.4","V86.4",0
+"V86.41","Person board/algt from off-road MV 3wl","V86.4","V86.4",0
+"V86.42","Person board/algt from off-road MV 4wl","V86.4","V86.4",0
+"V86.49","Person board/algt from off-road MV ?wl","V86.4","V86.4",0
+"V86.50","Driver off-road MV nontrf 2wl","V86.5","V86.5",0
+"V86.51","Driver off-road MV nontrf 2wl","V86.5","V86.5",0
+"V86.52","Driver off-road MV nontrf 4wl","V86.5","V86.5",0
+"V86.59","Driver off-road MV nontrf ?wl","V86.5","V86.5",0
+"V86.60","Pass all-terrain/off-road MV nontrf 2wl","V86.6","V86.6",0
+"V86.61","Pass all-terrain/off-road MV nontrf 3wl","V86.6","V86.6",0
+"V86.62","Pass all-terrain/off-road MV nontrf 4wl","V86.6","V86.6",0
+"V86.69","Pass all-terrain/off-road MV nontrf ?wl","V86.6","V86.6",0
+"V86.70","Person outside off-road MV nontrf 2wl","V86.7","V86.7",0
+"V86.71","Person outside off-road MV nontrf 3wl","V86.7","V86.7",0
+"V86.72","Person outside off-road MV nontrf 4wl","V86.7","V86.7",0
+"V86.79","Person outside off-road MV nontrf ?wl","V86.7","V86.7",0
+"V86.90","?occupant of off-road MV nontrf 2wl","V86.9","V86.9",0
+"V86.91","?occupant of off-road MV nontrf 3wl","V86.9","V86.9",0
+"V86.92","?occupant of off-road MV nontrf 4wl","V86.9","V86.9",0
+"V86.99","?occupant of off-road MV nontrf ?wl","V86.9","V86.9",0
+"W01.0","Fall on same level from slipping","W01","W01",0
+"W01.1","Fall on same level from tripping ","W01","W01",0
+"W01.2","Fall on same level from stumbling","W01","W01",0
+"W02.0","Fall involving roller-skates ","W02","W02",0
+"W02.1","Fall involving skateboard","W02","W02",0
+"W02.2","Fall involving waterski","W02","W02",0
+"W02.3","Fall involving snow ski","W02","W02",0
+"W02.4","Fall involving snow board","W02","W02",0
+"W02.5","Fall involving ice-skates","W02","W02",0
+"W09.0","Fall involving tree house","W09","W09",0
+"W09.1","Fall involving flying fox","W09","W09",0
+"W09.2","Fall inv playground climbing apparatus","W09","W09",0
+"W09.3","Fall involving slide","W09","W09",0
+"W09.4","Fall involving swing","W09","W09",0
+"W09.5","Fall involving seesaw","W09","W09",0
+"W09.6","Fall involving trampoline","W09","W09",0
+"W09.8","Fall involving oth playground equipment","W09","W09",0
+"W09.9","Fall inv ?playground equipment","W09","W09",0
+"W21.0","Struck by bat & racquet","W21","W21",0
+"W21.1","Striking against or struck by ball","W21","W21",0
+"W21.2","Struck by obj/str sports area","W21","W21",0
+"W21.8","Struck by oth sports equipment","W21","W21",0
+"W21.9","Struck by ?sports equipment","W21","W21",0
+"M72.69","Necrotising fasciitis, site unspecified","M72.59","M72.59",0
+"W23.0","Caught crush jam or pinch bw door","W23","W23",0
+"W23.8","Caught crush jam or pinch bw oth objects","W23","W23",0
+"W30.0","Contct w grain auger/elevator/conveyor","W30","W30",0
+"W30.1","Contact with harvesting machinery","W30","W30",0
+"W30.20","Contact with posthole digger","W30","W30",0
+"W30.21","Contact with slasher","W30","W30",0
+"W30.22","Contact w seeding & planting implement","W30","W30",0
+"W30.23","Contact w tillage/cultivating equipment","W30","W30",0
+"W30.24","Contact with fertiliser spreader","W30","W30",0
+"W30.28","Contct w oth spec equip towed by tractor","W30","W30",0
+"W30.29","Contact with ?equipment towed by tractor","W30","W30",0
+"W30.3","Contact w hay bayler/implement","W30","W30",0
+"W30.8","Contact w oth spec agricultural mach","W30","W30",0
+"W30.9","Contact w ?agricultural mach","W30","W30",0
+"W31.0","Contact w mining & earth drilling mach","W31","W31",0
+"W31.1","Contact with metalworking machinery","W31","W31",0
+"W31.2","Contact w woodworking & forming mach","W31","W31",0
+"W31.3","Contact with prime mover","W31","W31",0
+"W31.4","Contact w earthmoving mach","W31","W31",0
+"W31.8","Contact with other specified machinery","W31","W31",0
+"W31.9","Contact with unspecified machinery","W31","W31",0
+"W54.0","Bitten by dog","W54","W54",0
+"W54.8","Other contact with dog","W54","W54",0
+"W55.0","Bitten or struck by horse","W55","W55",0
+"W55.8","Bitten or struck by other mammal","W55","W55",0
+"W56.0","Contact with shark","W56","W56",0
+"W56.8","Contact with oth spec marine animal","W56","W56",0
+"W56.9","Contact with ?marine animal","W56","W56",0
+"W59.0","Bitten or crushed by nonvenomous snake","W59","W59",0
+"W59.1","Bitten/crushed snake NOS","W59","W59",0
+"W59.8","Bitten/crushed oth spec reptile","W59","W59",0
+"W65.0","Drowning & submersion while in bath-tub","W65","W65",0
+"W65.1","Drwn & submrs in indoor spa","W65","W65",0
+"W66.0","Drowning & submersion fall into bath-tub","W66","W66",0
+"W66.1","Drwn & submrs fall indoor spa","W66","W66",0
+"W67.0","Drwn & submrs in swim-pool","W67","W67",0
+"W67.1","Drwn & submrs in outdoor spa","W67","W67",0
+"W68.0","Drowning submersion fall in swim-pool","W68","W68",0
+"W68.1","Drwn & submrs fall in outdoor spa","W68","W68",0
+"X10.0","Contact with hot drink","X10","X10",0
+"X10.1","Contact with hot food","X10","X10",0
+"X10.2","Contact w hot fat & cooking oil","X10","X10",0
+"X11.0","Contact with running hot tap-water","X11","X11",0
+"X11.1","Contact with contained hot tap-water","X11","X11",0
+"X11.8","Contact with other hot tap-water","X11","X11",0
+"X11.9","Contact with unspecified hot tap-water","X11","X11",0
+"X13.0","Contact w steam motor vehicle radtr ","X13","X13",0
+"X13.1","Contact w steam & hot vapours food","X13","X13",0
+"X13.8","Contact w steam & hot vapours oth source","X13","X13",0
+"X13.9","Contact w unspec steam & hot vapours","X13","X13",0
+"X20.00","Contact with brown snake","X20","X20",0
+"X20.01","Contact with taipan","X20","X20",0
+"X20.02","Contact with death adder","X20","X20",0
+"X20.03","Contact with black snake","X20","X20",0
+"X20.04","Contact with tiger snake","X20","X20",0
+"X20.05","Contact with sea-snake","X20","X20",0
+"X20.08","Contact with other spec venomous snake","X20","X20",0
+"X20.09","Contact with unspecified venomous snake","X20","X20",0
+"X20.1","Contact with venomous lizard","X20","X20",0
+"X21.0","Contact with funnel web spider","X21","X21",0
+"X21.1","Contact with red back spider","X21","X21",0
+"X21.2","Contct w white-tailed & oth necrg spider","X21","X21",0
+"X21.8","Contact with other specified spider","X21","X21",0
+"X21.9","Contact with unspecified spider","X21","X21",0
+"X25.00","Contact with jumper and bull ant","X25","X25",0
+"X25.01","Contact with fire ant","X25","X25",0
+"X25.02","Contact with green ant","X25","X25",0
+"X25.08","Contact with other spec venomous ant","X25","X25",0
+"X25.09","Contact with venomous ant unspecified","X25","X25",0
+"X25.1","Contact with venomous tick","X25","X25",0
+"X25.2","Contact with venomous & urt caterpillar","X25","X25",0
+"X25.8","Contact with other spec venm arthropod","X25","X25",0
+"X25.9","Contact with ?venm arthropod","X25","X25",0
+"X26.00","Contact with box jellyfish","X26","X26",0
+"X26.01","Contact with Irukandji jellyfish","X26","X26",0
+"X26.02","Contct w Portuguese Manowar & bluebottle","X26","X26",0
+"X26.08","Contact with other specified jellyfish","X26","X26",0
+"X26.10","Contact with stonefish","X26","X26",0
+"X26.18","Contct w other spec stinging fish","X26","X26",0
+"X26.2","Contact with venomous octopus","X26","X26",0
+"X26.3","Contact with stingray","X26","X26",0
+"X26.8","Contct oth spec venm marine anml & plant","X26","X26",0
+"X26.9","Contct w ?venm marine anml & plants","X26","X26",0
+"X27.0","Contact with platypus","X27","X27",0
+"X27.8","Contct w oth & ?venomous anml","X27","X27",0
+"X47.0","Accid poisn motor vehicle exhaust","X47","X47",0
+"X47.1","Accid poisn LPG","X47","X47",0
+"X47.2","Accid poisn oth spec utility gas","X47","X47",0
+"X47.8","Accid poisn oth spec gas & vapours","X47","X47",0
+"X47.9","Accid poisn ?gas & vapours","X47","X47",0
+"X67.0","Intent selfpoison motor vehicle exhaust","X67","X67",0
+"X67.1","Intent selfpoison LPG","X67","X67",0
+"X67.2","Intent selfpoison oth spec utility gas","X67","X67",0
+"X67.8","Intent selfpoison oth spec gas/vapours","X67","X67",0
+"X67.9","Intent selfpoison ?gas or vapours","X67","X67",0
+"X71.0","Int selfharm drwn & submrs bath-tub","X71","X71",0
+"X71.1","Int selfharm drwn & submrs swim-pool","X71","X71",0
+"X71.2","Int selfharm drwn & submrs natural wtr","X71","X71",0
+"X71.8","Int selfharm drwn & submrs oth spec wtr","X71","X71",0
+"X71.9","Int selfharm drwn & submrs ? wtr","X71","X71",0
+"X78.0","Int selfharm by knife","X78","X78",0
+"X78.1","Int selfharm by razor blade","X78","X78",0
+"X78.2","Int selfharm by hypdrmc needle & syrge","X78","X78",0
+"X78.3","Int selfharm by glass","X78","X78",0
+"X78.8","Int selfharm by oth spec sharp obj","X78","X78",0
+"X78.9","Int selfharm by ?sharp obj","X78","X78",0
+"X82.0","Intent selfharm crsh car w oth MV nontrf","X82","X82",0
+"X82.1","Intent slfharm crsh car fix/ statnry obj","X82","X82",0
+"X82.2","Intent slfharm oth spec crsh MV nontrf","X82","X82",0
+"X82.3","Intent slfharm ?crsh MV nontrf","X82","X82",0
+"X82.4","Intent slfharm crsh car w oth MV traf","X82","X82",0
+"X82.5","Intent slfharm crsh car fix/ statnry obj","X82","X82",0
+"X82.8","Intent slfharm oth spec crsh MV traf","X82","X82",0
+"X82.9","Intent slfharm ?crsh MV traf","X82","X82",0
+"X85.00","Asslt by drug medts biol subs sps/dp","X85","X85",0
+"X85.01","Asslt by drug medts biol subs parent","X85","X85",0
+"X85.02","Asslt by drug medts biol subs oth fm","X85","X85",0
+"X85.03","Asslt by drug medts biol subs carer","X85","X85",0
+"X85.04","Asslt by drug medts biol subs acq/frd","X85","X85",0
+"X85.05","Asslt by drug medts biol subs ofc auth","X85","X85",0
+"X85.06","Asslt dr/medts/biol subs pers ?vctm","X85","X85",0
+"X85.07","Asslt drug medts biol subs ?mult pers ","X85","X85",0
+"X85.08","Asslt drug medts biol subs oth spec pers","X85","X85",0
+"X85.09","Asslt drug medts biol subs ?pers","X85","X85",0
+"X86.00","Asslt corsv subs sps/dp","X86","X86",0
+"X86.01","Asslt corsv subs parent","X86","X86",0
+"X86.02","Asslt corsv subs oth fm","X86","X86",0
+"X86.03","Asslt corsv subs carer","X86","X86",0
+"X86.04","Asslt corsv subs acq/frd","X86","X86",0
+"X86.05","Asslt corsv subs ofc auth","X86","X86",0
+"X86.06","Asslt corsv subs pers ?t vctm","X86","X86",0
+"X86.07","Asslt corsv subs ?mult pers","X86","X86",0
+"X86.08","Asslt corsv subs oth spec pers","X86","X86",0
+"X86.09","Asslt corsv subs ?pers","X86","X86",0
+"X87.00","Asslt pesticides sps/dp","X87","X87",0
+"X87.01","Asslt pesticides parent","X87","X87",0
+"X87.02","Asslt pesticides oth fm","X87","X87",0
+"X87.03","Asslt pesticides carer","X87","X87",0
+"X87.04","Asslt pesticides acq/frd","X87","X87",0
+"X87.05","Asslt pesticides ofc auth","X87","X87",0
+"X87.06","Asslt pesticides pers ?t vctm","X87","X87",0
+"X87.07","Asslt pesticides ?mult pers","X87","X87",0
+"X87.08","Asslt pesticides oth spec pers","X87","X87",0
+"X87.09","Asslt pesticides ?pers","X87","X87",0
+"X88.00","Asslt gases & vapours sps/dp","X88","X88",0
+"X88.01","Asslt gases & vapours parent","X88","X88",0
+"X88.02","Asslt gases & vapours oth fm","X88","X88",0
+"X88.03","Asslt gases & vapours carer","X88","X88",0
+"X88.04","Asslt gases & vapours acq/frd","X88","X88",0
+"X88.05","Asslt gases & vapours ofc auth","X88","X88",0
+"X88.06","Asslt gases & vapours pers ?t vctm","X88","X88",0
+"X88.07","Asslt gases & vapours ?mult pers","X88","X88",0
+"X88.08","Asslt gases & vapours oth spec pers","X88","X88",0
+"X88.09","Asslt gases & vapours ?pers","X88","X88",0
+"X89.00","Asslt oth spec chem nox subs sps/dp","X89","X89",0
+"X89.01","Asslt oth spec chem nox subs parent","X89","X89",0
+"X89.02","Asslt oth spec chem nox subs oth fm","X89","X89",0
+"X89.03","Asslt oth spec chem nox subs carer","X89","X89",0
+"X89.04","Asslt oth spec chem nox subs acq/frd","X89","X89",0
+"X89.05","Asslt oth spec chem nox subs ofc auth","X89","X89",0
+"X89.06","Asslt oth spec chem pers ?t vctm","X89","X89",0
+"X89.07","Asslt oth spec chem nox subs ?mult pers","X89","X89",0
+"X89.08","Asslt oth spec chem oth spec pers","X89","X89",0
+"X89.09","Asslt oth spec chem nox subs ?pers","X89","X89",0
+"X90.00","Asslt ? chem nox subs sps/dp","X90","X90",0
+"X90.01","Asslt ? chem nox subs parent","X90","X90",0
+"X90.02","Asslt ? chem nox subs oth fm","X90","X90",0
+"X90.03","Asslt ? chem nox subs carer","X90","X90",0
+"X90.04","Asslt ? chem nox subs acq/frd","X90","X90",0
+"X90.05","Asslt ? chem nox subs ofc auth","X90","X90",0
+"X90.06","Asslt ? chem nox subs pers ?t vctm","X90","X90",0
+"X90.07","Asslt ? chem nox subs ?mult pers","X90","X90",0
+"X90.08","Asslt ? chem nox subs oth spec pers","X90","X90",0
+"X90.09","Asslt ? chem nox subs ?pers","X90","X90",0
+"X91.00","Asslt hang strangltn suffn sps/dp","X91","X91",0
+"X91.01","Asslt hang strangltn suffn parent","X91","X91",0
+"X91.02","Asslt hang strangltn suffn oth fm","X91","X91",0
+"X91.03","Asslt hang strangltn suffn carer","X91","X91",0
+"X91.04","Asslt hang strangltn suffn acq/frd","X91","X91",0
+"X91.05","Asslt hang strangltn suffn ofc auth","X91","X91",0
+"X91.06","Asslt hang strangltn suffn pers ?t vctm","X91","X91",0
+"X91.07","Asslt hang strangltn suffn ?mult pers","X91","X91",0
+"X91.08","Asslt hang strangltn suffn oth spec pers","X91","X91",0
+"X91.09","Asslt hang strangltn suffn ?pers","X91","X91",0
+"X92.00","Asslt drwn & submrs bath-tub sps/dp","X92","X92",0
+"X92.01","Asslt drwn & submrs bath-tub parent","X92","X92",0
+"X92.02","Asslt drwn & submrs bath-tub oth fm","X92","X92",0
+"X92.03","Asslt drwn & submrs bath-tub carer","X92","X92",0
+"X92.04","Asslt drwn & submrs bath-tub acq/frd","X92","X92",0
+"X92.05","Asslt drwn & submrs bath-tub ofc auth","X92","X92",0
+"X92.06","Asslt drwn bath-tub pers ? t vctm","X92","X92",0
+"X92.07","Asslt drwn & submrs bath-tub ?mult pers","X92","X92",0
+"X92.08","Asslt drwn submrs bath-tub oth spec pers","X92","X92",0
+"X92.09","Asslt drwn & submrs bath-tub ?pers","X92","X92",0
+"X92.10","Asslt drwn & submrs swim-pool sps/dp","X92","X92",0
+"X92.11","Asslt drwn & submrs swim-pool parent","X92","X92",0
+"X92.12","Asslt drwn & submrs swim-pool oth fm","X92","X92",0
+"X92.13","Asslt drwn & submrs swim-pool carer","X92","X92",0
+"X92.14","Asslt drwn & submrs swim-pool acq/frd","X92","X92",0
+"X92.15","Asslt drwn & submrs swim-pool ofc auth","X92","X92",0
+"X92.16","Asslt drwn swim-pool pers ?t vctm","X92","X92",0
+"X92.17","Asslt drwn & submrs swim-pool ?mult pers","X92","X92",0
+"X92.18","Asslt drwn swim-pool oth spec pers","X92","X92",0
+"X92.19","Asslt drwn & submrs swim-pool ?pers","X92","X92",0
+"X92.20","Asslt drwn & submrs natural wtr sps/dp","X92","X92",0
+"X92.21","Asslt drwn & submrs natural wtr parent","X92","X92",0
+"X92.22","Asslt drwn & submrs natural wtr oth fm","X92","X92",0
+"X92.23","Asslt drwn & submrs natural wtr carer","X92","X92",0
+"X92.24","Asslt drwn & submrs natural wtr acq/frd","X92","X92",0
+"X92.25","Asslt drwn & submrs natural wtr ofc auth","X92","X92",0
+"X92.26","Asslt drwn natural wtr pers ?t vctm","X92","X92",0
+"X92.27","Asslt drwn submrs natural wtr ?mult pers","X92","X92",0
+"X92.28","Asslt drwn natural wtr oth spec pers","X92","X92",0
+"X92.29","Asslt drwn & submrs natural wtr ?pers","X92","X92",0
+"X92.80","Asslt drwn & submrs oth spec wtr sps/dp","X92","X92",0
+"X92.81","Asslt drwn & submrs oth spec wtr parent","X92","X92",0
+"X92.82","Asslt drwn & submrs oth spec wtr oth fm","X92","X92",0
+"X92.83","Asslt drwn & submrs oth spec wtr carer","X92","X92",0
+"X92.84","Asslt drwn & submrs oth spec wtr acq/frd","X92","X92",0
+"X92.85","Asslt drwn submrs oth spec wtr ofc auth","X92","X92",0
+"X92.86","Asslt drwn spec wtr pers ?t vctm","X92","X92",0
+"X92.87","Asslt drwn submrs spec wtr ?mult pers","X92","X92",0
+"X92.88","Asslt drwn oth spec wtr oth spec pers","X92","X92",0
+"X92.89","Asslt drwn & submrs oth spec wtr ?pers","X92","X92",0
+"X92.90","Asslt drwn & submrs ?wtr sps/dp","X92","X92",0
+"X92.91","Asslt drwn & submrs ?wtr parent","X92","X92",0
+"X92.92","Asslt drwn & submrs ?wtr oth fm","X92","X92",0
+"X92.93","Asslt drwn & submrs ?wtr carer","X92","X92",0
+"X92.94","Asslt drwn & submrs ?wtr acq/frd","X92","X92",0
+"X92.95","Asslt drwn & submrs ?wtr ofc auth","X92","X92",0
+"X92.96","Asslt drwn submrs ?wtr pers ?t vctm","X92","X92",0
+"X92.97","Asslt drwn & submrs ?wtr ?mult pers","X92","X92",0
+"X92.98","Asslt drwn & submrs ?wtr oth spec pers","X92","X92",0
+"X92.99","Asslt drwn & submrs ?wtr ?pers","X92","X92",0
+"X93.00","Asslt handgun disch sps/dp","X93","X93",0
+"X93.01","Asslt handgun disch parent","X93","X93",0
+"X93.02","Asslt handgun disch oth fm","X93","X93",0
+"X93.03","Asslt handgun disch carer","X93","X93",0
+"X93.04","Asslt handgun disch acq/frd","X93","X93",0
+"X93.05","Asslt handgun disch ofc auth","X93","X93",0
+"X93.06","Asslt handgun disch pers ?t vctm","X93","X93",0
+"X93.07","Asslt handgun disch ?mult pers","X93","X93",0
+"X93.08","Asslt handgun disch oth spec pers","X93","X93",0
+"X93.09","Asslt handgun disch ?pers","X93","X93",0
+"X95.10","Asslt air rifle disch sps/dp","X95.1","X95.1",0
+"X95.11","Asslt air rifle disch parent","X95.1","X95.1",0
+"X95.12","Asslt air rifle disch oth fm","X95.1","X95.1",0
+"X95.13","Asslt air rifle disch carer","X95.1","X95.1",0
+"X95.14","Asslt air rifle disch acq/frd","X95.1","X95.1",0
+"X95.15","Asslt air rifle disch ofc auth","X95.1","X95.1",0
+"X95.16","Asslt air rifle disch pers ?t vctm","X95.1","X95.1",0
+"X95.17","Asslt air rifle disch ?mult pers","X95.1","X95.1",0
+"X95.18","Asslt air rifle disch oth spec pers","X95.1","X95.1",0
+"X95.19","Asslt air rifle disch ?pers","X95.1","X95.1",0
+"X95.20","Asslt shotgun disch sps/dp","X95.2","X95.2",0
+"X95.21","Asslt shotgun disch parent","X95.2","X95.2",0
+"X95.22","Asslt shotgun disch oth fm","X95.2","X95.2",0
+"X95.23","Asslt shotgun disch carer","X95.2","X95.2",0
+"X95.24","Asslt shotgun disch acq/frd","X95.2","X95.2",0
+"X95.25","Asslt shotgun disch ofc auth","X95.2","X95.2",0
+"X95.26","Asslt shotgun disch pers ?t vctm","X95.2","X95.2",0
+"X95.27","Asslt shotgun disch ?mult pers","X95.2","X95.2",0
+"X95.28","Asslt shotgun disch oth spec pers","X95.2","X95.2",0
+"X95.29","Asslt shotgun disch ?pers","X95.2","X95.2",0
+"X95.30","Asslt smllcalbr rifle disch sps/dp","X95.3","X95.3",0
+"X95.31","Asslt smllcalbr rifle disch parent","X95.3","X95.3",0
+"X95.32","Asslt smllcalbr rifle disch oth fm","X95.3","X95.3",0
+"X95.33","Asslt smllcalbr rifle disch carer","X95.3","X95.3",0
+"X95.34","Asslt smllcalbr rifle disch acq/frd","X95.3","X95.3",0
+"X95.35","Asslt smllcalbr rifle disch ofc auth","X95.3","X95.3",0
+"X95.36","Asslt smllcalbr rifle disch pers ?t vctm","X95.3","X95.3",0
+"X95.37","Asslt smllcalbr rifle disch ?mult pers","X95.3","X95.3",0
+"X95.38","Asslt smllcalbr rifle disch spec pers","X95.3","X95.3",0
+"X95.39","Asslt smllcalbr rifle disch","X95.3","X95.3",0
+"X95.40","Asslt lrgcalbr rifle disch sps/dp","X95.4","X95.4",0
+"X95.41","Asslt lrgcalbr rifle disch parent","X95.4","X95.4",0
+"X95.42","Asslt lrgcalbr rifle disch oth fm","X95.4","X95.4",0
+"X95.43","Asslt lrgcalbr rifle disch carer","X95.4","X95.4",0
+"X95.44","Asslt lrgcalbr rifle disch acq/frd","X95.4","X95.4",0
+"X95.45","Asslt lrgcalbr rifle disch ofc auth","X95.4","X95.4",0
+"X95.46","Asslt lrgcalbr rifle pers ?t vctm","X95.4","X95.4",0
+"X95.47","Asslt lrgcalbr rifle disch ?mult pers","X95.4","X95.4",0
+"X95.48","Asslt lrgcalbr rifle disch oth spec pers","X95.4","X95.4",0
+"X95.49","Asslt lrgcalbr rifle disch ?pers","X95.4","X95.4",0
+"X95.90","Asslt other & ?firearms sps/dp","X95.9","X95.9",0
+"X95.91","Asslt other & ?firearms parent","X95.9","X95.9",0
+"X95.92","Asslt other & ?firearms oth fm","X95.9","X95.9",0
+"X95.93","Asslt other & ?firearms carer","X95.9","X95.9",0
+"X95.94","Asslt other & ?firearms acq/frd","X95.9","X95.9",0
+"X95.95","Asslt other & ?firearms ofc auth","X95.9","X95.9",0
+"X95.96","Asslt other & ?firearms pers ?t vctm","X95.9","X95.9",0
+"X95.97","Asslt other & ?firearms ?mult pers","X95.9","X95.9",0
+"X95.98","Asslt other & ?firearms oth spec pers","X95.9","X95.9",0
+"X95.99","Asslt other & ?firearms ?pers","X95.9","X95.9",0
+"X96.00","Asslt explsv matrl sps/dp","X96","X96",0
+"X96.01","Asslt explsv matrl parent","X96","X96",0
+"X96.02","Asslt explsv matrl oth fm","X96","X96",0
+"X96.03","Asslt explsv matrl carer","X96","X96",0
+"X96.04","Asslt explsv matrl acq/frd","X96","X96",0
+"X96.05","Asslt explsv matrl ofc auth","X96","X96",0
+"X96.06","Asslt explsv matrl pers ?t vctm","X96","X96",0
+"X96.07","Asslt explsv matrl ?mult pers","X96","X96",0
+"X96.08","Asslt explsv matrl oth spec pers","X96","X96",0
+"X96.09","Asslt explsv matrl ?pers","X96","X96",0
+"X97.00","Asslt smoke fire & flames sps/dp","X97","X97",0
+"X97.01","Asslt smoke fire & flames parent","X97","X97",0
+"X97.02","Asslt smoke fire & flames oth fm","X97","X97",0
+"X97.03","Asslt smoke fire & flames carer","X97","X97",0
+"X97.04","Asslt smoke fire & flames acq/frd","X97","X97",0
+"X97.05","Asslt smoke fire & flames ofc auth","X97","X97",0
+"X97.06","Asslt smoke fire pers ?t vctm","X97","X97",0
+"X97.07","Asslt smoke fire & flames ?mult pers","X97","X97",0
+"X97.08","Asslt smoke fire & flames oth spec pers","X97","X97",0
+"X97.09","Asslt smoke fire & flames ?pers","X97","X97",0
+"X98.00","Asslt steam hot vapour/object sps/dp","X98","X98",0
+"X98.01","Asslt steam hot vapour/object parent","X98","X98",0
+"X98.02","Asslt steam hot vapour/object oth fm","X98","X98",0
+"X98.03","Asslt steam hot vapour/object carer","X98","X98",0
+"X98.04","Asslt steam hot vapour/object acq/frd","X98","X98",0
+"X98.05","Asslt steam hot vapour/object ofc auth","X98","X98",0
+"X98.06","Asslt steam hot vapour pers ?t vctm","X98","X98",0
+"X98.07","Asslt steam hot vapour/object ?mult pers","X98","X98",0
+"X98.08","Asslt steam hot vapour/obj oth spec pers","X98","X98",0
+"X98.09","Asslt steam hot vapour/object ?pers","X98","X98",0
+"X99.00","Asslt by knife sps/dp","X99","X99",0
+"X99.01","Assault by knife, parent","X99","X99",0
+"X99.02","Assault by knife, other family member","X99","X99",0
+"X99.03","Assault by knife, carer","X99","X99",0
+"X99.04","Asslt by knife acq/frd","X99","X99",0
+"X99.05","Assault by knife, official authorities","X99","X99",0
+"X99.06","Asslt by knife pers ?t vctm","X99","X99",0
+"X99.07","Asslt by knife ?mult pers","X99","X99",0
+"X99.08","Assault by knife, other specified person","X99","X99",0
+"X99.09","Asslt by knife ?pers","X99","X99",0
+"X99.10","Asslt by razor blade sps/dp","X99","X99",0
+"X99.11","Assault by razor blade, parent","X99","X99",0
+"X99.12","Asslt by razor blade oth fm","X99","X99",0
+"X99.13","Assault by razor blade, carer","X99","X99",0
+"X99.14","Asslt by razor blade acq/frd","X99","X99",0
+"X99.15","Asslt by razor blade ofc auth","X99","X99",0
+"X99.16","Asslt by razor blade pers ?t vctm","X99","X99",0
+"X99.17","Asslt by razor blade ?mult pers","X99","X99",0
+"X99.18","Asslt by razor blade oth spec pers","X99","X99",0
+"X99.19","Asslt by razor blade ?pers","X99","X99",0
+"X99.20","Assault hypdrmc needle & syrge sps/dp","X99","X99",0
+"X99.21","Assault hypdrmc needle & syrge parent","X99","X99",0
+"X99.22","Assault hypdrmc needle & syrge oth fm","X99","X99",0
+"X99.23","Assault hypdrmc needle & syrge carer","X99","X99",0
+"X99.24","Assault hypdrmc needle & syrge acq/frd","X99","X99",0
+"X99.25","Assault hypdrmc needle & syrge ofc auth","X99","X99",0
+"X99.26","Assault hypdrmc needle pers ?t vctm","X99","X99",0
+"X99.27","Assault hypdrmc needle syrge ?mult pers","X99","X99",0
+"X99.28","Assault hypdrmc needle oth spec pers","X99","X99",0
+"X99.29","Assault hypdrmc needle & syrge ?pers","X99","X99",0
+"X99.30","Asslt by glass sps/dp","X99","X99",0
+"X99.31","Assault by glass, parent","X99","X99",0
+"X99.32","Assault by glass, other family member","X99","X99",0
+"X99.33","Assault by glass, carer","X99","X99",0
+"X99.34","Assault by glass, acquaintance or friend","X99","X99",0
+"X99.35","Assault by glass, official authorities","X99","X99",0
+"X99.36","Asslt by glass pers ?t vctm","X99","X99",0
+"X99.37","Asslt by glass ?mult pers","X99","X99",0
+"X99.38","Assault by glass, other specified person","X99","X99",0
+"X99.39","Assault by glass, unspecified person","X99","X99",0
+"X99.80","Asslt by oth spec sharp obj sps/dp","X99","X99",0
+"X99.81","Asslt by oth spec sharp obj parent","X99","X99",0
+"X99.82","Asslt by oth spec sharp obj other fm","X99","X99",0
+"X99.83","Asslt by oth spec sharp obj carer","X99","X99",0
+"X99.84","Asslt by oth spec sharp obj acq/frd","X99","X99",0
+"X99.85","Asslt by oth spec sharp obj ofc auth","X99","X99",0
+"X99.86","Asslt by oth sharp obj pers ?t vctm","X99","X99",0
+"X99.87","Asslt by oth spec sharp obj ?mult pers","X99","X99",0
+"X99.88","Asslt oth spec sharp obj oth spec pers","X99","X99",0
+"X99.89","Asslt by oth spec sharp obj ?pers","X99","X99",0
+"X99.90","Asslt by ?sharp obj sps/dp","X99","X99",0
+"X99.91","Asslt by ?sharp obj parent","X99","X99",0
+"X99.92","Asslt by ?sharp obj oth fm","X99","X99",0
+"X99.93","Asslt by ?sharp obj carer","X99","X99",0
+"X99.94","Asslt by ?sharp obj acq/frd","X99","X99",0
+"X99.95","Asslt by ?sharp obj ofc auth","X99","X99",0
+"X99.96","Asslt by ?sharp obj pers ?t vctm","X99","X99",0
+"X99.97","Asslt by ?sharp obj ?mult pers","X99","X99",0
+"X99.98","Asslt by ?sharp obj oth spec pers","X99","X99",0
+"X99.99","Asslt by ?sharp obj ?pers","X99","X99",0
+"Y00.00","Asslt by blunt obj sps/dp","Y00","Y00",0
+"Y00.01","Assault by blunt object, parent","Y00","Y00",0
+"Y00.02","Asslt by blunt obj oth fm","Y00","Y00",0
+"Y00.03","Assault by blunt object, carer","Y00","Y00",0
+"Y00.04","Asslt by blunt obj acq/frd","Y00","Y00",0
+"Y00.05","Asslt by blunt obj ofc auth","Y00","Y00",0
+"Y00.06","Asslt by blunt obj pers ?t vctm","Y00","Y00",0
+"Y00.07","Asslt by blunt obj ?mult pers","Y00","Y00",0
+"Y00.08","Asslt by blunt obj oth spec pers","Y00","Y00",0
+"Y00.09","Asslt by blunt obj ?pers","Y00","Y00",0
+"Y01.00","Asslt by pushing high place sps/dp","Y01","Y01",0
+"Y01.01","Asslt by pushing high place parent","Y01","Y01",0
+"Y01.02","Asslt by pushing high place oth fm","Y01","Y01",0
+"Y01.03","Asslt by pushing high place carer","Y01","Y01",0
+"Y01.04","Asslt by pushing high place acq/frd","Y01","Y01",0
+"Y01.05","Asslt by pushing high place ofc auth","Y01","Y01",0
+"Y01.06","Asslt push high place pers ?t vctm","Y01","Y01",0
+"Y01.07","Asslt by pushing high place ?mult pers","Y01","Y01",0
+"Y01.08","Asslt pushing high place oth spec pers","Y01","Y01",0
+"Y01.09","Asslt by pushing high place ?pers","Y01","Y01",0
+"Y02.00","Asslt push/place vctm move obj sps/dp","Y02","Y02",0
+"Y02.01","Asslt push/place vctm move obj parent","Y02","Y02",0
+"Y02.02","Asslt push/place vctm move obj oth fm","Y02","Y02",0
+"Y02.03","Asslt push/place vctm move obj carer","Y02","Y02",0
+"Y02.04","Asslt push/place vctm move obj acq/frd","Y02","Y02",0
+"Y02.05","Asslt push/place vctm move obj ofc auth","Y02","Y02",0
+"Y02.06","Asslt push move obj pers ?t vctm","Y02","Y02",0
+"Y02.07","Aslt push/place vctm move obj ?mult pers","Y02","Y02",0
+"Y02.08","Asslt push/place move obj oth spec pers","Y02","Y02",0
+"Y02.09","Asslt push/place vctm move obj ?pers","Y02","Y02",0
+"Y03.00","Asslt crsh car w oth MV nontrf sps/dp","Y03","Y03",0
+"Y03.01","Asslt crsh car w oth MV nontrf parent","Y03","Y03",0
+"Y03.02","Asslt crsh car w oth MV nontrf oth fm","Y03","Y03",0
+"Y03.03","Asslt crsh car w oth MV nontrf carer","Y03","Y03",0
+"Y03.04","Asslt crsh car w oth MV nontrf acq/frd","Y03","Y03",0
+"Y03.05","Asslt crsh car w oth MV nontrf ofc auth","Y03","Y03",0
+"Y03.06","Asslt car w oth MV nontrf pers ?t vctm","Y03","Y03",0
+"Y03.07","Asslt crsh car oth MV nontrf ?mult pers","Y03","Y03",0
+"Y03.08","Asslt car w oth MV nontrf oth spec pers","Y03","Y03",0
+"Y03.09","Asslt crsh car w oth MV nontrf ?pers","Y03","Y03",0
+"Y03.10","Asslt crsh car w fix/ statnry obj sps/dp","Y03","Y03",0
+"Y03.11","Asslt crsh car w fix/ statnry obj parent","Y03","Y03",0
+"Y03.12","Asslt crsh car w fix/ statnry obj oth fm","Y03","Y03",0
+"Y03.13","Asslt crsh car w fix/ statnry obj carer","Y03","Y03",0
+"Y03.14","Asslt crsh car w fix/statnry obj acq/frd","Y03","Y03",0
+"Y03.15","Asslt crsh car w fix/ statnry obj c auth","Y03","Y03",0
+"Y03.16","Aslt crsh car fix/statnry obj pers ?t vctm","Y03","Y03",0
+"Y03.17","Aslt crsh car fix/statnry obj ?mult pers","Y03","Y03",0
+"Y03.18","Asslt crsh car w fix obj oth spec pers","Y03","Y03",0
+"Y03.19","Asslt crsh car w fix/ statnry obj ?pers","Y03","Y03",0
+"Y03.20","Asslt oth spec crsh MV nontrf sps/dp","Y03","Y03",0
+"Y03.21","Asslt oth spec crsh MV nontrf parent","Y03","Y03",0
+"Y03.22","Asslt oth spec crsh MV nontrf oth fm","Y03","Y03",0
+"Y03.23","Asslt oth spec crsh MV nontrf carer","Y03","Y03",0
+"Y03.24","Asslt oth spec crsh MV nontrf acq/frd","Y03","Y03",0
+"Y03.25","Asslt oth spec crsh MV nontrf ofc auth","Y03","Y03",0
+"Y03.26","Asslt spec crsh MV nontrf pers ?t vctm","Y03","Y03",0
+"Y03.27","Asslt oth spec crsh MV nontrf ?mult pers","Y03","Y03",0
+"Y03.28","Asslt spec crsh MV nontrf oth spec pers","Y03","Y03",0
+"Y03.29","Asslt oth spec crsh MV nontrf ?pers","Y03","Y03",0
+"Y03.30","Asslt ?crsh MV nontrf sps/dp","Y03","Y03",0
+"Y03.31","Asslt ?crsh MV nontrf parent","Y03","Y03",0
+"Y03.32","Asslt ?crsh MV nontrf oth fm","Y03","Y03",0
+"Y03.33","Asslt ?crsh MV nontrf carer","Y03","Y03",0
+"Y03.34","Asslt ?crsh MV nontrf acq/frd","Y03","Y03",0
+"Y03.35","Asslt ?crsh MV nontrf ofc auth","Y03","Y03",0
+"Y03.36","Asslt ?crsh MV nontrf pers ? t vctm","Y03","Y03",0
+"Y03.37","Asslt ?crsh MV nontrf ?mult pers","Y03","Y03",0
+"Y03.38","Asslt ?crsh MV nontrf oth spec pers","Y03","Y03",0
+"Y03.39","Asslt ?crsh MV nontrf ?pers","Y03","Y03",0
+"Y03.40","Asslt crsh car w oth MV traf sps/dp","Y03","Y03",0
+"Y03.41","Asslt crsh car w oth MV traf parent","Y03","Y03",0
+"Y03.42","Asslt crsh car w oth MV traf oth fm","Y03","Y03",0
+"Y03.43","Asslt crsh car w oth MV traf carer","Y03","Y03",0
+"Y03.44","Asslt crsh car w oth MV traf acq/frd","Y03","Y03",0
+"Y03.45","Asslt crsh car w oth MV traf ofc auth","Y03","Y03",0
+"Y03.46","Asslt crsh car oth MV traf pers ?t vctm","Y03","Y03",0
+"Y03.47","Asslt crsh car w oth MV traf ?mult pers","Y03","Y03",0
+"Y03.48","Asslt crsh car w oth MV traf spec pers","Y03","Y03",0
+"Y03.49","Asslt crsh car w oth MV traf ?pers","Y03","Y03",0
+"Y03.50","Asslt crsh car w fix/ statnry obj sps/dp","Y03","Y03",0
+"Y03.51","Asslt crsh car w fix/ statnry obj parent","Y03","Y03",0
+"Y03.52","Asslt crsh car w fix/ statnry obj oth fm","Y03","Y03",0
+"Y03.53","Asslt crsh car w fix/ statnry obj carer","Y03","Y03",0
+"Y03.54","Asslt crsh car w fix/statnry obj acq/frd","Y03","Y03",0
+"Y03.55","Asslt crsh car w fix/ statnry obj c auth","Y03","Y03",0
+"Y03.56","Asslt crsh car w fix obj pers ? t vctm","Y03","Y03",0
+"Y03.57","Asslt crsh car w fix obj ?mult pers","Y03","Y03",0
+"Y03.58","Asslt crsh car w fix obj oth spec pers","Y03","Y03",0
+"Y03.59","Asslt crsh car w fix/ statnry obj ?pers","Y03","Y03",0
+"Y03.80","Asslt oth spec crsh MV traf sps/dp","Y03","Y03",0
+"Y03.81","Asslt oth spec crsh MV traf parent","Y03","Y03",0
+"Y03.82","Asslt oth spec crsh MV traf oth fm","Y03","Y03",0
+"Y03.83","Asslt oth spec crsh MV traf carer","Y03","Y03",0
+"Y03.84","Asslt oth spec crsh MV traf acq/frd","Y03","Y03",0
+"Y03.85","Asslt oth spec crsh MV traf ofc auth","Y03","Y03",0
+"Y03.86","Asslt oth spec crsh MV traf pers ?t vctm","Y03","Y03",0
+"Y03.87","Asslt oth spec crsh MV traf ?mult pers","Y03","Y03",0
+"Y03.88","Asslt oth spec crsh MV traf oth pers","Y03","Y03",0
+"Y03.89","Asslt oth spec crsh MV traf ?pers","Y03","Y03",0
+"Y03.90","Asslt ?crsh MV traf sps/dp","Y03","Y03",0
+"Y03.91","Asslt ?crsh MV traf parent","Y03","Y03",0
+"Y03.92","Asslt ?crsh MV traf oth fm","Y03","Y03",0
+"Y03.93","Asslt ?crsh MV traf carer","Y03","Y03",0
+"Y03.94","Asslt ?crsh MV traf acq/frd","Y03","Y03",0
+"Y03.95","Asslt ?crsh MV traf ofc auth","Y03","Y03",0
+"Y03.96","Asslt ?crsh MV traf pers ? t vctm","Y03","Y03",0
+"Y03.97","Asslt ?crsh MV traf ?mult pers","Y03","Y03",0
+"Y03.98","Asslt ?crsh MV traf oth spec pers","Y03","Y03",0
+"Y03.99","Asslt ?crsh MV traf ?pers","Y03","Y03",0
+"Y04.00","Asslt by bodily force sps/dp","Y04","Y04",0
+"Y04.01","Assault by bodily force, parent","Y04","Y04",0
+"Y04.02","Asslt by bodily force oth fm","Y04","Y04",0
+"Y04.03","Assault by bodily force, carer","Y04","Y04",0
+"Y04.04","Asslt by bodily force acq/frd","Y04","Y04",0
+"Y04.05","Asslt by bodily force ofc auth","Y04","Y04",0
+"Y04.06","Asslt by bodily force pers ?t vctm","Y04","Y04",0
+"Y04.07","Asslt by bodily force ?mult pers","Y04","Y04",0
+"Y04.08","Asslt by bodily force oth spec pers","Y04","Y04",0
+"Y04.09","Asslt by bodily force ?pers","Y04","Y04",0
+"Y05.00","Sexual asslt by bodily frce sps/dp ","Y05","Y05",0
+"Y05.01","Sexual assault by bodily force, parent","Y05","Y05",0
+"Y05.02","Sexual asslt by bodily frce oth fm","Y05","Y05",0
+"Y05.03","Sexual assault by bodily force, carer","Y05","Y05",0
+"Y05.04","Sexual asslt by bodily frce acq/frd","Y05","Y05",0
+"Y05.05","Sexual asslt by bodily frce ofc auth","Y05","Y05",0
+"Y05.06","Sex asslt by bodily frce pers ? t vctm ","Y05","Y05",0
+"Y05.07","Sexual asslt by bodily frce ?mult pers ","Y05","Y05",0
+"Y05.08","Sexual asslt bodily frce oth spec pers","Y05","Y05",0
+"Y05.09","Sexual asslt by bodily frce ?pers","Y05","Y05",0
+"Y06.00","Neglect abdnmnt sps/dp","Y06.0","Y06.0",0
+"Y06.01","Neglect and abandonment, parent","Y06.1","Y06.1",0
+"Y06.02","Neglect abdnmnt oth fm","Y06.8","Y06.8",0
+"Y06.03","Neglect and abandonment, carer","Y06.8","Y06.8",0
+"Y06.04","Neglect abdnmnt acq/frd","Y06.2","Y06.2",0
+"Y06.05","Neglect abdnmnt ofc auth","Y06.8","Y06.8",0
+"Y06.06","Neglect abdnmnt pers ?t vctm","Y06.8","Y06.8",0
+"Y06.07","Neglect abdnmnt ?mult pers","Y06.8","Y06.8",0
+"Y06.08","Neglect abdnmnt","Y06.8","Y06.8",0
+"Y06.09","Neglect abdnmnt ?pers","Y06.9","Y06.9",0
+"Y07.00","Oth maltreatment syndr sps/dp","Y07.0","Y07.0",0
+"Y07.01","Other maltreatment syndromes, parent","Y07.1","Y07.1",0
+"Y07.02","Oth maltreatment syndr oth fm","Y07.8","Y07.8",0
+"Y07.03","Other maltreatment syndromes, carer","Y07.8","Y07.8",0
+"Y07.04","Oth maltreatment syndr acq/frd","Y07.2","Y07.2",0
+"Y07.05","Oth maltreatment syndr ofc auth","Y07.2","Y07.2",0
+"Y07.06","Oth maltreatment syndr pers ? t vctm","Y07.8","Y07.8",0
+"Y07.07","Oth maltreatment syndr ?mult pers","Y07.8","Y07.8",0
+"Y07.08","Oth maltreatment syndr oth spec pers","Y07.8","Y07.8",0
+"Y07.09","Oth maltreatment syndr ?pers","Y07.9","Y07.9",0
+"Y08.00","Asslt by oth spec means sps/dp","Y08","Y08",0
+"Y08.01","Assault by other specified means, parent","Y08","Y08",0
+"Y08.02","Asslt by oth spec means oth fm","Y08","Y08",0
+"Y08.03","Assault by other specified means, carer","Y08","Y08",0
+"Y08.04","Asslt by oth spec means acq/frd","Y08","Y08",0
+"Y08.05","Asslt by oth spec means ofc auth","Y08","Y08",0
+"Y08.06","Asslt by oth spec means pers ?t vctm","Y08","Y08",0
+"Y08.07","Asslt by oth spec means ?mult pers","Y08","Y08",0
+"Y08.08","Asslt by oth spec means oth spec pers","Y08","Y08",0
+"Y08.09","Asslt by oth spec means ?pers","Y08","Y08",0
+"Y09.00","Asslt by ?means sps/dp","Y09","Y09",0
+"Y09.01","Assault by unspecified means, parent","Y09","Y09",0
+"Y09.02","Asslt by ?means oth fm","Y09","Y09",0
+"Y09.03","Assault by unspecified means, carer","Y09","Y09",0
+"Y09.04","Asslt by ?means acq/frd","Y09","Y09",0
+"Y09.05","Asslt by ?means ofc auth","Y09","Y09",0
+"Y09.06","Asslt by ?means pers ? t vctm","Y09","Y09",0
+"Y09.07","Asslt by ?means ?mult pers","Y09","Y09",0
+"Y09.08","Asslt by ?means oth spec pers","Y09","Y09",0
+"Y09.09","Asslt by ?means ?pers","Y09","Y09",0
+"Y17.0","Poisn motor vehicle exhaust ?intent","Y17","Y17",0
+"Y17.1","Poisn LPG ?intent","Y17","Y17",0
+"Y17.2","Poisn oth spec gas ?intent","Y17","Y17",0
+"Y17.8","Poisn oth spec gas/vapours ?intent","Y17","Y17",0
+"Y17.9","Poisn ?gas or vapours ?intent","Y17","Y17",0
+"Y21.0","Drwn & submrs bath-tub ?intent","Y21","Y21",0
+"Y21.1","Drwn & submrs swim-pool ?intent","Y21","Y21",0
+"Y21.2","Drwn & submrs natural wtr ?intent","Y21","Y21",0
+"Y21.8","Drwn & submrs oth spec wtr ?intent","Y21","Y21",0
+"Y21.9","Drwn & submrs ?wtr ?intent","Y21","Y21",0
+"Y28.0","Contact w knife ?intent","Y28","Y28",0
+"Y28.1","Contact w razor blade ?intent","Y28","Y28",0
+"Y28.2","Contct w hypdrmc needle & syrge ?intent","Y28","Y28",0
+"Y28.3","Contact w glass ?intent","Y28","Y28",0
+"Y28.8","Contact w oth spec sharp obj ?intent","Y28","Y28",0
+"Y28.9","Contact w ?sharp obj ?intent","Y28","Y28",0
+"Y32.0","Crsh car w oth MV ?intent nontrf","Y32","Y32",0
+"Y32.1","Crsh car fix/ statnry obj ?intent nontrf","Y32","Y32",0
+"Y32.2","Oth spec crsh MV ?intent nontrf","Y32","Y32",0
+"Y32.3","?crsh MV ?intent nontrf","Y32","Y32",0
+"Y32.4","Crsh car w oth MV ?intent traf","Y32","Y32",0
+"Y32.5","Crsh car fix/ statnry obj ?intent traf","Y32","Y32",0
+"Y32.8","Oth spec crsh MV ?intent traf","Y32","Y32",0
+"Y32.9","?Crsh MV ?intent traf","Y32","Y32",0
+"Y92.00","Driveway to home","Y92.0","Y92.0",0
+"Y92.09","Other and unspecified place in home","Y92.0","Y92.0",0
+"Y92.10","Residential institution prison","Y92.1","Y92.1",0
+"Y92.11","Residential inst juvnle detention centre","Y92.1","Y92.1",0
+"Y92.12","Residential institution, military Camp","Y92.1","Y92.1",0
+"Y92.13","Residential institution, orphanage","Y92.1","Y92.1",0
+"Y92.14","Residential inst aged care facilities","Y92.1","Y92.1",0
+"Y92.18","Other specified residential institution","Y92.1","Y92.1",0
+"Y92.19","Unspecified residential institution ","Y92.1","Y92.1",0
+"Y92.30","Sporting grounds (outdoor)","Y92.3","Y92.3",0
+"Y92.31","Sporting hall (indoor)","Y92.3","Y92.3",0
+"Y92.32","Swimming centre","Y92.3","Y92.3",0
+"Y92.33","Racetrack and racecourse","Y92.3","Y92.3",0
+"Y92.34","Equestrian facility","Y92.3","Y92.3",0
+"Y92.35","Sports and athletics area, skating rink","Y92.3","Y92.3",0
+"Y92.36","Sports and athletics area, skiing","Y92.3","Y92.3",0
+"Y92.38","Other spec sports & athletics area","Y92.3","Y92.3",0
+"Y92.39","Sports and athletics area, unspecified","Y92.3","Y92.3",0
+"Y92.40","Street & highway roadway","Y92.4","Y92.4",0
+"Y92.41","Street & highway ","Y92.4","Y92.4",0
+"Y92.42","Street & highway cycleway","Y92.4","Y92.4",0
+"Y92.48","Oth spec public highway/street/road  ","Y92.4","Y92.4",0
+"Y92.49","?public highway street road","Y92.4","Y92.4",0
+"Y92.50","Trade and service area, shop and store","Y92.5","Y92.5",0
+"Y92.51","Trade service area commercial garage","Y92.5","Y92.5",0
+"Y92.52","Trade and service area, office building","Y92.5","Y92.5",0
+"Y92.53","Trade service area café hotel restaurant","Y92.5","Y92.5",0
+"Y92.58","Other specified trade and service area","Y92.5","Y92.5",0
+"Y92.59","Unspecified trade and service area","Y92.5","Y92.5",0
+"Y92.60","Construct area","Y92.6","Y92.6",0
+"Y92.61","Indst & construct area demolition site","Y92.6","Y92.6",0
+"Y92.62","Indst & construct area factory & plant","Y92.6","Y92.6",0
+"Y92.63","Indst & construct area mine & quarry","Y92.6","Y92.6",0
+"Y92.64","Indst construct area oil gas extraction","Y92.6","Y92.6",0
+"Y92.65","Indst & construct area shipyard","Y92.6","Y92.6",0
+"Y92.66","Indst & construct area power station","Y92.6","Y92.6",0
+"Y92.68","Oth spec indst & construct area","Y92.6","Y92.6",0
+"Y92.69","?indst & construct area","Y92.6","Y92.6",0
+"Y92.80","Area of still water","Y92.8","Y92.8",0
+"Y92.81","Stream of water","Y92.8","Y92.8",0
+"Y92.82","Large area of water","Y92.8","Y92.8",0
+"Y92.83","Beach","Y92.8","Y92.8",0
+"Y92.84","Forest","Y92.8","Y92.8",0
+"Y92.85","Desert","Y92.8","Y92.8",0
+"Y92.86","Other specified countryside","Y92.8","Y92.8",0
+"Y92.87","Parking lot","Y92.8","Y92.8",0
+"Y92.88","Other specified place of occurrence","Y92.8","Y92.8",0
+"Z03.70","Obs for unspecified suspect newb cond","Z03.8","Z03.8",0
+"Z03.71","Obs for suspect newb infectious cond","Z03.8","Z03.8",0
+"Z03.72","Obs for suspect newb neurological cond","Z03.8","Z03.8",0
+"Z03.73","Obs for suspect newb respiratory cond","Z03.8","Z03.8",0
+"Z03.79","Obs for oth suspect newb cond","Z03.8","Z03.8",0
+"Z06.1","Infectn multidrug resistant Staph Aureus","Z06","Z06",0
+"Z06.2","Infectn w Vancomycin resist enterococci","Z06","Z06",0
+"Z06.8","Infectn oth drug-resistant microorganism","Z06","Z06",0
+"Z06.9","Infectn w drug-resist microorganism NOS","Z06","Z06",0
+"Z75.10","Pers wait admssn acute hosp","Z75.1","Z75.1",0
+"Z75.11","Pers wait admssn resident aged care","Z75.1","Z75.1",0
+"Z75.12","Pers wait admssn  psych facility/unit","Z75.1","Z75.1",0
+"Z75.13","Pers wait admssn rehab facility/unit","Z75.1","Z75.1",0
+"Z75.14","Pers wait admssn palliative facil/unit","Z75.1","Z75.1",0
+"Z75.18","Pers wait admssn other care facility","Z75.1","Z75.1",0
+"Z75.19","Pers wait admssn facility elsewhere NOS","Z75.1","Z75.1",0
+"M05.10","Rheumatoid lung disease multiple sites","J99.0","J99.0",0
+"M05.11","Rheumatoid lung disease shoulder region","J99.0","J99.0",0
+"M05.12","Rheumatoid lung disease upper arm","J99.0","J99.0",0
+"M05.13","Rheumatoid lung disease forearm","J99.0","J99.0",0
+"M05.14","Rheumatoid lung disease hand","J99.0","J99.0",0
+"M05.15","Rheumatoid lung dis pelvic region thigh","J99.0","J99.0",0
+"M05.16","Rheumatoid lung disease lower leg","J99.0","J99.0",0
+"M05.17","Rheumatoid lung disease ankle and foot","J99.0","J99.0",0
+"M05.18","Rheumatoid lung disease other","J99.0","J99.0",0
+"M05.19","Rheumatoid lung disease site NOS","J99.0","J99.0",0

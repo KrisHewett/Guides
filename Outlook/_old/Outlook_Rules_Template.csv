@@ -1,0 +1,27 @@
+Rule Name,Condition,Action,Folder,Stop Processing
+1. Junk Filter (Built-in),Built-in Junk Filter,Set to High,Junk,Yes
+2. MyContacts to INBOX,From My Contacts,Move to Folder,INBOX,Yes
+3. OrgContacts to INBOX,From Org Contacts,Move to Folder,INBOX,Yes
+4. Only to Me to INBOX,To Me Only,Move to Folder,INBOX,Yes
+5. NotToMe to INBOX,To Others,Move to Folder,INBOX,Yes
+6. AutoReplys to JUNK,Auto Replies,Move to Folder,JUNK,Yes
+7. Mailing Lists to Other_JUNK,From Mailing Lists,Move to Folder,Other_JUNK,Yes
+8. DL Lists to MyOrg_JUNK,From DL Lists,Move to Folder,MyOrg_JUNK,Yes
+9. Other to Other_JUNK,Other Bulk Messages,Move to Folder,Other_JUNK,Yes
+10. ToMeOnly_NoCc to INBOX,To Me Only (No CC),Move to Folder,INBOX,Yes
+11. ToMeOnly_CcOther to INBOX,To Me Only (With CC),Move to Folder,INBOX,Yes
+12. ToMeAndOthers to INBOX,To Me and Others,Move to Folder,INBOX,Yes
+13. MeInCc to INBOX,Me in CC,Move to Folder,INBOX,Yes
+14. MeBcc to INBOX,Me in BCC,Move to Folder,INBOX,Yes
+15. Move Leadership to High Priority,From Leadership,Move to Folder,High Priority,No
+16. Move Team to Team Inbox,From Team,Move to Folder,Team Inbox,No
+17. Move Newsletters to Read Later,Newsletter or Unsubscribe,Move to Folder,Read Later,No
+18. Move Social to Social,From Social Domains,Move to Folder,Social,No
+19. Flag Critical Keywords,"Subject or Body contains Patient Safety, Data Analysis, Action Needed",Flag for Follow-up,,No
+20. Prioritise Urgent,"Subject contains Urgent, ASAP, Immediate",Set High Importance,,No
+21. Categorise CIM,Subject contains CIM,Categorise,,No
+22. Categorise DAP,Subject contains DAP,Categorise,,No
+23. Categorise NSQHS,Subject contains NSQHS,Categorise,,No
+24. Categorise QUIP,Subject contains QUIP,Categorise,,No
+25. Auto-Reply to Requests,Subject contains Request or Action Needed,Send Template Reply + Flag,,No
+26. Forward Reports,Subject contains Report or Dashboard,Forward to OneNote or Teams,,No

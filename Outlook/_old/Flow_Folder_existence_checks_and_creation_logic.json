@@ -1,0 +1,150 @@
+{
+  "name": "OutlookEmailManagementFlow",
+  "description": "Automated email management flow for Outlook",
+  "triggers": [
+    {
+      "type": "Outlook.NewEmail",
+      "parameters": {
+        "folder": "Inbox"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "High Priority"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "High Priority"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: High Priority. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Team Inbox"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Team Inbox"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Team Inbox. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Read Later"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Read Later"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Read Later. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Meetings"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Meetings"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Meetings. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Promotions"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Promotions"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Promotions. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Social"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Social"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Social. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Archive"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Archive"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Archive. Please create it manually."
+          }
+        }
+      }
+    }
+  ],
+  "__custom_placeholders__": {
+    "managerEmail": "your.manager@example.com",
+    "executiveEmail": "senior.executive@example.com",
+    "teamDistributionList": "team.distribution@example.com",
+    "newsletterSenders": [
+      "newsletter1@example.com",
+      "newsletter2@example.com"
+    ],
+    "forwardingAddress": "your.oneNoteOrTeams@example.com"
+  }
+}

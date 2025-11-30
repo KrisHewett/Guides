@@ -1,0 +1,161 @@
+{
+  "title": "SQU Data Dictionary & Schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "fields"],
+  "description": "Schema for a data dictionary following METeOR/AIHW conventions.", 
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "title": "Dataset Name",
+      "description": "The name of the dataset or data collection."
+    },
+    "description": {
+      "type": "string",
+      "title": "Description",
+      "description": "A brief description of the dataset."
+    },
+    "version": {
+      "type": "string",
+      "title": "Version",
+      "description": "Version of the data dictionary/schema."
+    },
+    "fields": {
+      "type": "array",
+      "title": "Fields",
+      "description": "List of fields (data elements) in the dataset.",
+      "items": {
+        "type": "object",
+        "required": ["name", "dataType"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Field Name"
+          },
+          "label": {
+            "type": "string",
+            "title": "Label",
+            "description": "Short label for the field."
+          },
+          "definition": {
+            "type": "string",
+            "title": "Definition",
+            "description": "Clear, unambiguous definition of the field."
+          },
+          "dataType": {
+            "type": "string",
+            "title": "Data Type",
+            "enum": ["string", "integer", "number", "boolean", "date", "datetime", "code"]
+          },
+          "format": {
+            "type": "string",
+            "title": "Format",
+            "description": "Format or pattern (e.g., YYYY-MM-DD, N(3), A(10))."
+          },
+          "maxLength": {
+            "type": "integer",
+            "title": "Maximum Length"
+          },
+          "permissibleValues": {
+            "type": "array",
+            "title": "Permissible Values",
+            "items": {
+              "type": "object",
+              "properties": {
+                "code": { "type": "string" },
+                "meaning": { "type": "string" }
+              }
+            }
+          },
+          "obligation": {
+            "type": "string",
+            "title": "Obligation",
+            "enum": ["Mandatory", "Optional", "Conditional"]
+          },
+          "guideForUse": {
+            "type": "string",
+            "title": "Guide for Use"
+          },
+          "origin": {
+            "type": "string",
+            "title": "Origin",
+            "description": "Source or reference for the field."
+          },
+          "comments": {
+            "type": "string",
+            "title": "Comments"
+          }
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "title": "References",
+      "items": {
+        "type": "string"
+      }
+    },
+    "created": {
+      "type": "string",
+      "format": "date",
+      "title": "Created Date"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "title": "Last Updated"
+    }
+  }
+}
+
+
+    "Data Set Specification": {
+      "type": "object",
+      "properties": {
+        "report": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "*": {
+              "type": "object",
+              "allOf": [
+                {
+                  "properties": {
+                    "*": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "expanded": {
+                            "type": "boolean"
+                          },
+                          "visible": {
+                            "type": "boolean"
+                          },
+                          "verticalAlignment": {
+                            "type": "string",
+                            "oneOf": [
+                              {
+                                "const": "Top",
+                                "title": "Top"
+                              },
+                              {
+                                "const": "Middle",
+                                "title": "Middle"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    },
+                  },
+                }
+            }
+          }
+        }
+      }
+    }
+    

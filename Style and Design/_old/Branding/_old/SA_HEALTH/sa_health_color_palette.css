@@ -1,0 +1,139 @@
+/* === SA Health Branding Color Palette === */
+
+/* === Primary Brand Colors === */
+:root {
+  /* Type: Primary | Name: Red | PMS: 1795C | Use: Master Brand Helix and general application */
+  --sa-red: #DE3831;
+
+  /* Type: Primary | Name: Blue | PMS: Process Blue C | Use: Master Brand Helix and general application */
+  --sa-blue: #0092CF;
+
+  /* Type: Primary | Name: Yellow | PMS: 122C | Use: Master Brand Helix and general application */
+  --sa-yellow: #FFD451;
+
+  /* Type: Primary | Name: Green | PMS: 368C | Use: Master Brand Helix and general application */
+  --sa-green: #69BE28;
+
+  /* Type: Support | Name: Warm Grey | PMS: 60% Black | Use: Support color for text and backgrounds */
+  --sa-warm-grey: #808285;
+
+  /* Type: Support | Name: Black | PMS: Process Black | Use: Text and background */
+  --sa-black: #000000;
+}
+
+/* === Secondary Brand Colors === */
+:root {
+  /* Type: Secondary | Name: Purple | PMS: 2425C | Use: Two-color Helix and alternate applications */
+  --sa-purple: #7D0063;
+
+  /* Type: Secondary | Name: Teal | PMS: 3272C | Use: Two-color Helix and alternate applications */
+  --sa-teal: #00A599;
+
+  /* Type: Secondary | Name: Gold | PMS: 130C | Use: Two-color Helix and alternate applications */
+  --sa-gold: #F0AB00;
+
+  /* Type: Secondary | Name: Pink | PMS: Process Magenta C | Use: Two-color Helix and alternate applications */
+  --sa-pink: #D10074;
+}
+
+/* === Sub-brand Colors: Aboriginal Health === */
+:root {
+  /* Raw Umber | PMS: 1255C | Use: Aboriginal Health Helix */
+  --sa-raw-umber: #BB9911;
+
+  /* Red Ochre | PMS: 173C | Use: Aboriginal Health Helix */
+  --sa-red-ochre: #EE3311;
+
+  /* Burnt Sienna | PMS: 498C | Use: Aboriginal Health Helix */
+  --sa-burnt-sienna: #553333;
+
+  /* Raw Sienna | PMS: 110C | Use: Aboriginal Health Helix */
+  --sa-raw-sienna: #DDAA00;
+
+  /* Flag Red | PMS: 179C | Use: Aboriginal Flag inspired Helix */
+  --sa-flag-red: #DE3831;
+
+  /* Flag Yellow | PMS: 123C | Use: Aboriginal Flag inspired Helix */
+  --sa-flag-yellow: #FDC82F;
+
+  /* Flag Blue | PMS: 301C | Use: Torres Strait Flag inspired Helix */
+  --sa-flag-blue: #005293;
+
+  /* Flag Green | PMS: 3288C | Use: Torres Strait Flag inspired Helix */
+  --sa-flag-green: #008566;
+}
+
+/* === Sub-brand Colors: Local Health Networks === */
+:root {
+  /* DASSA Gold | PMS: 130C */
+  --sa-dassa-gold: #F0AB00;
+
+  /* DASSA Red | PMS: 484C */
+  --sa-dassa-red: #983222;
+
+  /* DASSA Violet | PMS: 526C */
+  --sa-dassa-violet: #652D86;
+
+  /* FMC Violet | PMS: 281C */
+  --sa-fmc-violet: #002664;
+
+  /* Noarlunga Maroon | PMS: 202C */
+  --sa-noarlunga-maroon: #A15562;
+
+  /* Repat Green | PMS: 341C */
+  --sa-repat-green: #007D57;
+
+  /* SAAS Green | PMS: 348C */
+  --sa-saas-green: #009252;
+
+  /* SAAS Yellow | PMS: 137C */
+  --sa-saas-yellow: #FCAF17;
+
+  /* SAAS Red | PMS: 199C */
+  --sa-saas-red: #ED174C;
+
+  /* SAAS Blue | PMS: 295C */
+  --sa-saas-blue: #004B88;
+
+  /* SAMI Green 1 | PMS: 317C */
+  --sa-sami-green1: #AEE9E9;
+
+  /* SAMI Green 2 | PMS: 325C */
+  --sa-sami-green2: #40C1BB;
+
+  /* SAMI Green 3 | PMS: 7466C */
+  --sa-sami-green3: #00B4BC;
+
+  /* MedSTAR Red | PMS: 200C */
+  --sa-medstar-red: #B71234;
+
+  /* MedSTAR Blue | PMS: 295C */
+  --sa-medstar-blue: #002F5F;
+
+  /* MedSTAR Earth | PMS: Warm Gray 11C */
+  --sa-medstar-earth: #675C53;
+
+  /* WCHN Sky Blue | PMS: 279C */
+  --sa-wchn-sky-blue: #4B92DB;
+}
+
+/* === Sub-brand Colors: Youth Health === */
+:root {
+  /* Youth Primary Blue | Use: Youth Health branding */
+  --sa-youth-blue: #0092CF;
+
+  /* Youth Accent Purple | Use: Youth Health branding */
+  --sa-youth-purple: #7D0063;
+
+  /* Youth Accent Teal | Use: Youth Health branding */
+  --sa-youth-teal: #00A599;
+}
+
+/* === Sub-brand Colors: Health Alert === */
+:root {
+  /* Health Alert Red | Use: Emergency communication materials */
+  --sa-health-alert-red: #DE3831;
+
+  /* Health Alert Black | Use: Emergency communication materials */
+  --sa-health-alert-black: #000000;
+}

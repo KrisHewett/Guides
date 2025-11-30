@@ -1,0 +1,51 @@
+Health system performance
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392624
+Description:	Factors that are able to capture outcomes, or processes that may be related to outcomes that result from contact with the health care system. Nine categories of indicators are considered within this health system performance dimension. 
+Dimensions of this framework
+Acceptability
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392632
+Description:	All care/services provided meet the expectation s of the client, community, providers and payment organisations, recognizing that there may be conflicting, competing interests between stakeholders and that the needs of the clients/patients are paramount.
+Accessibility
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392631
+Description:	The ability of clients/patients to obtain care/service at the right place and the right time, based on respective needs.
+Examples include waiting times, practice availability and availability of dentists.
+Appropriateness
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392630
+Description:	Care/service is relevant to the clients/patients' needs and based on established standards.
+Examples include inappropriately used surgery, appropriate use of ACEI at discharge for heart failure.
+Competence
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392629
+Description:	An individual's knowledge and skills are appropriate to the care/service being provided.
+Continuity
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392628
+Description:	The ability to provide uninterrupted coordinated care/service across programs, practitioners, organisations, and levels of care/service, overtime. 
+Effectiveness
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392627
+Description:	The care/service, intervention or action achieves the desired result.
+Examples include cancer survival, recurrence of hernia after repair, smoking cessation during pregnancy (effectiveness of maternal health care), chronic care management: admission rates for asthma, diabetes, epilepsy.
+Efficiency
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392626
+Description:	Achieving the desired results with the most cost-effective use of resources.
+Examples include avoidable hospitalizations, cost per casemix-adjusted separation, cost-effective prescribing.
+Safety
+Identifying and definitional attributes
+Item type:	Framework Dimension
+METEOR identifier:	392625
+Description:	Potential risks of an intervention of the environment are avoided or minimized.
+Examples include hospital-acquired infection rate.

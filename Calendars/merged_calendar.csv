@@ -1,0 +1,686 @@
+UID,DTSTAMP,DTSTART,DTEND,DURATION,SUMMARY,DESCRIPTION,LOCATION,STATUS,CLASS,TRANSP,PRIORITY,SEQUENCE,RRULE,EXDATE,RDATE,ATTENDEE,ORGANIZER,CATEGORIES,CREATED,LAST-MODIFIED,URL,ATTACH,Validation_Flag
+event-1,20250826T1348,20250101T000000Z,20250101T000000Z,P1D,Independence Day: Haiti,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-2,20250826T1348,20250101T000000Z,20250101T000000Z,P1D,Liberation Day: Cuba,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-3,20250826T1348,20250101T000000Z,20250101T000000Z,P1D,National Day: Sudan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-4,20250826T1348,20250101T000000Z,20250101T000000Z,P1D,New Year's Day,New Year’s Day is the first day of the Gregorian calendar. It is often celebrated with fireworks and parades.,,,,,,,,,,,,,,20250826T1348,,,
+event-5,20250826T1348,20250101T000000Z,20250102T000000Z,P2D,Feast of St Basil,"St Basil is considered one of the great leaders and thinkers of the Orthodox Christian Church. In many Greek homes, a special cake is baked on the eve of St Basil’s Day with a gold or silver coin hidden inside. Similar traditions exist for Western Christian Churches.",,,,,,,,,,,,,,20250826T1348,,,
+event-6,20250826T1348,20250104T000000Z,20250104T000000Z,P1D,"Independence Day: Myanmar, Republic of The Union Of",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-7,20250826T1348,20250106T000000Z,20250106T000000Z,P1D,Epiphany,Epiphany commemorates the manifestation of God in human form as Jesus Christ.,,,,,,,,,,,,,,20250826T1348,,,
+event-8,20250826T1348,20250106T000000Z,20250106T000000Z,P1D,Gurpurab of Guru Gobind Singh Ji,"Sikh communities celebrate the birthday of the 10th Guru, Guru Gobind Singh (born in 1666).",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618643,20250826T1348,20250107T000000Z,20250107T000000Z,P1D,Orthodox Christmas (Christianity),"Orthodox Christmas is celebrated by around 260 million people globally. Orthodox Christians celebrate Christmas on January 7, following the Julian calendar.",,,,,,,,,,,,,,20250826T1348,,,
+event-9,20250826T1348,20250107T000000Z,20250107T000000Z,P1D,The Holy Nativity Feast (Nativity of Christ),Orthodox Churches that use the Julian Calendar celebrate Christmas on this day. Some traditions observe a week-long period of holidays from 1 January.,,,,,,,,,,,,,,20250826T1348,,,
+event-10,20250826T1348,20250114T000000Z,20250114T000000Z,P1D,Thai Pongal,"Thai Pongal is a multi-day Hindu harvest festival celebrated by Tamils in India and Sri Lanka. It is observed at the start of the month Thai in the Tamil solar calendar, and is dedicated to the Hindu sun god Surya.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618654,20250826T1348,20250114T000000Z,20250117T000000Z,P3D,Pongal (Hinduism - Tamil  people in India & Sri Lanka),Pongal is a four-day harvest festival celebrated as a giving ceremony for the year’s harvest.,,,,,,,,,,,,,,20250826T1348,,,
+event-11,20250826T1348,20250119T000000Z,20250119T000000Z,P1D,Epiphany (Orthodox),Epiphany commemorates the manifestation of God in human form as Jesus Christ.,,,,,,,,,,,,,,20250826T1348,,,
+event-12,20250826T1348,20250119T000000Z,20250119T000000Z,P1D,World Religion Day,World Religion Day is observed in over 80 countries. It aims to foster interfaith understanding and harmony by emphasising the common elements to all religions.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618658,20250826T1348,20250119T000000Z,20250119T000000Z,P1D,World Religion Day (Interfaith),"Observed in over 80 countries, the Day aims to foster interfaith understanding and harmony by emphasising  the common elements underlying all religions. ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.61866,20250826T1348,20250119T000000Z,20250209T000000Z,P21D,Midsumma Festival (Australia) ,"‘Midsumma is Australia’s premier queer arts and cultural organisation, bringing together a diverse mix of LGBTQIA+ artists, performers, communities and audiences’.",,,,,,,,,,,,,,20250826T1348,,,
+event-13,20250826T1348,20250126T000000Z,20250126T000000Z,P1D,Australia Day,"Australia Day provides an opportunity for all Australians to reflect, respect and celebrate. It is about acknowledging the contribution every Australian makes to our diverse nation, from Aboriginal and Torres Strait Islander peoples who have been here for more than 65,000 years, to those whose families have come through the waves of migration over more recent centuries.",,,,,,,,,,,,,,20250826T1348,,,
+event-14,20250826T1348,20250126T000000Z,20250126T000000Z,P1D,Australia Day: Australia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.618662,20250826T1348,20250126T000000Z,20250126T000000Z,P1D,Invasion / Survival Day (Australia Day),"For some Australians, particularly among Aboriginal and Torres Strait Islander people, 26 January, commonly celebrated as Australia Day is not a day of celebration. Rather, it is seen as a day that commemorates the invasion by British settlers of lands already owned.",,,,,,,,,,,,,,20250826T1348,,,
+event-15,20250826T1348,20250127T000000Z,20250127T000000Z,P1D,International Holocaust Remembrance Day,"Holocaust Remembrance Day is a memorial for the six million Jews killed by the Nazis between 1933 and 1945. Many people of Jewish and other faiths observe this day. It was designated by a United Nations General Assembly resolution on 1 November 2005. Many countries have instituted their own Holocaust Memorial Days. Other Holocaust memorial days, such as Israel's Yom HaShoah, are observed at other times of the year.",,,,,,,,,,,,,,20250826T1348,,,
+event-16,20250826T1348,20250129T000000Z,20250129T000000Z,P1D,Chinese Lunar New Year (Year of the Snake),"For Chinese communities across the world, the Lunar New Year is one of the most important holidays of the year. It is celebrated through a range of traditional customs. These include ancestor worship, family gatherings, special foods and gift exchanges.",,,,,,,,,,,,,,20250826T1348,,,
+event-17,20250826T1348,20250129T000000Z,20250129T000000Z,P1D,Lunar New Year,Various East and Southeast Asian cultures and traditions celebrate Lunar New Year. Family gatherings are common features across cultures. People travel from near and far to be with loved ones in time to welcome the new year.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618665,20250826T1348,20250129T000000Z,20250129T000000Z,P1D,Lunar New Year ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-18,20250826T1348,20250129T000000Z,20250129T000000Z,P1D,Seollal (Korean Lunar New Year – Year of the Snake),"Known in the Koreas as Seollal, Lunar New Year typically lasts three days (the day before and after the New Year). Centred on charye – paying respect to elders – the new year is a time to remember a shared heritage and look forward to the future.",,,,,,,,,,,,,,20250826T1348,,,
+event-19,20250826T1348,20250129T000000Z,20250129T000000Z,P1D,Tet (Vietnamese Lunar New Year – Year of the Wood Snake),"Tet is considered the first day of Vietnam’s spring, a time marked by new beginnings. Tet includes ancestor worship, family gatherings, special foods and gift exchanges.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618668,20250826T1348,20250129T000000Z,20250212T000000Z,P14D,"Lunar New Year / Spring Festival (Chinese Chunjie; Vietnamese Tet Festival, Korean Solnal; Tibetan Losar; etc.)","The Spring Festival marks a new year on the Lunar Calendar. It is celebrated in several Asian countries. Buddhist, Confucian, and Taoist practitioners celebrate this festival.",,,,,,,,,,,,,,20250826T1348,,,
+event-20,20250826T1348,20250131T000000Z,20250131T000000Z,P1D,National Day: Nauru,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.61867,20250826T1348,20250201T000000Z,20250207T000000Z,P6D,World Interfaith Harmony Week (International),"Proclaimed by the UN General Assembly in 2010, World Interfaith Harmony week was conceived to  promote a culture of peace and harmony between all people regardless of their faith. ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618671,20250826T1348,20250201T000000Z,20250228T000000Z,P27D,Ramadan (Islam),"The holy month of Ramadan commemorates the revelation of the Qur’an to the Prophet Muhammad. Throughout this month, Muslims fast during daylight hours, celebrate an evening meal with family and friends, pray and show charity to the poor. The date varies every year as per the Islamic Calendar.",,,,,,,,,,,,,,20250826T1348,,,
+event-21,20250826T1348,20250204T000000Z,20250204T000000Z,P1D,Independence Commemoration Day: Sri Lanka,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-22,20250826T1348,20250206T000000Z,20250206T000000Z,P1D,Waitangi Day,The national day of New Zealand is the anniversary of the initial signing of the Treaty of Waitangi.,,,,,,,,,,,,,,20250826T1348,,,
+event-23,20250826T1348,20250206T000000Z,20250206T000000Z,P1D,Waitangi Day: New Zealand,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-24,20250826T1348,20250207T000000Z,20250207T000000Z,P1D,Independence Day: Grenada,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.618675,20250826T1348,20250210T000000Z,20250210T000000Z,P1D,Royal Hobart Regatta,Tasmania regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-25,20250826T1348,20250211T000000Z,20250211T000000Z,P1D,Victory of the Islamic Revolution in Iran: Iran (Islamic Republic Of),,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-26,20250826T1348,20250212T000000Z,20250212T000000Z,P1D,Lantern Festival (Yuanxiao Festival),"The Chinese Lantern Festival is held on the 15th day of the first lunar month, two weeks after Chinese New Year. It marks the first full moon of the new lunar year and the end of the Chinese New Year (Spring Festival) period.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618677,20250826T1348,20250212T000000Z,20250212T000000Z,P1D,Magha Puja Day (Buddhism),"Also known as Sangha Day, this day celebrates the community of followers of the teachings of Buddha (Theravada tradition).",,,,,,,,,,,,,,20250826T1348,,,
+event-27,20250826T1348,20250212T000000Z,20250212T000000Z,P1D,Makha Bucha (Magha Puja),"Makha Bucha is a Buddhist Festival celebrated in Cambodia, Laos, Thailand and Myanmar on the full moon day of the third lunar month.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618679,20250826T1348,20250213T000000Z,20250213T000000Z,P1D,Anniversary of National Apology Day,"On 13 February 2008, Prime Minister Kevin Rudd delivered the National Apology to Australia's Aboriginal peoples and Torres Strait Islander peoples for the injustices of past government policies, particularly to the Stolen Generations.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618681,20250826T1348,20250213T000000Z,20250213T000000Z,P1D,Anniversary of National Apology Day (Australia),"On 13 February 2008, Prime Minister Kevin Rudd delivered the National Apology to Australia's Aboriginal peoples and Torres  Strait Islander peoples  for the injustices of past government policies, particularly to the Stolen Generations. ",,,,,,,,,,,,,,20250826T1348,,,
+event-28,20250826T1348,20250213T000000Z,20250213T000000Z,P1D,Anniversary of the Apology to members of the Stolen Generations,"On 13 February 2008, the Australian Parliament made a formal apology to members of the Stolen Generation.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618683,20250826T1348,20250213T000000Z,20250213T000000Z,P1D,Anniversary of the Apology to members of the Stolen Generations ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.618684,20250826T1348,20250214T000000Z,20250214T000000Z,P1D,Valentine's Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-29,20250826T1348,20250215T000000Z,20250215T000000Z,P1D,National Day: Serbia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-30,20250826T1348,20250215T000000Z,20250215T000000Z,P1D,Nirvana Day (Parinirvana Day),Nirvana Day is an annual Buddhist festival that remembers the death of the Buddha when he reached Nirvana at the age of 80.,,,,,,,,,,,,,,20250826T1348,,,
+event-31,20250826T1348,20250216T000000Z,20250216T000000Z,P1D,Independence Day: Lithuania,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-32,20250826T1348,20250217T000000Z,20250217T000000Z,P1D,Independence Day: Kosovo,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-33,20250826T1348,20250218T000000Z,20250218T000000Z,P1D,National Day: The Gambia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-34,20250826T1348,20250220T000000Z,20250220T000000Z,P1D,World Day of Justice,World Day of Justice aims to promote justice issues across the globe. It includes efforts to tackle poverty exclusion and unemployment. It also aims to foster solidarity in pursuit of social development and justice within and among nations.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618689,20250826T1348,20250220T000000Z,20250220T000000Z,P1D,World Day of Social Justice ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-35,20250826T1348,20250221T000000Z,20250221T000000Z,P1D,International Mother Language Day,The United Nations’ International Mother Language Day celebrates linguistic and cultural diversity.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618691,20250826T1348,20250221T000000Z,20250221T000000Z,P1D,International Mother Language Day ,The Day celebrates language diversity and variety worldwide. Its purpose is 'to promote the preservation and protection of all languages  used by peoples of the world.' ,,,,,,,,,,,,,,20250826T1348,,,
+event-36,20250826T1348,20250222T000000Z,20250222T000000Z,P1D,National Day: Saint Lucia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-37,20250826T1348,20250223T000000Z,20250223T000000Z,P1D,Emperor's Birthday: Japan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-38,20250826T1348,20250223T000000Z,20250223T000000Z,P1D,National Day: Brunei Darussalam,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-39,20250826T1348,20250223T000000Z,20250223T000000Z,P1D,National Day: Guyana,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-40,20250826T1348,20250224T000000Z,20250224T000000Z,P1D,Independence Day: Estonia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-41,20250826T1348,20250224T000000Z,20250302T000000Z,P7D,Masnytsia/Maslenitsa,Masnytsia/Maslenitsa is an Eastern Slavic religious and folk festival. It has roots in the Slavic pagan tradition of bidding farewell to winter. It is widely celebrated in various Eastern Slavic communities during the last week before Great Lent.,,,,,,,,,,,,,,20250826T1348,,,
+event-42,20250826T1348,20250225T000000Z,20250225T000000Z,P1D,National Day: Kuwait,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-43,20250826T1348,20250226T000000Z,20250226T000000Z,P1D,Maha Shivaratri,"Maha Shivaratri is a festival honouring the Hindu god, Lord Shiva.",,,,,,,,,,,,,,20250826T1348,,,
+event-44,20250826T1348,20250227T000000Z,20250227T000000Z,P1D,Independence Day: Dominican Republic,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-45,20250826T1348,20250227T000000Z,20250329T000000Z,P31D,Ramadan,"Ramadan is the most auspicious month in the Islamic Calendar. It is the month the first verses of the Qur’an were revealed to the Prophet Muhammad. During Ramadan, Muslims around the world fast from sunrise to sunset. This date is confirmed by religious authorities closer to the date.",,,,,,,,,,,,,,20250826T1348,,,
+event-46,20250826T1348,20250228T000000Z,20250302T000000Z,P3D,Lhosar (Tibetan New Year),"Lhosar is a festival in Tibetan Buddhism, celebrated on various dates depending on location (Tibet, Bhutan, Nepal and India). It is a new year's festival, celebrated on the first day of the lunisolar Tibetan calendar. This corresponds to a date in February or March in the Gregorian calendar.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.618701,20250826T1348,20250228T000000Z,20250330T000000Z,P30D,Ramadan ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.618704,20250826T1348,20250301T000000Z,20250301T000000Z,P1D,Disability Day of Mourning (International) ,Every year the disability community comes together to remember the victims of filicide. Vigils are held in cities around the world.,,,,,,,,,,,,,,20250826T1348,,,
+event-47,20250826T1348,20250301T000000Z,20250301T000000Z,P1D,St David’s Day,"St David is the patron saint of Wales. St David’s Day has been a national celebration for the Welsh community since the 18th century. Celebrations feature parades, festivities and singing.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619148,20250826T1348,20250301T000000Z,20250301T000000Z,P1D,Zero Discrimination Day (International),"The day celebrates the right of everyone to live a full and productive life - and live it with dignity.  The Day highlights how people can  become informed about and promote inclusion, compassion, peace and, above all, a movement for change.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619153,20250826T1348,20250302T000000Z,20250302T000000Z,P1D,Clean Up Australia Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619155,20250826T1348,20250302T000000Z,20250315T000000Z,P13D,NSW Seniors Festival ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-48,20250826T1348,20250303T000000Z,20250303T000000Z,P1D,National Day: Bulgaria,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-49,20250826T1348,20250304T000000Z,20250304T000000Z,P1D,Shrove Tuesday,Shrove Tuesday is the English name for the last day before Lent in the Christian calendar. Many Christian communities mark this day by participating in confession and absolution. It can also include the ritual burning of the previous year's Holy Week palms and finalising one's Lenten sacrifice. Other activities include eating pancakes and other sweets. In some countries it is known as Mardi Gras (French for 'Fat Tuesday'). In Spanish and Portuguese countries it is called Carnival. Famous celebrations include the Brazilian Carnival in Rio De Janeiro and the New Orleans Mardi Gras.,,,,,,,,,,,,,,20250826T1348,,,
+event-50,20250826T1348,20250305T000000Z,20250305T000000Z,P1D,Ash Wednesday (Lent begins),Ash Wednesday is the first day of Lent in the Christian calendar. Lent involves 40 days of fasting and reflection that concludes with Easter.,,,,,,,,,,,,,,20250826T1348,,,
+event-51,20250826T1348,20250306T000000Z,20250306T000000Z,P1D,Independence Day: Ghana,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.61916,20250826T1348,20250307T000000Z,20250307T000000Z,P1D,International Women's Day ,"A global day celebrating the social, economic, cultural  and political achievements of women.",,,,,,,,,,,,,,20250826T1348,,,
+event-52,20250826T1348,20250308T000000Z,20250308T000000Z,P1D,International Women’s Day,"International Women's celebrates the social, economic, cultural and political achievements of women.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619164,20250826T1348,20250308T000000Z,20250308T000000Z,P1D,International Women’s Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619428,20250826T1348,20250310T000000Z,20250310T000000Z,P1D,Adelaide Cup,South Australia regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619437,20250826T1348,20250310T000000Z,20250310T000000Z,P1D,Canberra Day,Australian Capital Territory regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619439,20250826T1348,20250310T000000Z,20250310T000000Z,P1D,Eight Hour Day,Tasmania regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-53,20250826T1348,20250312T000000Z,20250312T000000Z,P1D,National Day: Mauritius,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-54,20250826T1348,20250313T000000Z,20250313T000000Z,P1D,"Anniversary, Pontifical Ministry of His Holiness Pope Francis: Holy See",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-55,20250826T1348,20250313T000000Z,20250314T000000Z,P2D,Purim,"Purim commemorates the time when the Jewish people living in the ancient Achaemenid Persian empire were saved from extermination by a courageous young Jewish woman named Esther and her uncle and adviser Mordechai. As with other Jewish holy days, Purim is commemorated from sunset.",,,,,,,,,,,,,,20250826T1348,,,
+event-56,20250826T1348,20250314T000000Z,20250314T000000Z,P1D,Holi (Festival of Colours),Holi is a Hindu festival celebrated since ancient times to welcome spring and is seen as a new beginning. People cover each other with coloured water and bright powders.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619444,20250826T1348,20250314T000000Z,20250314T000000Z,P1D,World Sleep Day ,"World Sleep Day celebrates the benefits of good and healthy sleep and draws attention to the burden of sleep problems and their medical, educational, and social aspects. ",,,,,,,,,,,,,,20250826T1348,,,
+event-57,20250826T1348,20250317T000000Z,20250317T000000Z,P1D,St Patrick’s Day,This day is Ireland’s National Day. St Patrick is the patron saint of Ireland. He brought Christianity to Ireland in the early days of the faith.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619446,20250826T1348,20250317T000000Z,20250317T000000Z,P1D,St Patrick’s Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-58,20250826T1348,20250317T000000Z,20250317T000000Z,P1D,St Patrick's Day: Ireland,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619448,20250826T1348,20250317T000000Z,20250323T000000Z,P6D,"Cultural Diversity Week (Victoria, Australia)","Cultural Diversity Week features a program of festivals and events highlighting Victoria’s cultural, linguistic and religious diversity. ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.61945,20250826T1348,20250317T000000Z,20250323T000000Z,P6D,Harmony Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-59,20250826T1348,20250317T000000Z,20250323T000000Z,P7D,Harmony Week,"Harmony Week celebrates the cohesive and inclusive nature of our diverse nation. Schools, community groups and organisations across Australia host Harmony Week events.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619451,20250826T1348,20250318T000000Z,20250318T000000Z,P1D,World Social Work Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-60,20250826T1348,20250319T000000Z,20250320T000000Z,P2D,Naw-Ruz,"Naw-Ruz is the Baha’i New Year, marking the first day in the Baha’i calendar. The festival is usually observed with meetings for prayer and celebration. It is often combined with a feast at sunset before Naw-Ruz to signal the end of a 19-day fast.",,,,,,,,,,,,,,20250826T1348,,,
+event-61,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,Anniversary of the Independence of the Republic of Tunisia: Tunisia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619454,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,International Day of Happiness ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-62,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,National Close the Gap Day,National Close the Gap Day aims to raise awareness about the health and life expectancy gap between Indigenous and non-Indigenous Australians.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619457,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,National Close the Gap Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619459,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,National Close the Gap Day (Australia),The campaign seeks to close the gap in health and  life expectancy outcomes  between Aboriginal and Torres Strait Islander  peoples and non-Indigenous Australians  within a generation. ,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.61946,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,"Naw-Ruz, Nowruz (Baha'i)","Naw Ruz is the Baha’i New Year festival, marking the first day in the Baha’i calendar. It also marks the end of the 19-day Baha’i Fast and symbolises the new life of spring. Work is suspended on this day.",,,,,,,,,,,,,,20250826T1348,,,
+event-63,20250826T1348,20250320T000000Z,20250320T000000Z,P1D,Nowruz New Year,"Nowruz means ‘new day’ in Farsi. It is a traditional festival of spring that has been celebrated for more than 3000 years. The ancient celebration of Nowruz is shared by many peoples from Iran, Afghanistan, Iraq, and others in the Black Sea basin, the Balkans, the Caucasus and Western, Central and Southern Asia. This festival has a number of different spellings.",,,,,,,,,,,,,,20250826T1348,,,
+event-64,20250826T1348,20250321T000000Z,20250321T000000Z,P1D,Independence Day: Namibia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-65,20250826T1348,20250321T000000Z,20250321T000000Z,P1D,International Day for the Elimination of Racial Discrimination,"The International Day for the Elimination of Racial Discrimination is observed on 21 March. On that day in 1960, police opened fire at a peaceful demonstration in Sharpeville, South Africa, against the apartheid pass laws; 69 people were killed, and 180 were injured.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619463,20250826T1348,20250321T000000Z,20250321T000000Z,P1D,International Day for the Elimination of Racial Discrimination ,"Also known as ‘End racism day’, it is ‘observed annually on the day the police in Sharpeville, South Africa, opened fire and killed 69 people at a peaceful demonstration against apartheid “pass laws” in 1960’. ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619466,20250826T1348,20250321T000000Z,20250321T000000Z,P1D,World Down Syndrome Day ,Celebrates the lives and achievements of people with Down syndrome. The Day provides an opportunity to raise awareness about the rights and inclusion of people with Down syndrome. ,,,,,,,,,,,,,,20250826T1348,,,
+event-66,20250826T1348,20250323T000000Z,20250323T000000Z,P1D,National Day: Pakistan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-67,20250826T1348,20250323T000000Z,20250323T000000Z,P1D,Shaheed Day,Bangladesh holds Shaheed Day each year in memory of the bravery and death of Dhaka University students who fought to keep Bengali as the national language.,,,,,,,,,,,,,,20250826T1348,,,
+event-68,20250826T1348,20250325T000000Z,20250325T000000Z,P1D,Independence Day: Greece,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-69,20250826T1348,20250326T000000Z,20250326T000000Z,P1D,Independence Day: Bangladesh,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.61947,20250826T1348,20250330T000000Z,20250330T000000Z,P1D,Eid al-Fitr (Islam),"Also called the “Festival of Breaking the Fast”, is a religious holiday celebrated by Muslims worldwide that marks the end of Ramadan.",,,,,,,,,,,,,,20250826T1348,,,
+event-70,20250826T1348,20250330T000000Z,20250330T000000Z,P1D,Ugadi (Telugu New Year),"Ugadi or Yugadi, also known as Samvatsarādi (meaning 'beginning of the year'), is New Year's Day according to the Hindu calendar. It is celebrated in the states of Andhra Pradesh, Telangana, Karnataka, Tamil Nadu and Goa in India.",,,,,,,,,,,,,,20250826T1348,,,
+event-71,20250826T1348,20250330T000000Z,20250331T000000Z,P2D,Eid al Fitr,"The Islamic month of fasting, Ramadan, ends with the festival of Eid al Fitr. A celebratory meal breaks the fast, and good deeds have special significance during this time. Eid is also a time of forgiveness and making amends. The observance is subject to the sighting of the moon.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619473,20250826T1348,20250331T000000Z,20250331T000000Z,P1D,Eid-al-Fitr ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619474,20250826T1348,20250331T000000Z,20250331T000000Z,P1D,International Transgender Day of Visibility ,"Trans Day of Visibility is an annual international celebration of trans pride and awareness, recognising trans and gender diverse experiences and achievements. ",,,,,,,,,,,,,,20250826T1348,,,
+event-72,20250826T1348,20250401T000000Z,20250401T000000Z,P1D,Kha b-Nisan (Assyrian and Chaldean New Year),"Assyrians and Chaldeans mark Kha b-Nisan, also known as Akitu, at the beginning of spring in the Northern hemisphere. Celebrated by indigenous Assyrians of Northern Iraq, North-eastern Syria, South-eastern Türkiye and North-western Iran.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619476,20250826T1348,20250402T000000Z,20250402T000000Z,P1D,World Autism Awareness Day (Jainism),The Day 'recognises and celebrates the rights of persons with autism'. ,,,,,,,,,,,,,,20250826T1348,,,
+event-73,20250826T1348,20250404T000000Z,20250404T000000Z,P1D,Independence Day: Senegal,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-74,20250826T1348,20250404T000000Z,20250404T000000Z,P1D,Qingming (Tomb Sweeping Day),Qingming is a time for Chinese people to show respect to their ancestors by visiting and cleaning their ancestors' tombs.,,,,,,,,,,,,,,20250826T1348,,,
+event-75,20250826T1348,20250407T000000Z,20250407T000000Z,P1D,Hung Vuong Festival,"The Hung Kings' Temple Festival is a Vietnamese festival held from the eighth to the eleventh day of the third lunar month in honour of the Hung Vuong or Hung Kings. The Festival commemorates the contributions of the Hung dynasty, who were the traditional founders of the nation and the first emperors of Vietnam. Since 2007 this has been a national holiday in Vietnam.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619479,20250826T1348,20250407T000000Z,20250407T000000Z,P1D,World Health Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-76,20250826T1348,20250408T000000Z,20250408T000000Z,P1D,Hana Matsuri (Flower Festival),"In Japan, Buddha’s Birthday is celebrated on 8 April. The day features the display of flowers at temples and the viewing of cherry blossoms throughout the country.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619481,20250826T1348,20250409T000000Z,20250417T000000Z,P8D,NSW Youth Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619482,20250826T1348,20250410T000000Z,20250410T000000Z,P1D,Mahavir Jayanti ,This festival celebrates the day of Mahavira’s birth. Jains will gather in temples to hear readings of the teachings of Mahavira. Images of Mahavira are paraded through the streets with much pomp and ceremony.,,,,,,,,,,,,,,20250826T1348,,,
+event-77,20250826T1348,20250412T000000Z,20250412T000000Z,P1D,Hanuman Jayanti,Hanuman Jayanti is a Hindu religious festival that celebrates the birth of the Hindu God Hanuman. Hanuman is highly venerated throughout India and Nepal. This festival is celebrated on different days across India.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619484,20250826T1348,20250412T000000Z,20250420T000000Z,P8D,Passover (Judaism),Passover is one of the most important religious festivals in the Jewish calendar. Jews celebrate the Feast of Passover (Pesach) to commemorate the liberation of the Children of Israel who were led out of Egypt by Moses.,,,,,,,,,,,,,,20250826T1348,,,
+event-78,20250826T1348,20250412T000000Z,20250421T000000Z,P10D,Passover,Passover is the first and most significant of the Jewish pilgrim festivals. It celebrates the redemption by God of the Jewish people from slavery in Egypt. Work is not permitted on the first two and last two days. Many Jews refrain from work during the whole festival.,,,,,,,,,,,,,,20250826T1348,,,
+event-79,20250826T1348,20250413T000000Z,20250413T000000Z,P1D,Palm Sunday,The final Sunday before Easter Sunday marks the beginning of Christian Holy Week and commemorates the story of Jesus’ arrival in Jerusalem before his crucifixion.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619487,20250826T1348,20250413T000000Z,20250413T000000Z,P1D,Songkran - Thai New Year (Buddhism),"Also known as the Water Festival. The festival is celebrated in Laos, Cambodia, and Myanmar.",,,,,,,,,,,,,,20250826T1348,,,
+event-80,20250826T1348,20250413T000000Z,20250415T000000Z,P3D,Songkran (Thai New Year),"Songkran is the Thai New Year and Water Festival. Thai communities celebrate this festival with food, crafts and entertainment. Songkran begins on 13 April yearly and is recognised as a national holiday.",,,,,,,,,,,,,,20250826T1348,,,
+event-81,20250826T1348,20250413T000000Z,20250416T000000Z,P4D,Pii Mai (Lao New Year),"Lao New Year or Pii Mai is celebrated every year. The coming of the New Year isseen as an opportunity to let go of the past and embrace a promising new future. Water, which holds great symbolic value in Lao culture, is used to wash Buddha statues. Sand is brought to the temple grounds and is made into stupas or mounds, then decorated before being given to the monks as a way of making merit. People also splash water on each other during the celebrations that last three days.",,,,,,,,,,,,,,20250826T1348,,,
+event-82,20250826T1348,20250413T000000Z,20250416T000000Z,P4D,Thingyan (Burmese New Year),"Thingyan is the most significant festival on the Myanmar calendar. It marks the start of the New Year, the beginning of the Myanmar lunar calendar and celebrates life and rebirth.",,,,,,,,,,,,,,20250826T1348,,,
+event-83,20250826T1348,20250414T000000Z,20250414T000000Z,P1D,Aluth Avurudda (Sinhalese New Year),Aluth Ayurudda is a festival that marks the beginning of the solar New Year. It is traditionally celebrated by Sinhalese in Sri Lanka.,,,,,,,,,,,,,,20250826T1348,,,
+event-84,20250826T1348,20250414T000000Z,20250414T000000Z,P1D,Maithil New Year,"Maithil New Year is celebrated by communities in various parts of India, including Tamil Nadu, Assam, Bengal, Kerala, Manipur, Orissa, Punjab and Tripura. It is also celebrated in Nepal.",,,,,,,,,,,,,,20250826T1348,,,
+event-85,20250826T1348,20250414T000000Z,20250414T000000Z,P1D,Navavarsha (Nepalese New Year),"Nepal relies upon more than one calendar. As such, residents of Nepal enjoy three New Year celebrations. These are the New Year on the Gregorian calendar, Tibetan New Year and Navavarsha. Navavarsha is typically held in the second week of April, the first day of Baisakh on the Bikram Sambat calendar. Nepal also celebrates the lunar new year (Sonam Lhosar) with a public holiday.",,,,,,,,,,,,,,20250826T1348,,,
+event-86,20250826T1348,20250414T000000Z,20250414T000000Z,P1D,Puthandu (Tamil New Year),"Puthandu, also known as Puthu-varusham, is the beginning of the solar new year. It is celebrated by Tamils around the world.",,,,,,,,,,,,,,20250826T1348,,,
+event-87,20250826T1348,20250414T000000Z,20250414T000000Z,P1D,Vaisakhi,"Vaisakhi, also known as Baisakhi, is an ancient harvest festival that marks the beginning of a new solar year and harvest season. It is commonly celebrated by the Sikh community.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619492,20250826T1348,20250414T000000Z,20250414T000000Z,P1D,Vaisakhi (Baisakhi) - Sikh New Year Festival (Sikhism),"Vaisakhi is the most important occasion in the Sikh calendar. Sikhs come together on Vaisakhi to strengthen their practice of Sikh ideals and values, including praying and working to achieve prosperity for the whole human race.",,,,,,,,,,,,,,20250826T1348,,,
+event-88,20250826T1348,20250414T000000Z,20250416T000000Z,P3D,Choul Chnam Thmey (Cambodian/Khmer New Year),"Khmer New Year is usually a three-day public holiday in Cambodia. 'Choul Chnam Thmey' means 'enter the new year'. The New Year coincides with the traditional solar new year in several parts of India, Bangladesh, Nepal, Sri Lanka, Myanmar, Laos and Thailand. Traditionally it marks the end of the harvesting season when farmers enjoy the fruits of their labour before the rainy season begins. A three-day public holiday is observed in the country.",,,,,,,,,,,,,,20250826T1348,,,
+event-89,20250826T1348,20250415T000000Z,20250415T000000Z,P1D,Pohela Boishakh (Bengali New Year),Pohela Boishakh marks the first day of the Bangla Calendar. People clean and decorate their houses to welcome the New Year. They visit temples and pray for good fortune and prosperity in the coming year.,,,,,,,,,,,,,,20250826T1348,,,
+event-90,20250826T1348,20250417T000000Z,20250417T000000Z,P1D,Maundy Thursday (Holy Thursday),"Maundy commemorates the washing of the feet (Maundy) and the Last Supper of Jesus Christ with the Apostles, as described in the Christian New Testament. In 2025, Protestant, Catholic and Orthodox Christians commemorate this on the same date.",,,,,,,,,,,,,,20250826T1348,,,
+event-91,20250826T1348,20250417T000000Z,20250417T000000Z,P1D,National Day: Syrian Arab Republic,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-92,20250826T1348,20250418T000000Z,20250418T000000Z,P1D,Good Friday,"Good Friday is a solemn Christian remembrance of the suffering and crucifixion of Jesus Christ. Many countries observe Good Friday as a national holiday on the Friday before Easter. In 2025, Protestant, Catholic and Orthodox Christians commemorate this on the same date.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619505,20250826T1348,20250418T000000Z,20250418T000000Z,P1D,Good Friday (Christianity),"Also known as Holy Friday; it is a religious and national holiday in Australia and is held on the Friday before Easter Sunday. On this day, Christians commemorate the crucifixion of Jesus Christ.",,,,,,,,,,,,,,20250826T1348,,,
+event-93,20250826T1348,20250418T000000Z,20250418T000000Z,P1D,National Day: Zimbabwe,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-94,20250826T1348,20250419T000000Z,20250419T000000Z,P1D,Holy Saturday,"Holy Saturday is a Christian commemoration of the final day of Christ’s death. It is associated with traditions regarding Christ’s triumphant descent into hell and a 40-hour-long vigil that followers of Jesus Christ held after his burial on Good Friday. In 2025, Protestant, Catholic and Orthodox Christians commemorate this on the same date.",,,,,,,,,,,,,,20250826T1348,,,
+event-95,20250826T1348,20250420T000000Z,20250420T000000Z,P1D,Easter Sunday,"Easter Sunday is regarded by Christians as the day of the resurrection of Jesus Christ. In 2025, Protestant, Catholic and Orthodox Christians commemorate this on the same date.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619508,20250826T1348,20250420T000000Z,20250420T000000Z,P1D,Easter Sunday (Christianity),"Easter Sunday is a religious and national holiday in Australia. On this day, Christians commemorate the resurrection of Jesus Christ following his death by crucifixion.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.61951,20250826T1348,20250420T000000Z,20250420T000000Z,P1D,Orthodox Easter (Christianity),"Orthodox Easter Sunday follows the Julian calendar, rather than the Gregorian calendar used by most western countries and Christian denominations.",,,,,,,,,,,,,,20250826T1348,,,
+event-96,20250826T1348,20250420T000000Z,20250501T000000Z,P12D,Ridvan,"Ridvan is the most significant festival of the Baha’i faith and is celebrated over 12 days. The First Day of Ridvan is the most important of the Baha’i Holy Days. It is the day Baha’u’lláh declared his mission as a messenger of God in the Garden of Ridvan. The festival’s first, ninth and twelfth days are considered significant days and work is suspended.",,,,,,,,,,,,,,20250826T1348,,,
+event-97,20250826T1348,20250421T000000Z,20250421T000000Z,P1D,Easter Monday,"Easter Monday is the day after Easter Sunday in Eastern or Western Christian traditions. The day marks the resurrection of Jesus Christ three days after his crucifixion. In 2025, Protestant, Catholic and Orthodox Christians commemorate this on the same date.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619512,20250826T1348,20250422T000000Z,20250422T000000Z,P1D,Earth Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-98,20250826T1348,20250423T000000Z,20250423T000000Z,P1D,St George’s Day,"St George is the patron saint of England and one of the most venerated saints in the Anglican church. This day is generally celebrated with parades, dancing and other celebratory activities.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619514,20250826T1348,20250423T000000Z,20250424T000000Z,P1D,Yom HaShoah (Judaism),Yom HaShoah (Holocaust Remembrance Day) is a day set aside to remember the millions of Jews who died as victims of the Nazis during World War II and emphasises respect for human dignity.,,,,,,,,,,,,,,20250826T1348,,,
+event-99,20250826T1348,20250425T000000Z,20250425T000000Z,P1D,ANZAC Day,"ANZAC stands for Australian and New Zealand Army Corps. ANZAC Day is an anniversary of the day when Australian and New Zealand soldiers landed in Galipoli in 1915 as part of the Allies' invasion. It is a public holiday to recognise the contribution and sacrifices of all those who have served Australia in time of war and in war like conflicts. The day is observed with the dawn service, marches and ceremonies across Australia and New Zealand.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619516,20250826T1348,20250425T000000Z,20250425T000000Z,P1D,"ANZAC Day (Australia, New Zealand)","On 25 April 1915,  Australian and New Zealand soldiers formed part of the allied expedition that set out to capture the Gallipoli peninsula. These became known as Anzacs, and the pride they took in that name continues to this day. ",,,,,,,,,,,,,,20250826T1348,,,
+event-100,20250826T1348,20250426T000000Z,20250426T000000Z,P1D,"Union Day: Tanzania, United Republic Of",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-101,20250826T1348,20250427T000000Z,20250427T000000Z,P1D,Freedom Day: South Africa,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-102,20250826T1348,20250427T000000Z,20250427T000000Z,P1D,Independence Day: Sierra Leone,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-103,20250826T1348,20250427T000000Z,20250427T000000Z,P1D,Official Birthday of His Majesty King Wilem-Alexander: Netherlands,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-104,20250826T1348,20250427T000000Z,20250427T000000Z,P1D,Togolais National Day: Togo,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-105,20250826T1348,20250501T000000Z,20250501T000000Z,P1D,National Day: Marshall Islands,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-106,20250826T1348,20250503T000000Z,20250503T000000Z,P1D,National Day: Poland,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-107,20250826T1348,20250505T000000Z,20250505T000000Z,P1D,Cinco de Mayo,Cinco de Mayo marks the anniversary of the 1862 victory over invading French forces by Mexican troops at the Battle of Puebla. It is an important day of celebration of Mexican culture.,,,,,,,,,,,,,,20250826T1348,,,
+event-108,20250826T1348,20250508T000000Z,20250508T000000Z,P1D,National Day: Israel,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-109,20250826T1348,20250509T000000Z,20250509T000000Z,P1D,Europe Day: European Union,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619523,20250826T1348,20250512T000000Z,20250512T000000Z,P1D,"Wesak or Vesak Day (Buddhism - Indonesia, Malaysia, Sri Lanka)","Vesak celebrates the birth, enlightenment and death of the Buddha on the one day. It is recognised by the UN ‘to acknowledge the contribution that Buddhism, one of the oldest religions in the world, has made for over two and a half millennia and continues to make to the spirituality of humanity’.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619524,20250826T1348,20250512T000000Z,20250518T000000Z,P6D,Neighbourhood Centre Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-110,20250826T1348,20250514T000000Z,20250514T000000Z,P1D,National Day: Paraguay,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619526,20250826T1348,20250515T000000Z,20250515T000000Z,P1D,Global Accessibility Awareness Day (GAAD) ,"The purpose of GAAD is to get everyone talking, thinking and learning about digital access and inclusion, and the more than One Billion people with disabilities/impairments.",,,,,,,,,,,,,,20250826T1348,,,
+event-111,20250826T1348,20250517T000000Z,20250517T000000Z,P1D,Constitution Day: Norway,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619528,20250826T1348,20250517T000000Z,20250517T000000Z,P1D,"IDAHOBIT (International Day Against Homophobia, Biphobia, Intersexism & Transphobia) ",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619529,20250826T1348,20250517T000000Z,20250517T000000Z,P1D,"International Day Against Homophobia, Biphobia, Interphobia and Transphobia (IDAHOBIT) ",People are encouraged to wear the rainbow on 17 May and use the day as a 'catalyst for creating safe spaces for LGBTIQ people all year round!' ,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619531,20250826T1348,20250519T000000Z,20250525T000000Z,P6D,National Volunteer Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-112,20250826T1348,20250520T000000Z,20250520T000000Z,P1D,Dehwa Daymaneh,This date marks the Mandean celebration of the birthday of Yahya Yohana (John the Baptist).,,,,,,,,,,,,,,20250826T1348,,,
+event-113,20250826T1348,20250520T000000Z,20250520T000000Z,P1D,National Day: Cameroon,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-114,20250826T1348,20250520T000000Z,20250520T000000Z,P1D,Restoration of Independence: Timor-Leste,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-115,20250826T1348,20250521T000000Z,20250521T000000Z,P1D,World Day for Cultural Diversity for Dialogue and Development,"In 2001, UNESCO adopted the Universal Declaration on Cultural Diversity. In December 2002, the UN General Assembly, in its resolution 57/249, declared 21 May to be the World Day for Cultural Diversity for Dialogue and Development.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619534,20250826T1348,20250521T000000Z,20250521T000000Z,P1D,World Day for Cultural Diversity for Dialogue and Development ,"Aims to acknowledge the cultural dimension of development, affirm and enrich cultural identity, broaden participation in cultural life and promote international cultural cooperation. ",,,,,,,,,,,,,,20250826T1348,,,
+event-116,20250826T1348,20250522T000000Z,20250522T000000Z,P1D,Unification Day: Yemen,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-117,20250826T1348,20250522T000000Z,20250523T000000Z,P2D,Declaration of the Báb,This date marks the anniversary of the Báb’s announcement of his mission in 1844. The Báb is a prophet and is considered one of the founders of the Baha’i faith.,,,,,,,,,,,,,,20250826T1348,,,
+event-118,20250826T1348,20250523T000000Z,20250523T000000Z,P1D,Vesak Day or Buddha Day,"Vesak or Buddha Day is an important day of celebration for Buddhists around the world. The holiday is celebrated to commemorate the Buddha’s birth, enlightenment and death. The date varies by region and tradition.",,,,,,,,,,,,,,20250826T1348,,,
+event-119,20250826T1348,20250524T000000Z,20250524T000000Z,P1D,Ecuador's Independence Day: Ecuador,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-120,20250826T1348,20250524T000000Z,20250524T000000Z,P1D,Independence Day: Eritrea,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-121,20250826T1348,20250525T000000Z,20250525T000000Z,P1D,Africa Day: Africa Union,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-122,20250826T1348,20250525T000000Z,20250525T000000Z,P1D,Independence Day: Jordan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-123,20250826T1348,20250525T000000Z,20250525T000000Z,P1D,National Day: Argentina,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-124,20250826T1348,20250526T000000Z,20250526T000000Z,P1D,King's Birthday: Denmark,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-125,20250826T1348,20250526T000000Z,20250526T000000Z,P1D,National Day: Georgia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-126,20250826T1348,20250526T000000Z,20250526T000000Z,P1D,National Sorry Day,"National Sorry Day acknowledges and raises awareness of the history and continued effect of the forced removal of Aboriginal and Torres Strait Islander people from their families, communities and culture.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619542,20250826T1348,20250526T000000Z,20250526T000000Z,P1D,National Sorry Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619544,20250826T1348,20250526T000000Z,20250526T000000Z,P1D,National Sorry Day (Australia),"Provides an opportunity for people to come together and share the journey towards healing for the Stolen Generations, their families and communities. The idea of holding a ‘Sorry Day’ was first mentioned as one of the 54 recommendations of the Bringing Them Home report (1997). ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619545,20250826T1348,20250527T000000Z,20250527T000000Z,P1D,1967 Referendum Anniversary,"The 1967 Referendum was a landmark achievement following decades of activism by Aboriginal and Torres Strait Islander and non-Indigenous people, where more than 90 percent of Australians voted in favour of amending two sections of the Australian Constitution.",,,,,,,,,,,,,,20250826T1348,,,
+event-215,20250826T1348,20250527T000000Z,20250528T000000Z,P2D,Ascension of Baha’u’lláh,"Ascension of Baha’u’lláh commemorates the anniversary of the death in 1892 of Baha'u'lláh, the founder of the Baha'i faith. This solemn anniversary is a day of rest and is often observed by reading or chanting from the scriptures. Many pilgrims visit the Baha'i shrines and tomb in Israel to pray. The Baha'i day ends and a new one begins at sunset. Consequently, the day on which a Feast or Holy Day is observed starts at sundown of the day before the Gregorian calendar dates listed.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619547,20250826T1348,20250527T000000Z,20250603T000000Z,P7D,National Reconciliation Week,National Reconciliation Week celebrations commemorate two significant milestones in the reconciliation journey-the anniversaries of the successful 1967 Referendum and the High Court Mabo Decision.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619548,20250826T1348,20250527T000000Z,20250603T000000Z,P7D,National Reconciliation Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.61955,20250826T1348,20250527T000000Z,20250603T000000Z,P7D,National Reconciliation Week (Australia),"A time for all Australians to learn about our shared histories, cultures, and achievements, and to explore how each of us can contribute to achieving reconciliation. The Week commemorates two significant milestones - the anniversaries of the 1967 Referendum and the High Court Mabo Decision.",,,,,,,,,,,,,,20250826T1348,,,
+event-128,20250826T1348,20250528T000000Z,20250528T000000Z,P1D,National Day: Azerbaijan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-129,20250826T1348,20250528T000000Z,20250528T000000Z,P1D,National Day: Ethiopia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-130,20250826T1348,20250529T000000Z,20250529T000000Z,P1D,Ascension of Christ,"A Christian holiday that commemorates Jesus Christ's ascension into heaven, according to Christian belief.",,,,,,,,,,,,,,20250826T1348,,,
+event-131,20250826T1348,20250530T000000Z,20250530T000000Z,P1D,Statehood Day: Croatia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-132,20250826T1348,20250531T000000Z,20250531T000000Z,P1D,Dano Festival,Dano is an official holiday in both North and South Korea to celebrate the ending of spring as the summer season is welcomed. The day marks the beginning of growing season when the farmers have finished seeding and planting and the Yang energy is at its highest. ,,,,,,,,,,,,,,20250826T1348,,,
+event-133,20250826T1348,20250531T000000Z,20250531T000000Z,P1D,Dragon Boat Festival,"Dragon Boat Festival (Duanwu Jie or Double Fifth Festival) commemorates the death of the Chinese poet Qu Yuan. It is celebrated in China, Taiwan, Malaysia, Singapore and parts of Indonesia. Cultural events involve eating rice dumplings and traditional dragon boat racing.",,,,,,,,,,,,,,20250826T1348,,,
+event-134,20250826T1348,20250601T000000Z,20250601T000000Z,P1D,Independence Day: Samoa,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-135,20250826T1348,20250601T000000Z,20250603T000000Z,P3D,Shavuot,Shavuot is a Jewish celebration of Moses’s descent from Mount Sinai with the Ten Commandments. It is the second of the Jewish pilgrim festivals. Some Jews refrain from working on Shavuot.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619555,20250826T1348,20250601T000000Z,20250630T000000Z,P29D,Pride Month (International),"Pride Month celebrates the diversity of the lesbian, gay, bisexual, transgender and intersex community. ",,,,,,,,,,,,,,20250826T1348,,,
+event-136,20250826T1348,20250602T000000Z,20250602T000000Z,P1D,Foundation of the Republic: Italy,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619557,20250826T1348,20250602T000000Z,20250602T000000Z,P1D,Reconciliation Day,Australian Capital Territory regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619558,20250826T1348,20250602T000000Z,20250602T000000Z,P1D,Western Australia Day,Western Australia regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-137,20250826T1348,20250603T000000Z,20250603T000000Z,P1D,Mabo Day,"The Australian High Court delivered the Mabo decision on 3 June 1992, providing legal recognition that Indigenous people have a special relationship with the land. This decision paved the way for land rights known as native title. Mabo Day celebrates the life of activist Eddie Koiki Mabo.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619561,20250826T1348,20250603T000000Z,20250603T000000Z,P1D,Mabo Day (Australia),"The Day ‘commemorates the courageous efforts of Eddie Koiki Mabo to overturn the fiction of ‘terra nullius’ (land belonging to no-one), the legal concept that Australia and the Torres Strait Islands were not owned by Indigenous peoples because they did not ‘use’ the land in ways Europeans believed constituted some kind of legal possession’. The decision paved the way for Native Title legislation. ",,,,,,,,,,,,,,20250826T1348,,,
+event-138,20250826T1348,20250604T000000Z,20250609T000000Z,P6D,"The Hajj (Pilgrimage) to Mecca, Saudi Arabia","On specific days of the Islamic month of Zu Al-Hijja, millions of Muslims from around the world congregate in the Prophet’s birthplace of Mecca in Saudi Arabia. The Hajj is obligatory for all Muslims who have the means to undertake it.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619563,20250826T1348,20250605T000000Z,20250605T000000Z,P1D,World Environment Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619565,20250826T1348,20250606T000000Z,20250606T000000Z,P1D,Eid Al-Adha (International),"Eid Al-Adha, also known as 'the Feast of the Sacrifice', is one of the two major Muslim festivals. ",,,,,,,,,,,,,,20250826T1348,,,
+event-139,20250826T1348,20250606T000000Z,20250606T000000Z,P1D,National Day: Sweden,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-140,20250826T1348,20250606T000000Z,20250610T000000Z,P5D,Eid al Adha,The Eid al Adha means Feast of Sacrifice and commemorates the ordeal of Ibrahim (Abraham) who was asked to sacrifice his only son to prove his faith to Allah (God). The timing of this event is subject to the sighting of the moon) and runs for three to four days.,,,,,,,,,,,,,,20250826T1348,,,
+event-141,20250826T1348,20250608T000000Z,20250608T000000Z,P1D,Pentecost,"A festival where Christians celebrate the gift of the Holy Spirit. It is celebrated on the Sunday 50 days after Easter. The name comes from the Greek pentekoste, which means ‘fiftieth’.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619567,20250826T1348,20250609T000000Z,20250615T000000Z,P6D,Men’s Health Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-142,20250826T1348,20250610T000000Z,20250610T000000Z,P1D,"Portugal Day, Camões Day and Day of Portuguese Communities: Portugal",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-143,20250826T1348,20250612T000000Z,20250612T000000Z,P1D,Independence Day: Philippines,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-144,20250826T1348,20250612T000000Z,20250612T000000Z,P1D,National Day: Russian Federation,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619571,20250826T1348,20250615T000000Z,20250615T000000Z,P1D,Elder Abuse Awareness Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619572,20250826T1348,20250615T000000Z,20250621T000000Z,P6D,Refugee Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619573,20250826T1348,20250615T000000Z,20250621T000000Z,P6D,Refugee Week (Australia),"Since early 1945, more than seven million people have come to Australia as new settlers, including around 800 000 people under humanitarian programs, initially as displaced persons and more recently as refugees.  ",,,,,,,,,,,,,,20250826T1348,,,
+event-145,20250826T1348,20250615T000000Z,20250621T000000Z,P7D,Refugee Week,Refugee Week is celebrated around the country. It is an opportunity to acknowledge the success of refugees and humanitarian entrants in Australian society.,,,,,,,,,,,,,,20250826T1348,,,
+event-146,20250826T1348,20250617T000000Z,20250617T000000Z,P1D,National Day: Iceland,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-147,20250826T1348,20250618T000000Z,20250618T000000Z,P1D,National Day: Seychelles,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-148,20250826T1348,20250620T000000Z,20250620T000000Z,P1D,Matariki,Matariki is a New Zealand national holiday to celebrate the first rising of the Pleiades star cluster. This marks the beginning of the new year in the Māori lunar calendar.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619577,20250826T1348,20250620T000000Z,20250620T000000Z,P1D,Matariki (New Zealand),"The rising of Matariki, the star cluster commonly known as Pleiades, signals the beginning of the Māori New Year.",,,,,,,,,,,,,,20250826T1348,,,
+event-149,20250826T1348,20250620T000000Z,20250620T000000Z,P1D,World Refugee Day,This day honours refugees and celebrates the strength and courage of people forced to flee their home country to escape conflict or persecution.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619579,20250826T1348,20250620T000000Z,20250620T000000Z,P1D,World Refugee Day ,"‘The Day celebrates the strength and courage of people who have been forced to flee their home country to escape conflict or persecution.' World Refugee Day 'shines a light on the rights, needs and dreams of refugees, helping to mobilise political will and resources so refugees can not only survive but also thrive’. ",,,,,,,,,,,,,,20250826T1348,,,
+event-150,20250826T1348,20250623T000000Z,20250623T000000Z,P1D,National Day and Official Birthday of HRH the Grand Duke: Luxembourg,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-151,20250826T1348,20250625T000000Z,20250625T000000Z,P1D,Independence Day: Mozambique,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-152,20250826T1348,20250625T000000Z,20250625T000000Z,P1D,National Day: Slovenia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-153,20250826T1348,20250626T000000Z,20250626T000000Z,P1D,National Day: Madagascar,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-154,20250826T1348,20250627T000000Z,20250627T000000Z,P1D,Al Hijri (Islamic New Year),"According to the lunar or Islamic Calendar, Al Hijri (Al Hijrah in Arabic) is the Islamic New Year observed on the first day of Muharram. Muharram is the Islamic Calendar’s first month of the year and is the second holiest month after Ramadan.",,,,,,,,,,,,,,20250826T1348,,,
+event-155,20250826T1348,20250627T000000Z,20250627T000000Z,P1D,Independence Day: Djibouti,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-156,20250826T1348,20250630T000000Z,20250630T000000Z,P1D,Independence Day: Democratic Republic of the Congo,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-157,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,Canada Day: Canada,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619587,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,Coming of the Light,The Coming of the Light is celebrated annually by Torres Strait Islander peoples. It marks the adoption of Christianity through island communities during the late nineteenth century.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619588,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,Coming of the Light (Australia),"Celebrated annually by Torres Strait Islander peoples, it marks the adoption of Christianity through island communities during the late 19th century. ",,,,,,,,,,,,,,20250826T1348,,,
+event-158,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,Coming of the Light Festival,The Coming of the Light is celebrated by Torres Strait Islanders. It commemorates the arrival of the London Missionary Society on Erub Island in the Torres Strait in 1871. It led to the adoption of Christianity through island communities during the late 19th century.,,,,,,,,,,,,,,20250826T1348,,,
+event-159,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,International Tartan Day,"International Tartan Day is a celebration of Scottish heritage. It commemorates the repeal of an English law in 1782 that banned the wearing of tartan. In North America, this day is celebrated on 6 April, the date the Declaration of Arbroath was signed in 1320.",,,,,,,,,,,,,,20250826T1348,,,
+event-160,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,National Day: Burundi,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-161,20250826T1348,20250701T000000Z,20250701T000000Z,P1D,National Day: Somalia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-162,20250826T1348,20250703T000000Z,20250703T000000Z,P1D,National Day: Belarus,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-163,20250826T1348,20250704T000000Z,20250704T000000Z,P1D,Independence Day: United States of America,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-164,20250826T1348,20250705T000000Z,20250705T000000Z,P1D,Liberation Day: Rwanda,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-165,20250826T1348,20250705T000000Z,20250705T000000Z,P1D,National Day: Cape Verde,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-166,20250826T1348,20250705T000000Z,20250705T000000Z,P1D,National Day: Venezuela,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-167,20250826T1348,20250705T000000Z,20250706T000000Z,P2D,Ashura,"For Sunni Muslims, Ashura marks Noah's departure from the ark and the exodus of Moses from Egypt. It is usually marked by a day of non-obligatory fasting. For Shia Muslims, it marks the anniversary of the martyrdom of Prophet Muhammad's grandson Hussein in Karbala, Iraq. It is commemorated with public processions.",,,,,,,,,,,,,,20250826T1348,,,
+event-168,20250826T1348,20250706T000000Z,20250706T000000Z,P1D,National Day: Comoros,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-169,20250826T1348,20250706T000000Z,20250706T000000Z,P1D,National Day: Malawi,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619611,20250826T1348,20250706T000000Z,20250713T000000Z,P7D,NAIDOC Week,"NAIDOC Week celebrations are held across Australia to celebrate history, culture and achievements of Aboriginal peoples and Torres Strait Islander peoples.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619613,20250826T1348,20250706T000000Z,20250713T000000Z,P7D,NAIDOC Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619615,20250826T1348,20250706T000000Z,20250713T000000Z,P7D,NAIDOC Week (Australia),"National Aborigines and Islanders Day Observance Committee (NAIDOC) Week celebrations are held to celebrate the history, culture and achievements of Aboriginal and Torres Strait Islander peoples. The week is an excellent opportunity to participate in a range of activities and to support your local Aboriginal and Torres Strait Islander community.",,,,,,,,,,,,,,20250826T1348,,,
+event-171,20250826T1348,20250707T000000Z,20250707T000000Z,P1D,National Day: Solomon Islands,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-172,20250826T1348,20250709T000000Z,20250709T000000Z,P1D,Independence Day: South Sudan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-173,20250826T1348,20250710T000000Z,20250710T000000Z,P1D,Asalha Puja (Dhamma Day),Asalha Puja Day or the Dhamma Day celebrates the first teaching of the Buddha. This Buddhist event commemorates the first sermon delivered by the Buddha after his enlightenment. This event is one of the most important festivals for Theravada Buddhists.,,,,,,,,,,,,,,20250826T1348,,,
+event-174,20250826T1348,20250710T000000Z,20250710T000000Z,P1D,Independence Day: Bahamas,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-175,20250826T1348,20250711T000000Z,20250711T000000Z,P1D,Anniversary of Mongolian People's Revolution: Mongolia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-176,20250826T1348,20250712T000000Z,20250712T000000Z,P1D,National Day: Kiribati,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-177,20250826T1348,20250712T000000Z,20250712T000000Z,P1D,National Day: Sao Tome and Principe,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-178,20250826T1348,20250713T000000Z,20250713T000000Z,P1D,National Day: Montenegro,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-179,20250826T1348,20250714T000000Z,20250714T000000Z,P1D,Bastille Day: France,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619621,20250826T1348,20250714T000000Z,20250714T000000Z,P1D,International Non-Binary People's Day ,Held precisely in between International Men’s Day and International Women’s Day. ,,,,,,,,,,,,,,20250826T1348,,,
+event-180,20250826T1348,20250719T000000Z,20250721T000000Z,P3D,Karsa (Mandaean New Year),Karsa marks the beginning of a new year for Mandaeans and is spent and celebrated with family. It begins at dusk and ends 36 hours later.,,,,,,,,,,,,,,20250826T1348,,,
+event-181,20250826T1348,20250720T000000Z,20250720T000000Z,P1D,National Day: Colombia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-182,20250826T1348,20250721T000000Z,20250721T000000Z,P1D,Accession of King Leopold I (1831): Belgium,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-183,20250826T1348,20250723T000000Z,20250723T000000Z,P1D,Anniversary of Revolution of 23 July: Egypt,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-184,20250826T1348,20250726T000000Z,20250726T000000Z,P1D,National Day: Liberia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-185,20250826T1348,20250726T000000Z,20250726T000000Z,P1D,National Day: Maldives,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-186,20250826T1348,20250728T000000Z,20250728T000000Z,P1D,Independence Day: Peru,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-187,20250826T1348,20250730T000000Z,20250730T000000Z,P1D,Independence Day: Vanuatu,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619627,20250826T1348,20250730T000000Z,20250730T000000Z,P1D,International Day of Friendship ,"The day was proclaimed in 2011 by the UNGA ‘with the idea that friendship between peoples, countries, cultures and individuals can inspire peace efforts and build bridges between communities.’ ",,,,,,,,,,,,,,20250826T1348,,,
+event-188,20250826T1348,20250730T000000Z,20250730T000000Z,P1D,Throne Day: Morocco,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-189,20250826T1348,20250801T000000Z,20250801T000000Z,P1D,Foundation of the Swiss Confederation: Switzerland,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-190,20250826T1348,20250801T000000Z,20250801T000000Z,P1D,National Day: Benin,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.61963,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,Bank Holiday,New South Wales bank holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-191,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,Constitution Day: Cook Islands,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619631,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,National Aboriginal & Torres Strait Islander Children's Day (Australia),"NAICD is an opportunity for all Australians to learn about the crucial impact that community, culture and family play in the life of every Aboriginal and Torres Strait Islander child. It was first observed by the Secretariat of National Aboriginal and Islander Child Care in 1988. ",,,,,,,,,,,,,,20250826T1348,,,
+event-192,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,National Aboriginal and Torres Strait Islander Children’s Day,National Aboriginal and Torres Strait Islander Children’s Day (NAICD) is a celebration of Indigenous children. NAICD was first observed by the Secretariat of National Aboriginal and Islander Child Care (SNAICC) in 1988.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619633,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,National Aboriginal and Torres Strait Islander Children’s Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619635,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,National Aboriginal and Torres Strait Islander Children's Day,"National Aboriginal and Torres Strait Islander Children's Day is an opportunity for all Australians to learn about the crucial impact that community, culture and family play in the life of every Aboriginal and Torres Strait Islander child.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619636,20250826T1348,20250804T000000Z,20250804T000000Z,P1D,Picnic Day,Northern Territory regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619638,20250826T1348,20250804T000000Z,20250810T000000Z,P6D,Homelessness Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619639,20250826T1348,20250804T000000Z,20250810T000000Z,P6D,Loneliness Awareness Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-193,20250826T1348,20250806T000000Z,20250806T000000Z,P1D,Hiroshima Day,"Hiroshima Day commemorates those who lost their lives in the bombing of Hiroshima, Japan on 6 August 1945, and to pray for lasting world peace.",,,,,,,,,,,,,,20250826T1348,,,
+event-194,20250826T1348,20250806T000000Z,20250806T000000Z,P1D,Independence Day: Bolivia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-195,20250826T1348,20250806T000000Z,20250806T000000Z,P1D,National Day: Jamaica,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-196,20250826T1348,20250807T000000Z,20250807T000000Z,P1D,National Day: Côte d’Ivoire,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-197,20250826T1348,20250809T000000Z,20250809T000000Z,P1D,International Day of the World’s Indigenous Peoples,The United Nations’ International Day of the World’s Indigenous Peoples encourages people to protect and promote the rights of indigenous peoples.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619643,20250826T1348,20250809T000000Z,20250809T000000Z,P1D,International Day of the World's Indigenous Peoples,"On this day, people from around the world are encouraged to spread the United Nation's message on the protection and promotion of the rights of Indigenous peoples.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619644,20250826T1348,20250809T000000Z,20250809T000000Z,P1D,International Day of the World's  Indigenous People ,Observed annually to promote and protect the rights of the world’s Indigenous population. This event also recognises the achievements and contributions that Indigenous people make to improve world issues such as environmental protection. ,,,,,,,,,,,,,,20250826T1348,,,
+event-198,20250826T1348,20250809T000000Z,20250809T000000Z,P1D,Nagasaki Day,Nagasaki Day commemorates the victims of the atomic bombing of the city of Nagasaki in 1945. It is held three days following the observance of Hiroshima Day.,,,,,,,,,,,,,,20250826T1348,,,
+event-199,20250826T1348,20250809T000000Z,20250809T000000Z,P1D,National Day: Singapore,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-200,20250826T1348,20250809T000000Z,20250809T000000Z,P1D,Raksha Bandhan,Raksha Bandhan means bond of protection. This Hindu festival honours the love between brothers and sisters. It is marked by the tying of a rakhi thread by the sister on her brother’s wrist.,,,,,,,,,,,,,,20250826T1348,,,
+event-201,20250826T1348,20250811T000000Z,20250811T000000Z,P1D,National Day: Chad,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619648,20250826T1348,20250812T000000Z,20250812T000000Z,P1D,International Youth Day ,"International Youth Day gives an opportunity to celebrate and mainstream young peoples’ voices, actions and initiatives, as well as their meaningful, universal and equitable engagement. ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.61965,20250826T1348,20250813T000000Z,20250813T000000Z,P1D,Ekka Holiday,Queensland (Brisbane City) regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-202,20250826T1348,20250815T000000Z,20250815T000000Z,P1D,Feast of the Assumption of the Blessed Virgin Mary,This Christian feast day celebrates the belief that God assumed the Virgin Mary into heaven following her death. The Assumption signals the end of Mary’s earthly life and marks her return to heaven to be reunited with Jesus. ,,,,,,,,,,,,,,20250826T1348,,,
+event-203,20250826T1348,20250815T000000Z,20250815T000000Z,P1D,"Independence Day: Congo, Republic of",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-204,20250826T1348,20250815T000000Z,20250815T000000Z,P1D,Independence Day: India,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-205,20250826T1348,20250815T000000Z,20250815T000000Z,P1D,National Day: Liechtenstein,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-206,20250826T1348,20250816T000000Z,20250816T000000Z,P1D,Krishna Janmashtami,"Krishna Janmashtami is one of the most important Hindu festivals. This day celebrates the birthday of Lord Krishna, believed to be the eighth reincarnation of Lord Vishnu, who gave the vital message of the Bhagwat Gita – the guiding principles for every Hindu.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619654,20250826T1348,20250816T000000Z,20250816T000000Z,P1D,Krishna Janmashtami (Hinduism),"This festival is one of the most important events in the Hindu calendar. It celebrates the birth of Lord Krishna, a Hindu deity, the eighth avatar of the God Vishnu.",,,,,,,,,,,,,,20250826T1348,,,
+event-207,20250826T1348,20250817T000000Z,20250817T000000Z,P1D,National Day: Gabon,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-208,20250826T1348,20250817T000000Z,20250817T000000Z,P1D,Proclamation of Independence: Indonesia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-209,20250826T1348,20250819T000000Z,20250819T000000Z,P1D,Independence Day: Afghanistan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619657,20250826T1348,20250819T000000Z,20250819T000000Z,P1D,World Humanitarian Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-210,20250826T1348,20250820T000000Z,20250820T000000Z,P1D,Day of the Foundation of the State of Hungary and St Stephen's Day: Hungary,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-211,20250826T1348,20250824T000000Z,20250824T000000Z,P1D,National Day: Ukraine,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-212,20250826T1348,20250825T000000Z,20250825T000000Z,P1D,Australian South Sea Islanders National Recognition Day,"In 1994, the Commonwealth Government recognised Australian South Sea Islanders as a distinct cultural group. A formal Recognition Statement by the Queensland Government followed this in September 2000.",,,,,,,,,,,,,,20250826T1348,,,
+event-213,20250826T1348,20250825T000000Z,20250825T000000Z,P1D,Independence Day: Uruguay,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-214,20250826T1348,20250826T000000Z,20250827T000000Z,P2D,Ganesh Chaturthi,Ganesh Chaturthi is a Hindu celebration of the birth of Lord Ganesha.,,,,,,,,,,,,,,20250826T1348,,,
+event-216,20250826T1348,20250827T000000Z,20250827T000000Z,P1D,"National Day: Moldova, Republic Of",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619662,20250826T1348,20250829T000000Z,20250829T000000Z,P1D,Wear it Purple Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619663,20250826T1348,20250829T000000Z,20250829T000000Z,P1D,Wear it Purple Day (Australia),"LGBTIQA+ awareness day – wear it Purple strives to foster supportive, safe, empowering and inclusive environments for rainbow young people. ",,,,,,,,,,,,,,20250826T1348,,,
+event-217,20250826T1348,20250831T000000Z,20250831T000000Z,P1D,National Day: Kyrgyzstan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-218,20250826T1348,20250831T000000Z,20250831T000000Z,P1D,National Day: Malaysia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-219,20250826T1348,20250831T000000Z,20250831T000000Z,P1D,National Day: Trinidad and Tobago,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-220,20250826T1348,20250901T000000Z,20250901T000000Z,P1D,Constitution Day: Slovak Republic,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-221,20250826T1348,20250901T000000Z,20250901T000000Z,P1D,National Day: Uzbekistan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-222,20250826T1348,20250902T000000Z,20250902T000000Z,P1D,National Day: Vietnam,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619667,20250826T1348,20250903T000000Z,20250903T000000Z,P1D,Indigenous Literacy Day,"Indigenous Literacy Day is a national celebration of culture, stories, language and literacy. This day raises awareness of the disadvantages experienced in remote communities and advocates for more access to literacy resources.",,,,,,,,,,,,,,20250826T1348,,,
+event-223,20250826T1348,20250903T000000Z,20250903T000000Z,P1D,National Foundation Day: San Marino,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-224,20250826T1348,20250904T000000Z,20250905T000000Z,P2D,Onam,"Onam is a Hindu harvest festival celebrated predominantly in Kerala, India.",,,,,,,,,,,,,,20250826T1348,,,
+event-225,20250826T1348,20250905T000000Z,20250905T000000Z,P1D,Mawlid Al-Nabi (Birth of the Prophet Muhammad),"The Prophet Muhammad’s birthday is commemorated in most Muslim-majority countries. It is usually marked by prayers, carnivals, fairs and public processions.",,,,,,,,,,,,,,20250826T1348,,,
+event-226,20250826T1348,20250906T000000Z,20250906T000000Z,P1D,National Day: Eswatini,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-227,20250826T1348,20250907T000000Z,20250907T000000Z,P1D,Independence Day: Brazil,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-228,20250826T1348,20250908T000000Z,20250908T000000Z,P1D,Independence Day: North Macedonia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-229,20250826T1348,20250908T000000Z,20250908T000000Z,P1D,National Day: Andorra,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619672,20250826T1348,20250909T000000Z,20250909T000000Z,P1D,African Union (AU) Day (Africa),AU Day offers an occasion to promote the African Union and its activities all over the African continent and in the world.,,,,,,,,,,,,,,20250826T1348,,,
+event-230,20250826T1348,20250909T000000Z,20250909T000000Z,P1D,"National Day: Korea, Democratic People's Republic Of",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-231,20250826T1348,20250909T000000Z,20250909T000000Z,P1D,National Day: Tajikistan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-232,20250826T1348,20250911T000000Z,20250911T000000Z,P1D,Enkutatash (Ethiopian New Year),Enkutatash is the New Year in Ethiopia and Eritrea.,,,,,,,,,,,,,,20250826T1348,,,
+event-233,20250826T1348,20250911T000000Z,20250911T000000Z,P1D,Nayrouz (Coptic New Year),The Nayrouz feast commemorates martyrs and confessors within the Coptic Orthodox Church. The day marks the start of the Coptic new year and its first month.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619676,20250826T1348,20250911T000000Z,20250911T000000Z,P1D,R U OK? Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619677,20250826T1348,20250911T000000Z,20250911T000000Z,P1D,R U OK? Day (Australia),R U OK? inspire and empower everyone to meaningfully connect with the people around them and start a conversation with anyone who may be struggling with life. ,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619679,20250826T1348,20250913T000000Z,20250913T000000Z,P1D,Anniversary of the Declaration on the Rights of Indigenous People,"The United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) was adopted by the General Assembly on Thursday, 13 September 2007.",,,,,,,,,,,,,,20250826T1348,,,
+event-234,20250826T1348,20250915T000000Z,20250915T000000Z,P1D,Independence Day: Costa Rica,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-235,20250826T1348,20250915T000000Z,20250915T000000Z,P1D,Independence Day: El Salvador,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-236,20250826T1348,20250915T000000Z,20250915T000000Z,P1D,Independence Day: Guatemala,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-237,20250826T1348,20250915T000000Z,20250915T000000Z,P1D,Independence Day: Honduras,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-238,20250826T1348,20250915T000000Z,20250915T000000Z,P1D,Independence Day: Nicaragua,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-239,20250826T1348,20250916T000000Z,20250916T000000Z,P1D,Independence Day: Papua New Guinea,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-240,20250826T1348,20250916T000000Z,20250916T000000Z,P1D,Proclamation of Independence: Mexico,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-241,20250826T1348,20250917T000000Z,20250917T000000Z,P1D,Australian Citizenship Day,"Australian Citizenship Day was introduced in 2001. It is an opportunity for all Australians to celebrate and value Australian citizenship. In particular, this day recognises the peaceful, prosperous and inclusive society we share. The day invites Australians, whether at home or overseas, to reflect on our role in building our nation and shaping our country's future as proud Australian citizens.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619684,20250826T1348,20250918T000000Z,20250918T000000Z,P1D,International Equal Pay Day ,"Celebrated for the first time this 18 September, the Day represents the longstanding efforts towards the achievement of equal pay for work of equal value. ",,,,,,,,,,,,,,20250826T1348,,,
+event-242,20250826T1348,20250918T000000Z,20250918T000000Z,P1D,National Day: Chile,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-243,20250826T1348,20250919T000000Z,20250919T000000Z,P1D,Independence Day: Saint Kitts and Nevis,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-244,20250826T1348,20250920T000000Z,20250920T000000Z,P1D,National Day: Nepal,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-245,20250826T1348,20250921T000000Z,20250921T000000Z,P1D,Independence Day: Malta,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619688,20250826T1348,20250921T000000Z,20250921T000000Z,P1D,International Day of Peace ,"The International Day of Peace was established in 1981 by the United Nations General Assembly. Two decades later, in 2001, the General Assembly unanimously voted to designate the Day as a period of non-violence and cease-fire.",,,,,,,,,,,,,,20250826T1348,,,
+event-246,20250826T1348,20250921T000000Z,20250921T000000Z,P1D,National Day: Armenia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-247,20250826T1348,20250921T000000Z,20250921T000000Z,P1D,National Day: Belize,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-248,20250826T1348,20250922T000000Z,20250922T000000Z,P1D,Proclamation of Independence: Mali,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619691,20250826T1348,20250922T000000Z,20250924T000000Z,P2D,Rosh Hashanah / Jewish New Year (Judaism),"Rosh Hashanah commemorates the creation of the world. A synagogue ritual is the blowing of the Shofar, a ram’s horn trumpet. Work is not permitted.",,,,,,,,,,,,,,20250826T1348,,,
+event-249,20250826T1348,20250922T000000Z,20250924T000000Z,P3D,Rosh Hashanah,"Rosh Hashanah is the Jewish New Year festival and commemorates the creation of the world. Customs include the blowing of the Shofar, a ram's horn trumpet, and the dipping of apples in honey as a symbol of the sweet New Year ahead. Work is not permitted on this day.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619693,20250826T1348,20250922T000000Z,20250928T000000Z,P6D,National Week of Deaf People (Australia),"The National Week of Deaf People is an opportunity for Deaf people to celebrate their community, language, culture and history; recognise their achievements; and make the public aware of their local, state and national Deaf communities. ",,,,,,,,,,,,,,20250826T1348,,,
+event-250,20250826T1348,20250923T000000Z,20250923T000000Z,P1D,National Day: Saudi Arabia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-251,20250826T1348,20250924T000000Z,20250924T000000Z,P1D,Independence Day: Guinea-Bissau,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619695,20250826T1348,20250926T000000Z,20250926T000000Z,P1D,AFL Grand Final Day,Victoria regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-252,20250826T1348,20250927T000000Z,20250927T000000Z,P1D,National Day: Turkmenistan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-253,20250826T1348,20250927T000000Z,20250929T000000Z,P3D,Durga Puja,"Durga Puja is an Hindu festival that reveres and pays homage to the Hindu goddess Durga. It is popular and traditionally celebrated in the Indian states of West Bengal, Assam, Odisha and Tripura. It is also observed in Bangladesh and in the Mithilanchal regions of Bihar and Nepal. It is marked with worship rituals, performance arts, gift giving, family visits, feasting and public processions.",,,,,,,,,,,,,,20250826T1348,,,
+event-254,20250826T1348,20250929T000000Z,20251004T000000Z,P6D,Dashain,Dashain is the most important festival for Nepalis. It is a celebration of good prevailing over evil.,,,,,,,,,,,,,,20250826T1348,,,
+event-255,20250826T1348,20250930T000000Z,20250930T000000Z,P1D,National Day: Botswana,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-256,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,Independence Day: Cyprus,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-257,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,Independence Day: Guinea,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-258,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,Independence Day: Tuvalu,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.6197,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,International Day of Older Persons ,"Aims to raise awareness of the impact of an aging population and the need to ensure people can grow old with dignity and to elevate consciousness about points which are affecting the aged, like COVID-19, senescence and elder abuse. ",,,,,,,,,,,,,,20250826T1348,,,
+event-259,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,National Day: China,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-260,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,National Day: Nigeria,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-261,20250826T1348,20251001T000000Z,20251001T000000Z,P1D,National Day: Palau,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619704,20250826T1348,20251001T000000Z,20251002T000000Z,P1D,Yom Kippur (Judaism),"Also known as Day of Atonement, Yom Kippur is the holiest day of the year for the Jewish people. Characterised by repentance and forgiveness, Jewish people traditionally observe this holy day with fasting and intensive prayer, often spending most of the day in synagogue services.",,,,,,,,,,,,,,20250826T1348,,,
+event-262,20250826T1348,20251001T000000Z,20251002T000000Z,P2D,Yom Kippur,This holiest day of the Jewish year is observed with fasting and repentance. Many Jews will refrain from work and attend synagogue services,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619706,20250826T1348,20251001T000000Z,20251031T000000Z,P30D,Mental Health Month ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619707,20250826T1348,20251002T000000Z,20251002T000000Z,P1D,International Day of Non-Violence ,"The Day is observed on 2 October, the birthday of Mahatma Gandhi, leader of the Indian independence movement and pioneer of the philosophy and strategy of non-violence. ",,,,,,,,,,,,,,20250826T1348,,,
+event-263,20250826T1348,20251002T000000Z,20251002T000000Z,P1D,Mahatma Gandhi Jayanti,"This day commemorates Mahatma Gandhi's birthday. It is marked with a prayer for peace, ceremonies and events throughout India. The United Nations has further declared this day the International Day of Non-Violence in honour of Gandhi’s philosophy of non-violence (Ahimsa).",,,,,,,,,,,,,,20250826T1348,,,
+event-264,20250826T1348,20251002T000000Z,20251002T000000Z,P1D,Vijay Dashami,"Vijay Dashami or Dussehra marks the triumph of good over evil. The celebration of Dussehra concludes the festival of Navaratri, which extends over several days.",,,,,,,,,,,,,,20250826T1348,,,
+event-265,20250826T1348,20251003T000000Z,20251003T000000Z,P1D,Day of German Unity: Germany,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-266,20250826T1348,20251003T000000Z,20251003T000000Z,P1D,National Day: Iraq,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-267,20250826T1348,20251003T000000Z,20251003T000000Z,P1D,"National Foundation Day: Korea, Republic Of",,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-268,20250826T1348,20251004T000000Z,20251004T000000Z,P1D,Independence Day: Lesotho,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-269,20250826T1348,20251006T000000Z,20251006T000000Z,P1D,Mid-Autumn (Moon) Festival,"The Mid-Autumn Festival is a popular East and South East Asian celebration of abundance and togetherness. The festival dates back over 3000 years. The traditional food of this festival is the mooncake, which has different variations depending on the country.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619712,20250826T1348,20251006T000000Z,20251006T000000Z,P1D,Mid-Autumn (Moon) Festival (East and Southeast Asia),"Mid-Autumn Festival is a celebration of the harvest and the Autumn season at the time of the full moon. This celebration is observed in Australia, mostly by east and southeast Asian people.",,,,,,,,,,,,,,20250826T1348,,,
+event-270,20250826T1348,20251006T000000Z,20251006T000000Z,P1D,Tết Trung Thu,"Tết Trung Thu is a traditional Vietnamese festival. It involves watching the moon, a feast and children singing and dancing.",,,,,,,,,,,,,,20250826T1348,,,
+event-271,20250826T1348,20251006T000000Z,20251006T000000Z,P1D,Tsukimi,Tsukimi is a special holiday in Japanese culture. It employs the symbolism of the full moon to celebrate togetherness and hopes for good fortune.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619714,20250826T1348,20251006T000000Z,20251006T000000Z,P1D,World Cerebral Palsy Day ,"World Cerebral Palsy Day is a movement of people with Cerebral Palsy and their families, and the organisations that support them, in more than 75 countries. ",,,,,,,,,,,,,,20250826T1348,,,
+event-272,20250826T1348,20251006T000000Z,20251008T000000Z,P3D,Chuseok,"Chuseok is a special holiday in Korean culture. It is rooted in celebrating good harvest, family and the importance of the full moon as a symbol of harmony and the hope for good fortune.",,,,,,,,,,,,,,20250826T1348,,,
+event-273,20250826T1348,20251006T000000Z,20251013T000000Z,P8D,Sukkot,Sukkot is a week-long Jewish holiday that celebrates the fall harvest. This celebration is a lead up to Simchat Torah.,,,,,,,,,,,,,,20250826T1348,,,
+event-274,20250826T1348,20251007T000000Z,20251007T000000Z,P1D,Kathina,Marks the end of the retreat practiced by Theravada Buddhist monks during the South East Asian rainy season. Lay Buddhists express their gratitude to monks by giving donations to temples and providing monks with new clothes. Dates vary based on local tradition.,,,,,,,,,,,,,,20250826T1348,,,
+event-275,20250826T1348,20251009T000000Z,20251009T000000Z,P1D,Independence Day: Uganda,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619718,20250826T1348,20251009T000000Z,20251009T000000Z,P1D,World Sight Day ,World Sight Day is an annual day of awareness to focus global attention on blindness and vision impairment. ,,,,,,,,,,,,,,20250826T1348,,,
+event-276,20250826T1348,20251010T000000Z,20251010T000000Z,P1D,National Day: Fiji,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.61972,20250826T1348,20251010T000000Z,20251010T000000Z,P1D,World Mental Health Day ,"A day for mental health education, awareness and advocacy against social stigma. Mental Health Week is celebrated in Australia around this date, with each state adopting their own theme and holding events.",,,,,,,,,,,,,,20250826T1348,,,
+event-277,20250826T1348,20251012T000000Z,20251012T000000Z,P1D,Independence Day: Equatorial Guinea,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-278,20250826T1348,20251012T000000Z,20251012T000000Z,P1D,National Day: Spain,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-279,20250826T1348,20251012T000000Z,20251012T000000Z,P1D,White Sunday,White Sunday is a day when childhood is celebrated in Samoan Christian communities worldwide.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619724,20250826T1348,20251012T000000Z,20251018T000000Z,P6D,Anti-Poverty Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619725,20250826T1348,20251012T000000Z,20251018T000000Z,P6D,National Carers Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-280,20250826T1348,20251014T000000Z,20251015T000000Z,P2D,Simchat Torah,Simchat Torah is a celebratory Jewish holiday that marks the completion of the annual Torah reading cycle. Simchat Torah means ‘Rejoicing in the Law’ in Hebrew. Special attention is given to children who join the celebrations with flags and singing.,,,,,,,,,,,,,,20250826T1348,,,
+event-281,20250826T1348,20251019T000000Z,20251019T000000Z,P1D,National Day: Niue,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-282,20250826T1348,20251020T000000Z,20251020T000000Z,P1D,Deepavali,"Deepavali is also known as Diwali, Tihar and the Festival of Lights. It celebrates the victory of good over evil, light over darkness and knowledge over ignorance.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619728,20250826T1348,20251020T000000Z,20251020T000000Z,P1D,Diwali ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619729,20250826T1348,20251020T000000Z,20251020T000000Z,P1D,Diwali / Deepavali (Festival of Light) ,"Diwali is the five-day festival of lights, celebrated by millions of Hindus, Sikhs and Jains across the world. Diwali is a festival of new beginnings and the triumph of good over evil, and light over darkness.",,,,,,,,,,,,,,20250826T1348,,,
+event-283,20250826T1348,20251020T000000Z,20251020T000000Z,P1D,Gurgaddi (Inauguration) of Guru Granth Sahib,"This day commemorates the inauguration of the Sikh holy scripture. It is called the Guru Granth Sahib or Adi Sri Granth Sahib Ji, at the Golden Temple in Amritsar. Sikhs regard and respect the Holy Scripture as their living Guru.",,,,,,,,,,,,,,20250826T1348,,,
+event-284,20250826T1348,20251021T000000Z,20251021T000000Z,P1D,Bandi Chhor Divas (The Celebration of Freedom),"Sikhs celebrate Bandi Chhor Divas to mark the release from prison of the sixth guru Sri Guru Hargobind Ji, who also rescued 52 Hindu kings held captive with him. They were held by Mughal Emperor Jehangir in the Gwalior Fort in 1619. Celebrations include lighting oil lamps, candles and fireworks.",,,,,,,,,,,,,,20250826T1348,,,
+event-285,20250826T1348,20251022T000000Z,20251022T000000Z,P1D,Bestu Varas (Gujarati New Year),This date is celebrated with enthusiasm across the state of Gujarat. It marks the beginning of the new year for Gujarati people.,,,,,,,,,,,,,,20250826T1348,,,
+event-286,20250826T1348,20251022T000000Z,20251023T000000Z,P2D,Birth of the Báb and Birth of Bahá'u'lláh,Two successive holy days that celebrate the births of two central figures in the Baha’i faith. Each day’s worth of celebration starts and ends with the setting of the sun.,,,,,,,,,,,,,,20250826T1348,,,
+event-287,20250826T1348,20251023T000000Z,20251023T000000Z,P1D,Bhai Tika,"Bhai Tika is also known as Bhai Dooj, Bhaubeej or Bhai Phonta. It marks the final day of Deepavali or Tihar and is a time to celebrate family relationships.",,,,,,,,,,,,,,20250826T1348,,,
+event-288,20250826T1348,20251024T000000Z,20251024T000000Z,P1D,Independence Day: Zambia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-289,20250826T1348,20251024T000000Z,20251024T000000Z,P1D,United Nations Day,"This date celebrates the entry into force of the United Nations Charter in 1945. The Charter highlights the promotion of peace, human rights and social and economic development globally.",,,,,,,,,,,,,,20250826T1348,,,
+event-290,20250826T1348,20251025T000000Z,20251025T000000Z,P1D,Republic Day: Kazakhstan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-291,20250826T1348,20251026T000000Z,20251026T000000Z,P1D,National Day: Austria,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-292,20250826T1348,20251027T000000Z,20251027T000000Z,P1D,National Day: Saint Vincent and the Grenadines,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-293,20250826T1348,20251028T000000Z,20251028T000000Z,P1D,Independence Day: Czech Republic,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-294,20250826T1348,20251028T000000Z,20251028T000000Z,P1D,Oxi Day,"Oxi Day commemorates the rejection by then Greek Prime Minister of the ultimatum made by Axis forces to occupy Greek territory in 1940. The day represents bravery, solidarity and heroism for millions of Greeks all around the world",,,,,,,,,,,,,,20250826T1348,,,
+event-295,20250826T1348,20251029T000000Z,20251029T000000Z,P1D,National Day: Türkiye,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619737,20250826T1348,20251031T000000Z,20251031T000000Z,P1D,Halloween ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-296,20250826T1348,20251101T000000Z,20251101T000000Z,P1D,All Saints’ Day,"This Christian day honours saints, known and unknown. Saints are men and women recognised for lives of holiness and devotion to God or who were martyred for their faith.",,,,,,,,,,,,,,20250826T1348,,,
+event-297,20250826T1348,20251101T000000Z,20251101T000000Z,P1D,Anniversary of the Revolution: Algeria,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-298,20250826T1348,20251101T000000Z,20251101T000000Z,P1D,National Day: Antigua and Barbuda,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-299,20250826T1348,20251102T000000Z,20251102T000000Z,P1D,All Soul’s Day,This day is a time for all Christians to remember and pray for the souls of the departed.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619741,20250826T1348,20251102T000000Z,20251102T000000Z,P1D,Day of the Dead (Mexico),"Dia De Los Muertos is a two-day holiday that reunites the living and dead. Families create ofrendas (Offerings) to honour their family members that have passed. The offerings are believed to encourage visits from the land of the dead as the departed souls hear their prayers, smell their foods and join in the celebrations!",,,,,,,,,,,,,,20250826T1348,,,
+event-300,20250826T1348,20251102T000000Z,20251102T000000Z,P1D,Dia de los Muertos (Day of the Dead),Dia de los Muertos combines the ancient Aztec custom of celebrating ancestors with All Souls' Day. This Day is a holiday that Spanish invaders brought to Mexico starting in the early 1500s.,,,,,,,,,,,,,,20250826T1348,,,
+event-301,20250826T1348,20251103T000000Z,20251103T000000Z,P1D,Independence Day: Dominica,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-302,20250826T1348,20251103T000000Z,20251103T000000Z,P1D,National Day: Federated States of Micronesia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-303,20250826T1348,20251103T000000Z,20251103T000000Z,P1D,National Day: Panama,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619744,20250826T1348,20251103T000000Z,20251103T000000Z,P1D,Recreation Day,Tasmania regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619745,20250826T1348,20251104T000000Z,20251104T000000Z,P1D,Melbourne Cup Day,Victoria regional holiday,,,,,,,,,,,,,,20250826T1348,,,
+event-304,20250826T1348,20251104T000000Z,20251104T000000Z,P1D,National Day: Tonga,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-305,20250826T1348,20251105T000000Z,20251105T000000Z,P1D,Guru Nanak Gurpurab,"This day commemorates the birth of Guru Nanak Sahib, the founder of Sikhism and the first Sikh Guru.",,,,,,,,,,,,,,20250826T1348,,,
+event-306,20250826T1348,20251105T000000Z,20251105T000000Z,P1D,Loy Krathong,"Loy Krathong takes place on the night of the full moon of the 12th month of the Thai lunar calendar. During the festival, many Thai communities float small lantern boats of offerings as tokens of gratitude toward the Goddess of Water and to seek her forgiveness.",,,,,,,,,,,,,,20250826T1348,,,
+event-307,20250826T1348,20251109T000000Z,20251109T000000Z,P1D,Independence Day: Cambodia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619749,20250826T1348,20251110T000000Z,20251116T000000Z,P6D,National Recycling Week ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-308,20250826T1348,20251111T000000Z,20251111T000000Z,P1D,National Day: Angola,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-309,20250826T1348,20251111T000000Z,20251111T000000Z,P1D,Remembrance Day,"Remembrance Day is known in some countries as Armistice Day or Veterans Day. This date marks the end of fighting in the First World War, and is a day is generally marked as a day to remember all those who died or suffered in wars and armed conflicts.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619751,20250826T1348,20251111T000000Z,20251111T000000Z,P1D,Remembrance Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619753,20250826T1348,20251113T000000Z,20251113T000000Z,P1D,World Kindness Day ,"Provides the opportunity to reflect on, celebrate and promote the positive actions that contribute to a culture of kindness.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619754,20250826T1348,20251113T000000Z,20251119T000000Z,P6D,Trans Awareness Week ,"Held in the week leading up to Trans Day of Remembrance, Trans Awareness Week helps raise awareness of trans and gender diverse people, the issues facing these communities, and the ways people can get involved as allies and create a more fair and equal world for everyone.",,,,,,,,,,,,,,20250826T1348,,,
+event-310,20250826T1348,20251116T000000Z,20251116T000000Z,P1D,International Day for Tolerance,The United Nations’ International Day for Tolerance fosters mutual understanding among cultures and peoples.,,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619756,20250826T1348,20251116T000000Z,20251116T000000Z,P1D,International Day for Tolerance ,"International Day for Tolerance is observed to ‘affirm that tolerance is neither indulgence nor indifference. It is respect and appreciation of the rich variety of our world’s cultures, our forms of expression and ways of being human’. ",,,,,,,,,,,,,,20250826T1348,,,
+event-311,20250826T1348,20251118T000000Z,20251118T000000Z,P1D,National Day: Oman,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-312,20250826T1348,20251118T000000Z,20251118T000000Z,P1D,Proclamation of Independence: Latvia,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619759,20250826T1348,20251119T000000Z,20251119T000000Z,P1D,International Men’s Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-313,20250826T1348,20251119T000000Z,20251119T000000Z,P1D,National Day: Monaco,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619761,20250826T1348,20251120T000000Z,20251120T000000Z,P1D,Transgender Day of Remembrance ,"Transgender Day of Remembrance honours the memory of trans lives lost to acts of transphobia and discrimination. It is a day of gathering, togetherness, and community solidarity.",,,,,,,,,,,,,,20250826T1348,,,
+event-314,20250826T1348,20251122T000000Z,20251122T000000Z,P1D,Independence Day: Lebanon,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-315,20250826T1348,20251124T000000Z,20251124T000000Z,P1D,Shahidi (Martyrdom) of Guru Tegh Bahadur,"On this day in 1675, Guru Tegh Bahadur, the ninth Guru, sacrificed his life to defend the religious freedom of another faith. This was a significant event in Sikh history that profoundly impacted the future direction of Sikhism.",,,,,,,,,,,,,,20250826T1348,,,
+event-316,20250826T1348,20251125T000000Z,20251125T000000Z,P1D,Independence Day: Suriname,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619764,20250826T1348,20251125T000000Z,20251125T000000Z,P1D,International Day for the Elimination of Violence Against Women ,"Women's rights activists have observed 25 November as a day against gender-based violence since 1981. This date was selected to honour the Mirabal sisters, three political activists from the Dominican Republic who were brutally murdered in 1960 by order of the country’s ruler, Rafael Trujillo. ",,,,,,,,,,,,,,20250826T1348,,,
+event-317,20250826T1348,20251125T000000Z,20251125T000000Z,P1D,Statehood Day: Bosnia and Herzegovina,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-318,20250826T1348,20251127T000000Z,20251127T000000Z,P1D,The Ascension of Abdu'l Baha,"The Ascension of Abdu'l Baha commemorates the passing of Abdu’l-Bahá on 28 November 1921. He was the eldest son of Bahá’u’lláh (the Prophet-Founder of the Baha’i faith). As the date is set according to the Bahai calendar, it is commemorated on 27 November in some years.",,,,,,,,,,,,,,20250826T1348,,,
+event-319,20250826T1348,20251128T000000Z,20251128T000000Z,P1D,National Day: Albania,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-320,20250826T1348,20251128T000000Z,20251128T000000Z,P1D,National Day: Mauritania,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619769,20250826T1348,20251129T000000Z,20251129T000000Z,P1D,International Day of Solidarity with the Palestinian People ,"In 1977, the General Assembly called for the annual observance of 29 November as the International Day of Solidarity with the Palestinian People. ",,,,,,,,,,,,,,20250826T1348,,,
+event-321,20250826T1348,20251130T000000Z,20251130T000000Z,P1D,First Sunday of Advent,"Christians celebrate Advent by lighting advent candles, displaying wreaths and hosting special ceremonies. For Christians, Advent anticipates the celebration of the arrival of Jesus during Christmas, while also anticipating his return.",,,,,,,,,,,,,,20250826T1348,,,
+event-322,20250826T1348,20251130T000000Z,20251130T000000Z,P1D,Independence Day: Barbados,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-323,20250826T1348,20251130T000000Z,20251130T000000Z,P1D,St Andrew’s Day,"St Andrew's Day is celebrated annually in Scotland on 30 November to commemorate St Andrew, the patron saint of Scotland since 1320. He is also the patron saint of Romania, Greece, Russia, Ukraine and Poland. The day is usually celebrated with traditional recitations, cuisine, dancing and singing.",,,,,,,,,,,,,,20250826T1348,,,
+event-324,20250826T1348,20251201T000000Z,20251201T000000Z,P1D,National Day: Central African Republic,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-325,20250826T1348,20251201T000000Z,20251201T000000Z,P1D,National Day: Romania,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619773,20250826T1348,20251201T000000Z,20251201T000000Z,P1D,World AIDS Day ,Raises awareness across the world and in the community about HIV and AIDS. It is a day for the community to show their support for people living with HIV and to commemorate people who have died of AIDS related conditions or other conditions associated with HIV. ,,,,,,,,,,,,,,20250826T1348,,,
+event-326,20250826T1348,20251202T000000Z,20251202T000000Z,P1D,National Day: Lao People's Democratic Republic,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-327,20250826T1348,20251202T000000Z,20251202T000000Z,P1D,National Day: United Arab Emirates,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619776,20250826T1348,20251203T000000Z,20251203T000000Z,P1D,International Day of People with Disability ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619778,20250826T1348,20251203T000000Z,20251203T000000Z,P1D,International Day of Persons with Disabilities ,"Aims to increase public awareness, understanding and acceptance of people with disability and celebrate their achievements and contributions. ",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.61978,20250826T1348,20251205T000000Z,20251205T000000Z,P1D,International Volunteer Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-328,20250826T1348,20251205T000000Z,20251205T000000Z,P1D,The King's Birthday Anniversary: Thailand,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-329,20250826T1348,20251206T000000Z,20251206T000000Z,P1D,Independence Day: Finland,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-330,20250826T1348,20251208T000000Z,20251208T000000Z,P1D,Bodhi Day,"Bodhi Day commemorates the day Buddha attained enlightenment under a Bodhi tree. It generally falls on the eighth day of the twelfth month of the lunisolar calendar. Mahayana Buddhists in China, Korea and Vietnam celebrate Lunar Bodhi day on the eighth day of the twelfth lunar month. In Japan, Bodhi Day follows the Gregorian calendar and is celebrated on 8 December every year.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619783,20250826T1348,20251210T000000Z,20251210T000000Z,P1D,Human Rights Day ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619784,20250826T1348,20251210T000000Z,20251210T000000Z,P1D,Human Rights Day (International),"Human Rights Day is observed every year on 10 December — the day the United Nations General Assembly adopted, in 1948, the Universal Declaration of Human Rights. ",,,,,,,,,,,,,,20250826T1348,,,
+event-331,20250826T1348,20251211T000000Z,20251211T000000Z,P1D,National Day: Burkina Faso,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-332,20250826T1348,20251212T000000Z,20251212T000000Z,P1D,Jamhuri Day: Kenya,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-1763432451.619787,20250826T1348,20251214T000000Z,20251222T000000Z,P8D,Hanukkah (Festival of Lights) (Judaism),"Also known as Chanukah, the festival commemorates the recapture and rededication by the Jewish people of the Jerusalem Temple.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619788,20250826T1348,20251214T000000Z,20251222T000000Z,P8D,Hanukkah begins ,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-333,20250826T1348,20251214T000000Z,20251222T000000Z,P9D,Chanukah,Chanukah or Hanukkah commemorates the recapture and rededication by the Jewish people of the Jerusalem Temple. The festival lasts eight days and nights. An additional candle is lit each night to symbolise the miracle of the cruse of oil that lasted eight days.,,,,,,,,,,,,,,20250826T1348,,,
+event-334,20250826T1348,20251216T000000Z,20251216T000000Z,P1D,National Day: Bahrain,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-335,20250826T1348,20251217T000000Z,20251217T000000Z,P1D,National Day: Bhutan,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-336,20250826T1348,20251218T000000Z,20251218T000000Z,P1D,International Migrants Day,"International Migrants Day is a United Nations observance, and calls us to remember and honour the contribution of all migrants, their stories and cultures, to our multicultural nation.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619792,20250826T1348,20251218T000000Z,20251218T000000Z,P1D,International Migrants Day ,"On 4 December 2000, the UN General Assembly proclaimed 18 December as International Migrants Day. The day was selected to mark the anniversary of the 1990 adoption of the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families. ",,,,,,,,,,,,,,20250826T1348,,,
+event-337,20250826T1348,20251218T000000Z,20251218T000000Z,P1D,National Day: Niger,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-338,20250826T1348,20251218T000000Z,20251218T000000Z,P1D,National Day: Qatar,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-339,20250826T1348,20251224T000000Z,20251224T000000Z,P1D,National Day: Libya,,,,,,,,,,,,,,,20250826T1348,,,REQUIRES_VALIDATION
+event-340,20250826T1348,20251225T000000Z,20251225T000000Z,P1D,Christmas Day,"Christmas is the Christian celebration of the birth of Jesus. Many in Australia celebrate Christmas, regardless of their religious affiliation. Christmas lights and trees are displayed, carols are sung, and individuals come together to exchange gifts and spend time with family and friends.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619795,20250826T1348,20251225T000000Z,20251225T000000Z,P1D,Christmas Day (Christianity),"Christmas celebrates the birth of Jesus, peace on earth and goodwill.",,,,,,,,,,,,,,20250826T1348,,,
+event-341,20250826T1348,20251226T000000Z,20260101T000000Z,P7D,Kwanzaa,This week-long celebration honours African and African-American cultures. It culminates in a feast and gift-giving. It was first celebrated in 1966.,,,,,,,,,,,,,,20250826T1348,,,
+event-342,20250826T1348,20251231T000000Z,20251231T000000Z,P1D,New Year’s Eve,"This date commemorates the arrival of a new year following the Gregorian calendar. New Year’s Eve is a time for communities, families and friends to celebrate the year past and the year to come.",,,,,,,,,,,,,,20250826T1348,,,
+event-1763432451.619798,,,,,,,,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-1,,20250101T000000Z,20250101T000000Z,P1D,Liberation Day,,Cuba,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-2,,20250101T000000Z,20250101T000000Z,P1D,Independence Day,,Haiti,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-3,,20250101T000000Z,20250101T000000Z,P1D,National Day,,Sudan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-4,,20250104T000000Z,20250104T000000Z,P1D,Independence Day,,"Myanmar, Republic of The Union Of",,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-5,,20250126T000000Z,20250126T000000Z,P1D,Australia Day,,Australia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-6,,20250131T000000Z,20250131T000000Z,P1D,National Day,,Nauru,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-7,,20250204T000000Z,20250204T000000Z,P1D,Independence Commemoration Day,,Sri Lanka,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-8,,20250206T000000Z,20250206T000000Z,P1D,Waitangi Day,,New Zealand,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-9,,20250207T000000Z,20250207T000000Z,P1D,Independence Day,,Grenada,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-10,,20250211T000000Z,20250211T000000Z,P1D,Victory of the Islamic Revolution in Iran,,Iran (Islamic Republic Of),,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-11,,20250215T000000Z,20250215T000000Z,P1D,National Day,,Serbia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-12,,20250216T000000Z,20250216T000000Z,P1D,Independence Day,,Lithuania,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-13,,20250217T000000Z,20250217T000000Z,P1D,Independence Day,,Kosovo,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-14,,20250218T000000Z,20250218T000000Z,P1D,National Day,,The Gambia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-15,,20250222T000000Z,20250222T000000Z,P1D,National Day,,Saint Lucia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-16,,20250223T000000Z,20250223T000000Z,P1D,National Day,,Brunei Darussalam,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-17,,20250223T000000Z,20250223T000000Z,P1D,National Day,,Guyana,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-18,,20250223T000000Z,20250223T000000Z,P1D,Emperor's Birthday,,Japan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-19,,20250224T000000Z,20250224T000000Z,P1D,Independence Day,,Estonia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-20,,20250225T000000Z,20250225T000000Z,P1D,National Day,,Kuwait,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-21,,20250227T000000Z,20250227T000000Z,P1D,Independence Day,,Dominican Republic,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-22,,20250303T000000Z,20250303T000000Z,P1D,National Day,,Bulgaria,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-23,,20250306T000000Z,20250306T000000Z,P1D,Independence Day,,Ghana,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-24,,20250312T000000Z,20250312T000000Z,P1D,National Day,,Mauritius,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-25,,20250313T000000Z,20250313T000000Z,P1D,"Anniversary, Pontifical Ministry of His Holiness Pope Francis",,Holy See,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-26,,20250317T000000Z,20250317T000000Z,P1D,St Patrick's Day,,Ireland,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-27,,20250320T000000Z,20250320T000000Z,P1D,Anniversary of the Independence of the Republic of Tunisia,,Tunisia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-28,,20250321T000000Z,20250321T000000Z,P1D,Independence Day,,Namibia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-29,,20250323T000000Z,20250323T000000Z,P1D,National Day,,Pakistan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-30,,20250325T000000Z,20250325T000000Z,P1D,Independence Day,,Greece,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-31,,20250326T000000Z,20250326T000000Z,P1D,Independence Day,,Bangladesh,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-32,,20250404T000000Z,20250404T000000Z,P1D,Independence Day,,Senegal,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-33,,20250417T000000Z,20250417T000000Z,P1D,National Day,,Syrian Arab Republic,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-34,,20250418T000000Z,20250418T000000Z,P1D,National Day,,Zimbabwe,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-35,,20250426T000000Z,20250426T000000Z,P1D,Union Day,,"Tanzania, United Republic Of",,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-36,,20250427T000000Z,20250427T000000Z,P1D,Official Birthday of His Majesty King Wilem-Alexander,,Netherlands,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-37,,20250427T000000Z,20250427T000000Z,P1D,Independence Day,,Sierra Leone,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-38,,20250427T000000Z,20250427T000000Z,P1D,Freedom Day,,South Africa,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-39,,20250427T000000Z,20250427T000000Z,P1D,Togolais National Day,,Togo,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-40,,20250501T000000Z,20250501T000000Z,P1D,National Day,,Marshall Islands,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-41,,20250503T000000Z,20250503T000000Z,P1D,National Day,,Poland,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-42,,20250508T000000Z,20250508T000000Z,P1D,National Day,,Israel,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-43,,20250509T000000Z,20250509T000000Z,P1D,Europe Day,,European Union,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-44,,20250514T000000Z,20250514T000000Z,P1D,National Day,,Paraguay,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-45,,20250517T000000Z,20250517T000000Z,P1D,Constitution Day,,Norway,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-46,,20250520T000000Z,20250520T000000Z,P1D,National Day,,Cameroon,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-47,,20250520T000000Z,20250520T000000Z,P1D,Restoration of Independence,,Timor-Leste,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-48,,20250522T000000Z,20250522T000000Z,P1D,Unification Day,,Yemen,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-49,,20250524T000000Z,20250524T000000Z,P1D,Ecuador's Independence Day,,Ecuador,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-50,,20250524T000000Z,20250524T000000Z,P1D,Independence Day,,Eritrea,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-51,,20250525T000000Z,20250525T000000Z,P1D,Africa Day,,Africa Union,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-52,,20250525T000000Z,20250525T000000Z,P1D,National Day,,Argentina,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-53,,20250525T000000Z,20250525T000000Z,P1D,Independence Day,,Jordan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-54,,20250526T000000Z,20250526T000000Z,P1D,King's Birthday,,Denmark,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-55,,20250526T000000Z,20250526T000000Z,P1D,National Day,,Georgia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-56,,20250528T000000Z,20250528T000000Z,P1D,National Day,,Azerbaijan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-57,,20250528T000000Z,20250528T000000Z,P1D,National Day,,Ethiopia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-58,,20250530T000000Z,20250530T000000Z,P1D,Statehood Day,,Croatia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-59,,20250601T000000Z,20250601T000000Z,P1D,Independence Day,,Samoa,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-60,,20250602T000000Z,20250602T000000Z,P1D,Foundation of the Republic,,Italy,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-61,,20250606T000000Z,20250606T000000Z,P1D,National Day,,Sweden,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-62,,20250610T000000Z,20250610T000000Z,P1D,"Portugal Day, Camões Day and Day of Portuguese Communities",,Portugal,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-63,,20250612T000000Z,20250612T000000Z,P1D,Independence Day,,Philippines,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-64,,20250612T000000Z,20250612T000000Z,P1D,National Day,,Russian Federation,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-65,,20250617T000000Z,20250617T000000Z,P1D,National Day,,Iceland,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-66,,20250618T000000Z,20250618T000000Z,P1D,National Day,,Seychelles,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-67,,20250623T000000Z,20250623T000000Z,P1D,National Day and Official Birthday of HRH the Grand Duke,,Luxembourg,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-68,,20250625T000000Z,20250625T000000Z,P1D,Independence Day,,Mozambique,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-69,,20250625T000000Z,20250625T000000Z,P1D,National Day,,Slovenia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-70,,20250626T000000Z,20250626T000000Z,P1D,National Day,,Madagascar,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-71,,20250627T000000Z,20250627T000000Z,P1D,Independence Day,,Djibouti,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-72,,20250630T000000Z,20250630T000000Z,P1D,Independence Day,,Democratic Republic of the Congo,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-73,,20250701T000000Z,20250701T000000Z,P1D,National Day,,Burundi,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-74,,20250701T000000Z,20250701T000000Z,P1D,Canada Day,,Canada,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-75,,20250701T000000Z,20250701T000000Z,P1D,National Day,,Somalia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-76,,20250703T000000Z,20250703T000000Z,P1D,National Day,,Belarus,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-77,,20250704T000000Z,20250704T000000Z,P1D,Independence Day,,United States of America,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-78,,20250705T000000Z,20250705T000000Z,P1D,National Day,,Cape Verde,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-79,,20250705T000000Z,20250705T000000Z,P1D,Liberation Day,,Rwanda,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-80,,20250705T000000Z,20250705T000000Z,P1D,National Day,,Venezuela,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-81,,20250706T000000Z,20250706T000000Z,P1D,National Day,,Comoros,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-82,,20250706T000000Z,20250706T000000Z,P1D,National Day,,Malawi,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-83,,20250707T000000Z,20250707T000000Z,P1D,National Day,,Solomon Islands,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-84,,20250709T000000Z,20250709T000000Z,P1D,Independence Day,,South Sudan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-85,,20250710T000000Z,20250710T000000Z,P1D,Independence Day,,Bahamas,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-86,,20250711T000000Z,20250711T000000Z,P1D,Anniversary of Mongolian People's Revolution,,Mongolia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-87,,20250712T000000Z,20250712T000000Z,P1D,National Day,,Kiribati,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-88,,20250712T000000Z,20250712T000000Z,P1D,National Day,,Sao Tome and Principe,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-89,,20250713T000000Z,20250713T000000Z,P1D,National Day,,Montenegro,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-90,,20250714T000000Z,20250714T000000Z,P1D,Bastille Day,,France,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-91,,20250720T000000Z,20250720T000000Z,P1D,National Day,,Colombia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-92,,20250721T000000Z,20250721T000000Z,P1D,Accession of King Leopold I (1831),,Belgium,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-93,,20250723T000000Z,20250723T000000Z,P1D,Anniversary of Revolution of 23 July,,Egypt,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-94,,20250726T000000Z,20250726T000000Z,P1D,National Day,,Liberia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-95,,20250726T000000Z,20250726T000000Z,P1D,National Day,,Maldives,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-96,,20250728T000000Z,20250728T000000Z,P1D,Independence Day,,Peru,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-97,,20250730T000000Z,20250730T000000Z,P1D,Throne Day,,Morocco,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-98,,20250730T000000Z,20250730T000000Z,P1D,Independence Day,,Vanuatu,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-99,,20250801T000000Z,20250801T000000Z,P1D,National Day,,Benin,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-100,,20250801T000000Z,20250801T000000Z,P1D,Foundation of the Swiss Confederation,,Switzerland,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-101,,20250804T000000Z,20250804T000000Z,P1D,Constitution Day,,Cook Islands,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-102,,20250806T000000Z,20250806T000000Z,P1D,Independence Day,,Bolivia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-103,,20250806T000000Z,20250806T000000Z,P1D,National Day,,Jamaica,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-104,,20250807T000000Z,20250807T000000Z,P1D,National Day,,Côte d’Ivoire,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-105,,20250809T000000Z,20250809T000000Z,P1D,National Day,,Singapore,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-106,,20250811T000000Z,20250811T000000Z,P1D,National Day,,Chad,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-107,,20250815T000000Z,20250815T000000Z,P1D,Independence Day,,"Congo, Republic of",,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-108,,20250815T000000Z,20250815T000000Z,P1D,Independence Day,,India,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-109,,20250815T000000Z,20250815T000000Z,P1D,National Day,,Liechtenstein,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-110,,20250817T000000Z,20250817T000000Z,P1D,National Day,,Gabon,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-111,,20250817T000000Z,20250817T000000Z,P1D,Proclamation of Independence,,Indonesia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-112,,20250819T000000Z,20250819T000000Z,P1D,Independence Day,,Afghanistan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-113,,20250820T000000Z,20250820T000000Z,P1D,Day of the Foundation of the State of Hungary and St Stephen's Day,,Hungary,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-114,,20250824T000000Z,20250824T000000Z,P1D,National Day,,Ukraine,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-115,,20250825T000000Z,20250825T000000Z,P1D,Independence Day,,Uruguay,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-116,,20250827T000000Z,20250827T000000Z,P1D,National Day,,"Moldova, Republic Of",,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-117,,20250831T000000Z,20250831T000000Z,P1D,National Day,,Kyrgyzstan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-118,,20250831T000000Z,20250831T000000Z,P1D,National Day,,Malaysia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-119,,20250831T000000Z,20250831T000000Z,P1D,National Day,,Trinidad and Tobago,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-120,,20250901T000000Z,20250901T000000Z,P1D,Constitution Day,,Slovak Republic,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-121,,20250901T000000Z,20250901T000000Z,P1D,National Day,,Uzbekistan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-122,,20250902T000000Z,20250902T000000Z,P1D,National Day,,Vietnam,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-123,,20250903T000000Z,20250903T000000Z,P1D,National Foundation Day,,San Marino,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-124,,20250906T000000Z,20250906T000000Z,P1D,National Day,,Eswatini,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-125,,20250907T000000Z,20250907T000000Z,P1D,Independence Day,,Brazil,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-126,,20250908T000000Z,20250908T000000Z,P1D,National Day,,Andorra,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-127,,20250908T000000Z,20250908T000000Z,P1D,Independence Day,,North Macedonia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-128,,20250909T000000Z,20250909T000000Z,P1D,National Day,,"Korea, Democratic People's Republic Of",,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-129,,20250909T000000Z,20250909T000000Z,P1D,National Day,,Tajikistan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-130,,20250915T000000Z,20250915T000000Z,P1D,Independence Day,,Costa Rica,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-131,,20250915T000000Z,20250915T000000Z,P1D,Independence Day,,El Salvador,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-132,,20250915T000000Z,20250915T000000Z,P1D,Independence Day,,Guatemala,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-133,,20250915T000000Z,20250915T000000Z,P1D,Independence Day,,Honduras,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-134,,20250915T000000Z,20250915T000000Z,P1D,Independence Day,,Nicaragua,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-135,,20250916T000000Z,20250916T000000Z,P1D,Proclamation of Independence,,Mexico,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-136,,20250916T000000Z,20250916T000000Z,P1D,Independence Day,,Papua New Guinea,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-137,,20250918T000000Z,20250918T000000Z,P1D,National Day,,Chile,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-138,,20250919T000000Z,20250919T000000Z,P1D,Independence Day,,Saint Kitts and Nevis,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-139,,20250920T000000Z,20250920T000000Z,P1D,National Day,,Nepal,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-140,,20250921T000000Z,20250921T000000Z,P1D,National Day,,Armenia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-141,,20250921T000000Z,20250921T000000Z,P1D,National Day,,Belize,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-142,,20250921T000000Z,20250921T000000Z,P1D,Independence Day,,Malta,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-143,,20250922T000000Z,20250922T000000Z,P1D,Proclamation of Independence,,Mali,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-144,,20250923T000000Z,20250923T000000Z,P1D,National Day,,Saudi Arabia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-145,,20250924T000000Z,20250924T000000Z,P1D,Independence Day,,Guinea-Bissau,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-146,,20250927T000000Z,20250927T000000Z,P1D,National Day,,Turkmenistan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-147,,20250930T000000Z,20250930T000000Z,P1D,National Day,,Botswana,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-148,,20251001T000000Z,20251001T000000Z,P1D,National Day,,China,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-149,,20251001T000000Z,20251001T000000Z,P1D,Independence Day,,Cyprus,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-150,,20251001T000000Z,20251001T000000Z,P1D,Independence Day,,Guinea,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-151,,20251001T000000Z,20251001T000000Z,P1D,National Day,,Nigeria,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-152,,20251001T000000Z,20251001T000000Z,P1D,National Day,,Palau,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-153,,20251001T000000Z,20251001T000000Z,P1D,Independence Day,,Tuvalu,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-154,,20251003T000000Z,20251003T000000Z,P1D,Day of German Unity,,Germany,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-155,,20251003T000000Z,20251003T000000Z,P1D,National Day,,Iraq,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-156,,20251003T000000Z,20251003T000000Z,P1D,National Foundation Day,,"Korea, Republic Of",,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-157,,20251004T000000Z,20251004T000000Z,P1D,Independence Day,,Lesotho,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-158,,20251009T000000Z,20251009T000000Z,P1D,Independence Day,,Uganda,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-159,,20251010T000000Z,20251010T000000Z,P1D,National Day,,Fiji,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-160,,20251012T000000Z,20251012T000000Z,P1D,Independence Day,,Equatorial Guinea,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-161,,20251012T000000Z,20251012T000000Z,P1D,National Day,,Spain,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-162,,20251019T000000Z,20251019T000000Z,P1D,National Day,,Niue,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-163,,20251024T000000Z,20251024T000000Z,P1D,Independence Day,,Zambia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-164,,20251025T000000Z,20251025T000000Z,P1D,Republic Day,,Kazakhstan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-165,,20251026T000000Z,20251026T000000Z,P1D,National Day,,Austria,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-166,,20251027T000000Z,20251027T000000Z,P1D,National Day,,Saint Vincent and the Grenadines,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-167,,20251028T000000Z,20251028T000000Z,P1D,Independence Day,,Czech Republic,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-168,,20251029T000000Z,20251029T000000Z,P1D,National Day,,Türkiye,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-169,,20251101T000000Z,20251101T000000Z,P1D,Anniversary of the Revolution,,Algeria,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-170,,20251101T000000Z,20251101T000000Z,P1D,National Day,,Antigua and Barbuda,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-171,,20251103T000000Z,20251103T000000Z,P1D,Independence Day,,Dominica,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-172,,20251103T000000Z,20251103T000000Z,P1D,National Day,,Federated States of Micronesia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-173,,20251103T000000Z,20251103T000000Z,P1D,National Day,,Panama,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-174,,20251104T000000Z,20251104T000000Z,P1D,National Day,,Tonga,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-175,,20251109T000000Z,20251109T000000Z,P1D,Independence Day,,Cambodia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-176,,20251111T000000Z,20251111T000000Z,P1D,National Day,,Angola,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-177,,20251118T000000Z,20251118T000000Z,P1D,Proclamation of Independence,,Latvia,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-178,,20251118T000000Z,20251118T000000Z,P1D,National Day,,Oman,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-179,,20251119T000000Z,20251119T000000Z,P1D,National Day,,Monaco,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-180,,20251122T000000Z,20251122T000000Z,P1D,Independence Day,,Lebanon,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-181,,20251125T000000Z,20251125T000000Z,P1D,Statehood Day,,Bosnia and Herzegovina,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-182,,20251125T000000Z,20251125T000000Z,P1D,Independence Day,,Suriname,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-183,,20251128T000000Z,20251128T000000Z,P1D,National Day,,Albania,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-184,,20251128T000000Z,20251128T000000Z,P1D,National Day,,Mauritania,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-185,,20251130T000000Z,20251130T000000Z,P1D,Independence Day,,Barbados,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-186,,20251201T000000Z,20251201T000000Z,P1D,National Day,,Central African Republic,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-187,,20251201T000000Z,20251201T000000Z,P1D,National Day,,Romania,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-188,,20251202T000000Z,20251202T000000Z,P1D,National Day,,Lao People's Democratic Republic,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-189,,20251202T000000Z,20251202T000000Z,P1D,National Day,,United Arab Emirates,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-190,,20251205T000000Z,20251205T000000Z,P1D,The King's Birthday Anniversary,,Thailand,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-191,,20251206T000000Z,20251206T000000Z,P1D,Independence Day,,Finland,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-192,,20251211T000000Z,20251211T000000Z,P1D,National Day,,Burkina Faso,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-193,,20251212T000000Z,20251212T000000Z,P1D,Jamhuri Day,,Kenya,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-194,,20251216T000000Z,20251216T000000Z,P1D,National Day,,Bahrain,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-195,,20251217T000000Z,20251217T000000Z,P1D,National Day,,Bhutan,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-196,,20251218T000000Z,20251218T000000Z,P1D,National Day,,Niger,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-197,,20251218T000000Z,20251218T000000Z,P1D,National Day,,Qatar,,,,,,,,,,,,,,,,REQUIRES_VALIDATION
+event-198,,20251224T000000Z,20251224T000000Z,P1D,National Day,,Libya,,,,,,,,,,,,,,,,REQUIRES_VALIDATION

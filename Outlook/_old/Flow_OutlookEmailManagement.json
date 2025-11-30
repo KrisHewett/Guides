@@ -1,0 +1,318 @@
+{
+  "name": "OutlookEmailManagementFlow",
+  "description": "Automates email filtering, prioritization, categorization, and auto-response based on sender, subject, and other conditions.",
+  "triggers": [
+    {
+      "type": "When a new email arrives (V3)",
+      "parameters": {
+        "folder": "Inbox"
+      }
+    },
+    {
+      "type": "Outlook.NewEmail",
+      "parameters": {
+        "folder": "Inbox"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "High Priority"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "High Priority"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: High Priority. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Team Inbox"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Team Inbox"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Team Inbox. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Read Later"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Read Later"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Read Later. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Meetings"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Meetings"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Meetings. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Promotions"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Promotions"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Promotions. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Social"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Social"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Social. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Outlook.CheckFolderExists",
+      "parameters": {
+        "folderName": "Archive"
+      },
+      "onFailure": {
+        "type": "Outlook.CreateFolder",
+        "parameters": {
+          "folderName": "Archive"
+        },
+        "onFailure": {
+          "type": "NotifyUser",
+          "parameters": {
+            "message": "Failed to create folder: Archive. Please create it manually."
+          }
+        }
+      }
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(equals(triggerOutputs()?['from'], 'manager@company.com'), equals(triggerOutputs()?['from'], 'executive@company.com'))",
+      "actions": [
+        {
+          "type": "Move email",
+          "parameters": {
+            "destinationFolder": "High Priority"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['subject'], 'Patient Safety'), contains(triggerOutputs()?['body'], 'Patient Safety'), contains(triggerOutputs()?['subject'], 'Data Analysis'), contains(triggerOutputs()?['body'], 'Data Analysis'))",
+      "actions": [
+        {
+          "type": "Flag email",
+          "parameters": {
+            "flag": "Follow up"
+          }
+        },
+        {
+          "type": "Categorize email",
+          "parameters": {
+            "category": "Work Critical"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@equals(triggerOutputs()?['from'], 'team@company.com')",
+      "actions": [
+        {
+          "type": "Categorize email",
+          "parameters": {
+            "category": "Team"
+          }
+        },
+        {
+          "type": "Move email",
+          "parameters": {
+            "destinationFolder": "Team Inbox"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['body'], 'unsubscribe'), equals(triggerOutputs()?['from'], 'newsletter@service.com'))",
+      "actions": [
+        {
+          "type": "Move email",
+          "parameters": {
+            "destinationFolder": "Read Later"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['subject'], 'Meeting'), contains(triggerOutputs()?['subject'], 'Invite'), contains(triggerOutputs()?['subject'], 'Appointment'))",
+      "actions": [
+        {
+          "type": "Categorize email",
+          "parameters": {
+            "category": "Calendar"
+          }
+        },
+        {
+          "type": "Move email",
+          "parameters": {
+            "destinationFolder": "Meetings"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['subject'], 'Sale'), contains(triggerOutputs()?['subject'], 'Discount'), contains(triggerOutputs()?['subject'], 'Offer'), contains(triggerOutputs()?['subject'], 'Deal'))",
+      "actions": [
+        {
+          "type": "Move email",
+          "parameters": {
+            "destinationFolder": "Promotions"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(endsWith(triggerOutputs()?['from'], '@spam.com'), endsWith(triggerOutputs()?['from'], '@offers.biz'))",
+      "actions": [
+        {
+          "type": "Delete email",
+          "parameters": {}
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(endsWith(triggerOutputs()?['from'], '@facebookmail.com'), endsWith(triggerOutputs()?['from'], '@linkedin.com'))",
+      "actions": [
+        {
+          "type": "Move email",
+          "parameters": {
+            "destinationFolder": "Social"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['subject'], 'Request'), contains(triggerOutputs()?['subject'], 'Action Needed'))",
+      "actions": [
+        {
+          "type": "Send email",
+          "parameters": {
+            "to": "@{triggerOutputs()?['from']}",
+            "subject": "Auto-Reply: Request Received",
+            "body": "Thank you for your request. It has been received and will be reviewed shortly."
+          }
+        },
+        {
+          "type": "Flag email",
+          "parameters": {
+            "flag": "Follow up"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['subject'], 'Report'), contains(triggerOutputs()?['subject'], 'Dashboard'))",
+      "actions": [
+        {
+          "type": "Forward email",
+          "parameters": {
+            "to": "onenote@company.com"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "expression": "@or(contains(triggerOutputs()?['subject'], 'Urgent'), contains(triggerOutputs()?['subject'], 'ASAP'), contains(triggerOutputs()?['subject'], 'Immediate'))",
+      "actions": [
+        {
+          "type": "Categorize email",
+          "parameters": {
+            "category": "Urgent"
+          }
+        },
+        {
+          "type": "Set importance",
+          "parameters": {
+            "importance": "High"
+          }
+        }
+      ]
+    }
+  ],
+  "__custom_placeholders__": {
+    "managerEmail": "your.manager@example.com",
+    "executiveEmail": "senior.executive@example.com",
+    "teamDistributionList": "team.distribution@example.com",
+    "newsletterSenders": [
+      "newsletter1@example.com",
+      "newsletter2@example.com"
+    ],
+    "forwardingAddress": "your.oneNoteOrTeams@example.com"
+  }
+}

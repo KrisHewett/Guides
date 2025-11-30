@@ -1,0 +1,123 @@
+Updated: 20250821-1443
+
+Background Colour: #B10D0D
+Font: Courier New, Consolas, monospace
+Font Colour: #FFFFFF
+
+------------------------------------
+
+
+Email
+| 77178 | 📧 | U+1F4E7 |
+| 77333 | 🖂 | U+1F582 |
+
+Chat
+| 77119 | 💬 | U+1F4AC |
+| 77437 | 🗪 | U+1F5EA |
+
+EVENT / MEET
+| 77145 | 📆 | U+1F4C6 |
+| 77414 | 🗓 | U+1F5D3 |
+
+Link
+| 77226 | 🔗 | U+1F517 |
+
+PIN - Note
+| 77151 | 📌 | U+1F4CC |
+| 77339 | 🖈 | U+1F588 |
+
+PIN - Location
+| 77152 | 📍 | U+1F4CD |
+
+ATTACHEMENT
+| 77153 | 📎 | U+1F4CE |
+
+MAINTENANCE
+| 77626 | 🚧 | U+1F6A7 |
+
+ALERT
+| 77627 | 🚨 | U+1F6A8 |
+
+FLAG
+| 77628 | 🚩 | U+1F6A9 |
+| 76932 | 🏱 | U+1F3F1 |
+
+HOME
+| 76915 | 🏠 | U+1F3E0 |
+
+OFFICE
+| 76917 | 🏢 | U+1F3E2 |
+
+FOLDER
+| 77141 | 📂 | U+1F4C2 |
+
+FILE
+| 77143 | 📄 | U+1F4C4 |
+
+DOCUMENT
+| 77150 | 📋 | U+1F4CB |
+
+REPORT
+| 77149 | 📊 | U+1F4CA |
+
+CALENDAR
+| 77144 | 📅 | U+1F4C5 |
+
+TREND - UP
+| 77147 | 📈 | U+1F4C8 |
+
+TREND - DOWN
+| 77148 | 📉 | U+1F4C9 |
+
+RULE
+| 77154 | 📏 | U+1F4CF |
+
+LICENCE
+| 77156 | 📑 | U+1F4D1 |
+
+BOOKS
+| 77165 | 📚 | U+1F4DA |
+
+ARCHIVE
+| 77167 | 📜 | U+1F4DC |
+
+EDIT
+| 77168 | 📝 | U+1F4DD |
+
+FIND | SEARCH
+| 77216 | 🔍 | U+1F50D |
+
+ACCESS
+| 77220 | 🔑 | U+1F511 |
+
+Locked
+| 77221 | 🔒 | U+1F512 |
+
+Unlocked
+| 77222 | 🔓 | U+1F513 |
+
+ALARM
+| 77223 | 🔔 | U+1F514 |
+| 77312 | 🕭 | U+1F56D |
+
+TICKET
+| 77225 | 🔖 | U+1F516 |
+
+FIX
+| 77242 | 🔧 | U+1F527 |
+| 77679 | 🛠 | U+1F6E0 |
+
+BUILD
+| 77243 | 🔨 | U+1F528 |
+
+RESOURCES
+| 78320 | 🧮 | U+1F9EE |
+
+CRAP
+| 78333 | 🧻 | U+1F9FB |
+
+SCRIPT
+| 78336 | 🧾 | U+1F9FE |
+
+SIGNATURE
+| 8953 | ✍ | U+270D |

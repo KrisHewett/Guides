@@ -1,0 +1,37 @@
+Data element concept {
+                Data Element Concept Attributes
+                Identifying and definitional attributes
+                    Metadata item type: 
+                    METEOR identifier: 
+                    Registration status: 
+                    Definition: 
+                Object Class attributes
+                    Identifying and definitional attributes
+                        Object class:
+                        METEOR identifier: 
+                        Registration status: 
+                        Definition: 
+                        Specialisation of: 
+                    Source and reference attributes
+                        Submitting organisation: 
+                    Property attributes
+                        Identifying and definitional attributes
+                            Property:
+                            METEOR identifier: 
+                            Registration status: 
+                            Definition: 
+                            Property group: 
+                        Source and reference attributes
+                            Submitting organisation: 
+                            Origin: 
+                    Data element concept attributes
+                        Source and reference attributes
+                            Submitting organisation: 
+                            Origin: 
+                        Relational attributes
+                            Related metadata references:
+                            Data Elements implementing this Data Element Concept: 
+                        Registry management attributes  
+                            Created date/time: 
+                            Last updated date/time: 
+            }

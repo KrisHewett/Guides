@@ -1,0 +1,1205 @@
+"Code","Abbrev Descrip","Logical Map","Historical Map","Sequence Number"
+"30478-20","Panendoscopy to duodenum w other coagltn","30478-03","30478-03",0
+"30478-21","Panendoscopy to ileum with other coagltn","30478-17","30478-17",0
+"31423-00","Excision of lymph node of neck","30325-00","30325-00",0
+"31423-01","Regional excision of lymph nodes of neck","30325-01","30325-01",0
+"31435-00","Radical excision of lymph nodes of neck","30328-00","30328-00",0
+"31462-00","Insertion of feeding jejunostomy tube","30375-16","30375-16",0
+"31466-00","Revision fundoplasty","30530-00","30530-00",0
+"31466-00","Revision fundoplasty","30530-00","30527-00",1
+"31466-00","Revision fundoplasty","30530-00","30527-01",2
+"31466-00","Revision fundoplasty","30530-00","30527-02",3
+"31466-00","Revision fundoplasty","30530-00","30527-03",4
+"31466-00","Revision fundoplasty","30530-00","30527-04",5
+"31466-00","Revision fundoplasty","30530-00","30527-05",6
+"31466-00","Revision fundoplasty","30530-00","30529-00",7
+"31466-00","Revision fundoplasty","30530-00","30529-01",8
+"31470-00","Laparoscopic splenectomy","30597-00","30597-00",0
+"31470-00","Laparoscopic splenectomy","30597-00","30390-00",1
+"32004-01","Extended right hemicolectomy w form stma","32004-00","32004-00",0
+"32005-01","Extended right hemicolectomy w anstms","32005-00","32005-00",0
+"33116-00","Endovascular repair of aneurysm","90228-00","90228-00",0
+"35634-00","Division uterine septum, hysteroscopy","35623-01","35623-01",0
+"35643-02","Dilation and evacuation of uterus [D&E]","35643-00","35643-00",0
+"35759-00","Control postop haem foll gyn surg NEC","30058-00","30058-00",0
+"36529-00","Rad nephrectomy complic prev surg kidny","36528-01","36528-01",0
+"36533-00","Nephuretectomy complic prev surg kidny","36531-01","36531-01",0
+"36600-02","Formation incontient intest urin resv","36603-01","36603-01",0
+"36600-02","Formation incontient intest urin resv","36603-01","36603-00",1
+"36600-02","Formation incontient intest urin resv","36603-01","36600-01",2
+"36600-02","Formation incontient intest urin resv","36603-01","36600-00",3
+"36600-02","Formation incontient intest urin resv","36603-01","90336-00",4
+"11240-00","Unidimensional u/s of orbital contents","55055-00","55055-00",0
+"11332-00","Click evoked otoacoustic emissions evaln","96060-00","96060-00",0
+"11332-01","Distortion prdct otoacous emission evaln","96061-00","96061-00",0
+"11332-02","Other otoacoustic emissions evaluation","96062-00","96062-00",0
+"16018-00","Admin therapeutic dose 153 SM-Lexidronan","16000-00","16000-00",0
+"16501-00","External version","90471-00","90471-00",0
+"16501-01","Failed external version","90471-01","90471-01",0
+"30023-01","Debride sft tis incl bone or cart","35100-00","35100-00",0
+"30023-01","Debride sft tis incl bone or cart","35100-00","35100-01",1
+"30335-00","Regional excision lymph nodes of axilla","30332-01","30332-01",0
+"30336-00","Radical excision of lymph nodes, axilla","30333-00","30333-00",0
+"30344-00","Open biopsy of breast","30342-00","30342-00",0
+"30347-00","Excision of lesion of breast","30342-00","30342-00",0
+"30347-00","Excision of lesion of breast","30342-00","30346-00",1
+"30348-00","Re-excision of lesion of breast","30342-00","30342-00",0
+"30348-00","Re-excision of lesion of breast","30342-00","30346-00",1
+"30351-00","Simple mastectomy, unilateral","30338-00","30338-00",0
+"30351-00","Simple mastectomy, unilateral","30338-00","30338-01",1
+"30351-01","Simple mastectomy, bilateral","30338-02","30338-02",0
+"30351-01","Simple mastectomy, bilateral","30338-02","30338-03",1
+"30354-00","Subcutaneous mastectomy, unilateral","30356-00","30356-00",0
+"30354-00","Subcutaneous mastectomy, unilateral","30356-00","30356-01",1
+"30354-01","Subcutaneous mastectomy, bilateral","30356-02","30356-02",0
+"30354-01","Subcutaneous mastectomy, bilateral","30356-02","30356-03",1
+"30375-30","Appendicostomy","30375-00","30375-00",0
+"30375-30","Appendicostomy","30375-00","90311-00",1
+"30382-01","Perc rep enterocutaneous fist sm intest","90340-00","90340-00",0
+"30382-02","Rad rep enterocutaneous fist lrg intest","90340-01","90340-01",0
+"30382-03","Perc rep enterocutaneous fist lrg intest","90340-01","90340-01",0
+"30478-19","Oesophagoscopy with other coagulation","30479-00","30479-00",0
+"36600-02","Formation incontient intest urin resv","36603-01","90336-01",5
+"36600-02","Formation incontient intest urin resv","36603-01","30375-01",6
+"36600-02","Formation incontient intest urin resv","36603-01","30375-04",7
+"36600-02","Formation incontient intest urin resv","36603-01","36606-00",8
+"36606-03","Form contint urin resv w atchmt ureth","36606-00","36606-00",0
+"36606-03","Form contint urin resv w atchmt ureth","36606-00","36606-01",1
+"36606-03","Form contint urin resv w atchmt ureth","36606-00","90361-00",2
+"36652-00","Retrograde pyeloscopy","36803-00","36803-00",0
+"36652-01","Retrogd pyeloscopy w manip of ren calc","36803-02","36803-02",0
+"36654-00","Retrogd pyeloscopy w biopsy of kidney","36561-00","36561-00",0
+"36654-01","Retrogd pyeloscopy w diathermy to kidney","36627-03","36627-03",0
+"36654-02","Retrogd pyeloscopy w extr of ren calc","36806-02","36806-02",0
+"36656-00","Retrogd pyeloscopy w fragmt ren calc","36809-00","36809-00",0
+"36656-01","Retrogd pyelosc w fragmt & extr ren calc","36806-02","36806-02",0
+"36656-01","Retrogd pyelosc w fragmt & extr ren calc","36806-02","36809-00",1
+"36821-03","Endoscopic replacement of ureteric stent","36825-00","36825-00",0
+"37043-00","Transvaginl needle suspnsn stress incont","90362-00","90362-00",0
+"37340-00","Div urethl slg foll stres incont proc","35599-01","35599-01",0
+"37418-00","Cor chordee penis w mobilisn of urethra","37417-00","37417-00",0
+"37418-01","Cor chordee penis w gft/mobilism urethra","37417-01","37417-01",0
+"38281-00","Insertion of chamber pacemaker, NEC","38253-00","38253-00",0
+"38281-01","Ins perm single chamber pacemaker, VOO","38253-01","38253-01",0
+"38281-02","Ins perm single chamber pacemaker, VVI","38253-02","38253-02",0
+"38281-03","Ins perm single chamber pacemaker, VVT","38253-03","38253-03",0
+"38281-04","Ins perm single chamber pacemaker, AOO","38253-04","38253-04",0
+"38281-05","Ins perm single chamber pacemaker, AAI","38253-05","38253-05",0
+"38281-06","Ins perm single chamber pacemaker, AAT","38253-06","38253-06",0
+"38281-07","Ins perm dual chamber pacemaker, VAT","38253-07","38253-07",0
+"38281-08","Ins perm dual chamber pacemaker, VDD","38253-08","38253-08",0
+"38281-09","Ins perm dual chamber pacemaker, DVI","38253-09","38253-09",0
+"38281-10","Ins perm dual chamber pacemaker, DDD","38253-10","38253-10",0
+"38281-11","Removal perm single chamber pacemaker","38253-11","38253-11",0
+"38281-12","Removal permanent dual chamber pacemaker","38253-12","38253-12",0
+"38287-00","Abltn arrhythmia circuit/fcs atrial cham","38530-00","38530-00",0
+"38290-00","Abltn arhythma circuit/fcs bth atrl cham","38533-00","38533-00",0
+"38748-01","Perc transluminal myocrdl septal abltn","38748-00","38748-00",0
+"41895-01","Removal of endobronchial stent","41895-00","41895-00",0
+"41905-04","Insertion of endobronchial stent","41905-02","41905-02",0
+"41905-05","Replacement of endobronchial stent","41905-03","41905-03",0
+"42608-01","Ins glas nasolacrm tube lacm/conjnct sac","42599-00","42599-00",0
+"42608-01","Ins glas nasolacrm tube lacm/conjnct sac","42599-00","42599-01",1
+"42608-01","Ins glas nasolacrm tube lacm/conjnct sac","42599-00","42602-00",2
+"42608-01","Ins glas nasolacrm tube lacm/conjnct sac","42599-00","42602-01",3
+"45054-00","Escharotomy","30017-00","30017-00",0
+"45206-09","Simp & sm loc sk flp of oth areas of fce","45200-00","45200-00",0
+"45206-10","Simple and small local skin flap of foot","45200-00","45200-00",0
+"45206-11","Simple and small local skin flap of toe","45200-00","45200-00",0
+"45448-09","Small SSG of other areas of face","45439-00","45439-00",0
+"45448-10","Small split skin graft of foot","45439-00","45439-00",0
+"45448-11","Small split skin graft of toe","45439-00","45439-00",0
+"45451-20","FT sk graft to burn, other areas of face","45451-19","45451-19",0
+"45451-21","FT skin graft to burn of whole face","45451-19","45451-19",0
+"45451-22","FT skin graft to burn of foot","45451-19","45451-19",0
+"45451-23","Full thickness skin graft to burn of toe","45451-19","45451-19",0
+"45451-24","FT skin graft of other areas of face","45451-09","45451-09",0
+"45451-25","Full thickness skin graft of whole face","45451-09","45451-09",0
+"45451-26","Full thickness skin graft of foot","45451-09","45451-09",0
+"45451-27","Full thickness skin graft of toe","45451-09","45451-09",0
+"45460-00","SSG brn oth site inv >=15%&<20% BSA gft","45418-00","45418-00",0
+"45464-00","SSG brn oth site inv >=20%&<30% BSA gft","45418-00","45418-00",0
+"45468-00","SSG brn oth site inv >=30%&<40% BSA gft","45418-00","45418-00",0
+"45471-00","SSG brn oth site inv >=40%&<50% BSA gft","45418-00","45418-00",0
+"45474-00","SSG brn oth site inv >=50%&<60% BSA gft","45418-00","45418-00",0
+"45477-00","SSG brn oth site inv >=60%&<70% BSA gft","45418-00","45418-00",0
+"45480-00","SSG brn oth site inv >=70%&<80% BSA gft","45418-00","45418-00",0
+"45483-00","SSG brn oth site inv >=80% BSA gft","45418-00","45418-00",0
+"45485-00","Split skin graft to burn of eyelid","45421-00","45421-00",0
+"45485-01","Split skin graft to burn of nose","45421-01","45421-01",0
+"45485-02","Split skin graft to burn of lip","45421-02","45421-02",0
+"45485-03","Split skin graft to burn of ear","45421-03","45421-03",0
+"45485-04","Split skin graft to burn of hand","45421-05","45421-05",0
+"45486-00","Split skin graft to burn of neck","45421-04","45421-04",0
+"45486-01","Split skin graft to burn of genitals","45421-08","45421-08",0
+"45486-02","SSG to burn of other areas of face","45406-00","45406-00",0
+"45486-03","Split skin graft to burn of foot","45406-00","45406-00",0
+"45487-00","Split skin graft to burn of toe","45406-00","45406-00",0
+"45488-00","Split skin graft to burn of finger","45421-07","45421-07",0
+"45488-01","Split skin graft to burn of thumb","45421-06","45421-06",0
+"45494-00","Split skin graft to burn of whole face","45406-00","45406-00",0
+"45496-00","Open revision of free tissue flap","45239-00","45239-00",0
+"45496-00","Open revision of free tissue flap","45239-00","45239-01",1
+"45496-00","Open revision of free tissue flap","45239-00","45239-02",2
+"45496-00","Open revision of free tissue flap","45239-00","45239-03",3
+"45496-00","Open revision of free tissue flap","45239-00","45239-04",4
+"45497-00","Compl rev free tissue flap, liposuction","45239-00","45239-00",0
+"45497-00","Compl rev free tissue flap, liposuction","45239-00","45239-01",1
+"45497-00","Compl rev free tissue flap, liposuction","45239-00","45239-02",2
+"45497-00","Compl rev free tissue flap, liposuction","45239-00","45239-03",3
+"45497-00","Compl rev free tissue flap, liposuction","45239-00","45239-04",4
+"45498-00","Rev free tissue flap liposuction, stg 1","45239-00","45239-00",0
+"45498-00","Rev free tissue flap liposuction, stg 1","45239-00","45239-01",1
+"45498-00","Rev free tissue flap liposuction, stg 1","45239-00","45239-02",2
+"45498-00","Rev free tissue flap liposuction, stg 1","45239-00","45239-03",3
+"45498-00","Rev free tissue flap liposuction, stg 1","45239-00","45239-04",4
+"45499-00","Rev free tissue flap liposuction, stg 2","45239-00","45239-00",0
+"45499-00","Rev free tissue flap liposuction, stg 2","45239-00","45239-01",1
+"45499-00","Rev free tissue flap liposuction, stg 2","45239-00","45239-02",2
+"45499-00","Rev free tissue flap liposuction, stg 2","45239-00","45239-03",3
+"45499-00","Rev free tissue flap liposuction, stg 2","45239-00","45239-04",4
+"45543-00","Mastopexy","90720-00","90720-00",0
+"45614-01","Tarsal strip procedure","45614-00","45614-00",0
+"45660-00","Reconstruction of ext ear, 1st stg","45656-01","45656-01",0
+"45660-00","Reconstruction of ext ear, 1st stg","45656-01","45206-03",1
+"45660-00","Reconstruction of ext ear, 1st stg","45656-01","45012-00",2
+"45660-00","Reconstruction of ext ear, 1st stg","45656-01","45566-01",3
+"45660-00","Reconstruction of ext ear, 1st stg","45656-01","45566-00",4
+"45661-00","Reconstruction of ext ear, 2nd stg","45656-01","45656-01",0
+"45661-00","Reconstruction of ext ear, 2nd stg","45656-01","45206-03",1
+"45661-00","Reconstruction of ext ear, 2nd stg","45656-01","45012-00",2
+"45661-00","Reconstruction of ext ear, 2nd stg","45656-01","45566-01",3
+"45661-00","Reconstruction of ext ear, 2nd stg","45656-01","45566-00",4
+"45720-00","Osteotomy of mandible, unilateral","45725-00","45725-00",0
+"45720-01","Osteotomy of maxilla, unilateral","45725-01","45725-01",0
+"45720-02","Ostectomy of mandible, unilateral","45725-02","45725-02",0
+"45720-03","Ostectomy of maxilla, unilateral","45725-03","45725-03",0
+"45723-00","Osteotomy mandible with IF, unilateral","45719-00","45719-00",0
+"45723-01","Osteotomy maxilla with IF, unilateral","45719-01","45719-01",0
+"45723-02","Ostectomy mandible with IF, unilateral","45719-02","45719-02",0
+"45723-03","Ostectomy maxilla with IF, unilateral","45719-03","45719-03",0
+"45726-00","Osteotomy of mandible, bilateral","45728-00","45728-00",0
+"45726-01","Osteotomy of maxilla, bilateral","45728-01","45728-01",0
+"45726-02","Ostectomy of mandible, bilateral","45728-02","45728-02",0
+"45726-03","Ostectomy of maxilla, bilateral","45728-03","45728-03",0
+"45729-00","Osteotomy mandible with IF, bilateral","45722-00","45722-00",0
+"45729-01","Osteotomy maxilla with IF, bilateral","45722-01","45722-01",0
+"45729-02","Ostectomy mandible with IF, bilateral","45722-02","45722-02",0
+"45729-03","Ostectomy maxilla with IF, bilateral","45722-03","45722-03",0
+"45732-00",">=3 Osteo/ostectomies mandible w IF","45743-00","45743-00",0
+"45732-01",">=3 Osteo/ostectomies maxilla w IF","45743-01","45743-01",0
+"45735-00","4 Osteo/ostectomies mandible & maxilla","45734-00","45734-00",0
+"45738-00","4 Osteo/ostectomies mand & maxilla w IF","45746-00","45746-00",0
+"45741-00","5 Osteo/ostectomies mandible & maxilla","45737-00","45737-00",0
+"45744-00","5 Osteo/ostectomies mand & maxilla w IF","45749-00","45749-00",0
+"45747-00",">=6 Osteo/ostectomies mandible & maxilla","45740-00","45740-00",0
+"49837-00","Cor hal val osteot metarsl&trsf tend uni","49833-00","49833-00",0
+"49837-00","Cor hal val osteot metarsl&trsf tend uni","49833-00","49827-00",1
+"49838-00","Cor hal val osteot metarsl&trsf tend bil","49836-00","49836-00",0
+"49838-00","Cor hal val osteot metarsl&trsf tend bil","49836-00","49830-00",1
+"50352-00","Immobilisation of hip dislocation","49351-00","49351-00",0
+"52035-00","Endosc lasr thrpy upp aerodigestive tr","41674-02","41674-02",0
+"52600-01","Excision maxilla or mandible exostosis","52600-00","52600-00",0
+"53226-00","Synovectomy of temporomandibular joint","50104-00","50104-00",0
+"53236-00","Stabilisation of temporomandibular joint","50106-00","50106-00",0
+"53239-00","Arthrodesis of temporomandibular joint","50109-00","50109-00",0
+"55070-00","Ultrasound of breast, unilateral","55034-00","55034-00",0
+"55076-00","Ultrasound of breast, bilateral","55034-00","55034-00",0
+"55700-00","U/s for detection of fetal abnormality","55040-00","55040-00",0
+"55700-01","Ultrasound for fetal growth measurement","55040-01","55040-01",0
+"55700-02","U/s abdo/pelvis for other pregnancy cond","55040-02","55040-02",0
+"55729-00","U/s measurement of umbilical blood flow","55058-00","55058-00",0
+"55731-00","Ultrasound of female pelvis","55042-00","55042-00",0
+"55800-00","Ultrasound of hand or wrist","55052-00","55052-00",0
+"55804-00","Ultrasound of forearm or elbow","55050-00","55050-00",0
+"55804-00","Ultrasound of forearm or elbow","55050-00","55052-00",1
+"55808-00","Ultrasound of shoulder or upper arm","55052-00","55052-00",0
+"55808-00","Ultrasound of shoulder or upper arm","55052-00","55050-00",1
+"55812-00","Ultrasound of chest or abdominal wall","55050-00","55050-00",0
+"55816-00","Ultrasound of hip","55052-00","55052-00",0
+"55816-01","Ultrasound of groin","55050-00","55050-00",0
+"55824-00","Ultrasound of buttock","55050-00","55050-00",0
+"55824-01","Ultrasound of thigh","55050-00","55050-00",0
+"55828-00","Ultrasound of knee","55052-00","55052-00",0
+"55832-00","Ultrasound of lower leg","55050-00","55050-00",0
+"55836-00","Ultrasound of ankle or foot","55052-00","55052-00",0
+"55844-00","U/s of skin and subcutaneous tissue","90908-00","90908-00",0
+"55848-00","Intra-operative musculoskeletal u/s","55054-00","55054-00",0
+"55852-00","Ultrasound of spine and spinal cord","55050-00","55050-00",0
+"56030-00","CT facial bone paranasal sinus and brain","56022-02","56022-02",0
+"56030-00","CT facial bone paranasal sinus and brain","56022-02","56001-00",1
+"56036-00","CT fac bne paransl sin & brain w IV medm","56028-02","56028-02",0
+"56036-00","CT fac bne paransl sin & brain w IV medm","56028-02","56007-00",1
+"57350-01","Spr Ang CT upp extrem w IV CM","57350-00","57350-00",0
+"57350-02","Spr ang CT chest w IV CM","57350-00","57350-00",0
+"57350-03","Spr ang CT abdo w IVCM","57350-00","57350-00",0
+"57350-04","Spr ang CT AA bil ifem low extrem w IVCM","57350-00","57350-00",0
+"57350-05","Spr ang CT spine w IVCM","57350-00","57350-00",0
+"57350-06","Spr ang CT pelvis w IVCM","57350-00","57350-00",0
+"57350-07","Spr ang CT low extrem w IVCM","57350-00","57350-00",0
+"57350-08","Spr ang CT other site w IVCM","57350-00","57350-00",0
+"61369-00","Indium-labelled octreotide study","90910-00","90910-00",0
+"61445-00","Localised bone marrow study","61441-00","61441-00",0
+"90003-02","Subcut impl nrstim dev/recr","90003-00","90003-00",0
+"90003-03","R/O subcut impl nrstim dev/recr","90003-01","90003-01",0
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18242-00",0
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18252-00",1
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18248-00",2
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18254-00",3
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18266-00",4
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18266-01",5
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18266-02",6
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18256-00",7
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18258-00",8
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18260-00",9
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18262-00",10
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18262-01",11
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18262-02",12
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18268-00",13
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18270-00",14
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18272-00",15
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18278-00",16
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18272-01",17
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18272-02",18
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18272-03",19
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18264-00",20
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18274-00",21
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18274-01",22
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18274-02",23
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18274-03",24
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18274-04",25
+"90022-00","Inj/o anaes around other perph nerve","18242-00","18276-00",26
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18234-00",0
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18236-00",1
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18238-00",2
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18240-00",3
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18244-00",4
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18246-00",5
+"90023-00","Inj/o anaes around other cranial nerve","18234-00","18250-00",6
+"90024-00","Decomp lmbr spinal cnl, 1lvl","40303-02","40303-02",0
+"90024-01","Decomp lmbr spinal cnl, >= 2 lvl","40306-00","40306-00",0
+"90025-00","Rev spin proc w adjustment of spin fix","48615-00","48615-00",0
+"90025-01","Rev spin proc w R/O spinal fixation","48615-01","48615-01",0
+"90025-02","Rev of spinal procedure with bone graft","48615-02","48615-02",0
+"90025-03","Other revision of spinal procedure","48618-00","48618-00",0
+"90150-00","Thyroplasty","90160-00","90160-00",0
+"90180-00","Insertion of pleuroperitioneal shunt","30408-00","30408-00",0
+"90232-00","Direct closure of other vein","90222-01","90222-01",0
+"90233-00","Rep other vein by interposition graft","90222-01","90222-01",0
+"90299-00","Other destruction of liver","30419-00","30419-00",0
+"90299-00","Other destruction of liver","30419-00","90319-00",1
+"90487-00","Oth intrauterine dx proc on fetus","16606-00","16606-00",0
+"90601-00","Arthroscopic lavage of joint, NEC","50102-00","50102-00",0
+"90601-01","Lavage of joint, NEC","90595-00","90595-00",0
+"90602-00","Biopsy of intervertebral disc","30093-00","30093-00",0
+"90603-00","Sequestrectomy of maxilla","43503-09","90573-00",0
+"90603-00","Sequestrectomy of maxilla","43503-09","43503-09",1
+"90603-00","Sequestrectomy of maxilla","43503-09","43512-13",2
+"90603-01","Sequestrectomy of mandible","43503-10","90573-00",0
+"90603-01","Sequestrectomy of mandible","43503-10","43503-10",1
+"90603-01","Sequestrectomy of mandible","43503-10","43512-14",2
+"90603-02","Sequestrectomy of sternum","43503-00","90573-00",0
+"90603-02","Sequestrectomy of sternum","43503-00","43503-00",1
+"90603-02","Sequestrectomy of sternum","43503-00","43512-00",2
+"90603-03","Sequestrectomy of rib","43503-01","90573-00",0
+"90603-03","Sequestrectomy of rib","43503-01","43503-01",1
+"90603-03","Sequestrectomy of rib","43503-01","43512-01",2
+"90603-04","Sequestrectomy of vertebra","43518-01","90573-00",0
+"90603-04","Sequestrectomy of vertebra","43518-01","43518-01",1
+"90603-05","Sequestrectomy of vertebra w cord inv","43518-02","90573-00",0
+"90603-05","Sequestrectomy of vertebra w cord inv","43518-02","43518-02",1
+"90603-06","Sequestrectomy of clavicle","43503-02","90573-00",0
+"90603-06","Sequestrectomy of clavicle","43503-02","43503-02",1
+"90603-06","Sequestrectomy of clavicle","43503-02","43512-02",2
+"90603-07","Sequestrectomy of scapula","43503-12","90573-00",0
+"90603-07","Sequestrectomy of scapula","43503-12","43503-12",1
+"90603-07","Sequestrectomy of scapula","43503-12","43512-03",2
+"90603-08","Sequestrectomy of humerus","43506-00","90573-00",0
+"90603-08","Sequestrectomy of humerus","43506-00","43506-00",1
+"90603-08","Sequestrectomy of humerus","43506-00","43515-00",2
+"90603-09","Sequestrectomy of radius","43503-03","90573-00",0
+"90603-09","Sequestrectomy of radius","43503-03","43503-03",1
+"90603-09","Sequestrectomy of radius","43503-03","43512-04",2
+"90603-10","Sequestrectomy of ulna","43503-04","90573-00",0
+"90603-10","Sequestrectomy of ulna","43503-04","43503-04",1
+"90603-10","Sequestrectomy of ulna","43503-04","43512-05",2
+"90603-11","Sequestrectomy of carpus","43503-05","90573-00",0
+"90603-11","Sequestrectomy of carpus","43503-05","43503-05",1
+"90603-11","Sequestrectomy of carpus","43503-05","43512-06",2
+"90603-12","Sequestrectomy of metacarpus","43503-11","90573-00",0
+"90603-12","Sequestrectomy of metacarpus","43503-11","43503-11",1
+"90603-12","Sequestrectomy of metacarpus","43503-11","43512-07",2
+"90603-13","Sequestrectomy of phalanx of hand","43500-00","90573-00",0
+"90603-13","Sequestrectomy of phalanx of hand","43500-00","43500-00",1
+"90603-13","Sequestrectomy of phalanx of hand","43500-00","43512-08",2
+"90603-14","Sequestrectomy of pelvic bones","43509-00","90573-00",0
+"90603-14","Sequestrectomy of pelvic bones","43509-00","43509-00",1
+"90603-14","Sequestrectomy of pelvic bones","43509-00","43518-00",2
+"90603-15","Sequestrectomy of femur","43506-01","90573-00",0
+"90603-15","Sequestrectomy of femur","43506-01","43506-01",1
+"90603-15","Sequestrectomy of femur","43506-01","43515-01",2
+"90603-16","Sequestrectomy of tibia","43503-06","90573-00",0
+"90603-16","Sequestrectomy of tibia","43503-06","43503-06",1
+"90603-16","Sequestrectomy of tibia","43503-06","43512-09",2
+"90603-17","Sequestrectomy of fibula","43503-07","90573-00",0
+"90603-17","Sequestrectomy of fibula","43503-07","43503-07",1
+"90603-17","Sequestrectomy of fibula","43503-07","43512-10",2
+"90603-18","Sequestrectomy of tarsus","43503-08","90573-00",0
+"90603-18","Sequestrectomy of tarsus","43503-08","43503-08",1
+"90603-18","Sequestrectomy of tarsus","43503-08","43512-11",2
+"90603-19","Sequestrectomy of metatarsus","43500-01","90573-00",0
+"90603-19","Sequestrectomy of metatarsus","43500-01","43500-01",1
+"90603-19","Sequestrectomy of metatarsus","43500-01","43512-12",2
+"90603-20","Sequestrectomy of phalanx of foot","43500-02","90573-00",0
+"90603-20","Sequestrectomy of phalanx of foot","43500-02","43500-02",1
+"90603-20","Sequestrectomy of phalanx of foot","43500-02","43512-15",2
+"90604-00","Correction of bony deformity","50303-00","50303-00",0
+"90605-00","Compression w distraction osteosynthesis","50303-00","50303-00",0
+"90605-01","Osteosynthesis, NEC","50303-00","50303-00",0
+"90670-01","Allograft to burn","45424-00","45424-00",0
+"90670-01","Allograft to burn","45424-00","45427-00",1
+"90670-01","Allograft to burn","45424-00","45430-00",2
+"90670-01","Allograft to burn","45424-00","45433-00",3
+"90670-01","Allograft to burn","45424-00","45436-00",4
+"90671-01","Xenograft to burn","45424-01","45424-01",0
+"90671-01","Xenograft to burn","45424-01","45427-01",1
+"90671-01","Xenograft to burn","45424-01","45430-01",2
+"90671-01","Xenograft to burn","45424-01","45433-01",3
+"90671-01","Xenograft to burn","45424-01","45436-01",4
+"90672-01","Synthetic skin graft to burn","45424-02","45424-02",0
+"90672-01","Synthetic skin graft to burn","45424-02","45427-02",1
+"90672-01","Synthetic skin graft to burn","45424-02","45430-02",2
+"90672-01","Synthetic skin graft to burn","45424-02","45433-02",3
+"90672-01","Synthetic skin graft to burn","45424-02","45436-02",4
+"92207-00","Injection of botulinum toxin","92193-00","92193-00",0
+"92506-10","Neuraxial block during labour, ASA 10","90486-02","90486-02",0
+"92506-10","Neuraxial block during labour, ASA 10","90486-02","90486-00",1
+"92506-10","Neuraxial block during labour, ASA 10","90486-02","90486-01",2
+"92506-19","Neuraxial block during labour, ASA 19","90486-02","90486-02",0
+"92506-19","Neuraxial block during labour, ASA 19","90486-02","90486-00",1
+"92506-19","Neuraxial block during labour, ASA 19","90486-02","90486-01",2
+"92506-20","Neuraxial block during labour, ASA 20","90486-02","90486-02",0
+"92506-20","Neuraxial block during labour, ASA 20","90486-02","90486-00",1
+"92506-20","Neuraxial block during labour, ASA 20","90486-02","90486-01",2
+"92506-29","Neuraxial block during labour, ASA 29","90486-02","90486-02",0
+"92506-29","Neuraxial block during labour, ASA 29","90486-02","90486-00",1
+"92506-29","Neuraxial block during labour, ASA 29","90486-02","90486-01",2
+"92506-30","Neuraxial block during labour, ASA 30","90486-02","90486-02",0
+"92506-30","Neuraxial block during labour, ASA 30","90486-02","90486-00",1
+"92506-30","Neuraxial block during labour, ASA 30","90486-02","90486-01",2
+"92506-39","Neuraxial block during labour, ASA 39","90486-02","90486-02",0
+"92506-39","Neuraxial block during labour, ASA 39","90486-02","90486-00",1
+"92506-39","Neuraxial block during labour, ASA 39","90486-02","90486-01",2
+"92506-40","Neuraxial block during labour, ASA 40","90486-02","90486-02",0
+"92506-40","Neuraxial block during labour, ASA 40","90486-02","90486-00",1
+"92506-40","Neuraxial block during labour, ASA 40","90486-02","90486-01",2
+"92506-49","Neuraxial block during labour, ASA 49","90486-02","90486-02",0
+"92506-49","Neuraxial block during labour, ASA 49","90486-02","90486-00",1
+"92506-49","Neuraxial block during labour, ASA 49","90486-02","90486-01",2
+"92506-50","Neuraxial block during labour, ASA 50","90486-02","90486-02",0
+"92506-50","Neuraxial block during labour, ASA 50","90486-02","90486-00",1
+"92506-50","Neuraxial block during labour, ASA 50","90486-02","90486-01",2
+"92506-59","Neuraxial block during labour, ASA 59","90486-02","90486-02",0
+"92506-59","Neuraxial block during labour, ASA 59","90486-02","90486-00",1
+"92506-59","Neuraxial block during labour, ASA 59","90486-02","90486-01",2
+"92506-69","Neuraxial block during labour, ASA 69","90486-02","90486-02",0
+"92506-69","Neuraxial block during labour, ASA 69","90486-02","90486-00",1
+"92506-69","Neuraxial block during labour, ASA 69","90486-02","90486-01",2
+"92506-90","Neuraxial block during labour, ASA 90","90486-02","90486-02",0
+"92506-90","Neuraxial block during labour, ASA 90","90486-02","90486-00",1
+"92506-90","Neuraxial block during labour, ASA 90","90486-02","90486-01",2
+"92506-99","Neuraxial block during labour, ASA 99","90486-02","90486-02",0
+"92506-99","Neuraxial block during labour, ASA 99","90486-02","90486-00",1
+"92506-99","Neuraxial block during labour, ASA 99","90486-02","90486-01",2
+"92507-10","Neuraxial block dur labour & C/S, ASA 10","90486-02","90486-02",0
+"92507-10","Neuraxial block dur labour & C/S, ASA 10","90486-02","90486-00",1
+"92507-10","Neuraxial block dur labour & C/S, ASA 10","90486-02","90486-01",2
+"92507-19","Neuraxial block dur labour & C/S, ASA 19","90486-02","90486-02",0
+"92507-19","Neuraxial block dur labour & C/S, ASA 19","90486-02","90486-00",1
+"92507-19","Neuraxial block dur labour & C/S, ASA 19","90486-02","90486-01",2
+"92507-20","Neuraxial block dur labour & C/S, ASA 20","90486-02","90486-02",0
+"92507-20","Neuraxial block dur labour & C/S, ASA 20","90486-02","90486-00",1
+"92507-20","Neuraxial block dur labour & C/S, ASA 20","90486-02","90486-01",2
+"92507-29","Neuraxial block dur labour & C/S, ASA 29","90486-02","90486-02",0
+"92507-29","Neuraxial block dur labour & C/S, ASA 29","90486-02","90486-00",1
+"92507-29","Neuraxial block dur labour & C/S, ASA 29","90486-02","90486-01",2
+"92507-30","Neuraxial block dur labour & C/S, ASA 30","90486-02","90486-02",0
+"92507-30","Neuraxial block dur labour & C/S, ASA 30","90486-02","90486-00",1
+"92507-30","Neuraxial block dur labour & C/S, ASA 30","90486-02","90486-01",2
+"92507-39","Neuraxial block dur labour & C/S, ASA 39","90486-02","90486-02",0
+"92507-39","Neuraxial block dur labour & C/S, ASA 39","90486-02","90486-00",1
+"92507-39","Neuraxial block dur labour & C/S, ASA 39","90486-02","90486-01",2
+"92507-40","Neuraxial block dur labour & C/S, ASA 40","90486-02","90486-02",0
+"92507-40","Neuraxial block dur labour & C/S, ASA 40","90486-02","90486-00",1
+"92507-40","Neuraxial block dur labour & C/S, ASA 40","90486-02","90486-01",2
+"92507-49","Neuraxial block dur labour & C/S, ASA 49","90486-02","90486-02",0
+"92507-49","Neuraxial block dur labour & C/S, ASA 49","90486-02","90486-00",1
+"92507-49","Neuraxial block dur labour & C/S, ASA 49","90486-02","90486-01",2
+"92507-50","Neuraxial block dur labour & C/S, ASA 50","90486-02","90486-02",0
+"92507-50","Neuraxial block dur labour & C/S, ASA 50","90486-02","90486-00",1
+"92507-50","Neuraxial block dur labour & C/S, ASA 50","90486-02","90486-01",2
+"92507-59","Neuraxial block dur labour & C/S, ASA 59","90486-02","90486-02",0
+"92507-59","Neuraxial block dur labour & C/S, ASA 59","90486-02","90486-00",1
+"92507-59","Neuraxial block dur labour & C/S, ASA 59","90486-02","90486-01",2
+"92507-69","Neuraxial block dur labour & C/S, ASA 69","90486-02","90486-02",0
+"92507-69","Neuraxial block dur labour & C/S, ASA 69","90486-02","90486-00",1
+"92507-69","Neuraxial block dur labour & C/S, ASA 69","90486-02","90486-01",2
+"92507-90","Neuraxial block dur labour & C/S, ASA 90","90486-02","90486-02",0
+"92507-90","Neuraxial block dur labour & C/S, ASA 90","90486-02","90486-00",1
+"92507-90","Neuraxial block dur labour & C/S, ASA 90","90486-02","90486-01",2
+"92507-99","Neuraxial block dur labour & C/S, ASA 99","90486-02","90486-02",0
+"92507-99","Neuraxial block dur labour & C/S, ASA 99","90486-02","90486-00",1
+"92507-99","Neuraxial block dur labour & C/S, ASA 99","90486-02","90486-01",2
+"92508-10","Neuraxial block, ASA 10","18209-05","18209-05",0
+"92508-10","Neuraxial block, ASA 10","18209-05","18216-02",1
+"92508-10","Neuraxial block, ASA 10","18209-05","18209-02",2
+"92508-10","Neuraxial block, ASA 10","18209-05","18216-11",4
+"92508-10","Neuraxial block, ASA 10","18209-05","18209-08",5
+"92508-19","Neuraxial block, ASA 19","18209-05","18209-05",0
+"92508-19","Neuraxial block, ASA 19","18209-05","18216-02",1
+"92508-19","Neuraxial block, ASA 19","18209-05","18209-02",2
+"92508-19","Neuraxial block, ASA 19","18209-05","18216-11",3
+"92508-19","Neuraxial block, ASA 19","18209-05","18209-08",4
+"92508-20","Neuraxial block, ASA 20","18209-05","18209-05",0
+"92508-20","Neuraxial block, ASA 20","18209-05","18216-02",1
+"92508-20","Neuraxial block, ASA 20","18209-05","18209-02",2
+"92508-20","Neuraxial block, ASA 20","18209-05","18216-11",3
+"92508-20","Neuraxial block, ASA 20","18209-05","18209-08",4
+"92508-29","Neuraxial block, ASA 29","18209-05","18209-05",0
+"92508-29","Neuraxial block, ASA 29","18209-05","18216-02",1
+"92508-29","Neuraxial block, ASA 29","18209-05","18209-02",2
+"92508-29","Neuraxial block, ASA 29","18209-05","18216-11",3
+"92508-29","Neuraxial block, ASA 29","18209-05","18209-08",4
+"92508-30","Neuraxial block, ASA 30","18209-05","18209-05",0
+"92508-30","Neuraxial block, ASA 30","18209-05","18216-02",1
+"92508-30","Neuraxial block, ASA 30","18209-05","18209-02",2
+"92508-30","Neuraxial block, ASA 30","18209-05","18216-11",3
+"92508-30","Neuraxial block, ASA 30","18209-05","18209-08",4
+"92508-39","Neuraxial block, ASA 39","18209-05","18209-05",0
+"92508-39","Neuraxial block, ASA 39","18209-05","18216-02",1
+"92508-39","Neuraxial block, ASA 39","18209-05","18209-02",2
+"92508-39","Neuraxial block, ASA 39","18209-05","18216-11",3
+"92508-39","Neuraxial block, ASA 39","18209-05","18209-08",4
+"92508-40","Neuraxial block, ASA 40","18209-05","18209-05",0
+"92508-40","Neuraxial block, ASA 40","18209-05","18216-02",1
+"92508-40","Neuraxial block, ASA 40","18209-05","18209-02",2
+"92508-40","Neuraxial block, ASA 40","18209-05","18216-11",3
+"92508-40","Neuraxial block, ASA 40","18209-05","18209-08",4
+"92508-49","Neuraxial block, ASA 49","18209-05","18209-05",0
+"92508-49","Neuraxial block, ASA 49","18209-05","18216-02",1
+"92508-49","Neuraxial block, ASA 49","18209-05","18209-02",2
+"92508-49","Neuraxial block, ASA 49","18209-05","18216-11",3
+"92508-49","Neuraxial block, ASA 49","18209-05","18209-08",4
+"92508-50","Neuraxial block, ASA 50","18209-05","18209-05",0
+"92508-50","Neuraxial block, ASA 50","18209-05","18216-02",1
+"92508-50","Neuraxial block, ASA 50","18209-05","18209-02",2
+"92508-50","Neuraxial block, ASA 50","18209-05","18216-11",3
+"92508-50","Neuraxial block, ASA 50","18209-05","18209-08",4
+"92508-59","Neuraxial block, ASA 59","18209-05","18209-05",0
+"92508-59","Neuraxial block, ASA 59","18209-05","18216-02",1
+"92508-59","Neuraxial block, ASA 59","18209-05","18209-02",2
+"92508-59","Neuraxial block, ASA 59","18209-05","18216-11",3
+"92508-59","Neuraxial block, ASA 59","18209-05","18209-08",4
+"92508-69","Neuraxial block, ASA 69","18209-05","18209-05",0
+"92508-69","Neuraxial block, ASA 69","18209-05","18216-02",1
+"92508-69","Neuraxial block, ASA 69","18209-05","18209-02",2
+"92508-69","Neuraxial block, ASA 69","18209-05","18216-11",3
+"92508-69","Neuraxial block, ASA 69","18209-05","18209-08",4
+"92508-90","Neuraxial block, ASA 90","18209-05","18209-05",0
+"92508-90","Neuraxial block, ASA 90","18209-05","18216-02",1
+"92508-90","Neuraxial block, ASA 90","18209-05","18209-02",2
+"92508-90","Neuraxial block, ASA 90","18209-05","18216-11",3
+"92508-90","Neuraxial block, ASA 90","18209-05","18209-08",4
+"92508-99","Neuraxial block, ASA 99","18209-05","18209-05",0
+"92508-99","Neuraxial block, ASA 99","18209-05","18216-02",1
+"92508-99","Neuraxial block, ASA 99","18209-05","18209-02",2
+"92508-99","Neuraxial block, ASA 99","18209-05","18216-11",3
+"92508-99","Neuraxial block, ASA 99","18209-05","18209-08",4
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18234-00",0
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18236-00",1
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18238-00",2
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18240-00",3
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18244-00",4
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18246-00",5
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18250-00",6
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18242-00",7
+"92509-10","Regnl block nerve of head/neck ASA 10","18234-00","18252-00",8
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18234-00",0
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18236-00",1
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18238-00",2
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18240-00",3
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18244-00",4
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18246-00",5
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18250-00",6
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18242-00",7
+"92509-19","Regnl block nerve of head/neck ASA 19","18234-00","18252-00",8
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18234-00",0
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18236-00",1
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18238-00",2
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18240-00",3
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18244-00",4
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18246-00",5
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18250-00",6
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18242-00",7
+"92509-20","Regnl block nerve of head/neck ASA 20","18234-00","18252-00",8
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18234-00",0
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18236-00",1
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18238-00",2
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18240-00",3
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18244-00",4
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18246-00",5
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18250-00",6
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18242-00",7
+"92509-29","Regnl block nerve of head/neck ASA 29","18234-00","18252-00",8
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18234-00",0
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18236-00",1
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18238-00",2
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18240-00",3
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18244-00",4
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18246-00",5
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18250-00",6
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18242-00",7
+"92509-30","Regnl block nerve of head/neck ASA 30","18234-00","18252-00",8
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18234-00",0
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18236-00",1
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18238-00",2
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18240-00",3
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18244-00",4
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18246-00",5
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18250-00",6
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18242-00",7
+"92509-39","Regnl block nerve of head/neck ASA 39","18234-00","18252-00",8
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18234-00",0
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18236-00",1
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18238-00",2
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18240-00",3
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18244-00",4
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18246-00",5
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18250-00",6
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18242-00",7
+"92509-40","Regnl block nerve of head/neck ASA 40","18234-00","18252-00",8
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18234-00",0
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18236-00",1
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18238-00",2
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18240-00",3
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18244-00",4
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18246-00",5
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18250-00",6
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18242-00",7
+"92509-49","Regnl block nerve of head/neck ASA 49","18234-00","18252-00",8
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18234-00",0
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18236-00",1
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18238-00",2
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18240-00",3
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18244-00",4
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18246-00",5
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18250-00",6
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18242-00",7
+"92509-50","Regnl block nerve of head/neck ASA 50","18234-00","18252-00",8
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18234-00",0
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18236-00",1
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18238-00",2
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18240-00",3
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18244-00",4
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18246-00",5
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18250-00",6
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18242-00",7
+"92509-59","Regnl block nerve of head/neck ASA 59","18234-00","18252-00",8
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18234-00",0
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18236-00",1
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18238-00",2
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18240-00",3
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18244-00",4
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18246-00",5
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18250-00",6
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18242-00",7
+"92509-69","Regnl block nerve of head/neck ASA 69","18234-00","18252-00",8
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18234-00",0
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18236-00",1
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18238-00",2
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18240-00",3
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18244-00",4
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18246-00",5
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18250-00",6
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18242-00",7
+"92509-90","Regnl block nerve of head/neck ASA 90","18234-00","18252-00",8
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18234-00",0
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18236-00",1
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18238-00",2
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18240-00",3
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18244-00",4
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18246-00",5
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18250-00",6
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18242-00",7
+"92509-99","Regnl block nerve of head/neck ASA 99","18234-00","18252-00",8
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18248-00",0
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18258-00",1
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18260-00",2
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18262-00",3
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18262-01",4
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18262-02",5
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18264-00",6
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18274-01",7
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18274-04",8
+"92510-10","Regnl block, nerve of trunk ASA 10","18248-00","18276-00",9
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18248-00",0
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18258-00",1
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18260-00",2
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18262-00",3
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18262-01",4
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18262-02",5
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18264-00",6
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18274-01",7
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18274-04",8
+"92510-19","Regnl block, nerve of trunk ASA 19","18248-00","18276-00",9
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18248-00",0
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18258-00",1
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18260-00",2
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18262-00",3
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18262-01",4
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18262-02",5
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18264-00",6
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18274-01",7
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18274-04",8
+"92510-20","Regnl block, nerve of trunk ASA 20","18248-00","18276-00",9
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18248-00",0
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18258-00",1
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18260-00",2
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18262-00",3
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18262-01",4
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18262-02",5
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18264-00",6
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18274-01",7
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18274-04",8
+"92510-29","Regnl block, nerve of trunk ASA 29","18248-00","18276-00",9
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18248-00",0
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18258-00",1
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18260-00",2
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18262-00",3
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18262-01",4
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18262-02",5
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18264-00",6
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18274-01",7
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18274-04",8
+"92510-30","Regnl block, nerve of trunk ASA 30","18248-00","18276-00",9
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18248-00",0
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18258-00",1
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18260-00",2
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18262-00",3
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18262-01",4
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18262-02",5
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18264-00",6
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18274-01",7
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18274-04",8
+"92510-39","Regnl block, nerve of trunk ASA 39","18248-00","18276-00",9
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18248-00",0
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18258-00",1
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18260-00",2
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18262-00",3
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18262-01",4
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18262-02",5
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18264-00",6
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18274-01",7
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18274-04",8
+"92510-40","Regnl block, nerve of trunk ASA 40","18248-00","18276-00",9
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18248-00",0
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18258-00",1
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18260-00",2
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18262-00",3
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18262-01",4
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18262-02",5
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18264-00",6
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18274-01",7
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18274-04",8
+"92510-49","Regnl block, nerve of trunk ASA 49","18248-00","18276-00",9
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18248-00",0
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18258-00",1
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18260-00",2
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18262-00",3
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18262-01",4
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18262-02",5
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18264-00",6
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18274-01",7
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18274-04",8
+"92510-50","Regnl block, nerve of trunk ASA 50","18248-00","18276-00",9
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18248-00",0
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18258-00",1
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18260-00",2
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18262-00",3
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18262-01",4
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18262-02",5
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18264-00",6
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18274-01",7
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18274-04",8
+"92510-59","Regnl block, nerve of trunk ASA 59","18248-00","18276-00",9
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18248-00",0
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18258-00",1
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18260-00",2
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18262-00",3
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18262-01",4
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18262-02",5
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18264-00",6
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18274-01",7
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18274-04",8
+"92510-69","Regnl block, nerve of trunk ASA 69","18248-00","18276-00",9
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18248-00",0
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18258-00",1
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18260-00",2
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18262-00",3
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18262-01",4
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18262-02",5
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18264-00",6
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18274-01",7
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18274-04",8
+"92510-90","Regnl block, nerve of trunk ASA 90","18248-00","18276-00",9
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18248-00",0
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18258-00",1
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18260-00",2
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18262-00",3
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18262-01",4
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18262-02",5
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18264-00",6
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18274-01",7
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18274-04",8
+"92510-99","Regnl block, nerve of trunk ASA 99","18248-00","18276-00",9
+"92511-10","Regnl block nerve of upp limb ASA 10","18254-00","18254-00",0
+"92511-10","Regnl block nerve of upp limb ASA 10","18254-00","18266-00",1
+"92511-10","Regnl block nerve of upp limb ASA 10","18254-00","18266-01",2
+"92511-10","Regnl block nerve of upp limb ASA 10","18254-00","18266-02",3
+"92511-10","Regnl block nerve of upp limb ASA 10","18254-00","18256-00",4
+"92511-10","Regnl block nerve of upp limb ASA 10","18254-00","18274-00",5
+"92511-19","Regnl block nerve of upp limb ASA 19","18254-00","18254-00",0
+"92511-19","Regnl block nerve of upp limb ASA 19","18254-00","18266-00",1
+"92511-19","Regnl block nerve of upp limb ASA 19","18254-00","18266-01",2
+"92511-19","Regnl block nerve of upp limb ASA 19","18254-00","18266-02",3
+"92511-19","Regnl block nerve of upp limb ASA 19","18254-00","18256-00",4
+"92511-19","Regnl block nerve of upp limb ASA 19","18254-00","18274-00",5
+"92511-20","Regnl block nerve of upp limb ASA 20","18254-00","18254-00",0
+"92511-20","Regnl block nerve of upp limb ASA 20","18254-00","18266-00",1
+"92511-20","Regnl block nerve of upp limb ASA 20","18254-00","18266-01",2
+"92511-20","Regnl block nerve of upp limb ASA 20","18254-00","18266-02",3
+"92511-20","Regnl block nerve of upp limb ASA 20","18254-00","18256-00",4
+"92511-20","Regnl block nerve of upp limb ASA 20","18254-00","18274-00",5
+"92511-29","Regnl block nerve of upp limb ASA 29","18254-00","18254-00",0
+"92511-29","Regnl block nerve of upp limb ASA 29","18254-00","18266-00",1
+"92511-29","Regnl block nerve of upp limb ASA 29","18254-00","18266-01",2
+"92511-29","Regnl block nerve of upp limb ASA 29","18254-00","18266-02",3
+"92511-29","Regnl block nerve of upp limb ASA 29","18254-00","18256-00",4
+"92511-29","Regnl block nerve of upp limb ASA 29","18254-00","18274-00",5
+"92511-30","Regnl block nerve of upp limb ASA 30","18254-00","18254-00",0
+"92511-30","Regnl block nerve of upp limb ASA 30","18254-00","18266-00",1
+"92511-30","Regnl block nerve of upp limb ASA 30","18254-00","18266-01",2
+"92511-30","Regnl block nerve of upp limb ASA 30","18254-00","18266-02",3
+"92511-30","Regnl block nerve of upp limb ASA 30","18254-00","18256-00",4
+"92511-30","Regnl block nerve of upp limb ASA 30","18254-00","18274-00",5
+"92511-39","Regnl block nerve of upp limb ASA 39","18254-00","18254-00",0
+"92511-39","Regnl block nerve of upp limb ASA 39","18254-00","18266-00",1
+"92511-39","Regnl block nerve of upp limb ASA 39","18254-00","18266-01",2
+"92511-39","Regnl block nerve of upp limb ASA 39","18254-00","18266-02",3
+"92511-39","Regnl block nerve of upp limb ASA 39","18254-00","18256-00",4
+"92511-39","Regnl block nerve of upp limb ASA 39","18254-00","18274-00",5
+"92511-40","Regnl block nerve of upp limb ASA 40","18254-00","18254-00",0
+"92511-40","Regnl block nerve of upp limb ASA 40","18254-00","18266-00",1
+"92511-40","Regnl block nerve of upp limb ASA 40","18254-00","18266-01",2
+"92511-40","Regnl block nerve of upp limb ASA 40","18254-00","18266-02",3
+"92511-40","Regnl block nerve of upp limb ASA 40","18254-00","18256-00",4
+"92511-40","Regnl block nerve of upp limb ASA 40","18254-00","18274-00",5
+"92511-49","Regnl block nerve of upp limb ASA 49","18254-00","18254-00",0
+"92511-49","Regnl block nerve of upp limb ASA 49","18254-00","18266-00",1
+"92511-49","Regnl block nerve of upp limb ASA 49","18254-00","18266-01",2
+"92511-49","Regnl block nerve of upp limb ASA 49","18254-00","18266-02",3
+"92511-49","Regnl block nerve of upp limb ASA 49","18254-00","18256-00",4
+"92511-49","Regnl block nerve of upp limb ASA 49","18254-00","18274-00",5
+"92511-50","Regnl block nerve of upp limb ASA 50","18254-00","18254-00",0
+"92511-50","Regnl block nerve of upp limb ASA 50","18254-00","18266-00",1
+"92511-50","Regnl block nerve of upp limb ASA 50","18254-00","18266-01",2
+"92511-50","Regnl block nerve of upp limb ASA 50","18254-00","18266-02",3
+"92511-50","Regnl block nerve of upp limb ASA 50","18254-00","18256-00",4
+"92511-50","Regnl block nerve of upp limb ASA 50","18254-00","18274-00",5
+"92511-59","Regnl block nerve of upp limb ASA 59","18254-00","18254-00",0
+"92511-59","Regnl block nerve of upp limb ASA 59","18254-00","18266-00",1
+"92511-59","Regnl block nerve of upp limb ASA 59","18254-00","18266-01",2
+"92511-59","Regnl block nerve of upp limb ASA 59","18254-00","18266-02",3
+"92511-59","Regnl block nerve of upp limb ASA 59","18254-00","18256-00",4
+"92511-59","Regnl block nerve of upp limb ASA 59","18254-00","18274-00",5
+"92511-69","Regnl block nerve of upp limb ASA 69","18254-00","18254-00",0
+"92511-69","Regnl block nerve of upp limb ASA 69","18254-00","18266-00",1
+"92511-69","Regnl block nerve of upp limb ASA 69","18254-00","18266-01",2
+"92511-69","Regnl block nerve of upp limb ASA 69","18254-00","18266-02",3
+"92511-69","Regnl block nerve of upp limb ASA 69","18254-00","18256-00",4
+"92511-69","Regnl block nerve of upp limb ASA 69","18254-00","18274-00",5
+"92511-90","Regnl block nerve of upp limb ASA 90","18254-00","18254-00",0
+"92511-90","Regnl block nerve of upp limb ASA 90","18254-00","18266-00",1
+"92511-90","Regnl block nerve of upp limb ASA 90","18254-00","18266-01",2
+"92511-90","Regnl block nerve of upp limb ASA 90","18254-00","18266-02",3
+"92511-90","Regnl block nerve of upp limb ASA 90","18254-00","18256-00",4
+"92511-90","Regnl block nerve of upp limb ASA 90","18254-00","18274-00",5
+"92511-99","Regnl block nerve of upp limb ASA 99","18254-00","18254-00",0
+"92511-99","Regnl block nerve of upp limb ASA 99","18254-00","18266-00",1
+"92511-99","Regnl block nerve of upp limb ASA 99","18254-00","18266-01",2
+"92511-99","Regnl block nerve of upp limb ASA 99","18254-00","18266-02",3
+"92511-99","Regnl block nerve of upp limb ASA 99","18254-00","18256-00",4
+"92511-99","Regnl block nerve of upp limb ASA 99","18254-00","18274-00",5
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18268-00",0
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18270-00",1
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18272-00",2
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18278-00",3
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18272-01",4
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18272-02",5
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18272-03",6
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18274-02",7
+"92512-10","Regnl block nerve of low limb ASA 10","18268-00","18274-03",8
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18268-00",0
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18270-00",1
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18272-00",2
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18278-00",3
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18272-01",4
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18272-02",5
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18272-03",6
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18274-02",7
+"92512-19","Regnl block nerve of low limb ASA 19","18268-00","18274-03",8
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18268-00",0
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18270-00",1
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18272-00",2
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18278-00",3
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18272-01",4
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18272-02",5
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18272-03",6
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18274-02",7
+"92512-20","Regnl block nerve of low limb ASA 20","18268-00","18274-03",8
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18268-00",0
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18270-00",1
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18272-00",2
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18278-00",3
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18272-01",4
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18272-02",5
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18272-03",6
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18274-02",7
+"92512-29","Regnl block nerve of low limb ASA 29","18268-00","18274-03",8
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18268-00",0
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18270-00",1
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18272-00",2
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18278-00",3
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18272-01",4
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18272-02",5
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18272-03",6
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18274-02",7
+"92512-30","Regnl block nerve of low limb ASA 30","18268-00","18274-03",8
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18268-00",0
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18270-00",1
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18272-00",2
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18278-00",3
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18272-01",4
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18272-02",5
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18272-03",6
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18274-02",7
+"92512-39","Regnl block nerve of low limb ASA 39","18268-00","18274-03",8
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18268-00",0
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18270-00",1
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18272-00",2
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18278-00",3
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18272-01",4
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18272-02",5
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18272-03",6
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18274-02",7
+"92512-40","Regnl block nerve of low limb ASA 40","18268-00","18274-03",8
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18268-00",0
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18270-00",1
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18272-00",2
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18278-00",3
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18272-01",4
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18272-02",5
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18272-03",6
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18274-02",7
+"92512-49","Regnl block nerve of low limb ASA 49","18268-00","18274-03",8
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18268-00",0
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18270-00",1
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18272-00",2
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18278-00",3
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18272-01",4
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18272-02",5
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18272-03",6
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18274-02",7
+"92512-50","Regnl block nerve of low limb ASA 50","18268-00","18274-03",8
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18268-00",0
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18270-00",1
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18272-00",2
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18278-00",3
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18272-01",4
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18272-02",5
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18272-03",6
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18274-02",7
+"92512-59","Regnl block nerve of low limb ASA 59","18268-00","18274-03",8
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18268-00",0
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18270-00",1
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18272-00",2
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18278-00",3
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18272-01",4
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18272-02",5
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18272-03",6
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18274-02",7
+"92512-69","Regnl block nerve of low limb ASA 69","18268-00","18274-03",8
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18268-00",0
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18270-00",1
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18272-00",2
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18278-00",3
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18272-01",4
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18272-02",5
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18272-03",6
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18274-02",7
+"92512-90","Regnl block nerve of low limb ASA 90","18268-00","18274-03",8
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18268-00",0
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18270-00",1
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18272-00",2
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18278-00",3
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18272-01",4
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18272-02",5
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18272-03",6
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18274-02",7
+"92512-99","Regnl block nerve of low limb ASA 99","18268-00","18274-03",8
+"92513-10","Infiltration of local anaes ASA 10","92501-01","92501-01",0
+"92513-10","Infiltration of local anaes ASA 10","92501-01","92501-00",1
+"92513-10","Infiltration of local anaes ASA 10","92501-01","18213-00",2
+"92513-10","Infiltration of local anaes ASA 10","92501-01","18213-01",3
+"92513-10","Infiltration of local anaes ASA 10","92501-01","97941-00",4
+"92513-19","Infiltration of local anaes ASA 19","92501-01","92501-01",0
+"92513-19","Infiltration of local anaes ASA 19","92501-01","92501-00",1
+"92513-19","Infiltration of local anaes ASA 19","92501-01","18213-00",2
+"92513-19","Infiltration of local anaes ASA 19","92501-01","18213-01",3
+"92513-19","Infiltration of local anaes ASA 19","92501-01","97941-00",4
+"92513-20","Infiltration of local anaes ASA 20","92501-01","92501-01",0
+"92513-20","Infiltration of local anaes ASA 20","92501-01","92501-00",1
+"92513-20","Infiltration of local anaes ASA 20","92501-01","18213-00",2
+"92513-20","Infiltration of local anaes ASA 20","92501-01","18213-01",3
+"92513-20","Infiltration of local anaes ASA 20","92501-01","97941-00",4
+"92513-29","Infiltration of local anaes ASA 29","92501-01","92501-01",0
+"92513-29","Infiltration of local anaes ASA 29","92501-01","92501-00",1
+"92513-29","Infiltration of local anaes ASA 29","92501-01","18213-00",2
+"92513-29","Infiltration of local anaes ASA 29","92501-01","18213-01",3
+"92513-29","Infiltration of local anaes ASA 29","92501-01","97941-00",4
+"92513-30","Infiltration of local anaes ASA 30","92501-01","92501-01",0
+"92513-30","Infiltration of local anaes ASA 30","92501-01","92501-00",1
+"92513-30","Infiltration of local anaes ASA 30","92501-01","18213-00",2
+"92513-30","Infiltration of local anaes ASA 30","92501-01","18213-01",3
+"92513-30","Infiltration of local anaes ASA 30","92501-01","97941-00",4
+"92513-39","Infiltration of local anaes ASA 39","92501-01","92501-01",0
+"92513-39","Infiltration of local anaes ASA 39","92501-01","92501-00",1
+"92513-39","Infiltration of local anaes ASA 39","92501-01","18213-00",2
+"92513-39","Infiltration of local anaes ASA 39","92501-01","18213-01",3
+"92513-39","Infiltration of local anaes ASA 39","92501-01","97941-00",4
+"92513-40","Infiltration of local anaes ASA 40","92501-01","92501-01",0
+"92513-40","Infiltration of local anaes ASA 40","92501-01","92501-00",1
+"92513-40","Infiltration of local anaes ASA 40","92501-01","18213-00",2
+"92513-40","Infiltration of local anaes ASA 40","92501-01","18213-01",3
+"92513-40","Infiltration of local anaes ASA 40","92501-01","97941-00",4
+"92513-49","Infiltration of local anaes ASA 49","92501-01","92501-01",0
+"92513-49","Infiltration of local anaes ASA 49","92501-01","92501-00",1
+"92513-49","Infiltration of local anaes ASA 49","92501-01","18213-00",2
+"92513-49","Infiltration of local anaes ASA 49","92501-01","18213-01",3
+"92513-49","Infiltration of local anaes ASA 49","92501-01","97941-00",4
+"92513-50","Infiltration of local anaes ASA 50","92501-01","92501-01",0
+"92513-50","Infiltration of local anaes ASA 50","92501-01","92501-00",1
+"92513-50","Infiltration of local anaes ASA 50","92501-01","18213-00",2
+"92513-50","Infiltration of local anaes ASA 50","92501-01","18213-01",3
+"92513-50","Infiltration of local anaes ASA 50","92501-01","97941-00",4
+"92513-59","Infiltration of local anaes ASA 59","92501-01","92501-01",0
+"92513-59","Infiltration of local anaes ASA 59","92501-01","92501-00",1
+"92513-59","Infiltration of local anaes ASA 59","92501-01","18213-00",2
+"92513-59","Infiltration of local anaes ASA 59","92501-01","18213-01",3
+"92513-59","Infiltration of local anaes ASA 59","92501-01","97941-00",4
+"92513-69","Infiltration of local anaes ASA 69","92501-01","92501-01",0
+"92513-69","Infiltration of local anaes ASA 69","92501-01","92501-00",1
+"92513-69","Infiltration of local anaes ASA 69","92501-01","18213-00",2
+"92513-69","Infiltration of local anaes ASA 69","92501-01","18213-01",3
+"92513-69","Infiltration of local anaes ASA 69","92501-01","97941-00",4
+"92513-90","Infiltration of local anaes ASA 90","92501-01","92501-01",0
+"92513-90","Infiltration of local anaes ASA 90","92501-01","92501-00",1
+"92513-90","Infiltration of local anaes ASA 90","92501-01","18213-00",2
+"92513-90","Infiltration of local anaes ASA 90","92501-01","18213-01",3
+"92513-90","Infiltration of local anaes ASA 90","92501-01","97941-00",4
+"92513-99","Infiltration of local anaes ASA 99","92501-01","92501-01",0
+"92513-99","Infiltration of local anaes ASA 99","92501-01","92501-00",1
+"92513-99","Infiltration of local anaes ASA 99","92501-01","18213-00",2
+"92513-99","Infiltration of local anaes ASA 99","92501-01","18213-01",3
+"92513-99","Infiltration of local anaes ASA 99","92501-01","97941-00",4
+"92514-10","General anaesthesia, ASA 10","92502-02","92502-02",0
+"92514-10","General anaesthesia, ASA 10","92502-02","92502-00",1
+"92514-10","General anaesthesia, ASA 10","92502-02","92502-01",2
+"92514-10","General anaesthesia, ASA 10","92502-02","92502-03",3
+"92514-10","General anaesthesia, ASA 10","92502-02","97949-00",4
+"92514-19","General anaesthesia, ASA 19","92502-02","92502-02",0
+"92514-19","General anaesthesia, ASA 19","92502-02","92502-00",1
+"92514-19","General anaesthesia, ASA 19","92502-02","92502-01",2
+"92514-19","General anaesthesia, ASA 19","92502-02","92502-03",3
+"92514-19","General anaesthesia, ASA 19","92502-02","97949-00",4
+"92514-20","General anaesthesia, ASA 20","92502-02","92502-02",0
+"92514-20","General anaesthesia, ASA 20","92502-02","92502-00",1
+"92514-20","General anaesthesia, ASA 20","92502-02","92502-01",2
+"92514-20","General anaesthesia, ASA 20","92502-02","92502-03",3
+"92514-20","General anaesthesia, ASA 20","92502-02","97949-00",4
+"92514-29","General anaesthesia, ASA 29","92502-02","92502-02",0
+"92514-29","General anaesthesia, ASA 29","92502-02","92502-00",1
+"92514-29","General anaesthesia, ASA 29","92502-02","92502-01",2
+"92514-29","General anaesthesia, ASA 29","92502-02","92502-03",3
+"92514-29","General anaesthesia, ASA 29","92502-02","97949-00",4
+"92514-30","General anaesthesia, ASA 30","92502-02","92502-02",0
+"92514-30","General anaesthesia, ASA 30","92502-02","92502-00",1
+"92514-30","General anaesthesia, ASA 30","92502-02","92502-01",2
+"92514-30","General anaesthesia, ASA 30","92502-02","92502-03",3
+"92514-30","General anaesthesia, ASA 30","92502-02","97949-00",4
+"92514-39","General anaesthesia, ASA 39","92502-02","92502-02",0
+"92514-39","General anaesthesia, ASA 39","92502-02","92502-00",1
+"92514-39","General anaesthesia, ASA 39","92502-02","92502-01",2
+"92514-39","General anaesthesia, ASA 39","92502-02","92502-03",3
+"92514-39","General anaesthesia, ASA 39","92502-02","97949-00",4
+"92514-40","General anaesthesia, ASA 40","92502-02","92502-02",0
+"92514-40","General anaesthesia, ASA 40","92502-02","92502-00",1
+"92514-40","General anaesthesia, ASA 40","92502-02","92502-01",2
+"92514-40","General anaesthesia, ASA 40","92502-02","92502-03",3
+"92514-40","General anaesthesia, ASA 40","92502-02","97949-00",4
+"92514-49","General anaesthesia, ASA 49","92502-02","92502-02",0
+"92514-49","General anaesthesia, ASA 49","92502-02","92502-00",1
+"92514-49","General anaesthesia, ASA 49","92502-02","92502-01",2
+"92514-49","General anaesthesia, ASA 49","92502-02","92502-03",3
+"92514-49","General anaesthesia, ASA 49","92502-02","97949-00",4
+"92514-50","General anaesthesia, ASA 50","92502-02","92502-02",0
+"92514-50","General anaesthesia, ASA 50","92502-02","92502-00",1
+"92514-50","General anaesthesia, ASA 50","92502-02","92502-01",2
+"92514-50","General anaesthesia, ASA 50","92502-02","92502-03",3
+"92514-50","General anaesthesia, ASA 50","92502-02","97949-00",4
+"92514-59","General anaesthesia, ASA 59","92502-02","92502-02",0
+"92514-59","General anaesthesia, ASA 59","92502-02","92502-00",1
+"92514-59","General anaesthesia, ASA 59","92502-02","92502-01",2
+"92514-59","General anaesthesia, ASA 59","92502-02","92502-03",3
+"92514-59","General anaesthesia, ASA 59","92502-02","97949-00",4
+"92514-69","General anaesthesia, ASA 69","92502-02","92502-02",0
+"92514-69","General anaesthesia, ASA 69","92502-02","92502-00",1
+"92514-69","General anaesthesia, ASA 69","92502-02","92502-01",2
+"92514-69","General anaesthesia, ASA 69","92502-02","92502-03",3
+"92514-69","General anaesthesia, ASA 69","92502-02","97949-00",4
+"92514-90","General anaesthesia, ASA 90","92502-02","92502-02",0
+"92514-90","General anaesthesia, ASA 90","92502-02","92502-00",1
+"92514-90","General anaesthesia, ASA 90","92502-02","92502-01",2
+"92514-90","General anaesthesia, ASA 90","92502-02","92502-03",3
+"92514-90","General anaesthesia, ASA 90","92502-02","97949-00",4
+"92514-99","General anaesthesia, ASA 99","92502-02","92502-02",0
+"92514-99","General anaesthesia, ASA 99","92502-02","92502-00",1
+"92514-99","General anaesthesia, ASA 99","92502-02","92502-01",2
+"92514-99","General anaesthesia, ASA 99","92502-02","92502-03",3
+"92514-99","General anaesthesia, ASA 99","92502-02","97949-00",4
+"92515-10","Sedation, ASA 10","92503-00","92503-00",0
+"92515-10","Sedation, ASA 10","92503-00","92503-01",1
+"92515-10","Sedation, ASA 10","92503-00","92503-02",2
+"92515-10","Sedation, ASA 10","92503-00","92503-03",3
+"92515-10","Sedation, ASA 10","92503-00","97942-00",4
+"92515-10","Sedation, ASA 10","92503-00","97943-00",5
+"92515-19","Sedation, ASA 19","92503-00","92503-00",0
+"92515-19","Sedation, ASA 19","92503-00","92503-01",1
+"92515-19","Sedation, ASA 19","92503-00","92503-02",2
+"92515-19","Sedation, ASA 19","92503-00","92503-03",3
+"92515-19","Sedation, ASA 19","92503-00","97942-00",4
+"92515-19","Sedation, ASA 19","92503-00","97943-00",5
+"92515-20","Sedation, ASA 20","92503-00","92503-00",0
+"92515-20","Sedation, ASA 20","92503-00","92503-01",1
+"92515-20","Sedation, ASA 20","92503-00","92503-02",2
+"92515-20","Sedation, ASA 20","92503-00","92503-03",3
+"92515-20","Sedation, ASA 20","92503-00","97942-00",4
+"92515-20","Sedation, ASA 20","92503-00","97943-00",5
+"92515-29","Sedation, ASA 29","92503-00","92503-00",0
+"92515-29","Sedation, ASA 29","92503-00","92503-01",1
+"92515-29","Sedation, ASA 29","92503-00","92503-02",2
+"92515-29","Sedation, ASA 29","92503-00","92503-03",3
+"92515-29","Sedation, ASA 29","92503-00","97942-00",4
+"92515-29","Sedation, ASA 29","92503-00","97943-00",5
+"92515-30","Sedation, ASA 30","92503-00","92503-00",0
+"92515-30","Sedation, ASA 30","92503-00","92503-01",1
+"92515-30","Sedation, ASA 30","92503-00","92503-02",2
+"92515-30","Sedation, ASA 30","92503-00","92503-03",3
+"92515-30","Sedation, ASA 30","92503-00","97942-00",4
+"92515-30","Sedation, ASA 30","92503-00","97943-00",5
+"92515-39","Sedation, ASA 39","92503-00","92503-00",0
+"92515-39","Sedation, ASA 39","92503-00","92503-01",1
+"92515-39","Sedation, ASA 39","92503-00","92503-02",2
+"92515-39","Sedation, ASA 39","92503-00","92503-03",3
+"92515-39","Sedation, ASA 39","92503-00","97942-00",4
+"92515-39","Sedation, ASA 39","92503-00","97943-00",5
+"92515-40","Sedation, ASA 40","92503-00","92503-00",0
+"92515-40","Sedation, ASA 40","92503-00","92503-01",1
+"92515-40","Sedation, ASA 40","92503-00","92503-02",2
+"92515-40","Sedation, ASA 40","92503-00","92503-03",3
+"92515-40","Sedation, ASA 40","92503-00","97942-00",4
+"92515-40","Sedation, ASA 40","92503-00","97943-00",5
+"92515-49","Sedation, ASA 49","92503-00","92503-00",0
+"92515-49","Sedation, ASA 49","92503-00","92503-01",1
+"92515-49","Sedation, ASA 49","92503-00","92503-02",2
+"92515-49","Sedation, ASA 49","92503-00","92503-03",3
+"92515-49","Sedation, ASA 49","92503-00","97942-00",4
+"92515-49","Sedation, ASA 49","92503-00","97943-00",5
+"92515-50","Sedation, ASA 50","92503-00","92503-00",0
+"92515-50","Sedation, ASA 50","92503-00","92503-01",1
+"92515-50","Sedation, ASA 50","92503-00","92503-02",2
+"92515-50","Sedation, ASA 50","92503-00","92503-03",3
+"92515-50","Sedation, ASA 50","92503-00","97942-00",4
+"92515-50","Sedation, ASA 50","92503-00","97943-00",5
+"92515-59","Sedation, ASA 59","92503-00","92503-00",0
+"92515-59","Sedation, ASA 59","92503-00","92503-01",1
+"92515-59","Sedation, ASA 59","92503-00","92503-02",2
+"92515-59","Sedation, ASA 59","92503-00","92503-03",3
+"92515-59","Sedation, ASA 59","92503-00","97942-00",4
+"92515-59","Sedation, ASA 59","92503-00","97943-00",5
+"92515-69","Sedation, ASA 69","92503-00","92503-00",0
+"92515-69","Sedation, ASA 69","92503-00","92503-01",1
+"92515-69","Sedation, ASA 69","92503-00","92503-02",2
+"92515-69","Sedation, ASA 69","92503-00","92503-03",3
+"92515-69","Sedation, ASA 69","92503-00","97942-00",4
+"92515-69","Sedation, ASA 69","92503-00","97943-00",5
+"92515-90","Sedation, ASA 90","92503-00","92503-00",0
+"92515-90","Sedation, ASA 90","92503-00","92503-01",1
+"92515-90","Sedation, ASA 90","92503-00","92503-02",2
+"92515-90","Sedation, ASA 90","92503-00","92503-03",3
+"92515-90","Sedation, ASA 90","92503-00","97942-00",4
+"92515-90","Sedation, ASA 90","92503-00","97943-00",5
+"92515-99","Sedation, ASA 99","92503-00","92503-00",0
+"92515-99","Sedation, ASA 99","92503-00","92503-01",1
+"92515-99","Sedation, ASA 99","92503-00","92503-02",2
+"92515-99","Sedation, ASA 99","92503-00","92503-03",3
+"92515-99","Sedation, ASA 99","92503-00","97942-00",4
+"92515-99","Sedation, ASA 99","92503-00","97943-00",5
+"92516-00","Management of neuraxial block","18216-01","18216-01",0
+"92516-00","Management of neuraxial block","18216-01","18216-04",1
+"92516-00","Management of neuraxial block","18216-01","18216-07",2
+"92516-00","Management of neuraxial block","18216-01","18216-10",3
+"92516-00","Management of neuraxial block","18216-01","18216-13",4
+"92516-00","Management of neuraxial block","18216-01","18216-16",5
+"92516-00","Management of neuraxial block","18216-01","18216-19",6
+"92516-00","Management of neuraxial block","18216-01","18216-22",7
+"92516-00","Management of neuraxial block","18216-01","18216-25",8
+"92517-00","Mgmt of neuraxial block nrv of head/neck","18292-02","No map",0
+"92517-01","Mgmt of regnl block nrv of trunk","18292-02","No map",0
+"92517-02","Mgmt of regnl block  nrv of upp limb","18292-02","No map",0
+"92517-03","Mgmt of regnl block nrv of low limb","18292-02","No map",0
+"92518-00","IV postproc infus pt control analgesia","92504-02","92504-02",0
+"92518-01","IV postproc analgesic infus","92504-03","92504-03",0
+"95550-12","Allied health intervtn, pastoral care","95550-11","95550-11",0
+"95550-13","Allied health intervtn, music therapy","95550-11","95550-11",0
+"96109-01","Pastoral ritual/worship","96149-00","96149-00",0
+"96175-00","Mental/behavioural assessment","93300-00","93300-00",0
+"96175-00","Mental/behavioural assessment","93300-00","96000-01",1
+"96175-00","Mental/behavioural assessment","93300-00","96000-02",2
+"96175-00","Mental/behavioural assessment","93300-00","96000-03",3
+"96175-00","Mental/behavioural assessment","93300-00","96033-00",4
+"96176-00","Behaviour therapy","96174-00","96174-00",0
+"96177-00","Interpersonal psychotherapy [IPT]","96099-00","96099-00",0
+"96178-00","Couples therapy","96174-00","96174-00",0
+"96179-00","Sex therapy","96174-00","96174-00",0
+"96180-00","Oth psycthpy or psychosocial therapies","96174-00","96174-00",0
+"96181-00","Art therapy","96109-00","96109-00",0
+"96182-00","Bibliotherapy","96109-00","96109-00",0
+"96183-00","Narrative therapy","96109-00","96109-00",0
+"96184-00","Developmental testing","96036-00","96036-00",0
+"96185-00","Supportive psychotherapy, NEC","96174-00","96174-00",0
+"96186-00","Pastoral assessment","96037-00","96037-00",0
+"96187-00","Pastoral ministry","96087-00","96087-00",0
+"96188-00","Other photography of eye","11215-00","11215-00",0
+"96188-00","Other photography of eye","11215-00","11218-00",1
+"97321-01","Surg removal two or more erupted teeth","97321-00","97321-00",0

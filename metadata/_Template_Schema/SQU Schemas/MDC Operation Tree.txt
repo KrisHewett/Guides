@@ -1,0 +1,13 @@
+Major Diagnostic Category
+Operating Room Procedure
+	YES
+		Type of Surgery
+			Major Surgery
+			Minor Surgery
+			Other Surgery
+			Surgery Unrelated to Principal Diagnosis
+	No
+		Neoplasm
+		Specific Conditions Relating to the Organ System
+		Symptoms
+		Other

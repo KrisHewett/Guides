@@ -1,0 +1,298 @@
+{
+  "branding": {
+    "description": "SA Health Corporate Identity Design Standards",
+    "version": "6.6",
+    "date": "October 2020",
+    "comments": "This JSON document contains all transcribed branding details from the SA Health Visual Style Guide."
+  },
+  "color_palette": {
+    "primary": [
+      {
+        "type": "Primary",
+        "name": "Red",
+        "pms": "1795C",
+        "rgb": "205,32,44",
+        "hex": "#DE3831",
+        "use": "Master Brand Helix and general application"
+      },
+      {
+        "type": "Primary",
+        "name": "Blue",
+        "pms": "Process Blue C",
+        "rgb": "0,146,207",
+        "hex": "#0092CF",
+        "use": "Master Brand Helix and general application"
+      },
+      {
+        "type": "Primary",
+        "name": "Yellow",
+        "pms": "122C",
+        "rgb": "255,210,79",
+        "hex": "#FFD451",
+        "use": "Master Brand Helix and general application"
+      },
+      {
+        "type": "Primary",
+        "name": "Green",
+        "pms": "368C",
+        "rgb": "105,190,40",
+        "hex": "#69BE28",
+        "use": "Master Brand Helix and general application"
+      },
+      {
+        "type": "Support",
+        "name": "Warm Grey",
+        "pms": "60% Black",
+        "rgb": "128,130,133",
+        "hex": "#808285",
+        "use": "Support color for text and backgrounds"
+      },
+      {
+        "type": "Support",
+        "name": "Black",
+        "pms": "Process Black",
+        "rgb": "0,0,0",
+        "hex": "#000000",
+        "use": "Text and background"
+      }
+    ],
+    "secondary": [
+      {
+        "type": "Secondary",
+        "name": "Purple",
+        "pms": "2425C",
+        "rgb": "125,0,99",
+        "hex": "#7D0063",
+        "use": "Two-color Helix and alternate applications"
+      },
+      {
+        "type": "Secondary",
+        "name": "Teal",
+        "pms": "3272C",
+        "rgb": "0,165,153",
+        "hex": "#00A599",
+        "use": "Two-color Helix and alternate applications"
+      },
+      {
+        "type": "Secondary",
+        "name": "Gold",
+        "pms": "130C",
+        "rgb": "240,171,0",
+        "hex": "#F0AB00",
+        "use": "Two-color Helix and alternate applications"
+      },
+      {
+        "type": "Secondary",
+        "name": "Pink",
+        "pms": "Process Magenta C",
+        "rgb": "209,0,116",
+        "hex": "#D10074",
+        "use": "Two-color Helix and alternate applications"
+      }
+    ],
+    "sub_brand": [
+      {
+        "type": "Sub-brand",
+        "name": "Raw Umber",
+        "pms": "1255C",
+        "rgb": "185,159,17",
+        "hex": "#BB9911",
+        "use": "Aboriginal Health Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Red Ochre",
+        "pms": "173C",
+        "rgb": "238,51,17",
+        "hex": "#EE3311",
+        "use": "Aboriginal Health Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Burnt Sienna",
+        "pms": "498C",
+        "rgb": "85,51,51",
+        "hex": "#553333",
+        "use": "Aboriginal Health Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Raw Sienna",
+        "pms": "110C",
+        "rgb": "221,170,0",
+        "hex": "#DDAA00",
+        "use": "Aboriginal Health Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Flag Red",
+        "pms": "179C",
+        "rgb": "222,56,49",
+        "hex": "#DE3831",
+        "use": "Aboriginal Flag inspired Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Flag Yellow",
+        "pms": "123C",
+        "rgb": "253,200,47",
+        "hex": "#FDC82F",
+        "use": "Aboriginal Flag inspired Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Flag Blue",
+        "pms": "301C",
+        "rgb": "0,82,147",
+        "hex": "#005293",
+        "use": "Torres Strait Flag inspired Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Flag Green",
+        "pms": "3288C",
+        "rgb": "0,133,102",
+        "hex": "#008566",
+        "use": "Torres Strait Flag inspired Helix"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Youth Blue",
+        "pms": "Process Blue C",
+        "rgb": "0,146,207",
+        "hex": "#0092CF",
+        "use": "Youth Health branding"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Youth Purple",
+        "pms": "2425C",
+        "rgb": "125,0,99",
+        "hex": "#7D0063",
+        "use": "Youth Health branding"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Youth Teal",
+        "pms": "3272C",
+        "rgb": "0,165,153",
+        "hex": "#00A599",
+        "use": "Youth Health branding"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Health Alert Red",
+        "pms": "1795C",
+        "rgb": "222,56,49",
+        "hex": "#DE3831",
+        "use": "Emergency communication materials"
+      },
+      {
+        "type": "Sub-brand",
+        "name": "Health Alert Black",
+        "pms": "Process Black",
+        "rgb": "0,0,0",
+        "hex": "#000000",
+        "use": "Emergency communication materials"
+      }
+    ]
+  },
+  "typography": {
+    "core_fonts": {
+      "headings": "Proxima Nova Regular and Light",
+      "body": "Frutiger (Light, Roman, Bold, Italic)",
+      "online": "Arial (Regular, Bold, Italic)",
+      "accessibility": "Frutiger 45 Light, 14pt size, 18pt leading"
+    },
+    "usage": {
+      "print": "Proxima and Frutiger",
+      "web": "Arial and Proxima",
+      "email": "Arial",
+      "accessibility": "Frutiger with increased font size and contrast"
+    }
+  },
+  "logo_usage": {
+    "minimum_size_mm": 10,
+    "isolation_zone": "25% of roundel diameter",
+    "background": "White or high contrast",
+    "distortion": "Logo must not be stretched or rotated",
+    "co_branding": "Only approved sub-brand logos may be used with SA Health logo",
+    "placement": "Bottom right or top left depending on layout",
+    "approval": "Required for third-party use"
+  },
+  "element_styles": {
+    "helix": {
+      "description": "Graphic device representing DNA strands and community sectors",
+      "usage": "Optional on internal pages, not mandatory on campaigns",
+      "colors": "Primary or Secondary palette only",
+      "restrictions": "Must not be redrawn or altered"
+    },
+    "graphic_device": {
+      "description": "Illustrations or icons representing programs",
+      "rules": [
+        "Not to be used near SA Health logo",
+        "No minimum size",
+        "Transparency allowed",
+        "Must be approved by Marketing Communications"
+      ]
+    },
+    "email_signature": {
+      "font": "Arial",
+      "sizes": {
+        "name": "Bold 10pt",
+        "contact": "Normal 10pt",
+        "disclaimer": "Normal 8pt"
+      },
+      "graphic_panel": {
+        "max_height_px": 130,
+        "max_width_px": 450,
+        "file_size_kb": 30,
+        "placement": "After website, before disclaimer"
+      }
+    },
+    "stationery": {
+      "color": "PMS 295 Blue",
+      "font": "Arial",
+      "elements": [
+        "Letterhead",
+        "Business Card",
+        "With Compliments",
+        "DL Envelope"
+      ]
+    },
+    "signage": {
+      "font": "Proxima Nova and Frutiger",
+      "colors": "Brand palette",
+      "helix": "Optional on gateway signs",
+      "logo": "SA Health logo on hours of operation sign"
+    }
+  },
+  "accessibility": {
+    "font_size": "Minimum 14pt for vision impaired",
+    "contrast": "High contrast between text and background",
+    "closed_captions": "Required for all videos",
+    "screen_reader": "WCAG 2.0 AA compliance"
+  },
+  "digital": {
+    "websites": {
+      "intranet": "http://insidesahealth.sa.gov.au",
+      "internet": "http://www.sahealth.sa.gov.au"
+    },
+    "video": {
+      "max_duration_minutes": 15,
+      "max_file_size_mb": 250,
+      "resolution": "1920x1080",
+      "frame_rate": "25fps",
+      "safe_area": "Action Safe Areas required",
+      "caption_formats": [
+        ".srt",
+        ".svb"
+      ]
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/sahealth",
+      "twitter": "https://twitter.com/sahealth",
+      "linkedin": "https://www.linkedin.com/company/sa-health"
+    }
+  }
+}

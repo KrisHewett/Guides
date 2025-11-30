@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Framework Dimension",
+  "type": "object",
+  "properties": {
+    "dimensionName": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "indicators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "indicatorName": {
+            "type": "string"
+          },
+          "indicatorDescription": {
+            "type": "string"
+          },
+          "measurementMethod": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "indicatorName",
+          "indicatorDescription"
+        ]
+      }
+    }
+  },
+  "required": [
+    "dimensionName",
+    "description",
+    "indicators"
+  ]
+}

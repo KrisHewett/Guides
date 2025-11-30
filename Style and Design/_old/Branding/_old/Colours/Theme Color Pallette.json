@@ -1,0 +1,2442 @@
+{
+"name":"Light and Dark Color Palette",
+
+"Design Token": {
+	"colorNeutralForeground1": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForeground1Hover": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground1Pressed": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground1Selected": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground2": [{
+		"Light": "#424242",
+		"Dark": "#d6d6d6",
+		"Teams Light": "#424242",
+		"Teams Dark": "#d6d6d6",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForeground2Hover": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground2Pressed": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground2Selected": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground2BrandHover": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground2BrandPressed": [{
+		"Light": "#115ea3",
+		"Dark": "#2886de",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#7579eb",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground2BrandSelected": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground3": [{
+		"Light": "#616161",
+		"Dark": "#adadad",
+		"Teams Light": "#616161",
+		"Teams Dark": "#adadad",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForeground3Hover": [{
+		"Light": "#424242",
+		"Dark": "#d6d6d6",
+		"Teams Light": "#424242",
+		"Teams Dark": "#d6d6d6",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground3Pressed": [{
+		"Light": "#424242",
+		"Dark": "#d6d6d6",
+		"Teams Light": "#424242",
+		"Teams Dark": "#d6d6d6",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground3Selected": [{
+		"Light": "#424242",
+		"Dark": "#d6d6d6",
+		"Teams Light": "#424242",
+		"Teams Dark": "#d6d6d6",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground3BrandHover": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground3BrandPressed": [{
+		"Light": "#115ea3",
+		"Dark": "#2886de",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#7579eb",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground3BrandSelected": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForeground4": [{
+		"Light": "#707070",
+		"Dark": "#999999",
+		"Teams Light": "#707070",
+		"Teams Dark": "#999999",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForegroundDisabled": [{
+		"Light": "#bdbdbd",
+		"Dark": "#5c5c5c",
+		"Teams Light": "#bdbdbd",
+		"Teams Dark": "#5c5c5c",
+		"Teams High Contrast": "#3ff23f"
+		}],
+	"colorNeutralForegroundInvertedDisabled": [{
+		"Light": "rgba(255, 255, 255, 0.4)",
+		"Dark": "rgba(255, 255, 255, 0.4)",
+		"Teams Light": "rgba(255, 255, 255, 0.4)",
+		"Teams Dark": "rgba(255, 255, 255, 0.4)",
+		"Teams High Contrast": "#3ff23f"
+		}],
+	"colorBrandForegroundLink": [{
+		"Light": "#115ea3",
+		"Dark": "#479ef5",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorBrandForegroundLinkHover": [{
+		"Light": "#0f548c",
+		"Dark": "#62abf5",
+		"Teams Light": "#444791",
+		"Teams Dark": "#9299f7",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorBrandForegroundLinkPressed": [{
+		"Light": "#0c3b5e",
+		"Dark": "#2886de",
+		"Teams Light": "#383966",
+		"Teams Dark": "#7579eb",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorBrandForegroundLinkSelected": [{
+		"Light": "#115ea3",
+		"Dark": "#479ef5",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForeground2Link": [{
+		"Light": "#424242",
+		"Dark": "#d6d6d6",
+		"Teams Light": "#424242",
+		"Teams Dark": "#d6d6d6",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForeground2LinkHover": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForeground2LinkPressed": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForeground2LinkSelected": [{
+		"Light": "#242424",
+		"Dark": "#ffffff",
+		"Teams Light": "#242424",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorCompoundBrandForeground1": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandForeground1Hover": [{
+		"Light": "#115ea3",
+		"Dark": "#62abf5",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#9299f7",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandForeground1Pressed": [{
+		"Light": "#0f548c",
+		"Dark": "#2886de",
+		"Teams Light": "#444791",
+		"Teams Dark": "#7579eb",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandForeground1": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandForeground2": [{
+		"Light": "#115ea3",
+		"Dark": "#62abf5",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#aab1fa",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandForeground2Hover": [{
+		"Light": "#0f548c",
+		"Dark": "#96c6fa",
+		"Teams Light": "#444791",
+		"Teams Dark": "#b6bcfa",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandForeground2Pressed": [{
+		"Light": "#0a2e4a",
+		"Dark": "#ebf3fc",
+		"Teams Light": "#333357",
+		"Teams Dark": "#e8ebfa",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForeground1Static": [{
+		"Light": "#242424",
+		"Dark": "#242424",
+		"Teams Light": "#242424",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForegroundStaticInverted": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForegroundInverted": [{
+		"Light": "#ffffff",
+		"Dark": "#242424",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForegroundInvertedHover": [{
+		"Light": "#ffffff",
+		"Dark": "#242424",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForegroundInvertedPressed": [{
+		"Light": "#ffffff",
+		"Dark": "#242424",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForegroundInvertedSelected": [{
+		"Light": "#ffffff",
+		"Dark": "#242424",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForegroundInverted2": [{
+		"Light": "#ffffff",
+		"Dark": "#242424",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralForegroundOnBrand": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralForegroundInvertedLink": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForegroundInvertedLinkHover": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForegroundInvertedLinkPressed": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorNeutralForegroundInvertedLinkSelected": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffff00"
+		}],
+	"colorBrandForegroundInverted": [{
+		"Light": "#479ef5",
+		"Dark": "#0f6cbd",
+		"Teams Light": "#7f85f5",
+		"Teams Dark": "#5b5fc7",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandForegroundInvertedHover": [{
+		"Light": "#62abf5",
+		"Dark": "#115ea3",
+		"Teams Light": "#9299f7",
+		"Teams Dark": "#4f52b2",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandForegroundInvertedPressed": [{
+		"Light": "#479ef5",
+		"Dark": "#0f548c",
+		"Teams Light": "#7f85f5",
+		"Teams Dark": "#444791",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandForegroundOnLight": [{
+		"Light": "#0f6cbd",
+		"Dark": "#0f6cbd",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#5b5fc7",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandForegroundOnLightHover": [{
+		"Light": "#115ea3",
+		"Dark": "#115ea3",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#4f52b2",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandForegroundOnLightPressed": [{
+		"Light": "#0e4775",
+		"Dark": "#0e4775",
+		"Teams Light": "#3d3e78",
+		"Teams Dark": "#3d3e78",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandForegroundOnLightSelected": [{
+		"Light": "#0f548c",
+		"Dark": "#0f548c",
+		"Teams Light": "#444791",
+		"Teams Dark": "#444791",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackground1": [{
+		"Light": "#ffffff",
+		"Dark": "#292929",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#292929",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackground1Hover": [{
+		"Light": "#f5f5f5",
+		"Dark": "#3d3d3d",
+		"Teams Light": "#f5f5f5",
+		"Teams Dark": "#3d3d3d",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground1Pressed": [{
+		"Light": "#e0e0e0",
+		"Dark": "#1f1f1f",
+		"Teams Light": "#e0e0e0",
+		"Teams Dark": "#1f1f1f",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground1Selected": [{
+		"Light": "#ebebeb",
+		"Dark": "#383838",
+		"Teams Light": "#ebebeb",
+		"Teams Dark": "#383838",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground2": [{
+		"Light": "#fafafa",
+		"Dark": "#1f1f1f",
+		"Teams Light": "#fafafa",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackground2Hover": [{
+		"Light": "#f0f0f0",
+		"Dark": "#333333",
+		"Teams Light": "#f0f0f0",
+		"Teams Dark": "#383838",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground2Pressed": [{
+		"Light": "#dbdbdb",
+		"Dark": "#141414",
+		"Teams Light": "#dbdbdb",
+		"Teams Dark": "#1a1a1a",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground2Selected": [{
+		"Light": "#e6e6e6",
+		"Dark": "#2e2e2e",
+		"Teams Light": "#e6e6e6",
+		"Teams Dark": "#333333",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground3": [{
+		"Light": "#f5f5f5",
+		"Dark": "#141414",
+		"Teams Light": "#f5f5f5",
+		"Teams Dark": "#1f1f1f",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackground3Hover": [{
+		"Light": "#ebebeb",
+		"Dark": "#292929",
+		"Teams Light": "#ebebeb",
+		"Teams Dark": "#333333",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground3Pressed": [{
+		"Light": "#d6d6d6",
+		"Dark": "#0a0a0a",
+		"Teams Light": "#d6d6d6",
+		"Teams Dark": "#141414",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground3Selected": [{
+		"Light": "#e0e0e0",
+		"Dark": "#242424",
+		"Teams Light": "#e0e0e0",
+		"Teams Dark": "#2e2e2e",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground4": [{
+		"Light": "#f0f0f0",
+		"Dark": "#0a0a0a",
+		"Teams Light": "#f0f0f0",
+		"Teams Dark": "#141414",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackground4Hover": [{
+		"Light": "#fafafa",
+		"Dark": "#1f1f1f",
+		"Teams Light": "#fafafa",
+		"Teams Dark": "#292929",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground4Pressed": [{
+		"Light": "#f5f5f5",
+		"Dark": "#000000",
+		"Teams Light": "#f5f5f5",
+		"Teams Dark": "#0a0a0a",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground4Selected": [{
+		"Light": "#ffffff",
+		"Dark": "#1a1a1a",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#242424",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground5": [{
+		"Light": "#ebebeb",
+		"Dark": "#000000",
+		"Teams Light": "#ebebeb",
+		"Teams Dark": "#0a0a0a",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackground5Hover": [{
+		"Light": "#f5f5f5",
+		"Dark": "#141414",
+		"Teams Light": "#f5f5f5",
+		"Teams Dark": "#1f1f1f",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground5Pressed": [{
+		"Light": "#f0f0f0",
+		"Dark": "#050505",
+		"Teams Light": "#f0f0f0",
+		"Teams Dark": "#000000",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground5Selected": [{
+		"Light": "#fafafa",
+		"Dark": "#0f0f0f",
+		"Teams Light": "#fafafa",
+		"Teams Dark": "#1a1a1a",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackground6": [{
+		"Light": "#e6e6e6",
+		"Dark": "#333333",
+		"Teams Light": "#e6e6e6",
+		"Teams Dark": "#333333",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackgroundInverted": [{
+		"Light": "#292929",
+		"Dark": "#ffffff",
+		"Teams Light": "#292929",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackgroundStatic": [{
+		"Light": "#333333",
+		"Dark": "#3d3d3d",
+		"Teams Light": "#333333",
+		"Teams Dark": "#3d3d3d",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackgroundAlpha": [{
+		"Light": "rgba(255, 255, 255, 0.5)",
+		"Dark": "rgba(26, 26, 26, 0.5)",
+		"Teams Light": "rgba(255, 255, 255, 0.5)",
+		"Teams Dark": "rgba(26, 26, 26, 0.5)",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackgroundAlpha2": [{
+		"Light": "rgba(255, 255, 255, 0.8)",
+		"Dark": "rgba(31, 31, 31, 0.7)",
+		"Teams Light": "rgba(255, 255, 255, 0.8)",
+		"Teams Dark": "rgba(31, 31, 31, 0.7)",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorSubtleBackground": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "transparent"
+		}],
+	"colorSubtleBackgroundHover": [{
+		"Light": "#f5f5f5",
+		"Dark": "#383838",
+		"Teams Light": "#f5f5f5",
+		"Teams Dark": "#383838",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundPressed": [{
+		"Light": "#e0e0e0",
+		"Dark": "#2e2e2e",
+		"Teams Light": "#e0e0e0",
+		"Teams Dark": "#2e2e2e",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundSelected": [{
+		"Light": "#ebebeb",
+		"Dark": "#333333",
+		"Teams Light": "#ebebeb",
+		"Teams Dark": "#333333",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundLightAlphaHover": [{
+		"Light": "rgba(255, 255, 255, 0.7)",
+		"Dark": "rgba(36, 36, 36, 0.8)",
+		"Teams Light": "rgba(255, 255, 255, 0.7)",
+		"Teams Dark": "rgba(36, 36, 36, 0.8)",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundLightAlphaPressed": [{
+		"Light": "rgba(255, 255, 255, 0.5)",
+		"Dark": "rgba(36, 36, 36, 0.5)",
+		"Teams Light": "rgba(255, 255, 255, 0.5)",
+		"Teams Dark": "rgba(36, 36, 36, 0.5)",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundLightAlphaSelected": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundInverted": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "transparent"
+		}],
+	"colorSubtleBackgroundInvertedHover": [{
+		"Light": "rgba(0, 0, 0, 0.1)",
+		"Dark": "rgba(0, 0, 0, 0.1)",
+		"Teams Light": "rgba(0, 0, 0, 0.1)",
+		"Teams Dark": "rgba(0, 0, 0, 0.1)",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundInvertedPressed": [{
+		"Light": "rgba(0, 0, 0, 0.3)",
+		"Dark": "rgba(0, 0, 0, 0.3)",
+		"Teams Light": "rgba(0, 0, 0, 0.3)",
+		"Teams Dark": "rgba(0, 0, 0, 0.3)",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorSubtleBackgroundInvertedSelected": [{
+		"Light": "rgba(0, 0, 0, 0.2)",
+		"Dark": "rgba(0, 0, 0, 0.2)",
+		"Teams Light": "rgba(0, 0, 0, 0.2)",
+		"Teams Dark": "rgba(0, 0, 0, 0.2)",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorTransparentBackground": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "transparent"
+		}],
+	"colorTransparentBackgroundHover": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorTransparentBackgroundPressed": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorTransparentBackgroundSelected": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralBackgroundDisabled": [{
+		"Light": "#f0f0f0",
+		"Dark": "#141414",
+		"Teams Light": "#f0f0f0",
+		"Teams Dark": "#141414",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralBackgroundInvertedDisabled": [{
+		"Light": "rgba(255, 255, 255, 0.1)",
+		"Dark": "rgba(255, 255, 255, 0.1)",
+		"Teams Light": "rgba(255, 255, 255, 0.1)",
+		"Teams Dark": "rgba(255, 255, 255, 0.1)",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralStencil1": [{
+		"Light": "#e6e6e6",
+		"Dark": "#575757",
+		"Teams Light": "#e6e6e6",
+		"Teams Dark": "#575757",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStencil2": [{
+		"Light": "#fafafa",
+		"Dark": "#333333",
+		"Teams Light": "#fafafa",
+		"Teams Dark": "#333333",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStencil1Alpha": [{
+		"Light": "rgba(0, 0, 0, 0.1)",
+		"Dark": "rgba(255, 255, 255, 0.1)",
+		"Teams Light": "rgba(0, 0, 0, 0.1)",
+		"Teams Dark": "rgba(255, 255, 255, 0.1)",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStencil2Alpha": [{
+		"Light": "rgba(0, 0, 0, 0.05)",
+		"Dark": "rgba(255, 255, 255, 0.05)",
+		"Teams Light": "rgba(0, 0, 0, 0.05)",
+		"Teams Dark": "rgba(255, 255, 255, 0.05)",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBackgroundOverlay": [{
+		"Light": "rgba(0, 0, 0, 0.4)",
+		"Dark": "rgba(0, 0, 0, 0.5)",
+		"Teams Light": "rgba(0, 0, 0, 0.4)",
+		"Teams Dark": "rgba(0, 0, 0, 0.5)",
+		"Teams High Contrast": "rgba(0, 0, 0, 0.5)"
+		}],
+	"colorScrollbarOverlay": [{
+		"Light": "rgba(0, 0, 0, 0.5)",
+		"Dark": "rgba(255, 255, 255, 0.6)",
+		"Teams Light": "rgba(0, 0, 0, 0.5)",
+		"Teams Dark": "rgba(255, 255, 255, 0.6)",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandBackground": [{
+		"Light": "#0f6cbd",
+		"Dark": "#115ea3",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#4f52b2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandBackgroundHover": [{
+		"Light": "#115ea3",
+		"Dark": "#0f6cbd",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#5b5fc7",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandBackgroundPressed": [{
+		"Light": "#0c3b5e",
+		"Dark": "#0c3b5e",
+		"Teams Light": "#383966",
+		"Teams Dark": "#383966",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandBackgroundSelected": [{
+		"Light": "#0f548c",
+		"Dark": "#0f548c",
+		"Teams Light": "#444791",
+		"Teams Dark": "#444791",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandBackground": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandBackgroundHover": [{
+		"Light": "#115ea3",
+		"Dark": "#62abf5",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#9299f7",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandBackgroundPressed": [{
+		"Light": "#0f548c",
+		"Dark": "#2886de",
+		"Teams Light": "#444791",
+		"Teams Dark": "#7579eb",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandBackgroundStatic": [{
+		"Light": "#0f6cbd",
+		"Dark": "#0f6cbd",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#5b5fc7",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandBackground2": [{
+		"Light": "#ebf3fc",
+		"Dark": "#082338",
+		"Teams Light": "#e8ebfa",
+		"Teams Dark": "#2f2f4a",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandBackground2Hover": [{
+		"Light": "#cfe4fa",
+		"Dark": "#0c3b5e",
+		"Teams Light": "#dce0fa",
+		"Teams Dark": "#383966",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandBackground2Pressed": [{
+		"Light": "#96c6fa",
+		"Dark": "#061724",
+		"Teams Light": "#b6bcfa",
+		"Teams Dark": "#2b2b40",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandBackground3Static": [{
+		"Light": "#0f548c",
+		"Dark": "#0f548c",
+		"Teams Light": "#444791",
+		"Teams Dark": "#444791",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandBackground4Static": [{
+		"Light": "#0c3b5e",
+		"Dark": "#0c3b5e",
+		"Teams Light": "#383966",
+		"Teams Dark": "#383966",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorBrandBackgroundInverted": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandBackgroundInvertedHover": [{
+		"Light": "#ebf3fc",
+		"Dark": "#ebf3fc",
+		"Teams Light": "#e8ebfa",
+		"Teams Dark": "#e8ebfa",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandBackgroundInvertedPressed": [{
+		"Light": "#b4d6fa",
+		"Dark": "#b4d6fa",
+		"Teams Light": "#c5cbfa",
+		"Teams Dark": "#c5cbfa",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandBackgroundInvertedSelected": [{
+		"Light": "#cfe4fa",
+		"Dark": "#cfe4fa",
+		"Teams Light": "#dce0fa",
+		"Teams Dark": "#dce0fa",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralCardBackground": [{
+		"Light": "#fafafa",
+		"Dark": "#333333",
+		"Teams Light": "#fafafa",
+		"Teams Dark": "#333333",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralCardBackgroundHover": [{
+		"Light": "#ffffff",
+		"Dark": "#3d3d3d",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#3d3d3d",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralCardBackgroundPressed": [{
+		"Light": "#f5f5f5",
+		"Dark": "#2e2e2e",
+		"Teams Light": "#f5f5f5",
+		"Teams Dark": "#2e2e2e",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralCardBackgroundSelected": [{
+		"Light": "#ebebeb",
+		"Dark": "#383838",
+		"Teams Light": "#ebebeb",
+		"Teams Dark": "#383838",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralCardBackgroundDisabled": [{
+		"Light": "#f0f0f0",
+		"Dark": "#141414",
+		"Teams Light": "#f0f0f0",
+		"Teams Dark": "#141414",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralStrokeAccessible": [{
+		"Light": "#616161",
+		"Dark": "#adadad",
+		"Teams Light": "#616161",
+		"Teams Dark": "#adadad",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeAccessibleHover": [{
+		"Light": "#575757",
+		"Dark": "#bdbdbd",
+		"Teams Light": "#575757",
+		"Teams Dark": "#bdbdbd",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStrokeAccessiblePressed": [{
+		"Light": "#4d4d4d",
+		"Dark": "#b3b3b3",
+		"Teams Light": "#4d4d4d",
+		"Teams Dark": "#b3b3b3",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStrokeAccessibleSelected": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStroke1": [{
+		"Light": "#d1d1d1",
+		"Dark": "#666666",
+		"Teams Light": "#d1d1d1",
+		"Teams Dark": "#666666",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStroke1Hover": [{
+		"Light": "#c7c7c7",
+		"Dark": "#757575",
+		"Teams Light": "#c7c7c7",
+		"Teams Dark": "#757575",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStroke1Pressed": [{
+		"Light": "#b3b3b3",
+		"Dark": "#6b6b6b",
+		"Teams Light": "#b3b3b3",
+		"Teams Dark": "#6b6b6b",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStroke1Selected": [{
+		"Light": "#bdbdbd",
+		"Dark": "#707070",
+		"Teams Light": "#bdbdbd",
+		"Teams Dark": "#707070",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStroke2": [{
+		"Light": "#e0e0e0",
+		"Dark": "#525252",
+		"Teams Light": "#e0e0e0",
+		"Teams Dark": "#525252",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStroke3": [{
+		"Light": "#f0f0f0",
+		"Dark": "#3d3d3d",
+		"Teams Light": "#f0f0f0",
+		"Teams Dark": "#3d3d3d",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeSubtle": [{
+		"Light": "#e0e0e0",
+		"Dark": "#0a0a0a",
+		"Teams Light": "#e0e0e0",
+		"Teams Dark": "#0a0a0a",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeOnBrand": [{
+		"Light": "#ffffff",
+		"Dark": "#292929",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#292929",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorNeutralStrokeOnBrand2": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeOnBrand2Hover": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeOnBrand2Pressed": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeOnBrand2Selected": [{
+		"Light": "#ffffff",
+		"Dark": "#ffffff",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandStroke1": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandStroke2": [{
+		"Light": "#b4d6fa",
+		"Dark": "#0e4775",
+		"Teams Light": "#c5cbfa",
+		"Teams Dark": "#3d3e78",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorBrandStroke2Hover": [{
+		"Light": "#77b7f7",
+		"Dark": "#0e4775",
+		"Teams Light": "#aab1fa",
+		"Teams Dark": "#3d3e78",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandStroke2Pressed": [{
+		"Light": "#0f6cbd",
+		"Dark": "#0a2e4a",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#333357",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorBrandStroke2Contrast": [{
+		"Light": "#b4d6fa",
+		"Dark": "#0e4775",
+		"Teams Light": "#c5cbfa",
+		"Teams Dark": "#3d3e78",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorCompoundBrandStroke": [{
+		"Light": "#0f6cbd",
+		"Dark": "#479ef5",
+		"Teams Light": "#5b5fc7",
+		"Teams Dark": "#7579eb",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandStrokeHover": [{
+		"Light": "#115ea3",
+		"Dark": "#62abf5",
+		"Teams Light": "#4f52b2",
+		"Teams Dark": "#7f85f5",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorCompoundBrandStrokePressed": [{
+		"Light": "#0f548c",
+		"Dark": "#2886de",
+		"Teams Light": "#444791",
+		"Teams Dark": "#5b5fc7",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralStrokeDisabled": [{
+		"Light": "#e0e0e0",
+		"Dark": "#424242",
+		"Teams Light": "#e0e0e0",
+		"Teams Dark": "#424242",
+		"Teams High Contrast": "#3ff23f"
+		}],
+	"colorNeutralStrokeInvertedDisabled": [{
+		"Light": "rgba(255, 255, 255, 0.4)",
+		"Dark": "rgba(255, 255, 255, 0.4)",
+		"Teams Light": "rgba(255, 255, 255, 0.4)",
+		"Teams Dark": "rgba(255, 255, 255, 0.4)",
+		"Teams High Contrast": "#3ff23f"
+		}],
+	"colorTransparentStroke": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorTransparentStrokeInteractive": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorTransparentStrokeDisabled": [{
+		"Light": "transparent",
+		"Dark": "transparent",
+		"Teams Light": "transparent",
+		"Teams Dark": "transparent",
+		"Teams High Contrast": "#3ff23f"
+		}],
+	"colorNeutralStrokeAlpha": [{
+		"Light": "rgba(0, 0, 0, 0.05)",
+		"Dark": "rgba(255, 255, 255, 0.1)",
+		"Teams Light": "rgba(0, 0, 0, 0.05)",
+		"Teams Dark": "rgba(255, 255, 255, 0.1)",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorNeutralStrokeAlpha2": [{
+		"Light": "rgba(255, 255, 255, 0.2)",
+		"Dark": "rgba(255, 255, 255, 0.2)",
+		"Teams Light": "rgba(255, 255, 255, 0.2)",
+		"Teams Dark": "rgba(255, 255, 255, 0.2)",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStrokeFocus1": [{
+		"Light": "#ffffff",
+		"Dark": "#000000",
+		"Teams Light": "#ffffff",
+		"Teams Dark": "#000000",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStrokeFocus2": [{
+		"Light": "#000000",
+		"Dark": "#ffffff",
+		"Teams Light": "#000000",
+		"Teams Dark": "#ffffff",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorNeutralShadowAmbient": [{
+		"Light": "rgba(0,0,0,0.12)",
+		"Dark": "rgba(0,0,0,0.24)",
+		"Teams Light": "rgba(0,0,0,0.12)",
+		"Teams Dark": "rgba(0,0,0,0.24)",
+		"Teams High Contrast": "rgba(0,0,0,0.24)"
+		}],
+	"colorNeutralShadowKey": [{
+		"Light": "rgba(0,0,0,0.14)",
+		"Dark": "rgba(0,0,0,0.28)",
+		"Teams Light": "rgba(0,0,0,0.14)",
+		"Teams Dark": "rgba(0,0,0,0.28)",
+		"Teams High Contrast": "rgba(0,0,0,0.28)"
+		}],
+	"colorNeutralShadowAmbientLighter": [{
+		"Light": "rgba(0,0,0,0.06)",
+		"Dark": "rgba(0,0,0,0.12)",
+		"Teams Light": "rgba(0,0,0,0.06)",
+		"Teams Dark": "rgba(0,0,0,0.12)",
+		"Teams High Contrast": "rgba(0,0,0,0.12)"
+		}],
+	"colorNeutralShadowKeyLighter": [{
+		"Light": "rgba(0,0,0,0.07)",
+		"Dark": "rgba(0,0,0,0.14)",
+		"Teams Light": "rgba(0,0,0,0.07)",
+		"Teams Dark": "rgba(0,0,0,0.14)",
+		"Teams High Contrast": "rgba(0,0,0,0.14)"
+		}],
+	"colorNeutralShadowAmbientDarker": [{
+		"Light": "rgba(0,0,0,0.20)",
+		"Dark": "rgba(0,0,0,0.40)",
+		"Teams Light": "rgba(0,0,0,0.20)",
+		"Teams Dark": "rgba(0,0,0,0.40)",
+		"Teams High Contrast": "rgba(0,0,0,0.40)"
+		}],
+	"colorNeutralShadowKeyDarker": [{
+		"Light": "rgba(0,0,0,0.24)",
+		"Dark": "rgba(0,0,0,0.48)",
+		"Teams Light": "rgba(0,0,0,0.24)",
+		"Teams Dark": "rgba(0,0,0,0.48)",
+		"Teams High Contrast": "rgba(0,0,0,0.48)"
+		}],
+	"colorBrandShadowAmbient": [{
+		"Light": "rgba(0,0,0,0.30)",
+		"Dark": "rgba(0,0,0,0.30)",
+		"Teams Light": "rgba(0,0,0,0.30)",
+		"Teams Dark": "rgba(0,0,0,0.30)",
+		"Teams High Contrast": "rgba(0,0,0,0.30)"
+		}],
+	"colorBrandShadowKey": [{
+		"Light": "rgba(0,0,0,0.25)",
+		"Dark": "rgba(0,0,0,0.25)",
+		"Teams Light": "rgba(0,0,0,0.25)",
+		"Teams Dark": "rgba(0,0,0,0.25)",
+		"Teams High Contrast": "rgba(0,0,0,0.25)"
+		}],
+	"colorPaletteRedBackground1": [{
+		"Light": "#fdf6f6",
+		"Dark": "#3f1011",
+		"Teams Light": "#fdf6f6",
+		"Teams Dark": "#3f1011",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteRedBackground2": [{
+		"Light": "#f1bbbc",
+		"Dark": "#751d1f",
+		"Teams Light": "#f1bbbc",
+		"Teams Dark": "#751d1f",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteRedBackground3": [{
+		"Light": "#d13438",
+		"Dark": "#d13438",
+		"Teams Light": "#d13438",
+		"Teams Dark": "#d13438",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRedForeground1": [{
+		"Light": "#bc2f32",
+		"Dark": "#e37d80",
+		"Teams Light": "#bc2f32",
+		"Teams Dark": "#e37d80",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRedForeground2": [{
+		"Light": "#751d1f",
+		"Dark": "#f1bbbc",
+		"Teams Light": "#751d1f",
+		"Teams Dark": "#f1bbbc",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRedForeground3": [{
+		"Light": "#d13438",
+		"Dark": "#e37d80",
+		"Teams Light": "#d13438",
+		"Teams Dark": "#e37d80",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRedBorderActive": [{
+		"Light": "#d13438",
+		"Dark": "#e37d80",
+		"Teams Light": "#d13438",
+		"Teams Dark": "#e37d80",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteRedBorder1": [{
+		"Light": "#f1bbbc",
+		"Dark": "#d13438",
+		"Teams Light": "#f1bbbc",
+		"Teams Dark": "#d13438",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRedBorder2": [{
+		"Light": "#d13438",
+		"Dark": "#e37d80",
+		"Teams Light": "#d13438",
+		"Teams Dark": "#e37d80",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenBackground1": [{
+		"Light": "#f1faf1",
+		"Dark": "#052505",
+		"Teams Light": "#f1faf1",
+		"Teams Dark": "#052505",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteGreenBackground2": [{
+		"Light": "#9fd89f",
+		"Dark": "#094509",
+		"Teams Light": "#9fd89f",
+		"Teams Dark": "#094509",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteGreenBackground3": [{
+		"Light": "#107c10",
+		"Dark": "#107c10",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#107c10",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenForeground1": [{
+		"Light": "#0e700e",
+		"Dark": "#54b054",
+		"Teams Light": "#0e700e",
+		"Teams Dark": "#54b054",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenForeground2": [{
+		"Light": "#094509",
+		"Dark": "#9fd89f",
+		"Teams Light": "#094509",
+		"Teams Dark": "#9fd89f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenForeground3": [{
+		"Light": "#107c10",
+		"Dark": "#9fd89f",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#9fd89f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenBorderActive": [{
+		"Light": "#107c10",
+		"Dark": "#54b054",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#54b054",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteGreenBorder1": [{
+		"Light": "#9fd89f",
+		"Dark": "#107c10",
+		"Teams Light": "#9fd89f",
+		"Teams Dark": "#107c10",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenBorder2": [{
+		"Light": "#107c10",
+		"Dark": "#9fd89f",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#9fd89f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkOrangeBackground1": [{
+		"Light": "#fdf6f3",
+		"Dark": "#411200",
+		"Teams Light": "#fdf6f3",
+		"Teams Dark": "#411200",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteDarkOrangeBackground2": [{
+		"Light": "#f4bfab",
+		"Dark": "#7a2101",
+		"Teams Light": "#f4bfab",
+		"Teams Dark": "#7a2101",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteDarkOrangeBackground3": [{
+		"Light": "#da3b01",
+		"Dark": "#da3b01",
+		"Teams Light": "#da3b01",
+		"Teams Dark": "#da3b01",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkOrangeForeground1": [{
+		"Light": "#c43501",
+		"Dark": "#e9835e",
+		"Teams Light": "#c43501",
+		"Teams Dark": "#e9835e",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkOrangeForeground2": [{
+		"Light": "#7a2101",
+		"Dark": "#f4bfab",
+		"Teams Light": "#7a2101",
+		"Teams Dark": "#f4bfab",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkOrangeForeground3": [{
+		"Light": "#da3b01",
+		"Dark": "#e9835e",
+		"Teams Light": "#da3b01",
+		"Teams Dark": "#e9835e",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkOrangeBorderActive": [{
+		"Light": "#da3b01",
+		"Dark": "#e9835e",
+		"Teams Light": "#da3b01",
+		"Teams Dark": "#e9835e",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteDarkOrangeBorder1": [{
+		"Light": "#f4bfab",
+		"Dark": "#da3b01",
+		"Teams Light": "#f4bfab",
+		"Teams Dark": "#da3b01",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkOrangeBorder2": [{
+		"Light": "#da3b01",
+		"Dark": "#e9835e",
+		"Teams Light": "#da3b01",
+		"Teams Dark": "#e9835e",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowBackground1": [{
+		"Light": "#fffef5",
+		"Dark": "#4c4400",
+		"Teams Light": "#fffef5",
+		"Teams Dark": "#4c4400",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteYellowBackground2": [{
+		"Light": "#fef7b2",
+		"Dark": "#817400",
+		"Teams Light": "#fef7b2",
+		"Teams Dark": "#817400",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteYellowBackground3": [{
+		"Light": "#fde300",
+		"Dark": "#fde300",
+		"Teams Light": "#fde300",
+		"Teams Dark": "#fde300",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowForeground1": [{
+		"Light": "#817400",
+		"Dark": "#feee66",
+		"Teams Light": "#817400",
+		"Teams Dark": "#feee66",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowForeground2": [{
+		"Light": "#817400",
+		"Dark": "#fef7b2",
+		"Teams Light": "#817400",
+		"Teams Dark": "#fef7b2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowForeground3": [{
+		"Light": "#fde300",
+		"Dark": "#fdea3d",
+		"Teams Light": "#fde300",
+		"Teams Dark": "#fdea3d",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowBorderActive": [{
+		"Light": "#fde300",
+		"Dark": "#feee66",
+		"Teams Light": "#fde300",
+		"Teams Dark": "#feee66",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteYellowBorder1": [{
+		"Light": "#fef7b2",
+		"Dark": "#fde300",
+		"Teams Light": "#fef7b2",
+		"Teams Dark": "#fde300",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowBorder2": [{
+		"Light": "#fde300",
+		"Dark": "#fdea3d",
+		"Teams Light": "#fde300",
+		"Teams Dark": "#fdea3d",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBerryBackground1": [{
+		"Light": "#fdf5fc",
+		"Dark": "#3a1136",
+		"Teams Light": "#fdf5fc",
+		"Teams Dark": "#3a1136",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteBerryBackground2": [{
+		"Light": "#edbbe7",
+		"Dark": "#6d2064",
+		"Teams Light": "#edbbe7",
+		"Teams Dark": "#6d2064",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteBerryBackground3": [{
+		"Light": "#c239b3",
+		"Dark": "#c239b3",
+		"Teams Light": "#c239b3",
+		"Teams Dark": "#c239b3",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBerryForeground1": [{
+		"Light": "#af33a1",
+		"Dark": "#da7ed0",
+		"Teams Light": "#af33a1",
+		"Teams Dark": "#da7ed0",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBerryForeground2": [{
+		"Light": "#6d2064",
+		"Dark": "#edbbe7",
+		"Teams Light": "#6d2064",
+		"Teams Dark": "#edbbe7",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBerryForeground3": [{
+		"Light": "#c239b3",
+		"Dark": "#d161c4",
+		"Teams Light": "#c239b3",
+		"Teams Dark": "#d161c4",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBerryBorderActive": [{
+		"Light": "#c239b3",
+		"Dark": "#da7ed0",
+		"Teams Light": "#c239b3",
+		"Teams Dark": "#da7ed0",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteBerryBorder1": [{
+		"Light": "#edbbe7",
+		"Dark": "#c239b3",
+		"Teams Light": "#edbbe7",
+		"Teams Dark": "#c239b3",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBerryBorder2": [{
+		"Light": "#c239b3",
+		"Dark": "#d161c4",
+		"Teams Light": "#c239b3",
+		"Teams Dark": "#d161c4",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightGreenBackground1": [{
+		"Light": "#f2fbf2",
+		"Dark": "#063004",
+		"Teams Light": "#f2fbf2",
+		"Teams Dark": "#063004",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteLightGreenBackground2": [{
+		"Light": "#a7e3a5",
+		"Dark": "#0b5a08",
+		"Teams Light": "#a7e3a5",
+		"Teams Dark": "#0b5a08",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteLightGreenBackground3": [{
+		"Light": "#13a10e",
+		"Dark": "#13a10e",
+		"Teams Light": "#13a10e",
+		"Teams Dark": "#13a10e",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightGreenForeground1": [{
+		"Light": "#11910d",
+		"Dark": "#5ec75a",
+		"Teams Light": "#11910d",
+		"Teams Dark": "#5ec75a",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightGreenForeground2": [{
+		"Light": "#0b5a08",
+		"Dark": "#a7e3a5",
+		"Teams Light": "#0b5a08",
+		"Teams Dark": "#a7e3a5",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightGreenForeground3": [{
+		"Light": "#13a10e",
+		"Dark": "#3db838",
+		"Teams Light": "#13a10e",
+		"Teams Dark": "#3db838",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightGreenBorderActive": [{
+		"Light": "#13a10e",
+		"Dark": "#5ec75a",
+		"Teams Light": "#13a10e",
+		"Teams Dark": "#5ec75a",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteLightGreenBorder1": [{
+		"Light": "#a7e3a5",
+		"Dark": "#13a10e",
+		"Teams Light": "#a7e3a5",
+		"Teams Dark": "#13a10e",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightGreenBorder2": [{
+		"Light": "#13a10e",
+		"Dark": "#3db838",
+		"Teams Light": "#13a10e",
+		"Teams Dark": "#3db838",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMarigoldBackground1": [{
+		"Light": "#fefbf4",
+		"Dark": "#463100",
+		"Teams Light": "#fefbf4",
+		"Teams Dark": "#463100",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteMarigoldBackground2": [{
+		"Light": "#f9e2ae",
+		"Dark": "#835b00",
+		"Teams Light": "#f9e2ae",
+		"Teams Dark": "#835b00",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteMarigoldBackground3": [{
+		"Light": "#eaa300",
+		"Dark": "#eaa300",
+		"Teams Light": "#eaa300",
+		"Teams Dark": "#eaa300",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMarigoldForeground1": [{
+		"Light": "#d39300",
+		"Dark": "#f2c661",
+		"Teams Light": "#d39300",
+		"Teams Dark": "#f2c661",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMarigoldForeground2": [{
+		"Light": "#835b00",
+		"Dark": "#f9e2ae",
+		"Teams Light": "#835b00",
+		"Teams Dark": "#f9e2ae",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMarigoldForeground3": [{
+		"Light": "#eaa300",
+		"Dark": "#efb839",
+		"Teams Light": "#eaa300",
+		"Teams Dark": "#efb839",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMarigoldBorderActive": [{
+		"Light": "#eaa300",
+		"Dark": "#f2c661",
+		"Teams Light": "#eaa300",
+		"Teams Dark": "#f2c661",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteMarigoldBorder1": [{
+		"Light": "#f9e2ae",
+		"Dark": "#eaa300",
+		"Teams Light": "#f9e2ae",
+		"Teams Dark": "#eaa300",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMarigoldBorder2": [{
+		"Light": "#eaa300",
+		"Dark": "#efb839",
+		"Teams Light": "#eaa300",
+		"Teams Dark": "#efb839",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRedForegroundInverted": [{
+		"Light": "#dc5e62",
+		"Dark": "#d13438",
+		"Teams Light": "#dc5e62",
+		"Teams Dark": "#d13438",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGreenForegroundInverted": [{
+		"Light": "#359b35",
+		"Dark": "#107c10",
+		"Teams Light": "#359b35",
+		"Teams Dark": "#107c10",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteYellowForegroundInverted": [{
+		"Light": "#fef7b2",
+		"Dark": "#817400",
+		"Teams Light": "#fef7b2",
+		"Teams Dark": "#817400",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkRedBackground2": [{
+		"Light": "#d69ca5",
+		"Dark": "#590815",
+		"Teams Light": "#d69ca5",
+		"Teams Dark": "#590815",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteDarkRedForeground2": [{
+		"Light": "#420610",
+		"Dark": "#d69ca5",
+		"Teams Light": "#420610",
+		"Teams Dark": "#d69ca5",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkRedBorderActive": [{
+		"Light": "#750b1c",
+		"Dark": "#ac4f5e",
+		"Teams Light": "#750b1c",
+		"Teams Dark": "#ac4f5e",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteCranberryBackground2": [{
+		"Light": "#eeacb2",
+		"Dark": "#6e0811",
+		"Teams Light": "#eeacb2",
+		"Teams Dark": "#6e0811",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteCranberryForeground2": [{
+		"Light": "#6e0811",
+		"Dark": "#eeacb2",
+		"Teams Light": "#6e0811",
+		"Teams Dark": "#eeacb2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteCranberryBorderActive": [{
+		"Light": "#c50f1f",
+		"Dark": "#dc626d",
+		"Teams Light": "#c50f1f",
+		"Teams Dark": "#dc626d",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPalettePumpkinBackground2": [{
+		"Light": "#efc4ad",
+		"Dark": "#712d09",
+		"Teams Light": "#efc4ad",
+		"Teams Dark": "#712d09",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPalettePumpkinForeground2": [{
+		"Light": "#712d09",
+		"Dark": "#efc4ad",
+		"Teams Light": "#712d09",
+		"Teams Dark": "#efc4ad",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPalettePumpkinBorderActive": [{
+		"Light": "#ca5010",
+		"Dark": "#df8e64",
+		"Teams Light": "#ca5010",
+		"Teams Dark": "#df8e64",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPalettePeachBackground2": [{
+		"Light": "#ffddb3",
+		"Dark": "#8f4e00",
+		"Teams Light": "#ffddb3",
+		"Teams Dark": "#8f4e00",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPalettePeachForeground2": [{
+		"Light": "#8f4e00",
+		"Dark": "#ffddb3",
+		"Teams Light": "#8f4e00",
+		"Teams Dark": "#ffddb3",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPalettePeachBorderActive": [{
+		"Light": "#ff8c00",
+		"Dark": "#ffba66",
+		"Teams Light": "#ff8c00",
+		"Teams Dark": "#ffba66",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteGoldBackground2": [{
+		"Light": "#ecdfa5",
+		"Dark": "#6c5700",
+		"Teams Light": "#ecdfa5",
+		"Teams Dark": "#6c5700",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteGoldForeground2": [{
+		"Light": "#6c5700",
+		"Dark": "#ecdfa5",
+		"Teams Light": "#6c5700",
+		"Teams Dark": "#ecdfa5",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGoldBorderActive": [{
+		"Light": "#c19c00",
+		"Dark": "#dac157",
+		"Teams Light": "#c19c00",
+		"Teams Dark": "#dac157",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteBrassBackground2": [{
+		"Light": "#e0cea2",
+		"Dark": "#553e06",
+		"Teams Light": "#e0cea2",
+		"Teams Dark": "#553e06",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteBrassForeground2": [{
+		"Light": "#553e06",
+		"Dark": "#e0cea2",
+		"Teams Light": "#553e06",
+		"Teams Dark": "#e0cea2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBrassBorderActive": [{
+		"Light": "#986f0b",
+		"Dark": "#c1a256",
+		"Teams Light": "#986f0b",
+		"Teams Dark": "#c1a256",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteBrownBackground2": [{
+		"Light": "#ddc3b0",
+		"Dark": "#50301a",
+		"Teams Light": "#ddc3b0",
+		"Teams Dark": "#50301a",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteBrownForeground2": [{
+		"Light": "#50301a",
+		"Dark": "#ddc3b0",
+		"Teams Light": "#50301a",
+		"Teams Dark": "#ddc3b0",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBrownBorderActive": [{
+		"Light": "#8e562e",
+		"Dark": "#bb8f6f",
+		"Teams Light": "#8e562e",
+		"Teams Dark": "#bb8f6f",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteForestBackground2": [{
+		"Light": "#bdd99b",
+		"Dark": "#294903",
+		"Teams Light": "#bdd99b",
+		"Teams Dark": "#294903",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteForestForeground2": [{
+		"Light": "#294903",
+		"Dark": "#bdd99b",
+		"Teams Light": "#294903",
+		"Teams Dark": "#bdd99b",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteForestBorderActive": [{
+		"Light": "#498205",
+		"Dark": "#85b44c",
+		"Teams Light": "#498205",
+		"Teams Dark": "#85b44c",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteSeafoamBackground2": [{
+		"Light": "#a8f0cd",
+		"Dark": "#00723b",
+		"Teams Light": "#a8f0cd",
+		"Teams Dark": "#00723b",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteSeafoamForeground2": [{
+		"Light": "#00723b",
+		"Dark": "#a8f0cd",
+		"Teams Light": "#00723b",
+		"Teams Dark": "#a8f0cd",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteSeafoamBorderActive": [{
+		"Light": "#00cc6a",
+		"Dark": "#5ae0a0",
+		"Teams Light": "#00cc6a",
+		"Teams Dark": "#5ae0a0",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteDarkGreenBackground2": [{
+		"Light": "#9ad29a",
+		"Dark": "#063b06",
+		"Teams Light": "#9ad29a",
+		"Teams Dark": "#063b06",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteDarkGreenForeground2": [{
+		"Light": "#063b06",
+		"Dark": "#9ad29a",
+		"Teams Light": "#063b06",
+		"Teams Dark": "#9ad29a",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteDarkGreenBorderActive": [{
+		"Light": "#0b6a0b",
+		"Dark": "#4da64d",
+		"Teams Light": "#0b6a0b",
+		"Teams Dark": "#4da64d",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteLightTealBackground2": [{
+		"Light": "#a6e9ed",
+		"Dark": "#00666d",
+		"Teams Light": "#a6e9ed",
+		"Teams Dark": "#00666d",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteLightTealForeground2": [{
+		"Light": "#00666d",
+		"Dark": "#a6e9ed",
+		"Teams Light": "#00666d",
+		"Teams Dark": "#a6e9ed",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLightTealBorderActive": [{
+		"Light": "#00b7c3",
+		"Dark": "#58d3db",
+		"Teams Light": "#00b7c3",
+		"Teams Dark": "#58d3db",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteTealBackground2": [{
+		"Light": "#9bd9db",
+		"Dark": "#02494c",
+		"Teams Light": "#9bd9db",
+		"Teams Dark": "#02494c",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteTealForeground2": [{
+		"Light": "#02494c",
+		"Dark": "#9bd9db",
+		"Teams Light": "#02494c",
+		"Teams Dark": "#9bd9db",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteTealBorderActive": [{
+		"Light": "#038387",
+		"Dark": "#4cb4b7",
+		"Teams Light": "#038387",
+		"Teams Dark": "#4cb4b7",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteSteelBackground2": [{
+		"Light": "#94c8d4",
+		"Dark": "#00333f",
+		"Teams Light": "#94c8d4",
+		"Teams Dark": "#00333f",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteSteelForeground2": [{
+		"Light": "#00333f",
+		"Dark": "#94c8d4",
+		"Teams Light": "#00333f",
+		"Teams Dark": "#94c8d4",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteSteelBorderActive": [{
+		"Light": "#005b70",
+		"Dark": "#4496a9",
+		"Teams Light": "#005b70",
+		"Teams Dark": "#4496a9",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteBlueBackground2": [{
+		"Light": "#a9d3f2",
+		"Dark": "#004377",
+		"Teams Light": "#a9d3f2",
+		"Teams Dark": "#004377",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteBlueForeground2": [{
+		"Light": "#004377",
+		"Dark": "#a9d3f2",
+		"Teams Light": "#004377",
+		"Teams Dark": "#a9d3f2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBlueBorderActive": [{
+		"Light": "#0078d4",
+		"Dark": "#5caae5",
+		"Teams Light": "#0078d4",
+		"Teams Dark": "#5caae5",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteRoyalBlueBackground2": [{
+		"Light": "#9abfdc",
+		"Dark": "#002c4e",
+		"Teams Light": "#9abfdc",
+		"Teams Dark": "#002c4e",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteRoyalBlueForeground2": [{
+		"Light": "#002c4e",
+		"Dark": "#9abfdc",
+		"Teams Light": "#002c4e",
+		"Teams Dark": "#9abfdc",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteRoyalBlueBorderActive": [{
+		"Light": "#004e8c",
+		"Dark": "#4a89ba",
+		"Teams Light": "#004e8c",
+		"Teams Dark": "#4a89ba",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteCornflowerBackground2": [{
+		"Light": "#c8d1fa",
+		"Dark": "#2c3c85",
+		"Teams Light": "#c8d1fa",
+		"Teams Dark": "#2c3c85",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteCornflowerForeground2": [{
+		"Light": "#2c3c85",
+		"Dark": "#c8d1fa",
+		"Teams Light": "#2c3c85",
+		"Teams Dark": "#c8d1fa",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteCornflowerBorderActive": [{
+		"Light": "#4f6bed",
+		"Dark": "#93a4f4",
+		"Teams Light": "#4f6bed",
+		"Teams Dark": "#93a4f4",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteNavyBackground2": [{
+		"Light": "#a3b2e8",
+		"Dark": "#001665",
+		"Teams Light": "#a3b2e8",
+		"Teams Dark": "#001665",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteNavyForeground2": [{
+		"Light": "#001665",
+		"Dark": "#a3b2e8",
+		"Teams Light": "#001665",
+		"Teams Dark": "#a3b2e8",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteNavyBorderActive": [{
+		"Light": "#0027b4",
+		"Dark": "#546fd2",
+		"Teams Light": "#0027b4",
+		"Teams Dark": "#546fd2",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteLavenderBackground2": [{
+		"Light": "#d2ccf8",
+		"Dark": "#3f3682",
+		"Teams Light": "#d2ccf8",
+		"Teams Dark": "#3f3682",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteLavenderForeground2": [{
+		"Light": "#3f3682",
+		"Dark": "#d2ccf8",
+		"Teams Light": "#3f3682",
+		"Teams Dark": "#d2ccf8",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLavenderBorderActive": [{
+		"Light": "#7160e8",
+		"Dark": "#a79cf1",
+		"Teams Light": "#7160e8",
+		"Teams Dark": "#a79cf1",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPalettePurpleBackground2": [{
+		"Light": "#c6b1de",
+		"Dark": "#341a51",
+		"Teams Light": "#c6b1de",
+		"Teams Dark": "#341a51",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPalettePurpleForeground2": [{
+		"Light": "#341a51",
+		"Dark": "#c6b1de",
+		"Teams Light": "#341a51",
+		"Teams Dark": "#c6b1de",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPalettePurpleBorderActive": [{
+		"Light": "#5c2e91",
+		"Dark": "#9470bd",
+		"Teams Light": "#5c2e91",
+		"Teams Dark": "#9470bd",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteGrapeBackground2": [{
+		"Light": "#d9a7e0",
+		"Dark": "#4c0d55",
+		"Teams Light": "#d9a7e0",
+		"Teams Dark": "#4c0d55",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteGrapeForeground2": [{
+		"Light": "#4c0d55",
+		"Dark": "#d9a7e0",
+		"Teams Light": "#4c0d55",
+		"Teams Dark": "#d9a7e0",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteGrapeBorderActive": [{
+		"Light": "#881798",
+		"Dark": "#b55fc1",
+		"Teams Light": "#881798",
+		"Teams Dark": "#b55fc1",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteLilacBackground2": [{
+		"Light": "#e6bfed",
+		"Dark": "#63276d",
+		"Teams Light": "#e6bfed",
+		"Teams Dark": "#63276d",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteLilacForeground2": [{
+		"Light": "#63276d",
+		"Dark": "#e6bfed",
+		"Teams Light": "#63276d",
+		"Teams Dark": "#e6bfed",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteLilacBorderActive": [{
+		"Light": "#b146c2",
+		"Dark": "#cf87da",
+		"Teams Light": "#b146c2",
+		"Teams Dark": "#cf87da",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPalettePinkBackground2": [{
+		"Light": "#f7c0e3",
+		"Dark": "#80215d",
+		"Teams Light": "#f7c0e3",
+		"Teams Dark": "#80215d",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPalettePinkForeground2": [{
+		"Light": "#80215d",
+		"Dark": "#f7c0e3",
+		"Teams Light": "#80215d",
+		"Teams Dark": "#f7c0e3",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPalettePinkBorderActive": [{
+		"Light": "#e43ba6",
+		"Dark": "#ef85c8",
+		"Teams Light": "#e43ba6",
+		"Teams Dark": "#ef85c8",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteMagentaBackground2": [{
+		"Light": "#eca5d1",
+		"Dark": "#6b0043",
+		"Teams Light": "#eca5d1",
+		"Teams Dark": "#6b0043",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteMagentaForeground2": [{
+		"Light": "#6b0043",
+		"Dark": "#eca5d1",
+		"Teams Light": "#6b0043",
+		"Teams Dark": "#eca5d1",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMagentaBorderActive": [{
+		"Light": "#bf0077",
+		"Dark": "#d957a8",
+		"Teams Light": "#bf0077",
+		"Teams Dark": "#d957a8",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPalettePlumBackground2": [{
+		"Light": "#d696c0",
+		"Dark": "#5a003b",
+		"Teams Light": "#d696c0",
+		"Teams Dark": "#5a003b",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPalettePlumForeground2": [{
+		"Light": "#43002b",
+		"Dark": "#d696c0",
+		"Teams Light": "#43002b",
+		"Teams Dark": "#d696c0",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPalettePlumBorderActive": [{
+		"Light": "#77004d",
+		"Dark": "#ad4589",
+		"Teams Light": "#77004d",
+		"Teams Dark": "#ad4589",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteBeigeBackground2": [{
+		"Light": "#d7d4d4",
+		"Dark": "#444241",
+		"Teams Light": "#d7d4d4",
+		"Teams Dark": "#444241",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteBeigeForeground2": [{
+		"Light": "#444241",
+		"Dark": "#d7d4d4",
+		"Teams Light": "#444241",
+		"Teams Dark": "#d7d4d4",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteBeigeBorderActive": [{
+		"Light": "#7a7574",
+		"Dark": "#afabaa",
+		"Teams Light": "#7a7574",
+		"Teams Dark": "#afabaa",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteMinkBackground2": [{
+		"Light": "#cecccb",
+		"Dark": "#343231",
+		"Teams Light": "#cecccb",
+		"Teams Dark": "#343231",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteMinkForeground2": [{
+		"Light": "#343231",
+		"Dark": "#cecccb",
+		"Teams Light": "#343231",
+		"Teams Dark": "#cecccb",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteMinkBorderActive": [{
+		"Light": "#5d5a58",
+		"Dark": "#9e9b99",
+		"Teams Light": "#5d5a58",
+		"Teams Dark": "#9e9b99",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPalettePlatinumBackground2": [{
+		"Light": "#cdd6d8",
+		"Dark": "#3b4447",
+		"Teams Light": "#cdd6d8",
+		"Teams Dark": "#3b4447",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPalettePlatinumForeground2": [{
+		"Light": "#3b4447",
+		"Dark": "#cdd6d8",
+		"Teams Light": "#3b4447",
+		"Teams Dark": "#cdd6d8",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPalettePlatinumBorderActive": [{
+		"Light": "#69797e",
+		"Dark": "#a0adb2",
+		"Teams Light": "#69797e",
+		"Teams Dark": "#a0adb2",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorPaletteAnchorBackground2": [{
+		"Light": "#bcc3c7",
+		"Dark": "#202427",
+		"Teams Light": "#bcc3c7",
+		"Teams Dark": "#202427",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorPaletteAnchorForeground2": [{
+		"Light": "#202427",
+		"Dark": "#bcc3c7",
+		"Teams Light": "#202427",
+		"Teams Dark": "#bcc3c7",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorPaletteAnchorBorderActive": [{
+		"Light": "#394146",
+		"Dark": "#808a90",
+		"Teams Light": "#394146",
+		"Teams Dark": "#808a90",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorStatusSuccessBackground1": [{
+		"Light": "#f1faf1",
+		"Dark": "#052505",
+		"Teams Light": "#f1faf1",
+		"Teams Dark": "#052505",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStatusSuccessBackground2": [{
+		"Light": "#9fd89f",
+		"Dark": "#094509",
+		"Teams Light": "#9fd89f",
+		"Teams Dark": "#094509",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStatusSuccessBackground3": [{
+		"Light": "#107c10",
+		"Dark": "#107c10",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#107c10",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusSuccessForeground1": [{
+		"Light": "#0e700e",
+		"Dark": "#54b054",
+		"Teams Light": "#0e700e",
+		"Teams Dark": "#54b054",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusSuccessForeground2": [{
+		"Light": "#094509",
+		"Dark": "#9fd89f",
+		"Teams Light": "#094509",
+		"Teams Dark": "#9fd89f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusSuccessForeground3": [{
+		"Light": "#107c10",
+		"Dark": "#9fd89f",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#9fd89f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusSuccessForegroundInverted": [{
+		"Light": "#54b054",
+		"Dark": "#0e700e",
+		"Teams Light": "#54b054",
+		"Teams Dark": "#0e700e",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusSuccessBorderActive": [{
+		"Light": "#107c10",
+		"Dark": "#54b054",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#54b054",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorStatusSuccessBorder1": [{
+		"Light": "#9fd89f",
+		"Dark": "#107c10",
+		"Teams Light": "#9fd89f",
+		"Teams Dark": "#107c10",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusSuccessBorder2": [{
+		"Light": "#107c10",
+		"Dark": "#9fd89f",
+		"Teams Light": "#107c10",
+		"Teams Dark": "#9fd89f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningBackground1": [{
+		"Light": "#fff9f5",
+		"Dark": "#4a1e04",
+		"Teams Light": "#fff9f5",
+		"Teams Dark": "#4a1e04",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStatusWarningBackground2": [{
+		"Light": "#fdcfb4",
+		"Dark": "#8a3707",
+		"Teams Light": "#fdcfb4",
+		"Teams Dark": "#8a3707",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStatusWarningBackground3": [{
+		"Light": "#f7630c",
+		"Dark": "#f7630c",
+		"Teams Light": "#f7630c",
+		"Teams Dark": "#f7630c",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningForeground1": [{
+		"Light": "#bc4b09",
+		"Dark": "#faa06b",
+		"Teams Light": "#bc4b09",
+		"Teams Dark": "#faa06b",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningForeground2": [{
+		"Light": "#8a3707",
+		"Dark": "#fdcfb4",
+		"Teams Light": "#8a3707",
+		"Teams Dark": "#fdcfb4",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningForeground3": [{
+		"Light": "#bc4b09",
+		"Dark": "#f98845",
+		"Teams Light": "#bc4b09",
+		"Teams Dark": "#f98845",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningForegroundInverted": [{
+		"Light": "#faa06b",
+		"Dark": "#bc4b09",
+		"Teams Light": "#faa06b",
+		"Teams Dark": "#bc4b09",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningBorderActive": [{
+		"Light": "#f7630c",
+		"Dark": "#faa06b",
+		"Teams Light": "#f7630c",
+		"Teams Dark": "#faa06b",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorStatusWarningBorder1": [{
+		"Light": "#fdcfb4",
+		"Dark": "#f7630c",
+		"Teams Light": "#fdcfb4",
+		"Teams Dark": "#f7630c",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusWarningBorder2": [{
+		"Light": "#bc4b09",
+		"Dark": "#f98845",
+		"Teams Light": "#bc4b09",
+		"Teams Dark": "#f98845",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerBackground1": [{
+		"Light": "#fdf3f4",
+		"Dark": "#3b0509",
+		"Teams Light": "#fdf3f4",
+		"Teams Dark": "#3b0509",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStatusDangerBackground2": [{
+		"Light": "#eeacb2",
+		"Dark": "#6e0811",
+		"Teams Light": "#eeacb2",
+		"Teams Dark": "#6e0811",
+		"Teams High Contrast": "#000000"
+		}],
+	"colorStatusDangerBackground3": [{
+		"Light": "#c50f1f",
+		"Dark": "#c50f1f",
+		"Teams Light": "#c50f1f",
+		"Teams Dark": "#c50f1f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerForeground1": [{
+		"Light": "#b10e1c",
+		"Dark": "#dc626d",
+		"Teams Light": "#b10e1c",
+		"Teams Dark": "#dc626d",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerForeground2": [{
+		"Light": "#6e0811",
+		"Dark": "#eeacb2",
+		"Teams Light": "#6e0811",
+		"Teams Dark": "#eeacb2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerForeground3": [{
+		"Light": "#c50f1f",
+		"Dark": "#eeacb2",
+		"Teams Light": "#c50f1f",
+		"Teams Dark": "#eeacb2",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerForegroundInverted": [{
+		"Light": "#dc626d",
+		"Dark": "#b10e1c",
+		"Teams Light": "#dc626d",
+		"Teams Dark": "#b10e1c",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerBorderActive": [{
+		"Light": "#c50f1f",
+		"Dark": "#dc626d",
+		"Teams Light": "#c50f1f",
+		"Teams Dark": "#dc626d",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorStatusDangerBorder1": [{
+		"Light": "#eeacb2",
+		"Dark": "#c50f1f",
+		"Teams Light": "#eeacb2",
+		"Teams Dark": "#c50f1f",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerBorder2": [{
+		"Light": "#c50f1f",
+		"Dark": "#dc626d",
+		"Teams Light": "#c50f1f",
+		"Teams Dark": "#dc626d",
+		"Teams High Contrast": "#ffffff"
+		}],
+	"colorStatusDangerBackground3Hover": [{
+		"Light": "#b10e1c",
+		"Dark": "#b10e1c",
+		"Teams Light": "#b10e1c",
+		"Teams Dark": "#b10e1c",
+		"Teams High Contrast": "#1aebff"
+		}],
+	"colorStatusDangerBackground3Pressed": [{
+		"Light": "#960b18",
+		"Dark": "#960b18",
+		"Teams Light": "#960b18",
+		"Teams Dark": "#960b18",
+		"Teams High Contrast": "#1aebff"
+		}]
+	}
+}

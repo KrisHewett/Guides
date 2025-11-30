@@ -1,0 +1,90 @@
+{
+    "name": "SQU_name",
+	"description": "Blank_Template",
+
+    "$schema": "file:///R:/Data Analysis and Reporting/_Resources/Scripts & Code/Libraries/metadata/_Template_Schema/SQU_Data_Schema.json",
+    "created": "2025-07-21",
+    "updated": "2025-07-21",
+    "version": "1",
+    "fields": [
+        {
+            "dataType": "string"
+        },
+        {
+            "name": "Data Set Specification Attributes"
+        },
+        {
+            "name": "Identifying and definitional attributes"
+        },
+        {
+            "name": "Metadata item type"
+        },
+        {
+            "name": "METEOR identifier"
+        },
+        {
+            "name": "Registration status"
+        },
+        {
+            "name": "DSS type"
+        },
+        {
+            "name": "Scope"
+        },
+        {
+            "name": "Collection and usage attributes"
+        },
+        {
+            "name": "Statistical unit"
+        },
+        {
+            "name": "Collection methods"
+        },
+        {
+            "name": "Implementation start date"
+        },
+        {
+            "name": "Implementation end date"
+        },
+        {
+            "name": "Comments"
+        },
+        {
+            "name": "Source and reference attributes"
+        },
+        {
+            "name": "Submitting organisation"
+        },
+        {
+            "name": "Relational attributes"
+        },
+        {
+            "name": "Related metadata references"
+        },
+        {
+            "name": "Metadata items in this Data Set Specification"
+        },
+        {
+            "name": "Seq No."
+        },
+        {
+            "name": "Metadata item"
+        },
+        {
+            "name": "Obligation"
+        },
+        {
+            "name": "Max occurs"
+        },
+        {
+            "name": "Registry management attributes"
+        },
+        {
+            "name": "Created date/time"
+        },
+        {
+            "name": "Last updated date/time"
+        }
+    ],
+    "references": []
+}

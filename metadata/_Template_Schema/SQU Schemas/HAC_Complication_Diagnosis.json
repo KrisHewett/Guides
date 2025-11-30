@@ -1,0 +1,288 @@
+
+{
+"Name": "HAC_Complication_Diagnosis",
+"Type": "DataSet_Specifications"
+
+"Complication": {
+		["order": Int],
+		["name": String]
+
+		"Diagnosis": {
+			"order": ["order": Int],
+			"order": ["name": String]
+		}
+	}
+
+"Complication": 
+	{
+	"order": 1,
+	"name": "Pressure injury",
+	"Diagnosis":
+		{
+		"order": 1,
+		"name": "Stage III ulcer"
+		},
+		{
+		"order": 2
+		"name": "Stage IV ulcer"
+		},
+		{
+		"order": 3
+		"name": "Unspecified decubitus ulcer and pressure area"
+		},
+		{
+		"order": 4
+		"name": "Unstageable pressure injury"
+		},
+		{
+		"order": 5
+		"name": "Suspected deep tissue injury"
+		}
+	},
+	{
+	"order": 2,
+	"name": "Falls resulting in fracture or intracranial injury",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Intracranial injury"
+		},
+		{
+		"order": 2
+		"name": "Fractured neck of femur"
+		},
+		{
+		"order": 3
+		"name": "Other fractures"
+		}
+	},
+	{
+	"order": 3,
+	"name": "Healthcare-associated infection",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Urinary tract infection"
+		},
+		{
+		"order": 2
+		"name": "Surgical site infection"
+		},
+		{
+		"order": 3
+		"name": "Pneumonia"
+		},
+		{
+		"order": 4
+		"name": "Blood stream infection"
+		},
+		{
+		"order": 5
+		"name": "Infections or inflammatory complications associated with peripheral/central venous catheters"
+		},
+		{
+		"order": 6
+		"name": "Multi-resistant organism"
+		},
+		{
+		"order": 7
+		"name": "Infection associated with prosthetics/implantable devices"
+		},
+		{
+		"order": 8
+		"name": "Gastrointestinal infections"
+		},
+		{
+		"order": 9
+		"name": "Other high impact infections"
+		}
+	},
+	{
+	"order": 4,
+	"name": "Surgical complications requiring unplanned return to theatre",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Post-operative haemorrhage/haematoma requiring transfusion and/or return to theatre"
+		},
+		{
+		"order": 2
+		"name": "Surgical wound dehiscence"
+		},
+		{
+		"order": 3
+		"name": "Anastomotic leak"
+		},
+		{
+		"order": 4
+		"name": "Vascular graft failure"
+		},
+		{
+		"order": 5
+		"name": "Other surgical complications requiring unplanned return to theatre"
+		}
+	},
+	{
+	"order": 5,
+	"name": "Unplanned intensive care unit admission",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Unplanned admission to intensive care unit"
+		}
+	},
+	{
+	"order": 6,
+	"name": "Respiratory complications",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Respiratory failure including acute respiratory distress syndrome requiring ventilation"
+		},
+		{
+		"order": 2
+		"name": "Aspiration pneumonia"
+		},
+		{
+		"order": 3
+		"name": "Pulmonary oedema"
+		}
+	},
+	{
+	"order": 7,
+	"name": "Venousthromboembolism",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Pulmonary embolism"
+		},
+		{
+		"order": 2
+		"name": "Deep vein thrombosis"
+		}
+	},
+	{
+	"order": 8,
+	"name": "Renal failure",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Renal failure requiring haemodialysis or continuous veno-venous haemodialysis"
+		},
+		{
+		}
+	},
+	{
+	"order": 9,
+	"name": "Gastrointestinal bleeding",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Gastrointestinal bleeding"
+		}
+	},
+	{
+	"order": 10,
+	"name": "Medication complications",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Drug related respiratory complications/depression"
+		},
+		{
+		"order": 2
+		"name": "Haemorrhagic disorder due to circulating anticoagulants"
+		},
+		{
+		"order": 3
+		"name": "Movement disorders due to psychotropic medication"
+		},
+		{
+		"order": 4
+		"name": "Serious alteration to conscious state due to psychotropic medication"
+		}
+	},
+	{
+	"order": 11,
+	"name": "Delirium",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Delirium"
+		}
+	},
+	{
+	"order": 12,
+	"name": "Incontinence",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Urinary incontinence"
+		},
+		{
+		"order": 2
+		"name": "Faecal incontinence"
+		}
+	},
+	{
+	"order": 13,
+	"name": "Endocrine complications",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Malnutrition"
+		},
+		{
+		"order": 2
+		"name": "Hypoglycaemia"
+		}
+	},
+	{
+	"order": 14,
+	"name": "Cardiac complications",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Heart failure and pulmonary oedema"
+		},
+		{
+		"order": 2
+		"name": "Arrhythmias"
+		},
+		{
+		"order": 3
+		"name": "Cardiac arrest"
+		},
+		{
+		"order": 4
+		"name": "Acute coronary syndrome including unstable angina, STEMI and NSTEMI"
+		},
+		{
+		"order": 5
+		"name": "Infective endocarditis"
+		}
+	},
+	{
+	"order": 15,
+	"name": "Third and fourth degree perineal laceration during delivery",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Third and fourth degree perineal laceration during delivery"
+		}
+	},
+	{
+	"order": 16,
+	"name": "Neonatal birth trauma",
+	"Diagnosis":
+		{
+		"order": 1
+		"name": "Neonatal birth trauma"
+		},
+		{
+		"order": 2
+		"name": "Hypoxic ischaemic encephalopathy"
+		}
+	}
+}
+    

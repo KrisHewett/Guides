@@ -1,0 +1,1345 @@
+Activities and Participation cluster
+320111 | Data Set Specification | Australian Institute of Health and Welfare (AIHW) which is the Australian Collaborating Centre for the World Health Organization Family of International Classifications.
+This data cluster is one of four clusters that make up the Functioning and Disability DSS. To ensure a complete description of human functioning it is recommended that this cluster be collected along with the following three clusters over time and by a range of health and community care providers: Body functions cluster Body structures cluster Environmental factors cluster In the context of health, activity refers to the execution of a task or action by an individual, and participation refers...
+Standard: Health, Community Services (retired), Disability
+
+
+Activity and participation need for assistance cluster
+621177 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used in conjunction with each other to determine the level of assistance a person with a disability requires and the type of activity for which this assistance is needed.The Activity and participation need for assistance cluster combines the two data elements: Person—activity and participation life area, disability code N and Person—need for assistance with activities in a life area, disability code N and describes the following information: Unable to do or always needs h...
+Standard: Disability, Health
+
+
+Activity and participation need for assistance cluster (disability flag prisoner health)
+768616 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used together to assess the functional status of a person across a range of life areas, leading to a classification of 'Activity limitation' under the Standardised disability flag.The activity and participation need for assistance cluster combines the two data elements: Person—activity and participation life area, disability flag code N and Person—need for assistance with activities in a life area, disability flag prisoner health code N, to complete the following matrix: ...
+Standard: Health
+
+
+Activity based funding: Mental health care NBEDS 2025-26
+790255 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The Activity based funding: Mental health care national best endeavours data set (ABF MHC NBEDS) defines information about consumers receiving mental health care, known as mental health consumers, funded by states and territories, that is associated with Australian public hospital services.Mental health care is defined as care in which the primary clinical purpose or treatment goal is improvement in the symptoms and/or psychosocial, environmental and physical functioning related to a mental heal...
+Standard: Health
+
+
+Acute coronary syndrome (clinical) NBPDS 2013-
+523140 | Data Set Specification
+The Acute coronary syndrome (ACS) National best practice data set (NBPDS) is not mandated for collection but is recommended as best practice if ACS data are to be collected. This data set enables individual hospitals or health service areas to develop collection methods and policies appropriate for their service. The scope for the ACS NBPDS is to collect data on the period between when a person with ACS symptoms was first referred to a hospital or directly presented at a hospital, and when a per...
+Standard: Health
+
+
+Acute coronary syndrome clinical event cluster
+352671 | Data Set Specification
+The acute coronary syndrome (ACS) related clinical events are those which can negatively impact on the outcomes of a person with ACS. Information on the occurrence of these events in people with ACS is required due to an emerging appreciation of their relationship with late mortality. The clinical event cluster collects information on the timing and type of clinical events experienced during the current hospitalisation.
+Standard: Health
+
+
+Acute coronary syndrome pharmacotherapy data cluster
+351876 | Data Set Specification
+The pharmacotherapies collected in this data cluster are recommended for the management of acute coronary syndromes (ACS) in the national guidelines. The following pharmacotherapies are collected as part of this data cluster: Aspirin Angiotensin converting enzyme (ACE) inhibitor Angiotensin II receptor blocker Antithrombin Beta-blocker Clopidogrel Fibrinolytic Glycoprotein IIb/IIIa receptor antagonist Statin The pharmacotherapy cluster collects information on the type of pharmacotherapies pres...
+Standard: Health
+
+
+Address communication suppression cluster
+611161 | Data Set Specification | Australian Institute of Health and Welfare.
+The Address communication suppression cluster defines the data elements used to collect information relating to the suppression of an address, which is defined as a collection of information used for describing the location of an entity, and/or details describing how the entity can be contacted. The address may be either a physical address, such as home address, or an electronic address, such as an email address. Any physical or electronic address can be suppressed for a range of administrative,...
+Standard: Health
+
+
+Address components cluster
+611149 | Data Set Specification | Australian Institute of Health and Welfare.
+The Address components cluster defines the data elements needed to collect the components of an address, which is defined as a collection of information used for describing the location of an entity, and/or details describing how the entity can be contacted, for individuals or organisations.
+Standard: Health
+
+
+Address details (Local Hospital Networks/Public hospital establishments) cluster
+792060 | Data Set Specification | Australian Institute of Health and Welfare
+The Local Hospital Networks/Public hospital establishments address details cluster defines the data elements used to collect information pertaining to the address of the hospital establishments reported in the Local Hospital Networks/Public hospital establishments NMDS.
+Standard: Health
+
+
+Address geocode cluster
+611155 | Data Set Specification | Australian Institute of Health and Welfare.
+The Address geocode cluster defines the data elements used to collect the geocode components of an address, which is defined as a collection of information used for describing the location of an entity, and/or details describing how the entity can be contacted. Address geocoding identifies the precise geographical location of an address using a global positioning system (GPS), which is a system of satellites, computers, and receivers that is able to determine the latitude and longitude of a rece...
+Standard: Health
+
+
+Address group cluster
+611145 | Data Set Specification | Australian Institute of Health and Welfare
+The Address group cluster includes data elements that record an address, which is defined as a collection of information used for describing the location of an entity, and/or details describing how the entity can be contacted, for individuals or organisations.
+Standard: Health
+
+
+Address status cluster
+611143 | Data Set Specification | Australian Institute of Health and Welfare.
+The Address status cluster includes data elements that define whether an address is current. An address is defined as a collection of information used for describing the location of an entity, and/or details describing how the entity can be contacted.
+Standard: Health
+
+
+Admitted patient care NBEDS 2025–26
+790264 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The purpose of the Admitted patient care national best endeavours data set (APC NBEDS) is to collect information about care provided to admitted patients in Australian hospitals.The scope of the APC NBEDS is episodes of care for admitted patients in all public and private acute and psychiatric hospitals, free standing day hospital facilities and alcohol and drug treatment centres in Australia. Hospitals operated by the Australian Defence Force, corrections authorities and in Australia's off-shor...
+Standard: Health
+
+
+Admitted patient care NMDS 2025–26
+790266 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The purpose of the Admitted patient care national minimum data set (APC NMDS) is to collect information about care provided to admitted patients in Australian hospitals.The scope of the APC NMDS is episodes of care for admitted patients in all public and private acute and psychiatric hospitals, free standing day hospital facilities and alcohol and drug treatment centres in Australia. Hospitals operated by the Australian Defence Force, correctional authorities and in Australia's off-shore territo...
+Standard: Health
+
+
+Admitted subacute and non-acute hospital care NBEDS 2025–26
+790276 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The Admitted subacute and non-acute hospital care national best endeavours data set (ASNAHC NBEDS) aims to ensure national consistency in relation to defining and collecting information about care provided to subacute and non-acute admitted public and private patients in activity based funded public hospitals.Subacute care in this NBEDS is identified as admitted episodes in rehabilitation care, palliative care, geriatric evaluation and management care and psychogeriatric care.Non-acute care in t...
+Standard: Health
+
+
+Adolescent and young adult cancer (clinical) NBPDS
+599629 | Data Set Specification | Cancer Australia
+The purpose of the Adolescent and young adult cancer (clinical) National best practice data set (AYANBPDS) is to define data standards for the national collection of data for adolescents and young adults (commonly defined as a person between 15 and 29 years of age) with cancer so that data collected is consistent and reliable. It provides definitions and detailed instructions for coding cancer clinical information for adolescent and young adults with cancer and contains generic data elements for...
+Standard: Health
+
+
+Alcohol and other drug treatment services NBEDS 2025–26
+790452 | Data Set Specification | Australian Institute of Health and Welfare
+The Alcohol and other drug treatment services national best endeavours data set (NBEDS) collects and reports data nationally on a best endeavours basis.The NBEDS covers: Publicly funded government and non-government agencies providing alcohol and/or drug treatment services. This includes community-based ambulatory services and outpatient services.The following services are currently not included in the coverage:services based in prisons and other correctional institutions;agencies that provide p...
+Standard: Health
+
+
+Alcohol and other drug treatment services NMDS 2025-26
+790450 | Data Set Specification | Australian Institute of Health and Welfare
+The Alcohol and other drug treatment services national minimum data set (NMDS) is nationally mandated for collection and reporting.The NMDS covers: Publicly funded government and non-government agencies providing alcohol and/or drug treatment services. This includes community-based ambulatory services and outpatient services.The following services are currently not included in the coverage:services based in prisons and other correctional institutions;agencies that provide primarily accommodation...
+Standard: Health
+
+
+Allied health admitted patient care NBPDS
+705499 | Data Set Specification | Allied Health Professions Australia
+The scope of the Allied health admitted patient care National best practice data set (AHAPC NBPDS) is to collect information on all episodes of care for admitted patients which include allied health service events in public hospitals. The AHAPC NBPDS uses many of the data elements from the Admitted patient care National minimum data set but is considered a standalone NBPDS as it collects information on allied health service events during admitted patient episodes of care. Included in this data s...
+Standard: Health
+
+
+Allied health assessment cluster
+708009 | Data Set Specification | Allied Health Professions Australia
+The scope of the allied health assessment cluster is to collect information on allied health assessment types, measures and results which occur during an allied health service event. During a service event the allied health service provider may perform and record one or more evaluation or appraisal activities, known as an assessment, objective test or measurable activity. A combination of allied health assessment type, measures and results fields represent a discrete assessment, and may lead the...
+Standard: Health
+
+
+Allied health non-admitted patient emergency department NBPDS
+705494 | Data Set Specification | Allied Health Professions Australia
+The scope of the Allied health non-admitted patient emergency department national best practice data set (AHNAPED NBPDS) is to collect information on emergency department stays which include allied health service events in public hospitals where the emergency department meets the following criteria: purposely designed and equipped area with designated assessment, treatment and resuscitation areas ability to provide resuscitation, stabilisation and initial management of all emergencies availa...
+Standard: Health
+
+
+Allied health non-admitted patient NBPDS
+705642 | Data Set Specification | Allied Health Professions Australia
+The scope of the Allied health non-admitted patient National best practice data set (AHNAP NBPDS) is to collect information on the provision of allied health service events to non-admitted patients in the public sector. The AHNAP NBPDS uses many of the data elements from the Non-admitted patient National best endeavours data set (NAP NBEDS) but is considered a standalone NBPDS as it relates specifically to allied health services. The scope includes the provision of allied health service events t...
+Standard: Health
+
+
+Allied health non-individual patient attributable and clinical support activity NBPDS
+705789 | Data Set Specification | Allied Health Professions Australia
+The scope of the Allied Health Non-Individual Patient Attributable (NIPA) and Clinical Support Activity (CSA) National Best Practice Data Set (AHNIPA&CSA NBPDS) is to collect daily allied health activity data that is not able to be attributed to a single patient or is an activity that is not related to the delivery of clinical care. Included in this data set is the allied health service provider’s activity that is non-individual patient attributable or not related to the delivery of clinical...
+Standard: Health
+
+
+AUDIT score for risky alcohol consumption cluster
+698371 | Data Set Specification | Australian Institute of Health and Welfare
+This data cluster is used to provide a score on the World Health Organization's Alcohol Use Disorders Identification Test (AUDIT) screening instrument. The data elements in this cluster relate to alcohol use in the last 12 months only. The AUDIT is a reliable and simple screening tool which is sensitive to the early detection of risky and high-risk (or hazardous and harmful) drinking.
+Standard: Health
+
+
+AUDIT-C score of risky alcohol consumption cluster (dischargee)
+696837 | Data Set Specification | Australian Institute of Health and Welfare
+The AUDIT-C score of risky alcohol consumption cluster (dischargee) is used to provide a score on the World Health Organization's Alcohol Use Disorders Identification Test-C (AUDIT-C) screening instrument. The data elements in this cluster relate to alcohol use prior to most recent imprisonment only. The AUDIT-C is a reliable and simple screening tool which is sensitive to the early detection of risky and high-risk (or hazardous and harmful) drinking. The AUDIT-C is a subset of the AUDIT.
+Standard: Health
+
+
+Biometric identifiers cluster
+529504 | Data Set Specification | Australian Institute of Health and Welfare
+The Biometric identifiers cluster includes data elements that define information on the use of biometric identifiers and the type of biometric identification used. Biometric capture devices record the unique biological characteristics of an individual in order to identify a person.
+Standard: Health
+
+
+Body functions cluster
+320117 | Data Set Specification | Australian Institute of Health and Welfare (AIHW) which is the Australian Collaborating Centre for the World Health Organization Family of International Classifications.
+This data cluster is one of four clusters that make up the Functioning and Disability DSS. To ensure a complete description of human functioning it is recommended that it be collected along with the following three clusters over time and by a range of health and community care providers: Body Structures cluster Activities and Participation cluster Environmental factors cluster Body functions are the physiological functions of body systems (including psychological functions). The term 'body'...
+Standard: Health, Community Services (retired), Disability
+
+
+Body structures cluster
+320151 | Data Set Specification | Australian Institute of Health and Welfare (AIHW) which is the Australian Collaborating Centre for the World Health Organization Family of International Classifications.
+This data cluster is one of four clusters that make up the Functioning and Disability DSS. To ensure a complete description of human functioning it is recommended that this cluster be collected along with the following three clusters over time and by a range of health and community care providers: Body functions cluster Activities and participation cluster Environmental factors cluster Body structures are anatomical parts of the body such as organs, limbs and their components. The Body struc...
+Standard: Health, Community Services (retired), Disability
+
+
+Bowel cancer diagnosed cluster
+801393 | Data Set Specification | Australian Institute of Health and Welfare
+The Bowel cancer diagnosed cluster comprises a set of standardised data definitions used for monitoring people that have received a bowel cancer diagnosis.This metadata set is not mandated for collection, i.e. it reflects best practice when collecting data in relation to bowel screening rather than a nationally mandated set of data items that must be provided.It is intended to be used by the National Cancer Screening Register. It can also be used by a wider range of health and health-related pro...
+Standard: Health
+
+
+Bowel cancer diagnostic assessment cluster
+803566 | Data Set Specification | Australian Institute of Health and Welfare
+The Bowel cancer diagnostic assessment cluster comprises a set of standardised data definitions used for monitoring the National Bowel Cancer Screening Program (NBCSP). This cluster includes information on people who participated in the NBCSP and received a positive screening result and then had a cancer diagnostic assessment.This metadata set is not mandated for collection, i.e. it reflects best practice when collecting data in relation to bowel screening rather than a nationally mandated set o...
+Standard: Health
+
+
+Bowel cancer screening test cluster
+732539 | Data Set Specification | Australian Institute of Health and Welfare
+The Bowel cancer screening test cluster comprises a set of standardised data definitions used for monitoring the National Bowel Cancer Screening Program (NBCSP). This cluster includes information on people who participated in the NBCSP and undertook a disease screening test. This metadata set is not mandated for collection, i.e. it reflects best practice when collecting data in relation to bowel screening rather than a nationally mandated set of data items that must be provided. It is intended t...
+Standard: Health
+
+
+Breast cancer (cancer registries) NBPDS
+491771 | Data Set Specification | National Breast and Ovarian Cancer centre (NBOCC), Australasian Association of Cancer Registries (AACR), Australian Institute of Health and Welfare (AIHW)
+This breast cancer data set is not mandated for collection but is recommended as best practice if breast cancer data are to be collected. The data set would allow common, consistent and high quality breast cancer data to be collected by State and Territory cancer registries and collated nationally. This data will help inform research, policy, planning and guideline development work in the breast cancer area. Breast cancer may be used as a forerunner for other cancers in terms of establishing com...
+Standard: Health
+
+
+Cancer (clinical) NBPDS
+597861 | Data Set Specification | Cancer Australia
+The purpose of the Cancer (clinical) National best practice data set (NBPDS) is to define data standards for the national collection of clinical cancer data so that data collected is consistent and reliable. Collection of this data set is not mandated but it is recommended as best practice if clinical cancer data are to be collected. It will facilitate more consistent data collection while enabling individual treatment centres or health service areas to develop data extraction and collection pro...
+Standard: Health
+
+
+Cardiovascular disease (clinical) NBPDS
+697668 | Data Set Specification
+The collection of cardiovascular data (CV-Data) in this data set is voluntary. The definitions used in CV-Data are designed to underpin the data collected by health professionals in their day-to-day practice. They relate to the realities of a clinical consultation and the ongoing nature of care and relationships that are formed between doctors and patients in clinical practice. The data elements specified in this data set provide a framework for: promoting the delivery of high quality cardiova...
+Standard: Health
+
+
+Care coordination mental health service type cluster
+494839 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Care coordination activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Chemotherapy for cancer cluster
+561228 | Data Set Specification | Cancer Australia
+Chemotherapy is cancer treatment that achieves its antitumour effect through the use of antineoplastic drugs that inhibit the reproduction of cancer cells by interfering with DNA synthesis and mitosis. The chemotherapy cluster consists of those data elements recommended for collection as best practice when the patient is administered chemotherapy as part of the course of treatment for cancer. The chemotherapy cluster collects information on the chemotherapy agent or protocol, the number of cycle...
+Standard: Health
+
+
+Chronic condition cluster
+761694 | Data Set Specification | Australian Institute of Health and Welfare
+The Chronic condition cluster defines:the number of prison entrants who have ever been told that they have either asthma, cancer, cardiovascular disease, arthritis, diabetes, back problems, pulmonary disease, chronic kidney disease or osteoporosis and;the number of prison entrants who currently have at least one of the above listed chronic conditions.
+Standard: Health
+
+
+Collection of locality, postcode and state/territory for SEIFA cluster
+528146 | Data Set Specification
+This cluster contains three data elements which, if collected together, enable data to be mapped to Statistical Areal Level 2 (SA2) or Statistical Local Area (SLA) geographic unit which can be examined on the SEIFA indexes to ascertain a SEIFA score for a geographic area which is a measure of the collective socio-economic status of the people living in the area. The collection of information about a person's or service provider organisation's locality, postcode and state/territory enables the ge...
+Standard: Health
+Superseded: Early Childhood
+
+
+Community mental health care NMDS 2025–26
+790455 | Data Set Specification | Australian Institute of Health and Welfare
+The Community mental health care national minimum data set (CMHC NMDS) includes data about mental health service contacts provided by specialised mental health services for patients/clients in the community; that is patients/clients not admitted to admitted patient mental health care services or residential mental health care services.The scope includes:ambulatory mental health care provided by service units covering all target populations.The scope excludes:all care to admitted patients, includ...
+Standard: Health
+
+
+Computer Assisted Telephone Interview demographic module NBPDS
+374218 | Data Set Specification | National Public Health Information Working Group.
+Key demographic set for use in Computer Assisted Telephone Interviewing (CATI) health surveys. It is intended to be used by anyone conducting population health surveys using the CATI mode, such as State/Territory government health agencies. This data set is to standardise demographic collection in all CATI surveys of health topics, such as CATI asthma and CATI diabetes surveys. The standardisation of the collection of health survey data is a major focus of the National Public Health Partnership ...
+Standard: Health
+
+
+Congenital anomalies cluster
+794614 | Data Set Specification | Australian Institute of Health and Welfare
+The Congenital anomalies cluster defines the data elements which are to be used together to collect information on congenital anomalies present at birth (both live births and stillbirths), and on those related to terminations of pregnancy that are terminated due to a congenital anomaly.Data elements in the Congenital anomalies cluster are recorded only for the baby (product of conception) with a congenital anomaly. A baby may have multiple congenital anomalies, diagnosed at different times. This...
+Standard: Health
+
+
+Coronary artery cluster
+352651 | Data Set Specification
+This cluster collects information on the characteristics of and interventions performed for the coronary arteries during the current hospitalisation. The coronary arteries included in this cluster are: Left anterior descending coronary artery Inferior surface artery Left circumflex coronary artery Diagonal coronary artery Left main coronary artery Posterior descending artery Right coronary artery
+Standard: Health
+
+
+Counselling, support, information and referral—online mental health service type cluster
+494818 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Counselling, support, information and referral—online activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Counselling, support, information and referral—telephone mental health service type cluster
+494816 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Counselling, support, information and referral—telephone activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Counselling—face-to-face mental health service type cluster
+494740 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Counselling—face to face activities in a mental health non-government organisation service.
+Standard: Health
+
+
+COVID-19 vaccination status cluster (Prison dischargee)
+776806 | Data Set Specification | Australian Institute of Health and Welfare
+The COVID-19 vaccination status cluster defines the number of vaccinations against the coronavirus disease caused by the SARS-CoV-2 virus received by people released from prison, disaggregated by sex and Indigenous status.
+Standard: Health
+
+
+COVID-19 vaccination status cluster (Prison entrant)
+769526 | Data Set Specification | Australian Institute of Health and Welfare
+The COVID-19 vaccination status cluster defines the number of vaccinations against the coronavirus disease caused by the SARS-CoV-2 virus received by people entering prison, disaggregated by sex and Indigenous status.
+Standard: Health
+
+
+Dementia clinical diagnosis cluster
+737891 | Data Set Specification | Australian Institute of Health and Welfare
+The Dementia clinical diagnosis cluster defines data elements used to collect information on a person clinically diagnosed with dementia and where a relevant clinician is reporting the diagnosis.Self-reported or survey responses are out of scope for this cluster.
+Standard: Health
+
+
+Dementia NBPDS
+737872 | Data Set Specification | Australian Institute of Health and Welfare
+The Dementia National Best Practice Data Set (NBPDS) aims to ensure national consistency in relation to defining and recording information on people with dementia and their carers across the health, aged care and social welfare sectors, including:Aged care service providersAllied healthCognitive and memory clinicsCommunity careDisability service providersGeneral practiceMental healthPublic healthSpecialists in private practiceThe Dementia NBPDS provides concise and unambiguous definitions for it...
+Standard: Health
+
+
+Dependent children by age cluster
+768841 | Data Set Specification | Australian Institute of Health and Welfare
+The Dependent children by age cluster defines the number of all the dependent children by age group a person had before coming to prison.
+Standard: Health
+
+
+Diabetes (clinical) NBPDS
+304865 | Data Set Specification | National Diabetes Data Working Group
+The use of this standard is voluntary. However, if data is to be collected the Diabetes (clinical) National Best Practice Data Set (NBPDS) aims to ensure national consistency in relation to defining, monitoring and recording information on patients diagnosed with diabetes. The Diabetes (clinical) NBPDS relates to the clinical status of, the provision of services for, and the quality of care delivered to individuals with diabetes, across all health care settings including: General Practitioners...
+Standard: Health
+
+
+Diagnosis array (ICD-10-AM Thirteenth Edition)
+799088 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The diagnosis array identifies:a condition (a diagnosis, symptom, injury, external cause or other factor identified using a diagnosis code from International Statistical Classification of Diseases and Related Health Problems, Tenth Revision, Australian Modification, Thirteenth Edition (ICD-10-AM)),the onset of the condition (identified using the condition onset flag)whether the condition relates to another diagnosis code (identified using a diagnosis cluster identifier)
+Standard: Health
+
+
+Duplicate record cluster
+638741 | Data Set Specification | Australian Institute of Health and Welfare
+The Duplicate record cluster includes data elements that define multiple identifiers for a single entity. This cluster also describes information about the organisation or individual provider which confirms the existence of duplicate records and the date this confirmation occurs.
+Standard: Health
+
+
+Education qualification cluster
+767815 | Data Set Specification | Australian Institute of Health and Welfare
+The Education qualification cluster defines the level of educational qualification studied by a prisoner whilst in prison and whether the qualification was started, finished or unknown in prison.
+Standard: Health
+
+
+Education, employment and training mental health service type cluster
+494843 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Education, employment and training activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Elective surgery waiting times cluster
+792047 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Elective surgery waiting times data element cluster is patients on elective surgery waiting lists managed by public acute hospitals, in either category 1 or 2 of the data element Elective surgery waiting list episode—reason for removal from a waiting list, code N.This will include private patients treated in public hospitals, and may include public patients treated in private hospitals.Hospitals may also collect information for other care (as defined in the data element Elective...
+Standard: Health
+
+
+Elective surgery waiting times NMDS 2025–26
+790457 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of this national minimum data set (NMDS) is patients on, or removed from, elective surgery waiting lists, as defined in the Elective care waiting list episode—elective care type, code N data element (also known as 'waiting list category'), which are managed by public acute hospitals and/or state and territory health authorities. For those patients admitted to hospital, neither the patient's election status nor the hospital type where the patient is admitted, is material.From 2016–17 on...
+Standard: Health
+
+
+Electrocardiogram cluster
+351884 | Data Set Specification
+An electrocardiogram (ECG) measures the electrical activity of the heart over time. The evaluation of an ECG provides important diagnostic information relevant to the risk stratification, diagnosis and management of acute coronary syndromes. The electrocardiogram cluster collects information on the timing of each ECG and specific diagnostic characteristics determined from the ECG:• ECG change type and location• Bundle-branch block status• Q waves status• ST-segment elevation in lead V4R
+Standard: Health
+
+
+Electronic address cluster
+611164 | Data Set Specification | Australian Institute of Health and Welfare
+The Electronic address cluster defines the data elements used to collect the electronic communication contact details for individuals and organisations. Examples of electronic communication contact details include telephone numbers, email addresses, voice over Internet Protocol (VoIP) names, and social networking contact information—all of which are referred to as electronic communication addresses.
+Standard: Health
+
+
+Emergency service care aggregate NBEDS 2025–26
+790280 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The scope of the Emergency services care aggregate national best endeavours data set (ESCA NBEDS) is care provided to patients in emergency services located in activity based funded (ABF) hospitals which do not meet all of the following criteria:purposely designed and equipped area with designated assessment, treatment and resuscitation areasability to provide resuscitation, stabilisation and initial management of all emergenciesavailability of medical staff in the hospital 24 hours a daydesigna...
+Standard: Health
+
+
+Emergency service care NBEDS 2025–26
+790278 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The scope of the Emergency service care national best endeavours data set (ESC NBEDS) is care provided to patients in emergency services located in activity based funded hospitals which do not meet all of the following criteria:purposely designed and equipped area with designated assessment, treatment and resuscitation areasability to provide resuscitation, stabilisation and initial management of all emergenciesavailability of medical staff in the hospital 24 hours a daydesignated emergency depa...
+Standard: Health
+
+
+Environmental factors cluster
+320195 | Data Set Specification | Australian Institute of Health and Welfare (AIHW) which is the Australian Collaborating Centre for the World Health Organization Family of International Classifications.
+This data cluster is one of four clusters that make up the Functioning and Disability DSS. To ensure a complete description of human functioning it is recommended that this cluster be collected along with the following three clusters over time and by a range of health and community care providers: Body functions cluster Body structures cluster Activities and participation cluster Environmental factors make up the physical, social and attitudinal environment in which people live and conduct t...
+Standard: Health, Community Services (retired), Disability
+
+
+Family and carer support mental health service type cluster
+494834 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Family and carer support activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Full-time equivalent prison staff cluster
+624222 | Data Set Specification | Australian Institute of Health and Welfare
+The Full-time equivalent prison staff cluster defines the number of full-time equivalent health staff working within a prison.
+Standard: Health
+
+
+Full-time equivalent staffing data element cluster
+616025 | Data Set Specification | Australian Institute of Health and Welfare.
+These data elements are used in conjunction with each other to describe full-time equivalent staff in establishments.
+Standard: Health
+
+
+Functional stress test cluster
+351878 | Data Set Specification
+A functional stress test evaluates arterial blood flow to the heart muscle during increased cardiac work through physical exercise or pharmacological methods. The functional stress test cluster collects information on the timing, characteristics and results of a functional stress test performed during the current hospital presentation.
+Standard: Health
+
+
+Functioning and Disability DSS
+320319 | Data Set Specification | Australian Institute of Health and Welfare
+The Functioning and Disability DSS aims to ensure national consistency in relation to defining and measuring human functioning and disability. This DSS has been developed to be consistent with the International Classification of Functioning, Disability and Health (ICF).Functioning and disability are dual concepts in a broad framework.Functioning is the umbrella term for any or all of: body functions, body structures, activities and participation. Functioning is a multidimensional concept denotin...
+Standard: Health, Community Services (retired), Disability
+
+
+Government health expenditure function revenue data element cluster
+542004 | Data Set Specification | Health Expenditure Advisory Committee
+The scope of this data cluster is revenue relating to direct government and government-funded expenditure on health and health–related goods and services or non-health care goods and services to support these activities.
+Standard: Health
+
+
+Government health expenditure NMDS 2022–
+791847 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Government health expenditure national minimum data set (GHE NMDS) is direct government and government-funded expenditure on health and health-related goods and services.The purpose of the GHE NMDS is to provide an enhanced understanding of the overall financial resources (recurrent and capital) used by the health system, and of unit costs and performance; to enable greater comparability of health expenditure data between jurisdictions and over time; and to provide a more effici...
+Standard: Health
+
+
+Government health expenditure organisation expenditure capital consumption data element cluster
+791839 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of this data cluster is direct government and government-funded expenditure by a health industry relevant organisation consisting of consumption of fixed capital (depreciation). These are all either health and health–related goods and services or non-health care goods and services to support the health industry relevant organisation’s activities.
+Standard: Health
+
+
+Government health expenditure organisation expenditure employee related data element cluster
+542014 | Data Set Specification
+The scope of this data cluster is direct government and government-funded expenditure by a health industry relevant organisation consisting mainly of wages, salaries and supplements, superannuation employer contributions, and workers compensation premiums and payouts. These are all either health and health–related goods and services or non-health care goods and services to support the health industry relevant organisation’s activities.
+Standard: Health
+
+
+Government health expenditure organisation expenditure purchase of goods and services data element cluster
+541976 | Data Set Specification
+The scope of this data cluster is direct government and government-funded expenditure by a health industry relevant organisation consisting mainly of purchases of goods and services. These are all either health and health–related goods and services or non-health care goods and services to support the health industry relevant organisation's activities.
+Standard: Health
+
+
+Government health expenditure organisation revenue data element cluster
+791803 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of this data cluster is revenue relating to direct government and government-funded expenditure by a health industry relevant organisation.
+Standard: Health
+
+
+Government health expenditure organisation total gross expenditure data element cluster
+791851 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of this data cluster is direct government and government-funded expenditure by a health industry relevant organisation consisting mainly of wages, salaries and supplements, superannuation employer contributions, workers compensation premiums and payouts, purchases of goods and services and consumption of fixed capital (depreciation). These are all either health and health–related goods and services or non-health care goods and services to support the health industry relevant organisati...
+Standard: Health
+
+
+Group support activities mental health service type cluster
+494822 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Group support activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Gynaecological cancer (clinical) NBPDS
+599620 | Data Set Specification | Cancer Australia
+The purpose of the Gynaecological cancer (clinical) National best practice data set (NBPDS) is to define data standards for the national collection of gynaecological cancer data so that data collected is consistent and reliable. The data set is not mandated for collection but is recommended as best practice if gynaecological cancer data is to be collected. It enables individual treatment centres or health service areas to develop collection methods and policies appropriate for their service. The...
+Standard: Health
+
+
+Hand hygiene moments type observed cluster
+768689 | Data Set Specification | Australian Institute of Health and Welfare
+The Hand hygiene moments type observed cluster describes the number of hand hygiene moments observed, by their type.
+Standard: Health
+
+
+Hand hygiene NBEDS 2023–
+789327 | Data Set Specification | Australian Institute of Health and Welfare
+The Hand hygiene national best endeavours data set (HH NBEDS) aims to support national monitoring of hand hygiene moments in public hospitals.Hand hygiene assists in preventing the spread of infections acquired as a direct or indirect result of health care.The scope for this NBEDS is all public hospitals, including those defined as public psychiatric hospitals in the Local Hospital Networks/Public hospital establishments national minimum data set. All types of public hospitals are included, focu...
+Standard: Health
+
+
+Health service non-utilisation cluster
+768606 | Data Set Specification | Australian Institute of Health and Welfare
+The Health service non-utilisation cluster defines the non-utilisation of health services in the community and in prison by prison entrants in the last 12 months; and provides a greater understanding of the health seeking behaviours of prison entrants.
+Standard: Health
+
+
+Health service non-utilisation reason cluster
+697267 | Data Set Specification | Australian Institute of Health and Welfare
+The Health service non-utilisation reason cluster defines the reason for non-utilisation of health services in the community by prison entrants in the last 12 months; and provides a greater understanding of the health seeking behaviours of prison entrants.
+Standard: Health
+
+
+Health service utilisation cluster
+768604 | Data Set Specification | Australian Institute of Health and Welfare
+The Health service utilisation cluster defines the utilisation of health services in the community and in prison by prison entrants in the last 12 months; and provides a greater understanding of the health seeking behaviours of prison entrants.
+Standard: Health
+
+
+Healthcare identification occupation cluster
+523815 | Data Set Specification | Australian Institute of Health and Welfare
+The Healthcare identification occupation cluster includes data elements that define information on an individual provider's professional field of practice, profession number and date of commencement in the health profession.
+Standard: Health
+
+
+Healthcare provider organisation cluster
+529509 | Data Set Specification | Australian Institute of Health and Welfare
+The Healthcare provider organisation cluster defines the data elements commonly used to identify organisations that provide healthcare. These are not individuals, and as such these organisations require their own names and identifiers, addresses and contact information. There are national identifiers of healthcare provider organisations, but also identifiers within jurisdictions and other organisations. The scope of organisational identifiers in this cluster include: Healthcare Provider Identi...
+Standard: Health
+
+
+Healthcare provider qualification and registration cluster
+522900 | Data Set Specification | Australian Institute of Health and Welfare
+The Healthcare provider qualification and registration cluster contains data elements that define the additional information needed to represent a healthcare provider. This includes information about the provider's professional registration, field(s) of practice, any practice limitations and practice details. This cluster supports the identification of individual healthcare providers in healthcare systems generally, but also supports professional registration. The data elements within the cluste...
+Standard: Health
+
+
+Healthcare worker hand hygiene moments cluster
+768687 | Data Set Specification | Australian Institute of Health and Welfare
+The Healthcare worker hand hygiene moments cluster describes the total hand hygiene moments and total compliant hand hygiene moments, by the type of healthcare worker.
+Standard: Health
+
+
+Healthcare-associated infections NBEDS 2025–
+792055 | Data Set Specification | Australian Institute of Health and Welfare
+The purpose of the Healthcare-associated infections National best endeavours data set (HAI NBEDS) is to support national monitoring of healthcare-associated infections (HAIs), including Staphylococcus aureus bloodstream infection (SABSI), in public hospitals.HAIs are infections acquired as a direct or indirect result of health care.HAIs are infections acquired in healthcare facilities ('nosocomial' infections) and infections that occur as a result of healthcare interventions ('iatrogenic' infect...
+Standard: Health
+
+
+High priority hospital complications (patient clinical deterioration) NBPDS 2015-
+586966 | Data Set Specification | Australian Commission on Safety and Quality in Health Care/Australian Institute of Health and Welfare
+The High priority hospital complications (patient clinical deterioration) National best practice data set (NBPDS) 2015- covers 3 types of events where unplanned urgent care is provided to admitted hospital patients. The 3 types of events involve: unplanned returns to the operating theatre unplanned admissions to the Intensive Care Unit (ICU) hospital rapid response team (RRT) calls. This NBPDS is designed for use at the local hospital level to assist in hospitals' monitoring of the safety ...
+Standard: Health
+
+
+Hormone therapy for cancer cluster
+561324 | Data Set Specification | Cancer Australia
+Hormone therapy is cancer treatment that achieves its antitumour effect through changes in hormonal balance. It includes the administration of hormones, agents acting via hormonal mechanisms, antihormones and steroids. The hormone therapy cluster consists of those data elements recommended for collection as best practice when the patient is administered hormone therapy as part of the course of treatment for cancer. The hormone therapy cluster collects information on the hormone therapy agent or ...
+Standard: Health
+
+
+Hospital rapid response calls cluster
+593582 | Data Set Specification | Australian Commission for Safety and Quality in Health Care/Australian Institute of Health and Welfare
+The scope of the Hospital rapid response calls cluster is all rapid response calls for patients admitted to hospital. Hospital rapid response calls are part of a formal rapid response system designed to alert and call a team of designated staff for help when a patient's vital signs have fallen outside set criteria. A hospital's rapid response team(s) may be specialised in its training for the situations to respond to (for instance, a cardiac arrest team) or its composition (for instance, teams m...
+Standard: Health
+
+
+Hospital teaching and training activities cluster
+731538 | Data Set Specification | Independent Hospital Pricing Authority
+The Hospital teaching and training activities cluster describes teaching and training activity funded by the states and territories and undertaken within a public hospital service. The scope of the cluster is establishment or Local Hospital Network level data on teaching and training activities which occur in activity based funded hospitals.
+Standard: Health
+
+
+Hospital teaching, training and research activities NBEDS 2025–26
+790282 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The purpose of the Hospital teaching, training and research activities national best endeavours data set (NBEDS) is to define information about teaching, training and research activities, funded by the states and territories, that are associated with Australian public hospital services. The scope of the NBEDS is establishment and Local Hospital Network level data on teaching, training and research activities which occur in public hospital services.For the purposes of this NBEDS, the term 'teachi...
+Standard: Health
+
+
+Hospital transfer cluster
+696756 | Data Set Specification | Australian Institute of Health and Welfare
+The Hospital transfer cluster defines the number of planned and unplanned transfers between prison and a community-based hospital during the National Prisoner Health Data Collection period.
+Standard: Health
+
+
+Identification in healthcare cluster
+611321 | Data Set Specification | Australian Institute of Health and Welfare
+The identification of individuals and healthcare providers requires identifiers that are created for a specific purpose as well as other identifying information to support healthcare needs. The Identification in healthcare cluster includes data elements that define information about the identifier, such as its designation (that is, the unique number or code assigned to an entity in healthcare); the way the identifier is to be used; the issuer of the identifier; and whether the identifier is for ...
+Standard: Health
+
+
+Immunotherapy for cancer cluster
+561356 | Data Set Specification | Cancer Australia
+Immunotherapy, also known as biological therapy, biotherapy or biological response modifier therapy, is cancer treatment that achieves its antitumour effect by altering the immune system or changing the host's response to the tumour cells. The immunotherapy cluster consists of those data elements recommended for collection as best practice when the patient is administered immunotherapy as part of the course of treatment for cancer. The immunotherapy cluster collects information on the immunother...
+Standard: Health
+
+
+Incarceration history cluster
+697404 | Data Set Specification | Australian Institute of Health and Welfare
+The Incarceration history cluster defines a prison entrant's incarceration history.
+Standard: Health
+
+
+Individual advocacy mental health service type cluster
+494837 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Individual advocacy activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Individual demographic identifiers cluster
+528542 | Data Set Specification | Australian Institute of Health and Welfare
+The Individual demographic identifiers cluster defines the data elements that may be used, where relevant, to maximise the likelihood of positive identification of an individual. These data elements should only be collected where required for the identification of the person or provider.
+Standard: Health
+
+
+Individual Healthcare Identifier NBEDS 2025-26
+790269 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The scope of the Individual Healthcare Identifier (IHI) national best endeavours data set (NBEDS) is episodes of care for patients reported against health metadata sets (including national minimum data sets (NMDSs) and NBEDSs) provided by states and territories to the Independent Health and Aged Care Pricing Authority (IHACPA).
+Standard: Health
+
+
+Individual name cluster
+528153 | Data Set Specification | Australian Institute of Health and Welfare
+The Individual name cluster includes data elements that in combination define an individual's name. An individual’s name consists of the following components: name title, given name, family name, family name prefix and name suffix.
+Standard: Health
+
+
+Injury surveillance NBPDS 2013-
+516747 | Data Set Specification | National Health Information Group
+The scope of this minimum data set is patient level data from selected emergency departments of hospitals and other settings.
+Standard: Health
+
+
+Intertwined record cluster
+638713 | Data Set Specification | Australian Institute of Health and Welfare
+The Intertwined record cluster includes data elements that define the situation where more than one entity shares the same identifier. This cluster also describes information about the organisation or individual provider which confirms the existence of intertwined records and the date this confirmation occurs.
+Standard: Health
+
+
+K10 Screening Scale for Psychological Distress last 4 weeks cluster
+739333 | Data Set Specification | Australian Institute of Health and Welfare
+This cluster collects information about self-report of global measure of "non-specific psycho-social distress" based on questions about the level of nervousness, agitation, psychological fatigue, and depression in the last 4 weeks. It includes the 10 questions specified in the K10 as well as 4 additional, supplementary questions (K10+). The K10+ is a follow-up questionnaire which is intended to show change in consumer outcomes since the initial K10 questionnaire was administered.
+Standard: Health
+
+
+Labour force status cluster
+383452 | Data Set Specification | Australian Institute of Health and Welfare
+All health professionals renewing their registration with the Australian Health Practitioner Regulation Agency.
+Standard: Health
+
+
+Leave and hospital-in-the-home care NBEDS 2025-26
+790459 | Data Set Specification | Department of Health, Disability and Ageing
+The scope of the Leave and hospital-in-the-home care national best endeavours data set (LHITH NBEDS) is periods of formal absences from care facilities within episodes of admitted patient care. Only episodes of admitted patient care within public hospitals and publicly funded episodes of admitted care within private hospitals are included.An absence from a care facility is defined as a period of leave or hospital-in-the-home care (HITH), including part-day leave and part-day HITH.
+Standard: Health
+
+
+Local Hospital Networks/Public hospital establishments NMDS 2025–26
+790461 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Local Hospital Networks/Public hospital establishments national minimum data set (LHN/PHE NMDS) includes three levels of hierarchical reporting:The Public hospital establishments (PHE) component includes establishment-level data for public acute and psychiatric hospitals, and alcohol and drug treatment centres. Hospitals specialising in dental, ophthalmic aids and other specialised acute medical or surgical care are also included in PHE. Hospitals operated by the Australian Defe...
+Standard: Health
+
+
+Lung cancer (clinical) NBPDS
+599613 | Data Set Specification | Cancer Australia
+The purpose of the Lung cancer (clinical) National best practice data set (NBPDS) is to define data standards for the national collection of lung cancer clinical data so that data collected is consistent and reliable. Collection of this data set is not mandated but it is recommended as best practice if clinical cancer data are to be collected. It will facilitate more consistent data collection while enabling individual treatment centres or health service areas to develop data extraction and coll...
+Standard: Health
+
+
+Main job of registered chiropractor cluster
+383989 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered chiropractors who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered dental and allied dental health professional cluster
+383991 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered dental and allied dental health professionals who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered medical professional cluster
+375513 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered medical professionals who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered midwife cluster
+384011 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered midwives who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered nursing professional cluster
+383993 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered nursing professionals who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered optometrist cluster
+383998 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered optometrists who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered osteopath cluster
+384000 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered osteopaths who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered pharmacist cluster
+384002 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered pharmacists who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered physiotherapist cluster
+383995 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered physiotherapists who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered podiatrist cluster
+384005 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered podiatrists who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Main job of registered psychologist cluster
+384009 | Data Set Specification | Australian Institute of Health and Welfare
+The main job of registered psychologists who were employed in the profession during the reference week. The main job is defined as the post or position, funded by an organisation, in which the health professional worked the most hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Maternity model of care NBPDS
+559937 | Data Set Specification | National Perinatal Epidemiology and Statistics Unit
+The Maternity model of care (MoC) National best practice data set (NBPDS) is not mandated for collection. This data set enables maternity care providers to classify models of care using the Maternity Care Classification System (MaCCS). The scope of the data set is all models of maternity care available to pregnant and birthing women. The MaCCS, utilising the NBPDS provides a standardised nomenclature and descriptive data for maternity models of care. National collation of these data enables mean...
+Standard: Health
+
+
+Medical indemnity NBPDS 2014-
+531844 | Data Set Specification | Australian Institute of Health and Welfare
+The Medical indemnity National best practice data set (NBPDS) updates the description of the data items and standardised data outputs for medical indemnity claims for the Medical Indemnity National Collection (MINC). The MINC contains information on medical indemnity claims against health providers. These are claims for compensation for harm or other loss allegedly due to the delivery of health care. This health care may occur in settings such as hospitals, outpatient clinics, general practition...
+Standard: Health
+
+
+Mental Health Carer Experience of Service NBEDS
+745391 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Mental Health Carer Experience of Service National Best Endeavours Data Set (MH CES NBEDS) is state and territory public sector Specialised mental health services.As specified by the Mental Health Carer Experience Survey, carers are the family member, partner or friend of someone with a mental illness whose lives are also affected by that illness. Carers provide support and assistance to the person with a mental illness.Specialised mental health services are those with a primary...
+Standard: Health
+
+
+Mental health establishments NMDS 2025–26
+790463 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Mental health establishments national minimum data set (MHE NMDS) is all specialised mental health services managed or funded by state or territory health authorities. The concept of a specialised mental health service is not dependent on the inclusion of the service within the state or territory mental health budget. Services funded by government from non-mental health specific budgets are considered in-scope for collection if they meet the definition of a specialised mental he...
+Standard: Health
+
+
+Mental health non-government organisation establishments NBEDS 2015-
+494729 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Mental health non-government organisation establishments National Best Endeavours Data Set (MH NGOE NBEDS) is mental health-related non-government organisations which provide one or more of the service types included in the service taxonomy: Counselling—face-to-face Counselling, support, information and referral—telephone Counselling, support, information and referral—online Self-help—online Group support activities Mutual support and self-help Staffed residential servi...
+Standard: Health
+
+
+Mental health non-government organisation payments cluster
+795669 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used in conjunction with each other to describe the payments made to mental health non-government organisations (NGOs) for each mental health service type. They are reported as the total payments, expressed in Australian dollars, made to each Mental health non-government organisation by state/territory governments during the collection period against each reported type of mental health service.
+Standard: Health
+
+
+Mental health organisation details cluster
+494731 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes data items relating to a mental health non-government organisation service at the organisation level.
+Standard: Health
+
+
+Mental health promotion mental health service type cluster
+494847 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Mental health promotion activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Mental health restraint events cluster
+579779 | Data Set Specification | Australian Institute of Health and Welfare
+The data elements in the Mental health restraint events cluster are used in conjunction with each other to describe the restraint events experienced by mental health consumers during admission to specialised mental health public acute hospital units. They are collected together and reported as the number of restraint events occurring during the collection period against each reported type of restraint.
+Standard: Health
+
+
+Mental health seclusion and restraint NBEDS 2015-
+558137 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Mental health seclusion and restraint National Best Endeavours Data Set (SECREST NBEDS) is all specialised mental health public hospital acute service units. Short stay mental health units are in scope, e.g. Psychiatric Emergency Care Centres. Wards or units other than specialised mental health services, such as emergency departments, are out of scope. Specialised mental health acute forensic hospital services are in scope, regardless of which department manages the service, for...
+Standard: Health
+
+
+Mental illness prevention mental health service type cluster
+494850 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Mental illness prevention activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Mutual support and self-help mental health service type cluster
+494824 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Mutual support and self-help activities in a mental health non-government organisation service.
+Standard: Health
+
+
+National Bowel Cancer Screening Program NBEDS 2023–24
+756105 | Data Set Specification | Australian Institute of Health and Welfare
+The National Bowel Cancer Screening Program national best endeavours data set (NBCSP NBEDS) comprises a set of standardised data definitions used for monitoring the National Bowel Cancer Screening Program. This NBEDS includes information on people who have or will be participating in the National Bowel Cancer Screening Program.This metadata set is not mandated for collection, i.e. it reflects best practice when collecting data in relation to bowel screening rather than a nationally mandated set ...
+Standard: Health
+
+
+National Bowel Cancer Screening Program NBEDS 2025–26
+790465 | Data Set Specification | Australian Institute of Health and Welfare
+The National Bowel Cancer Screening Program national best endeavours data set (NBCSP NBEDS) comprises a set of standardised data definitions used for monitoring the National Bowel Cancer Screening Program. This NBEDS includes information on people who have or will be participating in the National Bowel Cancer Screening Program.This metadata set is not mandated for collection, i.e. it reflects best practice when collecting data in relation to bowel screening rather than a nationally mandated set ...
+Standard: Health
+
+
+National congenital anomalies NBEDS 2016–
+788219 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the National congenital anomalies national best endeavours data set (NCA NBEDS) is all births (both live births and stillbirths) with a congenital anomaly, and all terminations of pregnancy due to a congenital anomaly, in Australia during the reference period.
+Standard: Health
+
+
+National Outcomes and Casemix Collection NBEDS 2025-26
+790473 | Data Set Specification | Australian Institute of Health and Welfare
+The purpose of the National Outcomes and Casemix Collection (NOCC) national best endeavours data set (NBEDS) is to collect data on the mental health-related treatment of consumers of public specialised mental health services, and information on whether consumers improve following mental health care. A set of clinical measures are used to gather information about clinical mental health status and functioning. Measures can be completed by:clinicians about the consumer (known as clinician-rated),th...
+Standard: Health
+
+
+National Outcomes and Casemix Collection NMDS 2025-26
+790470 | Data Set Specification | Australian Institute of Health and Welfare
+The purpose of the National Outcomes and Casemix Collection (NOCC) national minimum data set (NMDS) is to collect data on the mental health-related treatment of consumers of public specialised mental health services, and information on whether consumers improve following mental health care. A set of clinical measures are used to gather information about clinical mental health status and functioning. Measures can be completed by:clinicians about the consumer (known as clinician-rated),the consume...
+Standard: Health
+
+
+Non-admitted patient care aggregate NBEDS 2024–25
+775698 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Non-admitted patient care aggregate national best endeavours data set (NBEDS) is non-admitted patient service events involving non-admitted patients provided by:public hospitalsLocal Hospital Networksother public hospital services that are managed by a state or territory health authority and are included in the General list of in-scope public hospital services, which have been developed under the National Health Reform Agreement 2011.This also includes all in-scope services cont...
+Standard: Health
+
+
+Non-admitted patient care aggregate NBEDS 2025–26
+790467 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Non-admitted patient care aggregate national best endeavours data set (NBEDS) is non-admitted patient service events involving non-admitted patients provided by:public hospitalsLocal Hospital Networksother public hospital services that are managed by a state or territory health authority and are included in the General list of in-scope public hospital services, which have been developed under the National Health Reform Agreement 2011.This also includes all in-scope services cont...
+Standard: Health
+
+
+Non-admitted patient emergency department care NMDS 2025–26
+790284 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The scope of the Non-admitted patient emergency department care national minimum data set (NAPEDC NMDS) is patients registered for care in emergency departments in public hospitals where the emergency department meets the following criteria:purposely designed and equipped area with designated assessment, treatment and resuscitation areasability to provide resuscitation, stabilisation and initial management of all emergenciesavailability of medical staff in the hospital 24 hours a daydesignated e...
+Standard: Health
+
+
+Non-admitted patient NBEDS 2025–26
+790286 | Data Set Specification | Independent Health and Aged Care Pricing Authority
+The scope of the Non-admitted patient national best endeavours data set (NAP NBEDS) is non-admitted patient service events involving non-admitted patients provided by:public hospitalsLocal Hospital Networksother public hospital services that are managed by a state or territory health authority and are included in the General list of in-scope public hospital services, which have been developed under the National Health Reform Agreement (2011).This also includes all in-scope services contracted by...
+Standard: Health
+
+
+Non-school qualifications cluster
+627004 | Data Set Specification | Australian Institute of Health and Welfare
+The Non-school qualifications cluster defines the non-school qualifications attained by a person.
+Standard: Health
+
+
+Opioid pharmacotherapy treatment cluster (entrant)
+697458 | Data Set Specification | Australian Institute of Health and Welfare
+The Opioid pharmacotherapy treatment (OPT) program cluster (entrant) defines:the number of prison entrants who have been on, or are currently on an OPT programthe type of OPT program a prison entrant has been on, or is on currently.
+Standard: Health
+
+
+Opioid pharmacotherapy treatment program cluster (dischargee)
+696812 | Data Set Specification | Australian Institute of Health and Welfare
+The Opioid pharmacotherapy treatment (OPT) program cluster (dischargee) defines:the number of prison dischargees who have been on, or are currently on an OPT programthe number of prison dischargees who intend to be on an OPT program on release from prisonthe type of OPT program a prison dischargee has been on, or is on currently.
+Standard: Health
+
+
+Perinatal Mortality NBEDS 2025–26
+790562 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Perinatal Mortality National Best Endeavours Data Set (NBEDS) is all perinatal deaths in Australia in hospitals, birth centres and the community. The data set includes information on both neonatal deaths and fetal deaths (stillbirths) of at least 20 weeks gestation or 400 grams birthweight.These data have two dimensions, which are the baby and the mother. All data relevant to the birth are conveyed in relation to one of these
+Standard: Health
+
+
+Perinatal NBEDS 2025–26
+790557 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Perinatal national best endeavours data set (NBEDS) is all births in Australia in hospitals, birth centres and the community. The data set includes information on all births, both live births and stillbirths, of at least 20 weeks gestation or 400 grams birthweight.These data have two dimensions, which are the baby and the mother. All data relevant to the birth are conveyed in relation to one of these.
+Standard: Health
+
+
+Perinatal NMDS 2025–26
+790554 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Perinatal national minimum data set (NMDS) is all births in Australia in hospitals, birth centres and the community. The data set includes information on all births, both live births and stillbirths, of at least 20 weeks gestation or 400 grams birthweight.These data have two dimensions, which are the baby and the mother. All data relevant to the birth are conveyed in relation to one of these.
+Standard: Health
+
+
+Person and provider identification in healthcare National Best Practice Data Set
+529511 | Data Set Specification | Australian Institute of Health and Welfare
+The Person and provider identification in healthcare National Best Practice Data Set (NBPDS) provides a framework for the accurate identification of individuals (clients and providers of healthcare) and healthcare organisations. It covers identifiers used in the Australian healthcare system, including but not limited to, national healthcare identifiers.The data set helps identify the following three groups:clients of the healthcare system (including potential clients and carers for clients)indiv...
+Standard: Health
+
+
+Personalised support—linked to housing mental health service type cluster
+494828 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Personalised support—linked to housing activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Personalised support—other mental health service type cluster
+494830 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Personalised support—other activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Pregnancy status cluster
+627085 | Data Set Specification | Australian Institute of Health and Welfare
+The Pregnancy status cluster defines whether a female prison entrant has ever been pregnant and if so, the age of her first pregnancy.
+Standard: Health
+
+
+Prison clinic contact NBEDS 2022
+760385 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison clinic contact National Best Endeavours Data Set (NBEDS) defines visits by prisoners to the prison clinic during the National Prisoner Health Data Collection period.
+Standard: Health
+
+
+Prison dischargee level of worry cluster
+635015 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison dischargee level of worry cluster defines the main causes of current distress for prisoners who are about to be released from prison.
+Standard: Health
+
+
+Prison dischargee NBEDS 2022
+760891 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison dischargee National Best Endeavours Data Set (NBEDS) defines data about all persons aged at least 18 who are going to be discharged from prison in the following 4 weeks from the date of data collection, during the National Prisoner Health Data Collection reporting period. This includes demographics, mental health, chronic diseases, alcohol and other drug use, use of prison clinics and services accessed in prison. The data are used to report against the National Prisoner Health Indicat...
+Standard: Health
+
+
+Prison dischargee smoking status cluster
+760960 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison dischargee smoking status cluster defines a prison dischargee's history of tobacco use, current smoking status and the quit smoking programs available and used in prisons.
+Standard: Health
+
+
+Prison entrant level of worry cluster
+697317 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison entrant level of worry cluster defines the main causes of current distress for prisoners who are entering prison.
+Standard: Health
+
+
+Prison entrant smoking status cluster
+768652 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison entrant smoking status cluster defines the history and current smoking status of a prison entrant.
+Standard: Health
+
+
+Prison entrants NBEDS
+482353 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison entrants National Best Endeavours Data Set (NBEDS) defines data about all persons aged 18 and over entering the prison system during the National Prisoner Health Data Collection period. This includes demographic data and data about a prison entrant’s mental health, chronic disease status, pregnancy history, alcohol and other drug use and health service use.
+Standard: Health
+
+
+Prison entrants NBEDS 2022
+761534 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison entrants National Best Endeavours Data Set (NBEDS) defines data about all persons aged 18 and over entering the prison system during the National Prisoner Health Data Collection period. This includes demographic data and data about a prison entrant’s mental health, chronic disease status, pregnancy history, alcohol and other drug use and health service use.
+Standard: Health
+
+
+Prison establishments NBEDS 2022
+768954 | Data Set Specification | Australian Institute of Health and Welfare
+The Prison establishments National Best Endeavours Data Set (NBEDS) defines data on services provided in prison health clinics.
+Standard: Health
+
+
+Prisoner health discharge summary cluster
+696661 | Data Set Specification | Australian Institute of Health and Welfare
+The Prisoner health discharge summary cluster defines the number of remand and sentenced prisoners that were released from a prison during the National Prisoner Health Data Collection period and who have a health-related discharge summary on file at the time of their release.
+Standard: Health
+
+
+Prisoner health medication type dispensed cluster
+768986 | Data Set Specification | Australian Institute of Health and Welfare
+The Prisoner health medication type dispensed cluster comprises three data elements that describe the type of medication dispensed to a person. It is based on the Repeat Medications Form.This is achieved by the combination of the three data elements: Person—medication type, medication type (ATC/DDD) code A[{NN}AA{NN}], Person—medication type, text [X(40)] and Person—reason medication dispensed, prisoner health code N. The cluster describes the following information recorded for a person, relatin...
+Standard: Health
+
+
+Prisoner health NBEDS 2022
+773317 | Data Set Specification | Australian Institute of Health and Welfare
+The Prisoner health National Best Endeavours Data Set (NBEDS) defines data collected from all public and private prisons throughout Australia on prison entrants, prisoners who visit a prison clinic, prisoners who are taking prescription medication while in custody, prison clinic services and staffing levels, and prison dischargees. The data are used to report against the National Prisoner Health Indicators, assist in monitoring the health of prisoners and inform prisoner health service planning ...
+Standard: Health
+
+
+Prisoners in custody prescription medications NBEDS 2022
+760426 | Data Set Specification | Australian Institute of Health and Welfare
+The Prisoners in custody prescription medications National Best Endeavours Data Set (NBEDS) defines data regarding all instances of prisoners in custody taking prescription medication.
+Standard: Health
+
+
+Prostate cancer (clinical) NBPDS
+481386 | Data Set Specification | Cancer Australia
+The purpose of the Prostate cancer (clinical) National best practice data set (PCNBPDS) is to define data standards for the national collection of prostate cancer clinical data so that data collected is consistent and reliable. Collection of this data set is not mandated but it is recommended as best practice where clinical cancer data are collected. It will facilitate more consistent data collection while enabling individual treatment centres or health service areas to develop data extraction a...
+Standard: Health
+
+
+Provider academic qualification cluster
+523538 | Data Set Specification | Australian Institute of Health and Welfare
+The Provider academic qualification cluster includes data elements that define information on the professional qualifications held by a health professional including the year in which the qualification was awarded, the institution that awarded the qualification and the country in which this institution is located.
+Standard: Health
+
+
+Provider extensions or restrictions to practice cluster
+525018 | Data Set Specification | Australian Institute of Health and Welfare
+The Provider extensions or restrictions to practice cluster includes data elements that define the special requirements associated with an individual's registration including endorsements, conditions, notations, undertakings, reprimands and cautions. Information on the reason for the practice modification and period of the modification is also included. For each restriction or extension to practice (excluding endorsements) associated with a provider's registration, all data elements relating to ...
+Standard: Health
+
+
+Provider place of practice cluster
+523558 | Data Set Specification | Australian Institute of Health and Welfare
+The Provider place of practice cluster includes data elements that define information on the place (suburb, state, postcode and country) in which an individual service provider practices their profession. A provider's place of practice may be recorded as an individual address or established by identification of the organisation and organisation site where the individual practices.
+Standard: Health
+
+
+Provider professional board cluster
+522898 | Data Set Specification | Australian Institute of Health and Welfare
+The Provider professional board cluster includes data elements that define information on the name of the organisation that manages the registration of the individual service provider and the provider's identifier number. In Australia the Australian Health Practitioner Regulation Agency and National Boards are responsible for regulating the following health professions: Aboriginal and Torres Strait Islander health practitioners, Chinese medicine practitioners, chiropractors, dental practitioners...
+Standard: Health
+
+
+Provider registration cluster
+524039 | Data Set Specification | Australian Institute of Health and Welfare
+The Provider registration cluster includes data elements that define information on the registration of individual service providers.
+Standard: Health
+
+
+Psychological distress cluster
+634099 | Data Set Specification | Australian Institute of Health and Welfare
+The Psychological distress cluster defines the level of current anxiety and depressive symptoms a person may have experienced in the four weeks prior to interview.
+Standard: Health
+
+
+Public dental waiting times NMDS 2025–
+795584 | Data Set Specification | Australian Institute of Health and Welfare
+The purpose of the Public dental waiting times national minimum data set (PDWT NMDS) is to describe the information that must be collected to calculate the waiting times for two time periods in the treatment pathway for public dental services in Australia:the time between the date a person is placed on a waiting list and the date they are offered dental care; andthe time between the date a person is placed on a waiting list and the date they receive dental care.In the PDWT NMDS, person includes ...
+Standard: Health
+
+
+Public hospital service research activities cluster
+731543 | Data Set Specification | Independent Hospital Pricing Authority
+The Public hospital service research activities cluster describes information relating to the research infrastructure, capability and activity within a public hospital service. Research refers to the activities undertaken in a public health service where the primary objective is the advancement of knowledge that ultimately aims to improve consumer and patient health outcomes and/or health system performance. The activity must be undertaken in a structured and ethical way, be formally approved by...
+Standard: Health
+
+
+Radiotherapy for cancer cluster
+561380 | Data Set Specification | Cancer Australia
+The radiotherapy cluster consists of those data elements recommended for collection as best practice when the patient receives radiotherapy as part of the course of treatment for cancer. The radiotherapy cluster collects information on the radiotherapy type, dose, fractions, target site and the start and finish dates for each course of treatment. Information on the type, dose, fractions and target site of radiotherapy is required to evaluate patterns of care, the effectiveness of different treat...
+Standard: Health
+
+
+Radiotherapy waiting times NMDS 2018-
+686202 | Data Set Specification | Australian Institute of Health and Welfare
+The main purpose of the Radiotherapy waiting times national minimum data set (RWT NMDS) is to describe the information that must be collected to calculate the waiting times for the following time period in the treatment pathway for radiotherapy services in Australia:The time between the patient's ready-for-care date and the date of the first megavoltage external beam radiotherapy treatment.Establishments in-scope are only those health-care establishments that provide megavoltage external beam ra...
+Standard: Health
+
+
+Recurrent contracted care expenditure data element cluster
+718014 | Data Set Specification | Independent Hospital Pricing Authority
+The Recurrent contracted care expenditure data element cluster describes information relating to the recurrent contracted care expenditure of an establishment by National Health Reform Agreement (2011) (NHRA) product streams.
+Standard: Health
+
+
+Recurrent non-salary expenditure data element cluster
+757073 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used in conjunction with each other to describe recurrent non-salary expenditure by establishments. These data elements exclude expenditure relating to salaries and wages.
+Standard: Health
+
+
+Recurrent salaries and wages expenditure data element cluster
+757075 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used in conjunction with each other to describe expenditure on recurrent salaries and wages for staff in establishments.
+Standard: Health
+
+
+Registered chiropractic labour force DSS
+384097 | Data Set Specification | Australian Institute of Health and Welfare
+All chiropractors listed with the Australian Health Practitioner Regulation Agency during the reference period. Chiropractors included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered dental and allied dental health professional labour force DSS
+384102 | Data Set Specification | Australian Institute of Health and Welfare
+All dental and allied dental health professionals listed with the Australian Health Practitioner Regulation Agency during the reference period. Dental and allied dental health professionals included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered health labour force NBEDS
+380533 | Data Set Specification | Australian Institute of Health and Welfare
+All health professionals listed with the Australian Health Practitioner Regulation Agency (AHPRA) during the reference period. This encompasses health professions that require registration under the National Registration and Accreditation Scheme and includes, but is not limited to: chiropractic dentistry dental hygiene dental prosthetics dental therapy medicine midwifery nursing (enrolled, registered, practitioner) optometry osteopathy pharmacy physiotherapy podiatry psychology ...
+Standard: Health
+
+
+Registered medical professional labour force DSS
+375422 | Data Set Specification | Australian Institute of Health and Welfare
+All medical professionals listed with the Australian Health Practitioner Regulation Agency during the reference period, including: medical practitioners; medical specialists; and medical specialists-in-training. Medical professionals included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered midwifery labour force DSS
+384118 | Data Set Specification | Australian Institute of Health and Welfare
+All midwives listed with the Australian Health Practitioner Regulation Agency during the reference period. Midwives included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered nursing professional labour force DSS
+384109 | Data Set Specification | Australian Institute of Health and Welfare
+All nursing professionals listed with the Australian Health Practitioner Regulation Agency during the reference period, including: enrolled nurses; registered nurses; and nurse practitioners. Nursing professionals included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered optometry labour force DSS
+384124 | Data Set Specification | Australian Institute of Health and Welfare
+All optometrists listed with the Australian Health Practitioner Regulation Agency during the reference period. Optometrists included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered osteopathy labour force DSS
+384128 | Data Set Specification | Australian Institute of Health and Welfare
+All osteopaths listed with the Australian Health Practitioner Regulation Agency during the reference period. Osteopaths included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered pharmacy labour force DSS
+384152 | Data Set Specification | Australian Institute of Health and Welfare
+All pharmacists listed with the Australian Health Practitioner Regulation Agency during the reference period. Pharmacists included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered physiotherapy labour force DSS
+384162 | Data Set Specification | Australian Institute of Health and Welfare
+All physiotherapists listed with the Australian Health Practitioner Regulation Agency during the reference period. Physiotherapists included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered podiatry labour force DSS
+384166 | Data Set Specification | Australian Institute of Health and Welfare
+All podiatrists listed with the Australian Health Practitioner Regulation Agency during the reference period. Podiatrists included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Registered psychology labour force DSS
+384170 | Data Set Specification | Australian Institute of Health and Welfare
+All psychologists listed with the Australian Health Practitioner Regulation Agency during the reference period. Psychologists included in this DSS may be currently registered or they may be listed but not currently registered.
+Standard: Health
+
+
+Residential mental health care NMDS 2025–26
+790479 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Residential mental health care national minimum data set (RMHC NMDS) is episodes of residential care for residents in all government-funded residential mental health care services in Australia, except those residential care services that are in receipt of funding under the Aged Care Act 1997 and subject to Commonwealth reporting requirements (i.e., report to the System for the Payment of Aged Residential Care (SPARC) collection).The following metadata are of particular relevance...
+Standard: Health
+
+
+Restricted name usage cluster
+528167 | Data Set Specification | Australian Institute of Health and Welfare
+The Restricted name usage cluster includes data elements that define information on any conditions applied to the use of a person's name and the period for which the condition(s) apply. This cluster should be used in conjunction with the Individual name cluster.
+Standard: Health
+
+
+Revenue data element cluster
+757077 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used in conjunction with each other to describe the revenue received by establishments for recurrent expenditure purposes.
+Standard: Health
+
+
+Second job of registered chiropractor cluster
+384019 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered chiropractors who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered dental and allied dental health professional cluster
+384016 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered dental and allied dental health professionals who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered medical professional cluster
+375561 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered medical professionals who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered midwife cluster
+384021 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered midwives who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered nursing professional cluster
+384013 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered nursing professionals who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered optometrist cluster
+384024 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered optometrists who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered osteopath cluster
+384026 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered osteopaths who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered pharmacist cluster
+384028 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered pharmacists who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered physiotherapist cluster
+384030 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered physiotherapists who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered podiatrist cluster
+384032 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered podiatrists who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Second job of registered psychologist cluster
+384034 | Data Set Specification | Australian Institute of Health and Welfare
+The second job of registered psychologists who were employed in more than one job in the profession during the reference week. The second job is defined as the post or position, funded by an organisation, in which the health professional worked the second longest hours during the reference week in Australia. The health professional may be an employee or they may be self-employed with the organisation.
+Standard: Health
+
+
+Sector development and representation mental health service type cluster
+494845 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Sector development and representation activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Self-help—online mental health service type cluster
+494820 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Self-help—online activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Sentinel events NBEDS 2019-
+774550 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Sentinel event national best endeavours data set (SE NBEDS) is to collect data about sentinel events experienced by patients in government health establishments. A sentinel event is an incident that is wholly preventable and has caused serious harm to, or the death of, a patient.To be classified a sentinel event, strict criteria need to be met:The event should not have occurred where preventive barriers are availableThe event is easily recognised and clearly definedThere is evid...
+Standard: Health
+
+
+Service integration infrastructure mental health service type cluster
+494841 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Service integration infrastructure activities in a mental health non-government organisation service.
+Standard: Health
+
+
+Sex of prison entrants cluster
+769440 | Data Set Specification | Australian Institute of Health and Welfare
+The Sex of prison entrants cluster defines the number of males and females entering Australia's prisons during the National Prisoner Health Data Collection period.
+Standard: Health
+
+
+Similar but different entity cluster
+554856 | Data Set Specification | Australian Institute of Health and Welfare
+The Similar but different entity cluster includes data elements that define identifiers that have similar identifying information but belong to different entities. This cluster also describes information about the organisation or individual provider which confirms that similar records are not duplicates and the date this confirmation occurs.
+Standard: Health
+
+
+Smoking cessation program cluster
+767622 | Data Set Specification | Australian Institute of Health and Welfare
+The Smoking cessation program cluster collects data on the quit smoking programs available in prison and whether or not they were used.
+Standard: Health
+
+
+Socio-Economic Indexes for Areas (SEIFA) (2016 Census, ASGS 2016) cluster
+695778 | Data Set Specification | Australian Institute of Health and Welfare
+The SEIFA cluster contains data elements that may be used to ascertain a SEIFA score for a geographic area which is a measure of the collective socio-economic status of the people living in the area.The person level geographical location data elements in this cluster refer to the person's usual residence. This is defined below.When collecting the geographical location of a person's usual place of residence, the Australian Bureau of Statistics (ABS) recommends that 'usual' be defined as: 'the pla...
+Superseded: Early Childhood
+Standard: Health
+
+
+Staffed residential services mental health service type cluster
+494826 | Data Set Specification | Australian Institute of Health and Welfare
+This data element cluster describes Staffed residential services in a mental health non-government organisation service.
+Standard: Health
+
+
+Statistical Area Level 1 of usual residence NBEDS 2025–26
+790475 | Data Set Specification | Australian Institute of Health and Welfare
+The scope of the Statistical Area Level 1 (SA1) of usual residence national best endeavours data set is records for episodes of care for patients reported against health metadata sets (including national minimum data sets and national best endeavours data sets) provided by states and territories to the Australian Institute of Health and Welfare.
+Standard: Health
+
+
+Statistical linkage key 581 cluster
+750410 | Data Set Specification | Australian Institute of Health and Welfare.
+Statistical data linkage refers to the bringing together of data from different sources to gain a greater understanding of a situation or individual from the combined (or linked) dataset. This facilitates a better understanding of the patterns of service use by groups of clients for research, statistical or policy analysis, planning and evaluation purposes. Its form is: XXXXXDDMMYYYYX The sequence in which the linkage key is completed is as follows: Family name (the first 3 Xs) Given name (th...
+Standard: Health
+
+
+Strengths and Difficulties Questionnaire cluster
+741161 | Data Set Specification | Australian Institute of Health and Welfare
+The Strengths and Difficulties Questionnaire (SDQ) collects data on 4-17 year olds for use in clinical assessment, screening, outcomes evaluation and epidemiology. The SDQ measures 25 initial items divided between 5 scales: emotional symptoms, conduct problems, hyperactivity/inattention, peer relationship problems, and prosocial behaviour.Additional questions apply depending on the consumer filling out the survey (parent, teacher or self), and whether the survey is being provided as an initial a...
+Standard: Health
+
+
+Substances used illicitly cluster (prison dischargee)
+766090 | Data Set Specification | Australian Institute of Health and Welfare
+These data elements are used in conjunction with each other to provide information on substances a person has used illicitly prior and during current imprisonment .
+Standard: Health
+
+
+Substances used illicitly cluster (prison entrants)
+768905 | Data Set Specification | Australian Institute of Health and Welfare
+The Substances used illicitly cluster (prison entrants) contains five data elements that are used in conjunction with each other to capture information on a prison entrant's illicit substance use.
+Standard: Health
+
+
+Surgery for cancer cluster
+603488 | Data Set Specification | Cancer Australia
+Cancer-directed surgery is surgery that destroys or modifies cancer tissue anywhere in the body and includes biopsies that remove the entire tumour and/or leave only microscopic margins. It may be palliative, (to control symptoms, alleviate pain, or make the patient more comfortable), or curative. The surgery treatment cluster consists of those data elements recommended for collection as best practice when cancer-directed surgery is performed as part of the course of treatment for cancer. The su...
+Standard: Health
+
+
+Surveillance of healthcare associated infection: Staphylococcus aureus bloodstream infection NBPDS
+792068 | Data Set Specification | Australian Commission on Safety and Quality in Health Care
+The purpose of this National best practice data set (NBPDS) is to support a comprehensive surveillance program of healthcare associated infections (HAI). HAIs are those infections that are not present or incubating at the time of admission to a healthcare program or facility, develop within a healthcare organisation or are produced by micro-organisms acquired during admission.This NBPDS is intended to support Staphylococcus aureus bloodstream infection (SABSI) surveillance in Australian hospital...
+Standard: Health
+
+
+Systemic therapy procedure for cancer cluster
+561601 | Data Set Specification
+Systemic therapy procedures refers to haematologic transplant and endocrine procedures. Haematologic transplants are bone marrow or stem cell transplants performed to protect patients from myelosuppression or bone marrow ablation associated with the administration of high-dose chemotherapy or radiotherapy. Endocrine therapy is cancer therapy that achieves its antitumour effect through the use of radiation or surgical procedures that suppress the naturally occurring hormonal activity of the pati...
+Standard: Health
+
+
+Total recurrent expenditure on National Health Reform Agreement product streams data element cluster
+718209 | Data Set Specification | Independent Hospital Pricing Authority
+The Total recurrent expenditure on National Health Reform Agreement product streams data element cluster describes information relating to the total recurrent expenditure by an establishment by National Health Reform Agreement product streams.
+Standard: Health
+
+
+Vaccines administered cluster
+769052 | Data Set Specification | Australian Institute of Health and Welfare
+The Vaccines administered cluster defines the vaccination programs offered in Australia's prisons. The cluster reports the number of vaccines administered during the National Prisoner Health Data Collection period against each vaccination type within a prison. The type of vaccines included are hepatitis A, hepatitis B, human papillomavirus (HPV), influenza, meningococcal, measles, mumps and rubella and COVID-19.
+Standard: Health
+
+
+Ventricular ejection fraction cluster
+351881 | Data Set Specification
+The ventricular ejection fraction is the fraction of blood pumped out of a ventricle with each heart beat. Impaired ventricular ejection fraction can be indicative of damage to the heart muscle, such as that sustained during myocardial infarction. The ventricular ejection fraction cluster collects information on the timing, measurement type and results of a ventricular ejection fraction measurement during the current hospital presentation.
+Standard: Health
+
+
+Work setting hours cluster
+375565 | Data Set Specification | Australian Institute of Health and Welfare
+Registered health professionals listed with the Australian Health Practitioner Regulation Agency who were employed in the profession during the reference week. They may be an employee or they may be self-employed.
+Standard: Health
+
+
+Your Experience of Service National Best Endeavours Data Set 2019–
+738452 | Data Set Specification | Mental Health Information Strategy Standing Committee
+The scope of the Your Experience of Service National Best Endeavours Data Set (YES NBEDS) is state and territory public sector Specialised mental health services. Specialised mental health services are those with a primary function to provide treatment, rehabilitation or community support targeted towards people with a mental disorder or psychiatric disability. These activities are delivered from a service or facility that is readily identifiable as both ‘specialised’ and ‘serving a mental healt...
+Standard: Health
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cvent//EN
+BEGIN:VEVENT
+DTSTART:20250813T010000Z
+DTEND:20250813T070000Z
+SUMMARY;ENCODING=UTF-8:WA Data & Innovation Summit (online)
+LOCATION;ENCODING=UTF-8:https://web.cvent.com/event_guest/v1/calendar/v1/calendars/events/02b2a3a4-73fb-4535-8a28-47b8c38faf2b/virtualSessionLink?inviteeId=a88e6b34-0e98-4d56-b5ad-c41f125a47dd&sessionId=&g=
+DESCRIPTION:The Healthcare Quality and Intelligence Unit (HQIU) and Health Roundtable are request your team's participation in the WA Data & Innovation Summit for 2025. \nThis online event will be held on Wednesday 13 August starting at 9am AWST.\nThe agenda will include:\nHealth Roundtable data analysis of health inequities impacting WA and how these compare to other jurisdictions\nInnovations and improvements from WA\nInnovations and improvements from across the Health Roundtable\nPresentation on the State health Operations Command Centre\nAllocated breaks to catch up on emails and phone calls\n\nEvent URL: https://web.cvent.com/event_guest/v1/calendar/v1/calendars/events/02b2a3a4-73fb-4535-8a28-47b8c38faf2b/virtualSessionLink?inviteeId=a88e6b34-0e98-4d56-b5ad-c41f125a47dd&sessionId=&g=\n
+X-ALT-DESC;FMTTYPE=text/html:<div class="ag87-crtemvc-hsbk"><div class=css-zuif4x><p style="text-align:left;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(37,6,112);">The Healthcare Quality and Intelligence Unit (HQIU) and Health Roundtable are request your team's participation in the </span><span style="color: rgb(231,0,148);">WA Data &amp; Innovation Summit for 2025</span><span style="color: rgb(37,6,112);">. </span></p><p style="text-align:left;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(37,6,112);">This </span><span style="color: rgb(231,0,148);">online </span><span style="color: rgb(37,6,112);">event will be held on Wednesday 13 August starting at 9am AWST.</span></p><p style="text-align:left;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(37,6,112);">The agenda will include:</span></p><ul class="carina-rte-public-DraftStyleDefault-ul"><li style="text-align:left;"><span style="color: rgb(37,6,112);">Health Roundtable data analysis of health inequities impacting WA and how these compare to other jurisdictions</span></li><li style="text-align:left;"><span style="color: rgb(37,6,112);">Innovations and improvements from WA</span></li><li style="text-align:left;"><span style="color: rgb(37,6,112);">Innovations and improvements from across the Health Roundtable</span></li><li style="text-align:left;"><span style="color: rgb(37,6,112);">Presentation on the State health Operations Command Centre</span></li><li style="text-align:left;"><span style="color: rgb(231,0,148);">Allocated breaks to catch up on emails and phone calls</span></li></ul><p style="text-align:left;" class="carina-rte-public-DraftStyleDefault-block">&nbsp;</p><p style="text-align:left;" class="carina-rte-public-DraftStyleDefault-block"><br>&nbsp;</p></div></div>Event URL: https://web.cvent.com/event_guest/v1/calendar/v1/calendars/events/02b2a3a4-73fb-4535-8a28-47b8c38faf2b/virtualSessionLink?inviteeId=a88e6b34-0e98-4d56-b5ad-c41f125a47dd&sessionId=&g=
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
