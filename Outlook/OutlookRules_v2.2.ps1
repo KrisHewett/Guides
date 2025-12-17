@@ -39,12 +39,7 @@ New-InboxRule -Name "DL Lists to Org_JUNK" -MoveToFolder "Org_JUNK" -StopProcess
 New-InboxRule -Name "Known Contacts to INBOX" -MoveToFolder "INBOX" -StopProcessingRules $true
 New-InboxRule -Name "Leadership to High Priority" -MoveToFolder "High Priority" -StopProcessingRules $false
 New-InboxRule -Name "Team to Team Inbox" -MoveToFolder "Team Inbox" -StopProcessingRules $false
-New-InboxRule -Name "Newsletters to Read Later" -MoveToFolder "Read Later" -StopProcessingRules $false
-New-InboxRule -Name "Social to Social" -MoveToFolder "Social" -StopProcessingRules $false
-New-InboxRule -Name "Promotions to Promotions" -MoveToFolder "Promotions" -StopProcessingRules $false
-New-InboxRule -Name "Categorize Compliance Keywords" -ApplyCategory "Compliance" -StopProcessingRules $false
 New-InboxRule -Name "Flag Critical Keywords" -MarkImportance High -StopProcessingRules $false
-New-InboxRule -Name "Forward Reports" -ForwardTo "OneNote@domain.com" -StopProcessingRules $false
 New-InboxRule -Name "AutoReplies to JUNK" -MoveToFolder "Junk" -StopProcessingRules $true
 New-InboxRule -Name "Auto-Reply to Requests" -StopProcessingRules $false
 New-InboxRule -Name "Prioritize Urgent" -MarkImportance High -StopProcessingRules $false

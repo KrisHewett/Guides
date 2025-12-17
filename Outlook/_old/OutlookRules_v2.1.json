@@ -1,0 +1,297 @@
+{
+    "version": "2.2",
+    "rules": [
+        {
+            "Order": "1.0",
+            "Rule Name": "Junk Filter (Built-in)",
+            "Action": "Set Junk Filter to High",
+            "Folder": "Junk",
+            "Stop Processing": "Yes"
+        },
+        {
+            "Order": "2.0",
+            "Rule Name": "Mailing Lists to Other_JUNK",
+            "Action": "Move to Folder",
+            "Folder": "Other_JUNK",
+            "Stop Processing": "Yes"
+        },
+        {
+            "Order": "3.0",
+            "Rule Name": "DL Lists to Org_JUNK",
+            "Action": "Move to Folder",
+            "Folder": "Org_JUNK",
+            "Stop Processing": "Yes"
+        },
+        {
+            "Order": "4.0",
+            "Rule Name": "Known Contacts to INBOX",
+            "Action": "Move to Folder",
+            "Folder": "INBOX",
+            "Stop Processing": "Yes"
+        },
+        {
+            "Order": "5.0",
+            "Rule Name": "Leadership to High Priority",
+            "Action": "Move to Folder",
+            "Folder": "High Priority",
+            "Stop Processing": "No"
+        },
+        {
+            "Order": "6.0",
+            "Rule Name": "Team to Team Inbox",
+            "Action": "Move to Folder",
+            "Folder": "Team Inbox",
+            "Stop Processing": "No"
+        },
+        {
+            "Order": "10.0",
+            "Rule Name": "Categorize Compliance Keywords",
+            "Action": "Categorize: Compliance",
+            "Folder": "",
+            "Stop Processing": "No"
+        },
+        {
+            "Order": "11.0",
+            "Rule Name": "Flag Critical Keywords",
+            "Action": "Mark High Importance",
+            "Folder": "",
+            "Stop Processing": "No"
+        },
+        {
+            "Order": "12.0",
+            "Rule Name": "Forward Reports",
+            "Action": "Forward to OneNote",
+            "Folder": "",
+            "Stop Processing": "No"
+        },
+        {
+            "Order": "13.0",
+            "Rule Name": "AutoReplies to JUNK",
+            "Action": "Move to Folder",
+            "Folder": "Junk",
+            "Stop Processing": "Yes"
+        },
+        {
+            "Order": "14.0",
+            "Rule Name": "Auto-Reply to Requests",
+            "Action": "Manual Template Reply",
+            "Folder": "",
+            "Stop Processing": "No"
+        },
+        {
+            "Order": "15.0",
+            "Rule Name": "Prioritize Urgent",
+            "Action": "Set High Importance",
+            "Folder": "",
+            "Stop Processing": "No"
+        }
+    ],
+    "categories": [
+        {
+            "Order": 1,
+            "FullName": "01. Urgent",
+            "Theme": "Important",
+            "Tag": "Urgent",
+            "Colour": "DarkRed",
+            "HexCode": "#AC4E5E"
+        },
+        {
+            "Order": 2,
+            "FullName": "02. Important",
+            "Theme": "Important",
+            "Tag": "Important",
+            "Colour": "Red",
+            "HexCode": "#DC626D"
+        },
+        {
+            "Order": 3,
+            "FullName": "03. To Do",
+            "Theme": "Important",
+            "Tag": "To Do",
+            "Colour": "Orange",
+            "HexCode": "#E8825D"
+        },
+        {
+            "Order": 4,
+            "FullName": "04. Follow Up",
+            "Theme": "Important",
+            "Tag": "Follow Up",
+            "Colour": "DarkOrange",
+            "HexCode": "#DF8E64"
+        },
+        {
+            "Order": 5,
+            "FullName": "05. PR & D",
+            "Theme": "Important",
+            "Tag": "PR & D",
+            "Colour": "Brown",
+            "HexCode": "#BC8F6F"
+        },
+        {
+            "Order": 6,
+            "FullName": "06. Training",
+            "Theme": "Training",
+            "Tag": "Training",
+            "Colour": "Peach",
+            "HexCode": "#FFCD8F"
+        },
+        {
+            "Order": 7,
+            "FullName": "07. Presentation",
+            "Theme": "Training",
+            "Tag": "Presentation",
+            "Colour": "Yellow",
+            "HexCode": "#FDEE65"
+        },
+        {
+            "Order": 8,
+            "FullName": "08. Conference",
+            "Theme": "Training",
+            "Tag": "Conference",
+            "Colour": "Gold",
+            "HexCode": "#DAC257"
+        },
+        {
+            "Order": 9,
+            "FullName": "09. Kids ( Personal )",
+            "Theme": "Personal",
+            "Tag": "Kids",
+            "Colour": "LimeGreen",
+            "HexCode": "#B6D767"
+        },
+        {
+            "Order": 10,
+            "FullName": "10. Family ( Personal )",
+            "Theme": "Personal",
+            "Tag": "Family",
+            "Colour": "DarkGreen",
+            "HexCode": "#4CA64C"
+        },
+        {
+            "Order": 11,
+            "FullName": "11. Friends ( Personal )",
+            "Theme": "Personal",
+            "Tag": "Friends",
+            "Colour": "LightGreen",
+            "HexCode": "#52CE90"
+        },
+        {
+            "Order": 12,
+            "FullName": "12. Personal",
+            "Theme": "Personal",
+            "Tag": "Me",
+            "Colour": "Green",
+            "HexCode": "#85B44C"
+        },
+        {
+            "Order": 13,
+            "FullName": "13. SA Health - Meeting",
+            "Theme": "Meetings",
+            "Tag": "SA Health",
+            "Colour": "Steel",
+            "HexCode": "#4497A9"
+        },
+        {
+            "Order": 14,
+            "FullName": "14. DAP - Meeting",
+            "Theme": "Meetings",
+            "Tag": "DAP",
+            "Colour": "Teal",
+            "HexCode": "#4BB4B7"
+        },
+        {
+            "Order": 15,
+            "FullName": "15. Safety & Quality - Meeting",
+            "Theme": "Meetings",
+            "Tag": "Safety & Quality",
+            "Colour": "LightTeal",
+            "HexCode": "#57D2DA"
+        },
+        {
+            "Order": 16,
+            "FullName": "16. LHN's - Meeting",
+            "Theme": "Meetings",
+            "Tag": "LHN's",
+            "Colour": "NavyBlue",
+            "HexCode": "#4179A3"
+        },
+        {
+            "Order": 17,
+            "FullName": "17. Patient Safety - Meeting",
+            "Theme": "Meetings",
+            "Tag": "Patient Safety",
+            "Colour": "Blue",
+            "HexCode": "#5CA9E5"
+        },
+        {
+            "Order": 18,
+            "FullName": "18. Report Development",
+            "Theme": "Development",
+            "Tag": "Reports",
+            "Colour": "DarkPurple",
+            "HexCode": "#A589CB"
+        },
+        {
+            "Order": 19,
+            "FullName": "19. Data  Development",
+            "Theme": "Development",
+            "Tag": "Data",
+            "Colour": "Lavender",
+            "HexCode": "#B1AAEB"
+        },
+        {
+            "Order": 20,
+            "FullName": "20. Report Update",
+            "Theme": "Update",
+            "Tag": "Reports",
+            "Colour": "DarkPink",
+            "HexCode": "#C34E98"
+        },
+        {
+            "Order": 21,
+            "FullName": "21. Data Update",
+            "Theme": "Update",
+            "Tag": "Data",
+            "Colour": "Magenta",
+            "HexCode": "#EE5FB7"
+        },
+        {
+            "Order": 22,
+            "FullName": "22. Planned Leave",
+            "Theme": "Leave",
+            "Tag": "Leave",
+            "Colour": "DarkGray",
+            "HexCode": "#8F8F8F"
+        },
+        {
+            "Order": 23,
+            "FullName": "23. Flexi Leave",
+            "Theme": "Leave",
+            "Tag": "Flexi",
+            "Colour": "WarmGray",
+            "HexCode": "#C3C5BB"
+        },
+        {
+            "Order": 24,
+            "FullName": "24. Lunch",
+            "Theme": "Leave",
+            "Tag": "Lunch",
+            "Colour": "Gray",
+            "HexCode": "#9FADB1"
+        },
+        {
+            "Order": 25,
+            "FullName": "25. Travel",
+            "Theme": "Leave",
+            "Tag": "Travel",
+            "Colour": "LightGray",
+            "HexCode": "#C5CED1"
+        }
+    ],
+    "compliance": {
+        "ISO9001": true,
+        "auditReady": true,
+        "generatedBy": "Automated Compliance Engine",
+        "timestamp": "2025-11-28"
+    }
+}
