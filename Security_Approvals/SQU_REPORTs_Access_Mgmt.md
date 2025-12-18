@@ -1,110 +1,104 @@
 
-# **Standard Operating Procedure (SOP)**
+# Standard Operating Procedure (SOP)
 
-**Title:** Request and Access Management for **SQU Reporting**
-**Version:** 1.1
+**Title:** Request and Access Management for SQU Reporting
+**Version:** 1.2
 
-***
+> last_updated: 2025-12-18
+> owner: Data & Analytics (SQU)
+> scope: SQU reporting users and IT staff managing SQU_REPORTs access
+> severity: Medium
+> approval_required: yes
+> tags: [access, security, compliance]
 
-## **Purpose**
+---
 
-To define the standardized steps for requesting, updating, and managing user access, security groups, and roles for **SQU\_REPORTs**, ensuring compliance with organizational directives and audit readiness.
+## Purpose
 
-***
+Define the standardized, auditable steps to request, grant, update, and revoke user access, security groups, and roles for `SQU_REPORTs`. This SOP includes machine-readable metadata and clear, imperative steps to support automation and compliance tracking.
 
-## **Scope**
+---
 
-Applies to all requests involving user access, security groups, and roles related to **SQU\_REPORTs**.
+## Scope
 
-***
+Applies to all user access requests, security-group and role changes, and access revocations for `SQU_REPORTs` across SQU-managed environments.
 
-## **Responsibilities**
+---
 
-* **Requester:** Completes Access Form and initiates request.
-* **IT Team:** Executes changes and closes Marval ticket.
-* **Data Analyst (Owner):** Monitors progress, validates completion, and updates records.
+## Responsibilities
 
-***
+- **Requester:** Complete the Access Request Form and submit it.
+- **Approver (Owner):** Approve or reject the request within the SLA.
+- **IT Team:** Execute approved changes and update the ticketing system.
+- **Data Analyst (Owner):** Validate access, update records, and close the loop.
 
-## **Process Steps**
+---
 
-### **1. Request**
+## Process Steps (imperative)
 
-Initiate the request for access or update.
+1. Submit Request
 
-***
+   - Requester completes the Access Request Form with user HADID, corporate email, requested Security Group and Role (one security group per request), justification, and required expiry date (if temporary).
 
-### **2. Access Form**
+2. Validate Request
 
-Complete the **Access Request Form** with:
+   - Owner reviews and either `Approve` or `Reject` the request. If `Approve`, record approval in the Access Request Form and note the Marval ticket placeholder.
 
-* User(s) HADID and Email
-* Required Security Group and Role (one Security Group per request)
-* Access details for **SQU\_REPORTs**
+3. Create Ticket
 
-***
+   - IT or Requester creates a Marval ticket in the IT Self-Service Portal. Include: user HADID(s), email(s), approved Security Group, approved Role, approval reference (SOP id + approval timestamp), and any automation artifact references.
 
-### **3. Process Request**
+4. Execute Change
 
-Perform the following actions:
+   - IT applies the access change to `SQU_REPORTs` (add/update user, assign group/role). Use automation where available and include script/package IDs in the ticket.
 
-#### **4. Add/Update User(s)**
+5. Verify Access
 
-Update user details in **SQU\_REPORTs**.
+   - Owner or Requester verifies access is granted and functional. Use one-line verification checks and record verification timestamp.
 
-#### **5. Add/Update Access**
+6. Document and Close
 
-Update access permissions for **SQU\_REPORTs**:
+   - Record the Marval Ticket Number, approval reference, change executor, and verification timestamp in `SQU_REPORTs` access log. Close the Marval ticket when verification passes.
 
-* **a. Add/Update Security Group(s)**
-* **b. Add/Update Role(s)**
+7. Review and Revoke
 
-***
+   - For temporary access, schedule automatic revocation per the expiry date. For permanent role changes, record reason and keep evidence URL.
 
-### **6. Generate Marval Ticket (IT Self-Service Portal)**
+---
 
-* **a. Security Group & Role** (one Security Group per request)
-* **b. User(s) HADID & Email**
+## Approval & SLA
 
-***
+- **Severity mapping:** High = 72 hours, Medium = 14 days, Low = next maintenance window.
+- **Approval_required:** Yes for all changes that modify security groups or grant elevated roles.
 
-### **7. Document Marval Ticket Number**
+---
 
-Record the **Marval Ticket Number** in **SQU\_REPORTs**.
+## Audit & Compliance
 
-***
+- Log every change with timestamps, approver, executor, Marval ticket number, and verification evidence URL.
+- Maintain `SQU_REPORTs` Access Log with the fields: `Group_Name`, `Security_Group`, `HADID`, `Email`, `Notes`, `Request_Details`, `Requested_DateTime`, `updated_DateTime`.
 
-### **8. Monitor IT Action**
+### Compliance Tracking Table
 
-Track IT progress and Marval ticket completion.
+| Group_Name | Security_Group | HADID | Email | Notes | Request_Details | Requested_DateTime | updated_DateTime |
+|------------|----------------|-------|-------|-------|-----------------|--------------------|-------------------|
 
-***
+---
 
-### **9. Communicate and Verify**
-
-Confirm with the user that access has been granted and validated.
-
-***
-
-### **10. Update Records**
-
-In **SQU\_REPORTs**:
-
-* Remove **IT Ticket Number** and **Request Date**
-* Add/Update **Update Date**
-
-***
-
-## **Audit & Compliance Notes**
-
-* All updates must be logged in **SQU\_REPORTs** with timestamps.
-
-***
-
-## **Storage Table**
+## Storage Table
 
 | **Absolute Path**                                 | **Artifact Name**   |
 | ------------------------------------------------- | ------------------- |
-| `./Security_Approvals/SQU_REPORTs_Access_Mgmt.md` | SOP Document        |
-| `./Compliance/Logs/SQU_REPORTs_Access_Log.xlsx`   | Access Log          |
-| `./_Reports/SQU_REPORTs.xlsx`                     | Catalog & User Info |
+| [Security_Approvals/SQU_REPORTs_Access_Mgmt.md](Security_Approvals/SQU_REPORTs_Access_Mgmt.md) | SOP Document        |
+| [Compliance/Logs/SQU_REPORTs_Access_Log.xlsx](Compliance/Logs/SQU_REPORTs_Access_Log.xlsx)   | Access Log          |
+| [_Reports/SQU_REPORTs.xlsx](_Reports/SQU_REPORTs.xlsx)                     | Catalog & User Info |
+
+---
+
+## Change History
+
+- v1.0 — Initial draft
+- v1.1 — Clarified fields and process (previous)
+- v1.2 — Formatting and style updated, added compliance tracking (this update)
+
+---
