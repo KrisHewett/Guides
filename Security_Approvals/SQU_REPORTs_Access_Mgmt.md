@@ -48,19 +48,24 @@ Applies to all user access requests, security-group and role changes, and access
 
    - IT or Requester creates a Marval ticket in the IT Self-Service Portal. Include: user HADID(s), email(s), approved Security Group, approved Role, approval reference (SOP id + approval timestamp), and any automation artifact references.
 
-4. Execute Change
+> Home > Access & Software > HAD Account
+> 07 - Security Group - Access Request
+
+1. Execute Change
 
    - IT applies the access change to `SQU_REPORTs` (add/update user, assign group/role). Use automation where available and include script/package IDs in the ticket.
 
-5. Verify Access
+2. Verify Access
 
    - Owner or Requester verifies access is granted and functional. Use one-line verification checks and record verification timestamp.
 
-6. Document and Close
+- prvide link to service/report
+
+1. Document and Close
 
    - Record the Marval Ticket Number, approval reference, change executor, and verification timestamp in `SQU_REPORTs` access log. Close the Marval ticket when verification passes.
 
-7. Review and Revoke
+2. Review and Revoke
 
    - For temporary access, schedule automatic revocation per the expiry date. For permanent role changes, record reason and keep evidence URL.
 
