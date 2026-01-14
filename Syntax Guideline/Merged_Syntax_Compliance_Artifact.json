@@ -1,0 +1,30 @@
+
+{
+  "artifact_name": "Merged_Syntax_Compliance_Artifact",
+  "version": "1.0",
+  "revision_date": "2026-01-14",
+  "ssot_path": "R:\\Data Analysis and Reporting\\_Resources\\SQU_Workspace\\Guides\\Syntax Guideline",
+  "sections": [
+    "Universal Syntax Guideline v1.5",
+    "Language-specific Examples v1.3",
+    "ASCII Flow Notation v1.1",
+    "Linter–Formatter Configurations v1.0"
+  ],
+  "versioning": [
+    {"artifact": "Universal Syntax Guideline", "version": "1.5", "date": "2026-01-14", "author": "K. Hewett"},
+    {"artifact": "Language-specific Examples", "version": "1.3", "date": "2026-01-14", "author": "K. Hewett"},
+    {"artifact": "ASCII Flow Notation", "version": "1.1", "date": "2026-01-14", "author": "K. Hewett"},
+    {"artifact": "Linter–Formatter Configurations", "version": "1.0", "date": "2026-01-14", "author": "K. Hewett"}
+  ],
+  "ssot_storage": [
+    {"path": "R:\\Data Analysis and Reporting\\_Resources\\SQU_Workspace\\Guides\\Syntax Guideline", "file": "Universal_Syntax_Guideline_v1.5.md"},
+    {"path": "R:\\Data Analysis and Reporting\\_Resources\\SQU_Workspace\\Guides\\Syntax Guideline", "file": "Language_Examples_v1.3.md"},
+    {"path": "R:\\Data Analysis and Reporting\\_Resources\\SQU_Workspace\\Guides\\Syntax Guideline", "file": "ASCII_Flow_Notation_v1.1.md"},
+    {"path": "R:\\Data Analysis and Reporting\\_Resources\\SQU_Workspace\\Guides\\Syntax Guideline", "file": "Linter_Formatter_Configs_v1.0.md"}
+  ],
+  "compliance": {
+    "markdownlint": ["MD035", "MD040", "MD024", "MD060"],
+    "mcm_directives": ["ISO 9001", "SSOT", "Audit readiness", "Max line length 120", "Indentation 4 spaces", "Plain ASCII"]
+  }
+}
+``

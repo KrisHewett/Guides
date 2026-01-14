@@ -1,4 +1,11 @@
-# ✅ **ASCII Flow Notation**
+
+# ✅ **ASCII Flow Notation (Revised for MCM Compliance)**
+
+**Developed by:** <<Kristopher.Hewett@sa.gov.au>>
+**Version:** 1.1
+**Revision Date:** 2025-01-14
+
+---
 
 ## **Core Principles**
 
@@ -7,7 +14,7 @@
 * **Consistent structure**
 * **Quick to type in plain text**
 
-***
+---
 
 ### **1. Elements**
 
@@ -15,7 +22,7 @@
 * **Decision:** `[Question?]`
 * **Start/End:** `[START]` and `[END]` (optional but recommended for clarity)
 
-***
+---
 
 ### **2. Flow Direction**
 
@@ -23,7 +30,7 @@
 * **Vertical:** `↓` for downward progression
 * **Branching:** Conditions (`YES`, `NO`, etc.) **before the arrow**
 
-***
+---
 
 ### **3. Branching Rules**
 
@@ -31,7 +38,7 @@
 * Align conditions vertically for clarity.
 * Indent nested decisions by **3 spaces**.
 
-***
+---
 
 ### **4. Optional Enhancements**
 
@@ -39,22 +46,24 @@
 * **Annotations:** Use `#` for comments or notes.
 * **Grouping:** Use `---` to separate major sections.
 
-***
+---
 
-### ✅ **Final Example (Your Flow, Enhanced)**
+### ✅ **Final Example (Enhanced)**
 
-    [START] → [User Request] → [Risk Assessment]
-              ↓
-    [Is Current Task Sensitive?]
-              ↓
-        NO  → [Allow Action + Inform User]
-        YES → [Can Risk Be Reduced?]
-               ↓
-           YES → [Offer Redirection or Partial Action]
-           NO  → [Block + Explain Why]
-    [END]
+```text
+[START] → [User Request] → [Risk Assessment]
+          ↓
+[Is Current Task Sensitive?]
+          ↓
+    NO  → [Allow Action + Inform User]
+    YES → [Can Risk Be Reduced?]
+           ↓
+       YES → [Offer Redirection or Partial Action]
+       NO  → [Block + Explain Why]
+[END]
+```
 
-***
+---
 
 ### ✅ **Quick Rules Summary**
 
@@ -64,13 +73,22 @@
 * Indent nested branches
 * Optional: `[START]` / `[END]`, numbering, comments
 
-***
+---
 
-### ✅ Why This Works
+### ✅ **Why This Works**
 
 * **Fast to learn** (5 rules)
 * **Readable in plain text**
 * **Easy to convert** to Mermaid, PlantUML, or graphical flowcharts later
 * **Scales well** for small or large processes
 
-***
+---
+
+### **Versioning**
+
+| Version | Date       | Author    | Changes                              |
+| ------- | ---------- | --------- | ------------------------------------ |
+| 1.0     | 2025-11-21 | K. Hewett | Initial draft                        |
+| 1.1     | 2026-01-14 | K. Hewett | Formatting and Consistency updates   |
+
+---
