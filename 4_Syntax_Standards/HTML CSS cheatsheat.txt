@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!-- 		
+-------------------------------------
+		Φ ≈ 1.618
+		W = Width (pixels) ⇔ Horazontal ⇔ X
+		H = Height (pixels) ⇔ Vertical ⇔ Y
+		A = Area
+		R = Ratio = [W:H]
+		D = Diagonal length
+		X = Unknown Value
+		N = Number
+		SM = Social Media
+
+		H Margin = (W-(W/Φ))/2
+		V Margin = (H-(H/Φ))/2
+-------------------------------------
+		JPG or PNG
+-------------------------------------
+Aspect Ratio = [W:H]
+	Square = [1:1]
+		SM Large = [720:720]
+		SM Medium = [400:400]
+		SM Small= [320:320]
+		SM Tiny = [170:170]
+		MS365 = [96:96]
+			size ≤10KB
+
+	Widescreen = [16:9] ⇔ [1.78:1]
+		SD = [720p] ⇔ [1280:720]
+		Full HD = [1080p] ⇔ [1920:1080]
+		QHD = [1440p] ⇔ [2560:1440]
+		UHD = [4K] ⇔ [3840:2160]
+	Cinemascope = [21:9] ⇔ [2.33:1]
+	Old Sckool = [4:3] ⇔ [1.33:1]
+		PC = [800:600]
+
+-------------------------------------
+Colour Codes
+
+	RGB = rgb(red, green, blue)
+	RGBA = rgb(red, green, blue, opacity)
+		byte = [≥0 | ≤255] ⇔ [red | green | blue] ⇔ [HEX ⇒ byte]
+		Opacity = [≥0.0 | ≤1.0] ⇔ [Alpha | α]
+
+	HEX = #RRGGBB
+		HEX = [≥00 | ≤FF] ⇔ [RR | GG | BB] ⇔ [byte ⇒ HEX]
+
+	HSL = hsl(hue, saturation, lightness)
+	HSLA = hsla(hue, saturation, lightness, ????
+		hue = [≥0 | ≤360] ⇔ [0 ⇒ red | 120 ⇒ green | 240 ⇒ blue]
+		saturatio = [≥0% | ≤100%] ⇔ [0% ⇒ gray | 100% ⇒ full color]
+		lightness = [≥0% | ≤100%] ⇔ [0% ⇒ black | 100% ⇒ white]
+
+-->
