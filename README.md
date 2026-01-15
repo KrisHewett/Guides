@@ -43,4 +43,22 @@
 ```
 
 ---
+
+\\Guides
+    \\Guides\5_Governance
+        \\Guides\5_Governance\4_Governance_and_Delegation
+            \\Guides\5_Governance\4_Governance_and_Delegation\2a_Data_Governance_Framework.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\2b_Compliance_Register.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\2c_Privacy_Impact_Assessment.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\2d_Approval_Matrix.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\2e_Stakeholder_Sign-off_Sheet.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\3a_Governance_and_Change_Management.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\3b_Roles_and_Responsibilities.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\3c_RACI_Matrix.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\3d_Stakeholder_Sign-off_Sheet.md
+            \\Guides\5_Governance\4_Governance_and_Delegation\3e_Communication_Summary.md
+        \\Guides\5_Governance\Technical_Dictionarys_and_Standards
+            \\Guides\5_Governance\Technical_Dictionarys_and_Standards\Technical Dictionary & Standards Reference.md   (Active SSOT; v1.0.1)
+
+---
 ``
