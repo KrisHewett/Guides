@@ -5,14 +5,16 @@ Developed by: <<Kristopher.Hewett@sa.gov.au>>
 Version: 1.0.1
 Revision Date: 2026‑01‑19
 Compliance Baseline: MCM v52.2
-Conforms To Directive: MCM‑STD‑ARTEFACT‑STRUCTURE v52.2.3
+Conforms To Directive: MCM‑STD‑ARTEFACT‑STRUCTURE v52.2.4
 SSOT Path: \\Guides\3_Structural_Rules_and_Metadata\4_Standard Artefact Structure\DataDictionary Rules & Guidelines.md
 
 ---
 
 # 2. Purpose
 
-Define the complete governance, structural rules, formatting, metadata, lineage, and validation requirements for Data Dictionary artefacts covering SLS Patient, Worker, and Security modules. Ensures SSOT integrity, audit‑readiness, and compliance with MCM v52.2.
+Define governance, schema rules, formatting standards, metadata structures, lineage expectations, and validation
+requirements for SLS Data Dictionary artefacts across Patient, Worker, and Security modules. Ensures SSOT integrity,
+audit readiness, and alignment with MCM v52.2 and structural governance baseline v52.2.4.
 
 ---
 
@@ -24,8 +26,11 @@ Define the complete governance, structural rules, formatting, metadata, lineage,
 
 (This table contains the core field definitions. No code may appear inside cells.)
 
-| # | Section | Group | Item | SLS Field Name | Label (User‑Facing) | DAP_NAME | Description | Values | Data Type | SQL Source Table | SQL Column | JOIN Logic | CASE Logic | Notes |
-|---|---------|--------|------|----------------|----------------------|----------|-------------|---------|-----------|------------------|------------|------------|------------|-------|
+| # | Section | Group | Item | SLS Field Name | Label (User‑Facing) | DAP_NAME | Description | Values |
+|---|---------|--------|------|----------------|----------------------|----------|-------------|---------|
+
+| Data Type | SQL Source Table | SQL Column | JOIN Logic | CASE Logic | Notes |
+|-----------|------------------|------------|------------|------------|-------|
 
 ---
 
@@ -73,17 +78,17 @@ Define the complete governance, structural rules, formatting, metadata, lineage,
 
 ## 3.7 Validation Rules
 
-- DAP_NAME must be unique and stable.
+- DAP_NAME must be unique, stable, and follow naming conventions.
 - All JOIN logic must be explicit.
-- Data types must follow standard catalogue rules.
-- Fields must have defined lineage.
-- Code table mappings must resolve to a valid cod_type or table.
+- Data types must conform to the catalogue.
+- All fields must include complete lineage.
+- Code table mappings must resolve to a valid cod_type or reference table.
 
 ---
 
 ## 3.8 Glossary
 
-Defines SLS prefixes, schema terms, and conceptual components such as:
+Defines SLS prefixes, schema conventions, and conceptual entities, including:
 
 - inc_
 - udv_
@@ -97,7 +102,7 @@ Defines SLS prefixes, schema terms, and conceptual components such as:
 
 # 4. References
 
-- MCM‑STD‑ARTEFACT‑STRUCTURE v52.2.3
+- MCM‑STD‑ARTEFACT‑STRUCTURE v52.2.4
 - ISO 9001:2015 — Documented Information
 - SLS Data Model (authoritative)
 
@@ -109,24 +114,3 @@ Defines SLS prefixes, schema terms, and conceptual components such as:
 |---------|--------|---------|----------|
 | 1.0.1 | 2026‑01‑19 | K. Hewett | Updated template; restored metadata block format |
 | 1.0.0 | 2026‑01‑19 | K. Hewett | Initial creation of template |
-
----
-
-# 6. Compliance Notes
-
-- Metadata block correct, complete, and in required order.
-- SSOT path validated.
-- Conforms to MCM‑STD‑ARTEFACT‑STRUCTURE v52.2.3.
-- Markdownlint compliant (MD032, MD035, MD040).
-- All spelling British/Australian.
-- No placeholders.
-- All lines < 120 characters.
-- Section order exactly 1 → 7.
-
----
-
-# 7. (Optional) SSOT Storage Guidance Table
-
-| Absolute Path | Artefact (validated link) | Validation Status |
-|---------------|---------------------------|-------------------|
-| \\Guides\3_Structural_Rules_and_Metadata\4_Standard Artefact Structure\DataDictionary Rules & Guidelines.md | DataDictionary Rules & Guidelines.md | ✔ Validated |

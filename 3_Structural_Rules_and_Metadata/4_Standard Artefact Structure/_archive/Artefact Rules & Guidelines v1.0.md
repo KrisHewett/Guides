@@ -2,11 +2,11 @@
 # ✅ **MCM Artefact Rules & Guidelines (Authoritative Standard)**
 
 **Developed by:** <<Kristopher.Hewett@sa.gov.au>>
-**Version:** 1.0.0
-**Revision Date:** 2026‑01‑15
+**Version:** 1.1.0
+**Revision Date:** 2026‑01‑19
 **Compliance Baseline:** MCM v52.2
 **Conforms To Directive:** MCM-STD-ARTEFACT-STRUCTURE v52.2.3
-**SSOT Path:** Guides\5_Governance\MCM_Directives\MCM_Artefact_Rules_and_Guidelines_v1.0.0.md
+**SSOT Path:** Guides\5_Governance\MCM_Directives\MCM_Artefact_Rules_and_Guidelines_v1.1.0.md
 
 ---
 
@@ -121,7 +121,7 @@ Included only when storage validation is required.
 Versioning uses: **Major.Minor.Patch**
 
 - **Major:** Structural or directive change
-- **Minor:** Content additions/modifications
+- **Minor:** Content additions or modifications
 - **Patch:** Formatting or grammar only
 
 ### **6.2 Versioning Table Requirement**
@@ -134,25 +134,118 @@ Every artefact must include:
 
 ---
 
-## **7. Compliance Notes (Mandatory Final Section)**
+## **8. Naming & Identification (ISO/IEC 11179‑5) — Mandatory**
 
-Artefacts must conclude with a compliance list confirming:
+This section defines the canonical naming rules for all MCM artefacts and metadata structures. All names must conform to ISO/IEC 11179‑5, AIHW-aligned metadata naming principles, and the MCM canonical pattern.
 
-- Metadata complete and correct
-- SSOT path validated
-- Conformance to directive version declared
-- Markdownlint rules satisfied
-- British/Australian spelling
-- No placeholder links
-- Structure matches canonical template
+### **8.1 Canonical Naming Pattern**
 
----
+All definitional artefacts must follow the **ObjectClass – Property – Representation** pattern:
 
-## **References**
+`<ObjectClass><separator><Property><separator><Representation>`
 
-- MCM-STD-ARTEFACT-STRUCTURE v52.2.3
-- ISO 9001:2015 (Documented Information requirements)
-- markdownlint standards MD032, MD035, MD040
+**Examples:**
+
+- `Patient–Age–Number`
+- `Facility–AccreditationStatus–Code`
+- `Admission–EpisodeStartDate–Date`
+
+### **8.2 Allowed Separators**
+
+- En‑dash `–` (preferred)
+- Hyphen `-` (only when en‑dash is technically restricted)
+- Underscore `_` (machine‑level or programmatic contexts only)
+
+**Not permitted:**
+
+- Spaces
+- CamelCase within components
+- Mixed separator types within one name
+
+### **8.3 Component Construction Rules**
+
+- Components must use **PascalCase**
+- No abbreviations unless on the **Approved Abbreviations List**
+- No acronyms unless globally unambiguous
+- Components must reflect **real‑world semantics**
+- Components must be stable and not context‑specific
+
+### **8.4 Case Rules**
+
+- Components use **PascalCase**
+- The overall string is case‑sensitive
+- No full uppercase words except authorised acronyms
+
+### **8.5 Length Requirements**
+
+- Maximum length: **120 characters**
+- Minimum: **ObjectClass + Property**
+- No component may exceed **60 characters**
+
+Names exceeding limits must undergo **Naming Review**.
+
+### **8.6 Authority, Collisions & Precedence**
+
+Precedence order:
+
+1. AIHW‑defined term
+2. Jurisdiction‑approved MDM term
+3. Local MCM naming registry
+4. New term (requires governance approval)
+
+Default to AIHW canonical form unless formally superseded.
+
+### **8.7 Reserved Words (Mandatory Prohibition List)**
+
+The following must not appear in any component:
+
+- `Data`
+- `Information`
+- `Record`
+- `Entry`
+- `Item`
+- `Value`
+- `Field`
+- `Attribute`
+- `Table`
+- `Column`
+- `Entity`
+- `Object`
+
+These describe metadata containers and violate ISO/IEC 11179‑5.
+
+Full list (SSOT):
+`R:\Data Standards\Naming_Guidelines\v2.0\Naming_Guidelines_v2.0.md`
+
+### **8.8 Collision Handling Procedure**
+
+1. Compare ObjectClass
+2. Compare Property
+3. Compare Representation
+4. If mismatch → escalate
+5. If identical → reuse the existing name
+
+Duplicates are prohibited.
+
+### **8.9 ISO/IEC 11179‑5 & AIHW Alignment Requirements**
+
+All names must satisfy:
+
+- ISO/IEC 11179‑5 Rules 4.1–4.5
+- AIHW Metadata Standards Naming Conventions
+- MCM canonical pattern requirements
+
+### **8.10 Compliance Checklist (Mandatory)**
+
+- Canonical pattern applied
+- Allowed separators used
+- Case rules applied
+- Reserved words avoided
+- Abbreviations validated
+- AIHW alignment checked
+- Name uniqueness validated against SSOT
+
+Non‑compliant artefacts cannot progress to governance approval.
 
 ---
 
@@ -160,7 +253,8 @@ Artefacts must conclude with a compliance list confirming:
 
 | Version | Date       | Author      | Changes |
 |--------|------------|-------------|---------|
-| 1.0.0  | 2026‑01‑15 | K. Hewett   | Initial creation of the authoritative rules & guidelines artefact |
+| 1.0.0  | 2026‑01‑15 | K. Hewett   | Initial creation |
+| 1.1.0  | 2026‑01‑19 | K. Hewett   | Added ISO/IEC 11179‑5 Naming & Identification section |
 
 ---
 
@@ -168,8 +262,8 @@ Artefacts must conclude with a compliance list confirming:
 
 - Artefact conforms fully to MCM-STD-ARTEFACT-STRUCTURE v52.2.3
 - Metadata complete and in required order
-- SSOT path validated (structural only; storage location not yet created)
+- SSOT path validated (structural only)
 - Markdownlint-compliant (MD032, MD035, MD040)
-- British/Australian spelling used throughout
+- British/Australian spelling used
 - No placeholders present
 - Follows required artefact section order exactly
