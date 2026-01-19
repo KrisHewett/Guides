@@ -1,0 +1,202 @@
+#,Section,Group,Item,SLS Field Name,Label (User-Facing),DAP_NAME,Description,Values
+1,INCIDENT,REPORT,12,description,anybody else notified?,Others_notified,,
+2,MANAGEMENT,OPEN_DISCLOSURE,8,udv_string,Has the patient/family/carer been informed of the incident?,PATIENT_FAMILY_CARER_BEEN_INFORMED_OF_THE_INCIDENT,,
+3,INCIDENT,CLASSIFICATION,4,description,Incident Injury Type,Incident_Injury_TYPE,,Split in [inc_injuries] by 'listorder'
+4,PERSON_AFFECTED,INJURY_TYPE,1,description,Injury,INJURY,,No Data
+5,INCIDENT_DETAILS,MEDICATION_FACTORS,8,udc_description,Administration errors,ADMINISTRATION_ERRORS_LIST,,"Code Split by "" "" Delimiter"
+6,STRUCTURED_REVIEW,STRUCTURED_REVIEW,7,udc_description,Cluster Incidents - Cluster Title,REVIEW_CLUSTER,,
+7,STRUCTURED_REVIEW,PATIENT_SAFETY_HUDDLE,2,udv_date,Date of Patient Safety Huddle,PATIENT_SAFETY_HUDDLE_DATE,,
+8,STRUCTURED_REVIEW,STRUCTURED_REVIEW,3,udc_description,Structured Review - Select type of Investigation/Review being conducted,INVESTIGATION_REVIEW_BEING_CONDUCTED_LIST,,"Code Split by "" "" Delimiter"
+9,INCIDENT_DETAILS,BLOOD,11,udv_date,Date of transfusion,TRANSFUSION_DATE,No Data,
+10,STRUCTURED_REVIEW,STRUCTURED_REVIEW,5,udv_string,Structured Review - Attached CIB & Report(s),INVESTIGATION_COMPLETE_WITH_ALL_REPORTS_ATTACHED,,
+11,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,8,udc_description,To prevent or minimise harm from pressure (in place),TO_PREVENT_OR_MINIMISE_HARM_FROM_PRESSURE_IN_PLACE_LIST,,"Code Split by "" "" Delimiter"
+12,STRUCTURED_REVIEW,SIRS,2,udc_description,Aged Care Mandatory Reporting (SIRS) - Category of Report,AGED_CARE_MANDATORY_REPORTING_SIRS_CATEGORY_OF_REPORT,,
+13,STRUCTURED_REVIEW,SIRS,3,udv_date,Aged Care Mandatory Reporting (SIRS) - Date of SIRS Report,SIRS_REPORT_DATE,,
+14,STRUCTURED_REVIEW,SIRS,1,udv_string,Aged Care Mandatory Reporting (SIRS) - SIRS Report Number / Commission Case Number,SIRS_REPORT_NUMBER_COMMISSION_CASE_NUMBER,,
+15,INCIDENT_DETAILS,BLOOD,44,udc_description,Blood - Administration error (list),BLOOD_ADMINISTRATION_ERROR,,
+16,INCIDENT_DETAILS,BLOOD,45,udv_string,Blood - Administration error (other),BLOOD_ADMINISTRATION_ERROR_OTHER,,
+17,INCIDENT_DETAILS,BLOOD,37,udv_string,Blood - Adverse reaction - Other,BLOOD_ADVERSE_REACTION_OTHER,,
+18,INCIDENT_DETAILS,BLOOD,36,udv_text,Blood - Adverse reaction - Uncertain aetiology,BLOOD_ADVERSE_REACTION_UNCERTAIN_AETIOLOGY_DESC,,
+19,INCIDENT_DETAILS,BLOOD,35,udc_description,Blood - Adverse reaction to blood product (list),BLOOD_ADVERSE_REACTION_TO_BLOOD_PRODUCT,,
+20,INCIDENT_DETAILS,BLOOD,61,udc_description,Blood - Blood product not available (list),BLOOD_BLOOD_PRODUCT_NOT_AVAILABLE,,
+21,INCIDENT_DETAILS,BLOOD,25,udc_description,Blood - Concomitant blood products,BLOOD_CONCOMITANT_BLOOD_PRODUCTS_LIST,,"Code Split by "" "" Delimiter"
+22,INCIDENT_DETAILS,BLOOD,47,udv_string,Blood - Concomitant factor product (specify),BLOOD_CONCOMITANT_FACTOR_PRODUCT,,
+23,INCIDENT_DETAILS,BLOOD,49,udv_string,Blood - Concomitant other (specify),BLOOD_CONCOMITANT_OTHER,,
+24,INCIDENT_DETAILS,BLOOD,18,udc_description,Blood - Contributing Factors,BLOOD_CONTRIBUTING_FACTORS_LIST,,"Code Split by "" "" Delimiter"
+25,INCIDENT_DETAILS,BLOOD,19,udv_string,Blood - Contributing Factors (other),BLOOD_CONTRIBUTING_FACTORS_OTHER,,
+26,INCIDENT_DETAILS,BLOOD,33,udv_date,Blood - Date of transfusion,BLOOD_TRANSFUSION_DATE,,
+27,INCIDENT_DETAILS,BLOOD,42,udc_description,Blood - Dispensing/Issuing (list),BLOOD_DISPENSING_ISSUING,,
+28,INCIDENT_DETAILS,BLOOD,43,udv_string,Blood - Dispensing/Issuing (other),BLOOD_DISPENSING_ISSUING_OTHER,,
+29,INCIDENT_DETAILS,BLOOD,40,udc_description,Blood - Handling and storage (list),BLOOD_HANDLING_AND_STORAGE,,
+30,INCIDENT_DETAILS,BLOOD,41,udv_string,Blood - Handling and storage (other),BLOOD_HANDLING_AND_STORAGE_OTHER,,
+31,INCIDENT_DETAILS,BLOOD,20,udc_description,Blood - How likely is it that the adverse reaction,BLOOD_HOW_LIKELY_IS_IT_THAT_THE_ADVERSE_REACTION,,
+32,INCIDENT_DETAILS,BLOOD,53,udc_description,"Blood - Inappropriate, unnecessary or under transfusion (list)",BLOOD_INAPPROPRIATE_UNNECESSARY_OR_UNDER_TRANSFUSION,,
+33,INCIDENT_DETAILS,BLOOD,54,udv_string,"Blood - Inappropriate, unnecessary or undertransfusion (other)",BLOOD_INAPPROPRIATE_UNNECESSARY_OR_UNDERTRANSFUSION_OTHER,,
+34,INCIDENT_DETAILS,BLOOD,38,udc_description,Blood - Incorrect blood product given (list),BLOOD_INCORRECT_BLOOD_PRODUCT_GIVEN,,
+35,INCIDENT_DETAILS,BLOOD,58,udv_string,Blood - Modifications - other (specify),BLOOD_MODIFICATIONS_OTHER,,
+36,INCIDENT_DETAILS,BLOOD,27,udc_description,Blood - Modifications for fresh products,BLOOD_MODIFICATIONS_FOR_FRESH_PRODUCTS_LIST,,"Code Split by "" "" Delimiter"
+37,INCIDENT_DETAILS,BLOOD,32,udc_description,Blood - Outcome severity (patient),BLOOD_OUTCOME_SEVERITY_PATIENT,,
+38,INCIDENT_DETAILS,BLOOD,46,udc_description,Blood - Prescribing & Ordering (list),BLOOD_PRESCRIBING_AND_ORDERING,,
+39,INCIDENT_DETAILS,BLOOD,48,udv_string,Blood - Prescribing & Ordering (other),BLOOD_PRESCRIBING_AND_ORDERING_OTHER,,
+40,INCIDENT_DETAILS,BLOOD,50,udc_description,Blood - Pre-transfusion specimen and/or request error (list),BLOOD_PRE_TRANSFUSION_SPECIMEN_AND_OR_REQUEST_ERROR,,
+41,INCIDENT_DETAILS,BLOOD,51,udv_string,Blood - Pre-transfusion specimen and/or request error (other),BLOOD_PRE_TRANSFUSION_SPECIMEN_AND_OR_REQUEST_ERROR_OTHER,,
+42,INCIDENT_DETAILS,BLOOD,28,udc_description,Blood - Product specifics given,BLOOD_PRODUCT_SPECIFICS_GIVEN_LIST,,"Code Split by "" "" Delimiter"
+43,INCIDENT_DETAILS,BLOOD,29,udv_string,Blood - Product specifics given ABO/Rhesus (Specify),BLOOD_PRODUCT_SPECIFICS_GIVEN_ABO_RHESUS_SPECIFY,,
+44,INCIDENT_DETAILS,BLOOD,57,udv_string,Blood - Product specifics given Antigen positive (specify),BLOOD_PRODUCT_SPECIFICS_GIVEN_ANTIGEN_POSITIVE_SPECIFY,,
+45,INCIDENT_DETAILS,BLOOD,30,udc_description,Blood - Product specifics required,BLOOD_PRODUCT_SPECIFICS_REQUIRED_LIST,,"Code Split by "" "" Delimiter"
+46,INCIDENT_DETAILS,BLOOD,31,udv_string,Blood - Product specifics required ABO / Rhesus (Specify),BLOOD_PRODUCT_SPECIFICS_REQUIRED_ABO_RHESUS_SPECIFY,,
+47,INCIDENT_DETAILS,BLOOD,60,udv_string,Blood - Product specifics required antigen negative (specify),BLOOD_PRODUCT_SPECIFICS_REQUIRED_ANTIGEN_NEGATIVE_SPECIFY,,
+48,INCIDENT_DETAILS,BLOOD,21,udc_description,Blood - Product type,BLOOD_PRODUCT_TYPE_LIST,,"Code Split by "" "" Delimiter"
+49,INCIDENT_DETAILS,BLOOD,23,udv_string,Blood - Product type - factor product (other),BLOOD_PRODUCT_TYPE_FACTOR_PRODUCT_OTHER,,
+50,INCIDENT_DETAILS,BLOOD,22,udv_string,Blood - Product type - immunoglobulin (other),BLOOD_PRODUCT_TYPE_IMMUNOGLOBULIN_OTHER,,
+51,INCIDENT_DETAILS,BLOOD,24,udv_string,Blood - Product type (other),BLOOD_PRODUCT_TYPE_OTHER,,
+52,INCIDENT_DETAILS,BLOOD,26,udc_description,Blood - Product type required,BLOOD_PRODUCT_TYPE_REQUIRED_LIST,,"Code Split by "" "" Delimiter"
+53,INCIDENT_DETAILS,BLOOD,52,udv_string,"Blood - Product type required, factor product (specify)",BLOOD_PRODUCT_TYPE_REQUIRED_FACTOR_PRODUCT_SPECIFY,,
+54,INCIDENT_DETAILS,BLOOD,62,udv_string,Blood - Specifics given - other (specify),BLOOD_SPECIFICS_GIVEN_OTHER,,
+55,INCIDENT_DETAILS,BLOOD,59,udv_string,Blood - Specifics required - other (specify),BLOOD_SPECIFICS_REQUIRED_OTHER,,
+56,INCIDENT_DETAILS,BLOOD,34,udv_string,Blood - Time transfusion commenced,BLOOD_TIME_TRANSFUSION_COMMENCED,,
+57,INCIDENT_DETAILS,BLOOD,55,udc_description,Blood - Treatment/Procedure failed (list),BLOOD_TREATMENT_PROCEDURE_FAILED,,
+58,INCIDENT_DETAILS,BLOOD,56,udv_string,Blood - Treatment/Procedure failed (other),BLOOD_TREATMENT_PROCEDURE_FAILED_OTHER,,
+59,INCIDENT_DETAILS,BLOOD,39,udc_description,Blood - Wrong blood in tube (list),BLOOD_WRONG_BLOOD_IN_TUBE,,
+60,INCIDENT_DETAILS,DEVICE_PRODUCT,7,udv_string,BME - Received by BME,RECEIVED_BY_BME,,
+61,INCIDENT_DETAILS,DEVICE_PRODUCT,12,udv_string,BME - Work order number,BME_WORK_ORDER_NUMBER,,
+62,INCIDENT_DETAILS,DEVICE_PRODUCT,24,inc_equipment,Brand name,MED_DEVICE_BRAND_NAME,,
+63,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,4,udv_string,Challenging Behaviour - Outcome - Chemical Restraint?,CHEMICAL_RESTRAINT,,
+64,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,3,udv_string,Challenging Behaviour - Outcome - Mechanical Restraint?,MECHANICAL_RESTRAINT,,
+65,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,2,udv_string,Challenging Behaviour - Outcome - Physical Restraint?,PHYSICAL_RESTRAINT,,
+66,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,25,udv_string,Challenging Behaviour - Outcome - Restraint Total Duration (Hours),RESTRAINT_TOTAL_DURATION_HOURS,,HH
+67,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,26,udv_string,Challenging Behaviour - Outcome - Restraint Total Duration (Minutes),RESTRAINT_TOTAL_DURATION_MINUTES,,MM
+68,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,5,udv_string,Challenging Behaviour - Outcome - Seclusion?,SECLUSION,,
+69,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,6,udv_string,Challenging Behaviour - Outcome - Successful Verbal De-escalation?,SUCCESSFULLY_DE_ESCALATED,,
+70,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,10,udc_description,Challenging Behaviour - Outcome - Type of device used for restraint,DEVICE_USED_FOR_RESTRAINT_LIST,,"Code Split by "" "" Delimiter"
+71,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,27,udc_description,Challenging Behaviour - Outcome - Type of verbal abuse?,VERBAL_ABUSE_LIST,,"Code Split by "" "" Delimiter"
+72,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,1,udv_string,Challenging Behaviour - Outcome - Was restraint or seclusion used to manage the challenging behaviour?,RESTRAINT_OR_SECLUSION,,
+73,MANAGEMENT,FALL_POST_REVIEW,2,udv_text,Comment and actions,COMMENT_AND_ACTIONS_DESC,,
+74,NOTIFICATION_DETAILS,NOTIFIER_ISR,1,description,Consequence,NOTIFIER_PATIENT_OUTCOME_ISR,,
+75,MANAGEMENT,MANAGER_ISR,4,description,Consequence (initial),MANAGER_PATIENT_OUTCOME_ISR,,
+76,MANAGEMENT,FACTORS_OTHER,7,udc_description,Contributing Factors - Systems involved,ELECTRONIC_SYSTEM_ERRORS_LIST,,"Code Split by "" "" Delimiter"
+77,INCIDENT_DETAILS,DEVICE_PRODUCT,22,udv_string,Contributing Factors - Systems involved (other),CONTRIBUTING_FACTORS_SYSTEMS_INVOLVED_OTHER,,
+78,INCIDENT_DETAILS,DEVICE_PRODUCT,4,inc_location,Current location,MED_DEVICE_CURRENT_LOCATION,,
+79,STRUCTURED_REVIEW,COMPLETION,1,inc_inv_dcomp,Date investigation/review completed (dd/MM/yyyy),INVESTIGATION_COMPLETED_DATE,,
+80,STRUCTURED_REVIEW,STRUCTURED_REVIEW,16,udv_date,Date reviewed,REVIEWED_DATE,,Team review date
+81,INCIDENT_DETAILS,DEVICE_PRODUCT,5,inc_defect,Description of defect,MED_DEVICE_DEFECT_DESC,,
+82,INCIDENT_DETAILS,DEVICE_PRODUCT,6,inc_description,Description of device,MED_DEVICE_DESC,,
+83,INCIDENT_DETAILS,MEDICATION_FACTORS,4,udc_description,Dispensing issuing errors,DISPENSING_ISSUING_ERRORS_LIST,,"Code Split by "" "" Delimiter"
+84,PERSON_AFFECTED,MENTAL_HEALTH,1,udv_string,Does this adverse event involve a mental health consumer?,CURRENT_MENTAL_HEALTH_CONSUMER,,
+85,PERSON_AFFECTED,ENVIRONMENT,1,udc_description,Environment / ward - inappropriate set-up for patient,ENVIRONMENT_WARD_FACTORS_LIST,,"Code Split by "" "" Delimiter"
+86,INCIDENT_DETAILS,PRESSURE_INJURY,3,udc_description,Environmental factors contributing to pressure injury,PRESSURE_INJURY_ENVIRONMENTAL_FACTORS_LIST,,"Code Split by "" "" Delimiter"
+87,INCIDENT_DETAILS,DEVICE_PRODUCT,19,udc_description,EPLIS - What was the issue(s) for the clinician?,EPLIS_CLINICIAN_ISSUES_LIST,,"Code Split by "" "" Delimiter"
+88,INCIDENT_DETAILS,DEVICE_PRODUCT,18,udc_description,EPLIS - What was the outcome for the patient?,EPLIS_PATIENT_OUTCOME_LIST,,"Code Split by "" "" Delimiter"
+89,MANAGEMENT,FACTORS_OTHER,5,udv_text,Factors related to clinical practice (action),FACTORS_RELATED_TO_CLINICAL_PRACTICE_ACTION_DESC,,
+90,MANAGEMENT,FACTORS_OTHER,6,udv_text,Factors relating to the severity of injury sustained (action),FACTORS_RELATING_TO_THE_SEVERITY_OF_INJURY_SUSTAINED_ACTION_DESC,,
+91,MANAGEMENT,OPEN_DISCLOSURE,2,udv_string,Has Open Disclosure occurred with the patient/family/carer? (Notifier),DISCLOSED_TO_THE_PATIENT_FAMILY,,
+92,INCIDENT_DETAILS,FALL,1,udc_description,Height of Fall,FALLS_HEIGHT_OF_FALL,,
+93,PERSON_AFFECTED,MENTAL_HEALTH,2,udc_description,How was the self harming behaviour displayed?,HOW_SELF_HARMING_BEHAVIOUR_DISPLAYED_LIST,,"Code Split by "" "" Delimiter"
+94,INCIDENT_DETAILS,IMAGING,1,udc_description,Imaging - Cause,IMAGING_CAUSE,,
+95,INCIDENT_DETAILS,IMAGING,2,udv_string,Imaging - Retake,IMAGING_RETAKE,,
+96,INCIDENT_DETAILS,IMAGING,5,udv_string,Imaging - Student,IMAGING_STUDENT,,
+97,INCIDENT_DETAILS,IMAGING,3,udc_description,Imaging - Type of equipment failure,IMAGING_TYPE_OF_EQUIPMENT_FAILURE_LIST,,"Code Split by "" "" Delimiter"
+98,INCIDENT_DETAILS,IMAGING,4,udc_description,Imaging - Type of operator error,IMAGING_TYPE_OF_OPERATOR_ERROR_LIST,,"Code Split by "" "" Delimiter"
+99,STRUCTURED_REVIEW,STRUCTURED_REVIEW,18,udv_date,Incident Management - Team Review Date,INCIDENT_MANAGEMENT_TEAM_REVIEW_DATE,,
+100,STRUCTURED_REVIEW,STRUCTURED_REVIEW,8,udc_description,Incident Management - What type of investigation?,TYPE_OF_INVESTIGATION_ARE_YOU_CONDUCTING_LIST,,"Code Split by "" "" Delimiter"
+101,INCIDENT_DETAILS,DEVICE_PRODUCT,20,udv_string,Incorrect position of gastric tube - Was there delay / failure to order a check x-ray?,DELAY_FAILURE_TO_ORDER_A_CHECK_X_RAY,,
+102,INCIDENT_DETAILS,DEVICE_PRODUCT,21,udv_string,Incorrect position of gastric tube - Was there delay / failure to review results of the check x-ray?,DELAY_FAILURE_TO_REVIEW_RESULTS_OF_THE_CHECK_X_RAY,,
+103,INCIDENT_DETAILS,INFECTION_PREVENTION,7,udc_description,Infection Prevention - What is the suspected infection/outbreak associated with this incident?,SUSPECTED_INFECTION_OUTBREAK_ASSOCIATED_WITH_THIS_INCIDENT,,
+104,INCIDENT_DETAILS,INFECTION_PREVENTION,6,udc_description,Infection Prevention - What type of Personal Protective Equipment (PPE) was there an issue with?,PERSONAL_PROTECTIVE_EQUIPMENT_PPE_LIST,,"Code Split by "" "" Delimiter"
+105,INCIDENT_DETAILS,INFECTION_PREVENTION,5,udc_description,Infection Prevention - What was the clinical waste management incident related to?,RELATED_CLINICAL_WASTE_MANAGEMENT_INCIDENT,,
+106,INCIDENT_DETAILS,INFECTION_PREVENTION,2,udc_description,Infection Prevention - What was the invasive medical device?,INVASIVE_MEDICAL_DEVICE,,
+107,INCIDENT_DETAILS,INFECTION_PREVENTION,9,udc_description,Infection Prevention - What was the location of processing associated with this incident?,LOCATION_OF_PROCESSING,,
+108,INCIDENT_DETAILS,INFECTION_PREVENTION,8,udc_description,Infection Prevention - What was the type of location associated with this incident?,TYPE_OF_LOCATION,,
+109,INCIDENT_DETAILS,INFECTION_PREVENTION,1,udc_description,Infection Prevention - What was the type of sharp involved with this incident?,SHARP_INVOLVED,,
+110,INCIDENT_DETAILS,INFECTION_PREVENTION,4,udc_description,Infection Prevention - Which intravascular device was used?,INTRAVASCULAR_DEVICE_USED,,
+111,INCIDENT_DETAILS,INFECTION_PREVENTION,3,udc_description,Infection Prevention - Which urinary device was used?,URINARY_DEVICE_USED,,
+112,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,1,udv_string,Is there a current Falls Risk Assessment in place?,CURRENT_FALLS_RISK_ASSESSMENT_IN_PLACE,,
+113,INCIDENT_DETAILS,ISG,1,udc_description,ISG - Category,ISG_CATEGORY,,
+114,INCIDENT_DETAILS,ISG,8,udv_text,ISG - Detail the reasons why sharing the information without consent,ISG_DETAIL_THE_REASONS_WHY_SHARING_THE_INFORMATION_WITHOUT_CONSENT_DESC,,
+115,INCIDENT_DETAILS,ISG,3,udv_string,ISG - External organisation involved,ISG_EXTERNAL_ORGANISATION_INVOLVED,,
+116,INCIDENT_DETAILS,ISG,4,udv_string,ISG - Name of contact person,ISG_NAME_OF_CONTACT_PERSON,,
+117,INCIDENT_DETAILS,ISG,6,udv_text,ISG - Other reason requested,ISG_OTHER_REASON_REQUESTED_DESC,,
+118,INCIDENT_DETAILS,ISG,9,udv_text,ISG - Other reasons refused,ISG_OTHER_REASONS_REFUSED_DESC,,
+119,INCIDENT_DETAILS,ISG,7,udc_description,ISG - Reasons why information sharing was refused,ISG_REASONS_WHY_INFORMATION_SHARING_WAS_REFUSED_LIST,,"Code Split by "" "" Delimiter"
+120,INCIDENT_DETAILS,ISG,5,udc_description,ISG - Reasons why information sharing was requested,ISG_REASONS_WHY_INFORMATION_SHARING_WAS_REQUESTED_LIST,,"Code Split by "" "" Delimiter"
+121,INCIDENT_DETAILS,ISG,2,udc_description,ISG - Which organisation initiated request,ISG_WHICH_ORGANISATION_INITIATED_REQUEST,,
+122,PERSON_AFFECTED,MENTAL_HEALTH,3,udc_description,Last contact with Mental Health service,LAST_CONTACT_WITH_MENTAL_HEALTH_SERVICE,,
+123,MANAGEMENT,MANAGER_ISR,5,description,Likelihood of recurrence (initial),MANAGER_TREATMENT_REQUIRED_ISR,,
+124,MANAGEMENT,MANAGER_ISR,6,inc_grade_initial,Manager - ISR,MANAGER_RATING_ISR_CODE,,
+125,INCIDENT_DETAILS,MEDICATIONS,3,udv_string,Medication - Did the incident involve a standing drug order?,INCIDENT_INVOLVE_A_STANDING_DRUG_ORDER,,
+126,INCIDENT_DETAILS,MEDICATIONS,2,udv_string,Medication - Other medications involved,OTHER_MEDICATIONS_INVOLVED_LIST,,"Code Split by "" "" Delimiter"
+127,INCIDENT_DETAILS,MEDICATIONS,4,udc_description,Medication omitted due to,MEDICATION_OMITTED_DUE_TO_LIST,,"Code Split by "" "" Delimiter"
+128,STRUCTURED_REVIEW,NDIS,7,udv_string,NDIS Record ID Number,NDIS_RECORD_ID_NUMBER,,
+129,STRUCTURED_REVIEW,NDIS,9,udc_description,NDIS Serious Reportable Incident - Category of Report,NDIS_SERIOUS_REPORTABLE_INCIDENT_CATEGORY_OF_REPORT,,
+130,STRUCTURED_REVIEW,NDIS,10,udv_date,NDIS Serious Reportable Incident - Date of NDIS Report,NDIS_REPORT_DATE,,
+131,NOTIFICATION_DETAILS,NOTIFIER_ISR,3,inc_grade,Notifier - ISR,NOTIFIER_RATING_ISR_CODE,,
+132,MANAGEMENT,OPEN_DISCLOSURE,3,udc_description,Open Disclosure - Level 1 or Level 2,LEVEL_OD_PROCESS_WAS_USED,,
+133,MANAGEMENT,OPEN_DISCLOSURE,5,udc_description,Open Disclosure - Reason for no open disclosure,OPEN_DISCLOSURE_REASON_FOR_NO_OPEN_DISCLOSURE,,
+134,MANAGEMENT,PATIENT_FACTORS,2,udv_text,Patient factors - incomplete identification (action),INTERVENTIONS_RECOMMENDATIONS_TO_REDUCE_THESE_RISKS_DESC,,
+135,INCIDENT_DETAILS,PRESSURE_INJURY,2,udc_description,Patient factors contributing to pressure injury,PATIENT_FACTORS_CONTRIBUTING_TO_PRESSURE_INJURY_LIST,,"Code Split by "" "" Delimiter"
+136,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,30,udc_description,Patient Incident Code Black - Emergency Response Team (ERT) response,EMERGENCY_RESPONSE_TEAM_ERT_RESPONSE,,
+137,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,31,udc_description,Patient Incident Code Black - Emergency Response Team arrive within 5 minutes,EMERGENCY_RESPONSE_TEAM_ARRIVE_WITHIN_5_MINUTES,,
+138,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,29,udv_string,Patient Incident Code Black - Was a Code Black call made?,CODE_BLACK_CALL_MADE,,
+139,NOTIFICATION_DETAILS,NOTIFIER_SAC,3,description,Patient Outcome Result,NOTIFIER_OUTCOME_SAC,,
+140,INCIDENT_DETAILS,EXTRA_DETAILS,34,udc_description,Patient type (MCE),PATIENT_TYPE_MCE,,Not ssure what MCE is?
+141,PERSON_AFFECTED,DEMOGRAPHICS,2,udc_description,Person Affected - Consent Status,PERSON_AFFECTED_CONSENT_STATUS,,
+142,PERSON_AFFECTED,DEMOGRAPHICS,20,cod_descr,Person Affected - Country of Birth,PERSON_AFFECTED_COUNTRY_OF_BIRTH,,
+143,PERSON_AFFECTED,DEMOGRAPHICS,1,udc_description,Person Affected - Demographic Flag,PERSON_AFFECTED_DEMOGRAPHIC_FLAG_LIST,,"Code Split by "" "" Delimiter"
+144,PERSON_AFFECTED,DEMOGRAPHICS,22,udc_description,Person Affected - Demographic Flag - Aged Care Type,PERSON_AFFECTED_DEMOGRAPHIC_FLAG_AGED_CARE_TYPE,,
+145,PERSON_AFFECTED,DEMOGRAPHICS,23,udc_description,Person Affected - Demographic Flag - Funding Source,PERSON_AFFECTED_DEMOGRAPHIC_FLAG_FUNDING_SOURCE,,
+146,PERSON_AFFECTED,DEMOGRAPHICS,21,udc_description,Person Affected - Disabilities,PERSON_AFFECTED_DISABILITIES_LIST,,"Code Split by "" "" Delimiter"
+147,PERSON_AFFECTED,DEMOGRAPHICS,24,udv_string,Person Affected - NDIS - Is SA Health the Registered Provider of the NDIS service?,PERSON_AFFECTED_NDIS_IS_SA_HEALTH_THE_REGISTERED_PROVIDER_OF_THE_NDIS_SERVICE,,
+148,PERSON_AFFECTED,DEMOGRAPHICS,18,cod_descr,Person Affected - Preferred language spoken at home,PERSON_AFFECTED_PREFERRED_LANGUAGE_SPOKEN_AT_HOME,,
+149,INCIDENT_DETAILS,FALL,2,udc_description,Place of incident,FALLS_PLACE_OF_INCIDENT,,
+150,NOTIFICATION_DETAILS,NOTIFIER_SAC,5,udv_string,Potential SAC,NOTIFIER_RATING_SAC_CODE,,
+151,INCIDENT_DETAILS,MEDICATIONS,1,inc_med_drug,Primary medication involved,PRIMARY_MEDICATION_INVOLVED,,Drug administered
+152,STRUCTURED_REVIEW,STRUCTURED_REVIEW,11,udv_date,Report due date,REPORT_DUE_DATE,,
+153,INCIDENT_DETAILS,RESTRAINT_OR_SECLUSION,12,udc_description,Restraint or Seclusion - How was the restraint  managed,RESTRAINT_OR_SECLUSION_HOW_RESTRAINT_MANAGED_LIST,,"Code Split by "" "" Delimiter"
+154,INCIDENT_DETAILS,RESTRAINT_OR_SECLUSION,1,udv_string,Restraint or Seclusion - If the patient was chemically sedated,RESTRAINT_OR_SECLUSION_IF_THE_PATIENT_WAS_CHEMICALLY_SEDATED,,
+155,INCIDENT_DETAILS,RESTRAINT_OR_SECLUSION,11,udc_description,Restraint or Seclusion - Initiated by workers,RESTRAINT_OR_SECLUSION_INITIATED_BY_WORKERS_LIST,,"Code Split by "" "" Delimiter"
+156,INCIDENT_DETAILS,RESTRAINT_OR_SECLUSION,4,udv_string,Restraint or Seclusion - Total Duration,RESTRAINT_OR_SECLUSION_TOTAL_DURATION,,
+157,INCIDENT_DETAILS,RESTRAINT_OR_SECLUSION,8,udc_description,Restraint or Seclusion - Total duration of the restraint ?,RESTRAINT_OR_SECLUSION_TOTAL_DURATION_OF_THE_RESTRAINT,,
+158,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,4,udc_description,Risk factor for Falls - Falls History,FALLS_HISTORY_LIST,,"Code Split by "" "" Delimiter"
+159,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,9,udc_description,Risk factor for Falls - Medications,FALLS_MEDICATIONS_LIST,,"Code Split by "" "" Delimiter"
+160,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,5,udc_description,Risk factor for Falls - Mobility/Transfer,FALLS_MOBILITY_TRANSFER_LIST,,"Code Split by "" "" Delimiter"
+161,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,7,udc_description,Risk factors for Falls - Behaviour/mental state/cognition,BEHAVIOUR_MENTAL_STATE_COGNITION_LIST,,"Code Split by "" "" Delimiter"
+162,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,3,udc_description,Risk factors for injury,FALLS_RISK_FACTORS_FOR_INJURY_LIST,,"Code Split by "" "" Delimiter"
+163,INCIDENT_DETAILS,DEVICE_PRODUCT,2,inc_serialno,Serial no (Equipment),Serial or Asset No,MED_DEVICE_SERIAL_NUMBER,,
+164,INCIDENT_DETAILS,STERILISATION,2,udc_description,Sterilisation BCI,STERILISATION_BCI_LIST,,"Code Split by "" "" Delimiter"
+165,INCIDENT_DETAILS,STERILISATION,1,udc_description,Sterilisation failure,STERILISATION_FAILURE_LIST,,"Code Split by "" "" Delimiter"
+166,INCIDENT_DETAILS,STERILISATION,3,udc_description,Sterilisation outcome,STERILISATION_OUTCOME,,
+167,INCIDENT_DETAILS,STERILISATION,4,udc_description,Sterilisation type,STERILISATION_TYPE_LIST,,"Code Split by "" "" Delimiter"
+168,STRUCTURED_REVIEW,STRUCTURED_REVIEW,1,fullname,Structured Review - Current Investigation Lead,INVESTIGATION_LEAD,,
+169,STRUCTURED_REVIEW,STRUCTURED_REVIEW,4,udv_date,Structured Review - Date RCA commenced,DATE_RCA_COMMENCED_DATE,,
+170,STRUCTURED_REVIEW,STRUCTURED_REVIEW,9,udv_date,Structured Review - Date RCA commissioned,DATE_RCA_COMMISSIONED_DATE,,
+171,STRUCTURED_REVIEW,STRUCTURED_REVIEW,10,udc_description,Structured Review - Select type of Adverse Incident or Sentinel Event,ADVERSE_INCIDENT_OR_SENTINEL_EVENT,,
+172,INCIDENT_DETAILS,TGA,2,udv_string,TGA - TGA reference number,TGA_REFERENCE_NUMBER,,
+173,INCIDENT_DETAILS,TGA,1,udv_string,TGA - Was the TGA notified?,TGA_NOTIFIED,,
+174,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,9,udc_description,To manage wound (in addition to prevention) (in place),TO_MANAGE_WOUND_IN_ADDITION_TO_PREVENTION_IN_PLACE_LIST,,"Code Split by "" "" Delimiter"
+175,INCIDENT_DETAILS,PRESSURE_INJURY,4,udc_description,Total number of current pressure injuries present,TOTAL_NUMBER_OF_CURRENT_PRESSURE_INJURIES_PRESENT,,
+176,PERSON_AFFECTED,INJURY_DETAIL,11,inc_treatment,treatment,TREATMENT,,No Data
+177,NOTIFICATION_DETAILS,NOTIFIER_ISR,2,description,Treatment Required,NOTIFIER_TREATMENT_REQUIRED_ISR,,
+178,INCIDENT,INCIDENT_DETAILS,5,udc_description,Unintended injury - Mouth and teeth,UNINTENDED_INJURY_MOUTH_AND_TEETH,,
+179,MANAGEMENT,FALL_POST_REVIEW,3,udv_string,Was a team review arranged?,TEAM_REVIEW_ARRANGED,,
+180,MANAGEMENT,FALL_POST_REVIEW,1,udv_string,Was the care provided immediately after the fall,CARE_PROVIDED_IMMEDIATELY_AFTER_THE_FALL,,
+181,INCIDENT_DETAILS,FALL,3,udc_description,Was the fall witnessed/unwitnessed?,FALLS_WITNESSED_UNWITNESSED,,
+182,INCIDENT_DETAILS,CHALLENGING_BEHVIOUR,7,udc_description,What is the primary condition underpinning the challenging behaviour?,PRIMARY_CONDITION_UNDERPINNING_THE_CHALLENGING_BEHAVIOUR,,
+183,INCIDENT_DETAILS,EXTRA_DETAILS,37,udc_description,What is the primary condition underpinning the need for restraint?,PRIMARY_CONDITION_UNDERPINNING_THE_NEED_FOR_RESTRAINT,,
+184,INCIDENT_DETAILS,FALL,4,udc_description,What was the activity at the time of the Fall?,FALLS_ACTIVITY_AT_THE_TIME_OF_THE_FALL,,
+185,INCIDENT_DETAILS,FALL,5,udc_description,What was the mechanism of the fall?,FALLS_MECHANISM_OF_THE_FALL,,
+186,INCIDENT,INCIDENT_DETAILS,3,inc_actiontaken,What was the outcome of the incident/event?,WHAT_WAS_OUTCOME_OF_INCIDENT_EVENT_DESC,,
+187,INCIDENT_DETAILS,BLOOD,6,udc_description,What was the pre-transfusion specimen and/or request error?,PRE_TRANSFUSION_SPECIMEN_AND_OR_REQUEST_ERROR_LIST,,"Code Split by "" "" Delimiter"
+188,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,6,udc_description,What were the interventions in place at the time?,FALLS_INTERVENTIONS_IN_PLACE,,"Code Split by "" "" Delimiter"
+189,INCIDENT_DETAILS,FALL_RISK_ASSESSMENT,2,udc_description,When was the most recent assessment?,FALLS_WHEN_MOST_RECENT_ASSESSMENT,,
+190,INCIDENT_DETAILS,SECURITY,1,udc_description,Security - ERT Composition,SECURITY_ERT_COMPOSITION_LIST,,"Code Split by "" "" Delimiter"
+191,INCIDENT_DETAILS,SECURITY,3,udc_description,Security - Actual degree of aggression to other person(s),SECURITY_ACTUAL_DEGREE_OF_AGGRESSION_TO_OTHER_PERSONS,,
+192,INCIDENT_DETAILS,SECURITY,5,udc_description,Security - Incident Outcomes,SECURITY_INCIDENT_OUTCOMES_LIST,,"Code Split by "" "" Delimiter"
+193,INCIDENT_DETAILS,SECURITY,4,udc_description,Security - Type of Threat,SECURITY_TYPE_OF_THREAT_LIST,,"Code Split by "" "" Delimiter"
+194,INCIDENT_DETAILS,SECURITY,8,udc_description,Security - Incident Duration,SECURITY_INCIDENT_DURATION,,
+195,INCIDENT_DETAILS,SECURITY,7,udv_string,Security - MFS Report Number,SECURITY_MFS_REPORT_NUMBER,,
+196,INCIDENT_DETAILS,SECURITY,6,udv_string,Security - SA Police Report Number,SECURITY_SA_POLICE_REPORT_NUMBER,,
+197,INCIDENT_DETAILS,SECURITY,10,udc_description,Security - SA Police Response Time,SECURITY_SA_POLICE_RESPONSE_TIME,,
+198,INCIDENT_DETAILS,SECURITY,9,udv_string,Security - Was a Patient Involved?,SECURITY_PATIENT_INVOLVED,,
+199,INCIDENT_DETAILS,SECURITY,11,udv_string,Security - Was a worker harmed during this security incident?,SECURITY_WORKER_HARMED_DURING_THIS_SECURITY_INCIDENT,,
+200,INCIDENT_DETAILS,SECURITY,12,udv_string,Security - Has there been previous incidents where a Code Black?,SECUIRTY_PREVIOUS_INCIDENTS_CODE_BLACK,,
+201,INCIDENT_DETAILS,SECURITY,2,udv_text,"Security - Other, please specify",SECURITY_OTHER_PLEASE_DESCRIPTION_DESC,,
