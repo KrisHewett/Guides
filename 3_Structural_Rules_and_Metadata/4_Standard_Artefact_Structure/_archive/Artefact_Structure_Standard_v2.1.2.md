@@ -4,7 +4,7 @@ Sponsor: <Kristopher.Hewett@sa.gov.au>
 
 Version: v2.1.2
 
-Revision Date: 2026‑02‑27
+Revision Date: 2026-02-27
 
 Compliance Baseline: MCM v56.1.0
 
@@ -18,7 +18,7 @@ SSOT Path: \\Guides\3_Structural_Rules_and_Metadata\4_Standard_Artefact_Structur
 
 Define the mandatory structure, ordering, metadata rules, formatting requirements, and governance boundaries for all
 artefacts under the Master Compliance Memory (MCM). Version 2.1.2 applies formatting corrections including aligned,
-left‑aligned table structures.
+left-aligned table structures.
 
 ---
 
@@ -40,7 +40,7 @@ left‑aligned table structures.
 - Additional content appears only within Primary Content Sections.
 - New mandatory sections require a Major version change.
 
-### 2.3 Artefact–Conversation Boundary
+### 2.3 Artefact-Conversation Boundary
 
 #### 2.3.1 Artefact Content Rules
 
@@ -64,13 +64,13 @@ left‑aligned table structures.
 
 ### 3.1 Mandatory Metadata Block
 
-The metadata block must follow the H1 and use Blank‑Line Metadata formatting.
+The metadata block must follow the H1 and use Blank-Line Metadata formatting.
 
 Mandatory fields:
 
 - Sponsor: `<email>`
 - Version: `Major.Minor.Patch`
-- Revision Date: `YYYY‑MM‑DD`
+- Revision Date: `YYYY-MM-DD`
 - Compliance Baseline: `MCM vX.Y.Z`
 - Conforms To Directive: `<DirectiveName> vX.Y.Z`
 - SSOT Path: absolute path or validated URL
@@ -84,7 +84,7 @@ Mandatory fields:
 - SSOT path must match filename and version.
 - Metadata must end with a blank line followed by a horizontal rule.
 - A blank line is mandatory before the horizontal rule.
-- Fenced code blocks are prohibited; use 4‑space indented code.
+- Fenced code blocks are prohibited; use 4-space indented code.
 - Placeholder content prohibited.
 
 ---
@@ -98,7 +98,7 @@ Mandatory fields:
 ### 4.2 Formatting Standards
 
 - Maximum line length: 120 characters
-- 4‑space indentation; no tabs
+- 4-space indentation; no tabs
 - Australian spelling
 - No executable code inside tables
 
@@ -110,13 +110,13 @@ Mandatory fields:
 
 - Major: structural or behavioural logic changes
 - Minor: content additions
-- Patch: formatting‑only corrections
+- Patch: formatting-only corrections
 
 ### 5.2 Versioning Table Requirements
 
 | Version | Date       | Author                    | Changes                     |
 |---------|------------|---------------------------|------------------------------|
-| X.Y.Z   | YYYY‑MM‑DD | <Name or Email>           | Summary of changes           |
+| X.Y.Z   | YYYY-MM-DD | <Name or Email>           | Summary of changes           |
 
 ---
 
@@ -140,7 +140,7 @@ Mandatory fields:
 
 - MCM Directives v56.1.0
 - MCM SSOT Register
-- ISO 9001:2015 — Documented Information
+- ISO 9001:2015 - Documented Information
 - Markdownlint Ruleset
 
 ---

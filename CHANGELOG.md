@@ -8,7 +8,7 @@ for guidance on changelog usage see [./Guides/5_Governance/1_Document_Governance
 
 ### Added
 
-- [.\Guides\3_Structural_Rules_and_Metadata\4_Standard_Artefact_Structure\Artefact_Structure_Standard_v2.1.2.md]
+- [.\\Guides\3_Structural_Rules_and_Metadata\4_Standard_Artefact_Structure\MCM Artefact Structure Standard v3.0.0.md](Artefact Structure Standard)
 
 ---
 
