@@ -1,6 +1,18 @@
 # Guides Changelog
 
-for guidance on changelog usage see [./Guides/5_Governance/1_Document_Governance_and_Version_Control/Changelog Guidelines v1.0.md](Changelog Guidelines)
+For guidance on changelog usage see [Changelog Guidelines](.//5_Governance/1_Document_Governance_and_Version_Control/Changelog%20Gidelines%20v1.1.0.md)
+
+---
+
+## [2026-03-05]
+
+- Changes some of the folder structures, for better readability.
+
+### Changed
+
+- Changes some of the folder structures, for better readability.
+- historic versions of files placed within _archive folders.
+- Data Dictionary updated [SLS Data Dictionary Rules](.//Guides/3_Structural_Rules_and_Metadata/6_Data_Dictionary/SLS%20Data%20Dictionary%20Rules%20v1.1.0.md)
 
 ---
 
@@ -8,7 +20,7 @@ for guidance on changelog usage see [./Guides/5_Governance/1_Document_Governance
 
 ### Added
 
-- [.\\Guides\3_Structural_Rules_and_Metadata\4_Standard_Artefact_Structure\MCM Artefact Structure Standard v3.0.0.md](Artefact Structure Standard)
+- [Artefact Structure Standard](.//Guides/3_Structural_Rules_and_Metadata/4_Standard_Artefact_Structure/MCM%20Artefact%20Structure%20Standard%20v3.0.0.md)
 
 ---
 
@@ -17,7 +29,7 @@ for guidance on changelog usage see [./Guides/5_Governance/1_Document_Governance
 ### Added
 
 - Changelog added to Guides Repo
-- [.\Guides\5_Governance\1_Document_Governance_and_Version_Control\Changelog Guidelines v1.0.md]
+- `.\Guides\5_Governance\1_Document_Governance_and_Version_Control\Changelog Guidelines v1.0.md`
 
 ---
 --
