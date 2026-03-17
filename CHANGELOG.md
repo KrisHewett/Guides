@@ -2,6 +2,10 @@
 
 For guidance on changelog usage see [Changelog Guidelines](.//5_Governance/1_Document_Governance_and_Version_Control/Changelog%20Gidelines%20v1.1.0.md)
 
+## [2026-03-17]
+
+- updated formatting to SLS Data Dictionary Rules
+
 ---
 
 ## [2026-03-05]

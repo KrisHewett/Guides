@@ -1,9 +1,9 @@
 
-# Standard Data Dictionary — Requirements (Patient, Worker, Security)
+# Standard Data Dictionary - Requirements (Patient, Worker, Security)
 
 Developed by: <<Kristopher.Hewett@sa.gov.au>>
 Version: 1.1.0
-Revision Date: 2026‑01‑19
+Revision Date: 2026-01-19
 Compliance Baseline: MCM v54.0.0
 Conforms To Directive: MCM Artefact Structure Standard v54.0.0
 SSOT Path: \\Guides\3_Structural_Rules_and_Metadata\4_Standard Artefact Structure\DataDictionary Rules & Guidelines.md
@@ -24,33 +24,33 @@ Define the **requirements** for building and maintaining the SLS Standard Data D
 
 All data dictionary entries **must** provide the following columns in the Field Schema Table:
 
-| # | Section | Group | Item | SLS Field Name | Label (User‑Facing) | DAP_NAME | Description | Values |
-|---|--------|-------|------|----------------|---------------------|----------|-------------|--------|
+| # | Section | Group | Item | SLS Field Name | Label (User-Facing) | DAP_NAME | Description | Values |
+|---|---------|-------|------|----------------|---------------------|----------|-------------|--------|
 
 **Rules:**
 
-- **DAP_NAME** is mandatory, unique, stable, and human‑readable (e.g., `BLOOD_PRODUCT_TYPE_OTHER`, `INVESTIGATION_LEAD`).
-- **Label (User‑Facing)** is present when it differs from the SLS field name (e.g., *“Serial or Asset No”* for `inc_serialno`).
+- **DAP_NAME** is mandatory, unique, stable, and human-readable (e.g., `BLOOD_PRODUCT_TYPE_OTHER`, `INVESTIGATION_LEAD`).
+- **Label (User-Facing)** is present when it differs from the SLS field name (e.g., *"Serial or Asset No"* for `inc_serialno`).
 - **Description** must be prose only (no SQL or CASE text). Any logic goes to **JOIN** or **CASE** tables.
-- **Values**: for lists, include a concise description (e.g., *“Code Split by ' ' Delimiter”* when applicable).
+- **Values**: for lists, include a concise description (e.g., *"Code Split by ' ' Delimiter"* when applicable).
 - **Module attribution** (Patient/Worker/Security) is held as metadata (sourced from your first three columns TRUE/FALSE) and can be rendered as filtered views per module.
 
-**Examples (from your input; non‑exhaustive):**
+**Examples (from your input; non-exhaustive):**
 
 - Patient:
-  - `BLOOD_PRODUCT_TYPE_OTHER` — TEXT; SLS: `udv_string` (Section: INCIDENT_DETAILS → BLOOD)
-  - `PATIENT_FACTORS_CONTRIBUTING_TO_PRESSURE_INJURY_LIST` — LIST; SLS: `udc_description` (PRESSURE_INJURY)
-  - `CURRENT_FALLS_RISK_ASSESSMENT_IN_PLACE` — FLAG(YN); SLS: `udv_string` (FALL_RISK_ASSESSMENT)
+  - `BLOOD_PRODUCT_TYPE_OTHER` - TEXT; SLS: `udv_string` (Section: INCIDENT_DETAILS → BLOOD)
+  - `PATIENT_FACTORS_CONTRIBUTING_TO_PRESSURE_INJURY_LIST` - LIST; SLS: `udc_description` (PRESSURE_INJURY)
+  - `CURRENT_FALLS_RISK_ASSESSMENT_IN_PLACE` - FLAG(YN); SLS: `udv_string` (FALL_RISK_ASSESSMENT)
 - Worker:
-  - `EMPLOYMENT_EMPLOYMENT_STATUS` — TEXT; SLS: `udc_description` (EMPLOYMENT)
-  - `WHS_INVESTIGATION_CLASSIFICATION_TYPE` — TEXT; SLS: `udc_description` (WHS_INVESTIGATION)
-  - `WHS_INVESTIGATION_LOST_TIME_FOLLOWING_INCIDENT` — FLAG(YN); SLS: `udv_string`
+  - `EMPLOYMENT_EMPLOYMENT_STATUS` - TEXT; SLS: `udc_description` (EMPLOYMENT)
+  - `WHS_INVESTIGATION_CLASSIFICATION_TYPE` - TEXT; SLS: `udc_description` (WHS_INVESTIGATION)
+  - `WHS_INVESTIGATION_LOST_TIME_FOLLOWING_INCIDENT` - FLAG(YN); SLS: `udv_string`
 - Security:
-  - `SECURITY_ERT_COMPOSITION_LIST` — LIST; SLS: `udc_description`
-  - `SECURITY_ACTUAL_DEGREE_OF_AGGRESSION_TO_OTHER_PERSONS` — TEXT; SLS: `udc_description`
-  - `SECURITY_SA_POLICE_REPORT_NUMBER` — TEXT; SLS: `udv_string`
+  - `SECURITY_ERT_COMPOSITION_LIST` - LIST; SLS: `udc_description`
+  - `SECURITY_ACTUAL_DEGREE_OF_AGGRESSION_TO_OTHER_PERSONS` - TEXT; SLS: `udc_description`
+  - `SECURITY_SA_POLICE_REPORT_NUMBER` - TEXT; SLS: `udv_string`
 
-> **Note:** The exhaustive per‑field schema inventory can be rendered on request as module‑specific tables.
+> **Note:** The exhaustive per-field schema inventory can be rendered on request as module-specific tables.
 
 ---
 
@@ -63,7 +63,7 @@ Capture **all** joins outside the Field Schema. Use one row per field per join c
 
 **Patterns and Examples derived from your data:**
 
-- **User‑defined value store (UDF):**
+- **User-defined value store (UDF):**
   - LEFT JOIN: `udf_values` ON (`recordid` → `cas_id`) with `field_id = <nnn>`
   - Secondary: `udf_codes` ON (`udv_string` → `udc_code`) with same `field_id`
   - Example fields: `ADMINISTRATION_ERRORS_LIST` (`field_id = 115`), `REVIEW_CLUSTER` (`field_id = 906`)
@@ -88,12 +88,12 @@ Any CASE expressions or conditional derivations **must** be declared here, refer
 
 | Field (DAP_NAME) | CASE Expression (summary) | Purpose | Notes |
 |------------------|---------------------------|---------|-------|
-| NOTIFIER_PATIENT_OUTCOME_ISR | Gate values by `incidents_main.inc_dreported >= '2022‑07‑01'` | Apply ISR model v2 only after go‑live date | Derived from input `NOTIFIER_ISR_1` text |
-| MANAGER_PATIENT_OUTCOME_ISR | Gate values by `incidents_main.inc_dreported >= '2022‑07‑01'` | Manager initial ISR after date | Derived from input `MANAGER_ISR_4` |
-| MANAGER_TREATMENT_REQUIRED_ISR | Gate values by `incidents_main.inc_dreported >= '2022‑07‑01'` | Likelihood initial | From `MANAGER_ISR_5` |
+| NOTIFIER_PATIENT_OUTCOME_ISR | Gate values by `incidents_main.inc_dreported >= '2022-07-01'` | Apply ISR model v2 only after go-live date | Derived from input `NOTIFIER_ISR_1` text |
+| MANAGER_PATIENT_OUTCOME_ISR | Gate values by `incidents_main.inc_dreported >= '2022-07-01'` | Manager initial ISR after date | Derived from input `MANAGER_ISR_4` |
+| MANAGER_TREATMENT_REQUIRED_ISR | Gate values by `incidents_main.inc_dreported >= '2022-07-01'` | Likelihood initial | From `MANAGER_ISR_5` |
 | MANAGER_RATING_ISR_CODE | Conditional mapping against incidents_main | Manager ISR code selection | Summary only |
-| APPROVAL_STATUS | Map `rep_approved` codes to labels (AWAREV/FA/INREV/else) | Human‑readable approval states | As per provided mapping rules |
-| TIME(HHMM) | Pre‑2022 values stored as NVARCHAR(5), post‑2022 numeric in text | Harmonise time format | From `INCIDENT_TIME` notes |
+| APPROVAL_STATUS | Map `rep_approved` codes to labels (AWAREV/FA/INREV/else) | Human-readable approval states | As per provided mapping rules |
+| TIME(HHMM) | Pre-2022 values stored as NVARCHAR(5), post-2022 numeric in text | Harmonise time format | From `INCIDENT_TIME` notes |
 
 > Full SQL may be retained in source control, but only summaries appear here to preserve artefact purity.
 
@@ -105,13 +105,13 @@ Declare external code table dependencies explicitly.
 
 | Field (DAP_NAME) | Code Table | Key Column | Description Column | Filter | Notes |
 |------------------|------------|-----------|--------------------|--------|-------|
-| CLASSIFICATION_LEVEL_2 | code_types | `cod_code` | — | `cod_type = 'CLINDT'` | Clinical detail |
-| HEALTH_UNIT_DESC | code_types | `cod_code` | — | `cod_type = 'CLINGROUP'` | Health unit group |
-| LHN_DESC | code_types | `cod_code` | — | `cod_type = 'ORG'` | Organisation |
-| DETAILS_GENDER | udf_codes | `udc_code` | — | `field_id = 679` | UDC list |
-| FALLS_HEIGHT_OF_FALL | udf_codes | `udc_code` | — | `field_id = 147` | UDC list |
-| BLOOD_PRODUCT_TYPE_LIST | udf_codes | `udc_code` | — | `field_id = 959` | UDC list |
-| STERILISATION_BCI_LIST | udf_codes | `udc_code` | — | `field_id = 1636` | UDC list |
+| CLASSIFICATION_LEVEL_2 | code_types | `cod_code` | - | `cod_type = 'CLINDT'` | Clinical detail |
+| HEALTH_UNIT_DESC | code_types | `cod_code` | - | `cod_type = 'CLINGROUP'` | Health unit group |
+| LHN_DESC | code_types | `cod_code` | - | `cod_type = 'ORG'` | Organisation |
+| DETAILS_GENDER | udf_codes | `udc_code` | - | `field_id = 679` | UDC list |
+| FALLS_HEIGHT_OF_FALL | udf_codes | `udc_code` | - | `field_id = 147` | UDC list |
+| BLOOD_PRODUCT_TYPE_LIST | udf_codes | `udc_code` | - | `field_id = 959` | UDC list |
+| STERILISATION_BCI_LIST | udf_codes | `udc_code` | - | `field_id = 1636` | UDC list |
 | … | … | … | … | … | Additional mappings per input joins |
 
 **Rules:**
@@ -158,7 +158,7 @@ Declare external code table dependencies explicitly.
 - **Type conformance:** Data types must match the **Data Type Catalogue** above.
 - **Complete lineage:** Each field must trace back to source table/column (or UDF with `field_id`).
 - **Code mapping validity:** Every code mapping must reference a valid code table and key; UDC lists must specify `field_id`.
-- **No code in schema cells:** SQL/CASE/expressions must not appear in Field Schema cells—place them in JOIN/CASE tables.
+- **No code in schema cells:** SQL/CASE/expressions must not appear in Field Schema cells-place them in JOIN/CASE tables.
 
 ---
 
@@ -174,7 +174,7 @@ Declare external code table dependencies explicitly.
 ## References
 
 - MCM Artefact Structure Standard v54.0.0
-- ISO 9001:2015 — Documented Information
+- ISO 9001:2015 - Documented Information
 - SLS Data Model (authoritative)
 
 ---
@@ -183,7 +183,7 @@ Declare external code table dependencies explicitly.
 
 | Version | Date       | Author    | Changes                                                     |
 |---------|------------|-----------|-------------------------------------------------------------|
-| 1.1.0   | 2026‑01‑19 | K. Hewett | Requirements derived from supplied Patient/Worker/Security data |
-| 1.0.1   | 2026‑01‑19 | K. Hewett | Updated template; restored metadata block format            |
-| 1.0.0   | 2026‑01‑19 | K. Hewett | Initial creation of template                                |
+| 1.1.0   | 2026-01-19 | K. Hewett | Requirements derived from supplied Patient/Worker/Security data |
+| 1.0.1   | 2026-01-19 | K. Hewett | Updated template; restored metadata block format            |
+| 1.0.0   | 2026-01-19 | K. Hewett | Initial creation of template                                |
 ``
