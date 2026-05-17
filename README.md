@@ -1,4 +1,6 @@
-# This is the README for the GUIDES Repository
+# GUIDES Repository
+
+This repository stores Guides to standardised working practices.
 
 ## Folder Structure
 
