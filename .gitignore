@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data
+data/raw/
+data/extracts/
+
+# Logs
+*.log
