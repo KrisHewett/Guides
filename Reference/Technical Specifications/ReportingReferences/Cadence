@@ -1,0 +1,36 @@
+Here’s a **complete cadence list with ISO 8601 recurrence formats**:
+
+***
+
+### ✅ Cadence Periods with ISO 8601 Recurrence
+
+| **Cadence**          | **Description**    | **ISO 8601 Recurrence** |
+| -------------------- | ------------------ | ----------------------- |
+| **Live / Real-Time** | Continuous updates | *Not applicable*        |
+| **Hourly**           | Every hour         | `R/PT1H`                |
+| **Daily**            | Every day          | `R/P1D`                 |
+| **Weekly**           | Every week         | `R/P1W`                 |
+| **Fortnightly**      | Every 2 weeks      | `R/P2W`                 |
+| **Monthly**          | Every month        | `R/P1M`                 |
+| **Bi-Monthly**       | Every 2 months     | `R/P2M`                 |
+| **Quarterly**        | Every 3 months     | `R/P3M`                 |
+| **Triannual**        | Every 4 months     | `R/P4M`                 |
+| **Half-Yearly**      | Every 6 months     | `R/P6M`                 |
+| **Yearly**           | Every year         | `R/P1Y`                 |
+| **Biennial**         | Every 2 years      | `R/P2Y`                 |
+| **Triennial**        | Every 3 years      | `R/P3Y`                 |
+
+***
+
+**Explanation of ISO 8601 format:**
+
+*   `R/` = Repeat (can specify number of repetitions like `R10/` for 10 times)
+*   `P` = Period designator
+*   `T` = Time designator
+*   `1D` = 1 Day, `1W` = 1 Week, `1M` = 1 Month, `1Y` = 1 Year
+*   Example: `R/P1M` = Repeat every 1 month indefinitely
+
+***
+
+✅ Do you want me to **add examples for each cadence** (e.g., “Weekly = every Monday at 09:00”) and **include start date/time format** like `R10/2025-12-05T09:00/P1W`?
+Or should I also **generate a downloadable Markdown + JSON template** for automation and audit readiness?
