@@ -19,6 +19,8 @@ Provide brand usage standards (logo, colours, typography, imagery) ensuring cons
 
 **Font:** Proxima Nova
 
+Background: #FFFFFF
+
 ### **SA HEALTH** MASTER BRAND COLOURS
 
 - Blue: #006A9D
@@ -39,7 +41,7 @@ Provide brand usage standards (logo, colours, typography, imagery) ensuring cons
 | Colour | HEX | 50% Tint | 20% Tint |
 | --- | --- | --- | --- |
 | Blue | #006A9D | #80B5CE | #CCE1EB |
-| Light Blue | #3DB2E6 | #9ED9F3 | #9ED9F3 |
+| Light Blue | #3DB2E6 | #9ED9F3 | #CCD9F3 |
 | Dark Blue | #00304F | #8098A7 | #CCD6DC |
 | Grey | #858889 | #C2C4C4 | #DADBDC |
 | Purple | #79447D | #BCA2BE | #E4D9E5 |
@@ -60,38 +62,28 @@ Provide brand usage standards (logo, colours, typography, imagery) ensuring cons
 
 #### Artwork secondary colours
 
-Night/Evening: #234092
-Sun: #ffd500
+- Night/Evening: #234092
+- Sun: #ffd500
 
 ---
 
 ## **Typography**
 
-| styleName | fontFace | fontSize | fontWeight | fontColor | Notes |
-| --- | --- | --- | --- | --- | --- |
-| `Heading 1` | Arial | Bold | 26pt | #006a9d | Title (Page Line) |
-| `Heading 2` | Arial | Bold | 23pt | #006a9d | |
-| `Heading 3` | Arial | Bold | 19pt | #006a9d | Sub-Title |
-| `Heading 4` | Arial | Bold | 15pt | #202F3B | |
-| `Heading 5` | Arial | Bold | 13pt | #64727D | |
-| `Heading 6` | Arial | Bold | 11pt | #202F3B | |
-| `Introduction` | Arial | Bold | 13pt | #64727D | |
-| `Normal` | Arial | Regular | 11pt | #000000 | Date |
-| `Hyperlink` | Arial | Regular | 11pt | #006a9d | |
-| `Caption` | Arial | Regular | 11pt | #4D5962 | |
+| styleName   | fontFace | fontSize | fontWeight | fontColor |
+| ----------- | -------- | -------- | ---------- | --------- |
+| `Heading 1` | Arial    | 26pt     | Bold       | #006a9d   |
+| `Heading 2` | Arial    | 23pt     | Bold       | #006a9d   |
+| `Heading 3` | Arial    | 19pt     | Bold       | #006a9d   |
+| `Heading 4` | Arial    | 15pt     | Bold       | #202F3B   |
+| `Heading 5` | Arial    | 13pt     | Bold       | #64727D   |
+| `Heading 6` | Arial    | 11pt     | Bold       | #202F3B   |
+| `Highlight` | Arial    | 13pt     | Bold       | #64727D   |
+| `Normal`    | Arial    | 11pt     | Regular    | #000000   |
+| `Hyperlink` | Arial    | 11pt     | Regular    | #006a9d   |
+| `Caption`   | Arial    | 11pt     | Regular    | #4D5962   |
 
-### Poster
-
-| styleName | fontFace | fontSize | fontWeight | fontColor | Notes |
-| --- | --- | --- | --- | --- | --- |
-| `Heading 1` | Arial | Bold | 80pt | #FFFFFF | Title (Page Line) |
-| `Heading 2` | Arial | Bold | 40pt | #006a9d | |
-| `Heading 3` | Arial | Bold | 37pt | #FFFFFF | Sub-Title |
-| `Heading 4` | Arial | Bold | 37pt | #006a9d | |
-| `Heading 5` | Arial | Bold | 32pt | #202F3B | |
-| `Heading 6` | Arial | Bold | 18pt | #202F3B | |
-| `Normal` | Arial | Regular | 18pt | #000000 | Figures |
-| `Hyperlink` | Arial | Regular | 18pt | #006a9d | |
+> Title = `Heading 1`  
+> Sub-Title = `Heading 3`  
 
 ---
 
@@ -99,21 +91,32 @@ Sun: #ffd500
 
 ### Contents Section
 
-- Heading 1 | Arial | Bold | 23pt | #202F3B  | 1.2 line spacing | Padding: 18pt before | Auto line after... | Page Number |
-  - Heading 2 | Arial | Bold | 19pt | #64727D | 1.2 line spacing | Padding: 18pt before | Auto after... | Page Number |
-    - Heading 3 | Arial | Bold | 15pt | #202F3B | 1.2 line spacing | Padding: 18pt before | Auto after... | Page Number |
+| styleName       | fontFace | fontSize | fontWeight | fontColor |
+| --------------- | -------- | -------- | ---------- | --------- |
+| `HeadingList 1` | Arial    | 23pt     | Bold       | #202F3B   |
+| `HeadingList 2` | Arial    | 19pt     | Bold       | #64727D   |
+| `HeadingList 3` | Arial    | 15pt     | Bold       | #202F3B   |
+
+> Line spacing: 1.2  
+> Padding: 18pt before  
+> Auto line `...` before Page Number  
+> Indent: 4 Spaces
 
 ### Unordered
 
-•	List bullets (level 1)
-  –	List bullets (level 2)
-    •	List bullets (level 3)
+```text
+• ListBullets (level 1)
+    – ListBullets (level 2)
+        • ListBullets (level 3)
+```
 
 ### Ordered
 
-1.	List numbers (level 1)
-  a.	List numbers (level 2)
-    i.	List numbers (level 3)
+```text
+1. ListNumbers (level 1)
+    a. ListNumbers (level 2)
+        i. ListNumbers (level 3)
+```
 
 ---
 
@@ -271,30 +274,272 @@ Use **official SA Health logo only from approved sources**.
 
 ---
 
-## JSON Schema (Power BI Theme)
-
-```JSONC
-  "styleName": {
-    "fontFace": "ProximaNova, Arial",
-    "fontSize": 11, // Minimum Acceptable Size
-    "fontWeight": "bold", // Bold or Regular
-    "fontColor": "#000000"
-  }
-```
-
----
-
 ## **Document References**
 
 - SA Health branding guidelines (August 2026)
-  - <https://inside.sahealth.sa.gov.au/wps/wcm/connect/4a50c7004b8b15fab085f97c1f47d846/25021+SA+Health+Branding+Guidelines+August+2026.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-4a50c7004b8b15fab085f97c1f47d846-q2ef8jM>
-- SA Health Policy Branding (V2 09 May 2024)
-  - <https://inside.sahealth.sa.gov.au/wps/wcm/connect/ddbe6580462bc31e8967896dc301fde5/Branding+policy+-+revised+meta.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-ddbe6580462bc31e8967896dc301fde5-p.QKPPP>
-- SA Health Corporate Identity Design Standards v6.6 (October 2020)
-- Department of Premier and Cabinet - PC 005: Whole of government communications, branding and advertising
 - Government of South Australia (GOSA) Branding Guidelines
 - State Brand Policy
+- Department of Premier and Cabinet - PC 005: Whole of government communications, branding and advertising
 
 ---
 
 ## End of Branding Guide
+
+---
+
+```JSON
+"fontColours":[
+    "#000000",
+    "#006A9D",
+    "#202F3B",
+    "#64727D",
+    "#B4D3E8",
+    "#E2F2F9",
+    "#FFFFFF"
+],
+"fillColour":[
+    "#000000",
+    "#006A9D",
+    "#335D73",
+    "#5C9F64",
+    "#B4D3E8",
+    "#CBD2D7",
+    "#E2F2F9",
+    "#FFFFFF"
+],
+"lineColour":[
+"#006A9D",
+"#000000",
+"#FFFFFF"
+],
+```
+---
+#7AC143
+#D32F2F
+#0560AD
+#EAEAEA
+#9d9d9d
+
+
+### Power BI Schema
+
+```JSON
+"textClasses": {
+    "title": {
+      "fontFace": "Arial",
+      "fontSize": 15,
+      "color": "#202F3B"
+    },
+    "label": {
+      "fontFace": "Arial",
+      "fontSize": 11,
+      "color": "#000000"
+    },
+    "callout": {
+      "fontFace": "Arial",
+      "fontSize": 23,
+      "color": "#006A9D"
+    },
+    "header": {
+      "fontFace": "Arial",
+      "fontSize": 13,
+      "color": "#64727D"
+    },
+    "largeTitle": {
+      "fontFace": "Arial",
+      "fontSize": 26,
+      "color": "#006A9D"
+    },
+    "dataTitle": {
+      "fontFace": "Arial",
+      "fontSize": 19,
+      "color": "#006A9D"
+    },
+    "boldLabel": {
+      "fontFace": "Arial",
+      "fontSize": 12,
+      "color": "#202F3B"
+    },
+    "largeLabel": {
+      "fontFace": "Arial",
+      "fontSize": 13,
+      "color": "#64727D"
+    },
+    "largeLightLabel": {
+      "fontFace": "Arial",
+      "fontSize": 13,
+      "color": "#4D5962"
+    },
+    "lightLabel": {
+      "fontFace": "Arial",
+      "fontSize": 11,
+      "color": "#4D5962"
+    },
+    "semiboldLabel": {
+      "fontFace": "Arial",
+      "fontSize": 11,
+      "color": "#202F3B"
+    },
+    "smallLabel": {
+      "fontFace": "Arial",
+      "fontSize": 11,
+      "color": "#000000"
+    },
+    "smallLightLabel": {
+      "fontFace": "Arial",
+      "fontSize": 11,
+      "color": "#4D5962"
+    },
+    "smallDataLabel": {
+      "fontFace": "Consolas",
+      "fontSize": 12,
+      "color": "#000000"
+    }
+  },
+"colorOrThemeColor":{
+"dataColors":{},
+"background":"#FFFFFF",
+"backgroundDark":"#00304F",
+"backgroundLight":"#B4D3E8",
+"backgroundNeutral":"#858889",
+"foregroundButton":"#006A9D",
+"foregroundSelected":"#006A9D",
+"foreground":"#000000",
+"foregroundDark":"#202F3B",
+"foregroundLight":"#FFFFFF",
+"foregroundNeutralDark":"#202F3B",
+"foregroundNeutralLight":"#64727D",
+"foregroundNeutralSecondary":"#202F3B",
+"foregroundNeutralSecondaryAlt":"#335D73",
+"foregroundNeutralSecondaryAlt2":"#64727D",
+"foregroundNeutralTertiary":"#B4D3E8",
+"foregroundNeutralTertiaryAlt":"#E2F2F9",
+"hyperlink":"#006A9D",
+"visitedHyperlink":"#006A9D",
+"good":"#3DB2E6",
+"neutral":"#006A9D",
+"bad":"#00304F",
+"maxColor":"#3DB2E6",
+"midColor":"#006A9D",
+"minColor":"#00304F",
+"selection":"#006A9D",
+"mapPushpin":"#000000",
+"shapeStroke":"#006A9D",
+"separator":"#006A9D",
+"tableAccent":"#006A9D",
+"disabledText":"#C2C4C4",
+"nullColor":"#858889"
+
+}
+```
+
+---
+
+```JSONC
+{"paletteSlot":{[
+  "themePrimary": "#006a9d",
+  "themeLighterAlt": "#f1f8fb",
+  "themeLighter": "#c9e3ef",
+  "themeLight": "#9ecce2",
+  "themeTertiary": "#4f9fc5",
+  "themeSecondary": "#147aaa",
+  "themeDarkAlt": "#00618e",
+  "themeDark": "#005278",
+  "themeDarker": "#003c59",
+  "neutralLighterAlt": "#faf9f8",
+  "neutralLighter": "#f3f2f1",
+  "neutralLight": "#edebe9",
+  "neutralQuaternaryAlt": "#e1dfdd",
+  "neutralQuaternary": "#d0d0d0",
+  "neutralTertiaryAlt": "#c8c6c4",
+  "neutralTertiary": "#595959",
+  "neutralSecondary": "#373737",
+  "neutralSecondaryAlt": "#373737",
+  "neutralPrimaryAlt": "#2f2f2f",
+  "neutralPrimary": "#000000",
+  "neutralDark": "#151515",
+  "black": "#0b0b0b",
+  "white": "#ffffff"
+]}
+},
+{"semanticSlot":{[
+  "actionLink":"neutralPrimary",
+  "actionLinkHovered":"neutralDark",
+  "bodyBackground":"white",
+  "bodyBackgroundChecked":"neutralLight",
+  "bodyBackgroundHovered":"neutralLighter",
+  "bodyDivider":"neutralLight",
+  "bodyFrameBackground":"white",
+  "bodyFrameDivider":"neutralLight",
+  "bodyStandoutBackground":"neutralLighterAlt",
+  "bodySubtext":"neutralSecondaryAlt",
+  "bodyText":"neutralPrimary",
+  "bodyTextChecked":"black",
+  "buttonBackground":"white",
+  "buttonBackgroundChecked":"neutralTertiaryAlt",
+  "buttonBackgroundCheckedHovered":"neutralLight",
+  "buttonBackgroundDisabled":"neutralLighter",
+  "buttonBackgroundHovered":"neutralLighter",
+  "buttonBackgroundPressed":"neutralLight",
+  "buttonBorder":"neutralSecondaryAlt",
+  "buttonBorderDisabled":"neutralLighter",
+  "buttonText":"neutralPrimary",
+  "buttonTextChecked":"neutralDark",
+  "buttonTextCheckedHovered":"black",
+  "buttonTextDisabled":"neutralTertiary",
+  "buttonTextHovered":"neutralDark",
+  "buttonTextPressed":"neutralDark",
+  "defaultStateBackground":"neutralLighterAlt",
+  "disabledBackground":"neutralLighter",
+  "disabledBodySubtext":"neutralTertiaryAlt",
+  "disabledBodyText":"neutralTertiary",
+  "disabledBorder":"neutralTertiaryAlt",
+  "disabledSubtext":"neutralQuaternary",
+  "disabledText":"neutralTertiary",
+  "focusBorder":"neutralSecondaryAlt",
+  "inputBackground":"white",
+  "inputBackgroundChecked":"themePrimary",
+  "inputBackgroundCheckedHovered":"themeDark",
+  "inputBorder":"neutralSecondaryAlt",
+  "inputBorderHovered":"neutralPrimary",
+  "inputFocusBorderAlt":"themePrimary",
+  "inputForegroundChecked":"white",
+  "inputIcon":"themePrimary",
+  "inputIconDisabled":"neutralTertiary",
+  "inputIconHovered":"themeDark",
+  "inputPlaceholderBackgroundChecked":"themeLighter",
+  "inputPlaceholderText":"neutralSecondaryAlt",
+  "inputText":"neutralPrimary",
+  "inputTextHovered":"neutralDark",
+  "link":"themePrimary",
+  "linkHovered":"themeDarker",
+  "listBackground":"white",
+  "listHeaderBackgroundHovered":"neutralLighter",
+  "listHeaderBackgroundPressed":"neutralLight",
+  "listItemBackgroundChecked":"neutralLight",
+  "listItemBackgroundCheckedHovered":"neutralQuaternaryAlt",
+  "listItemBackgroundHovered":"neutralLighter",
+  "listText":"neutralPrimary",
+  "menuBackground":"white",
+  "menuDivider":"neutralTertiaryAlt",
+  "menuHeader":"themePrimary",
+  "menuIcon":"themePrimary",
+  "menuItemBackgroundChecked":"neutralLight",
+  "menuItemBackgroundHovered":"neutralLighter",
+  "menuItemBackgroundPressed":"neutralLight",
+  "menuItemText":"neutralPrimary",
+  "menuItemTextHovered":"neutralDark",
+  "primaryButtonBackground":"themePrimary",
+  "primaryButtonBackgroundDisabled":"neutralLighter",
+  "primaryButtonBackgroundHovered":"themeDarkAlt",
+  "primaryButtonBackgroundPressed":"themeDark",
+  "primaryButtonText":"white",
+  "primaryButtonTextDisabled":"neutralQuaternary",
+  "primaryButtonTextHovered":"white",
+  "primaryButtonTextPressed":"white",
+  "smallInputBorder":"neutralSecondaryAlt",
+  "variantBorder":"neutralLight",
+"variantBorderHovered":"neutralTertiary"
+]}
+}
+```
