@@ -71,15 +71,15 @@ Background: #FFFFFF
 
 | styleName   | fontFace | fontSize | fontWeight | fontColor |
 | ----------- | -------- | -------- | ---------- | --------- |
-| `Heading 1` | Arial    | 26pt     | Bold       | #006a9d   |
-| `Heading 2` | Arial    | 23pt     | Bold       | #006a9d   |
-| `Heading 3` | Arial    | 19pt     | Bold       | #006a9d   |
+| `Heading 1` | Arial    | 26pt     | Bold       | #006A9D   |
+| `Heading 2` | Arial    | 23pt     | Bold       | #006A9D   |
+| `Heading 3` | Arial    | 19pt     | Bold       | #006A9D   |
 | `Heading 4` | Arial    | 15pt     | Bold       | #202F3B   |
 | `Heading 5` | Arial    | 13pt     | Bold       | #64727D   |
 | `Heading 6` | Arial    | 11pt     | Bold       | #202F3B   |
 | `Highlight` | Arial    | 13pt     | Bold       | #64727D   |
 | `Normal`    | Arial    | 11pt     | Regular    | #000000   |
-| `Hyperlink` | Arial    | 11pt     | Regular    | #006a9d   |
+| `Hyperlink` | Arial    | 11pt     | Regular    | #006A9D   |
 | `Caption`   | Arial    | 11pt     | Regular    | #4D5962   |
 
 > Title = `Heading 1`  
@@ -183,29 +183,29 @@ Use **official SA Health logo only from approved sources**.
 
 | Name | Font | Size | Style | Font Colour | Background Fill | Border Colour | Border lines | Line Weight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `First Heading` | Arial | 11pt | Bold | #FFFFFF | #006a9d | #006a9d | All | 3 |
-| `Heading` | Arial | 11pt | Bold | #FFFFFF | #006a9d | #006a9d | All | 3 |
-| `Last Heading` | Arial | 11pt | Bold | #FFFFFF | #006a9d | #006a9d | All | 3 |
-| `First` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | All | 3 |
-| `Body` | Arial | 11pt | Regular | #000000 | No Fill | #006a9d | All | 3 |
-| `Last body` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | All | 3 |
-| `First total` | Arial | 11pt | Bold | #000000 | #B4D3E8 / #335D73 | #006a9d | All | 3 |
-| `Total` | Arial | 11pt | Regular | #000000 | #B4D3E8 / #335D73 | #006a9d | All | 3 |
-| `Last total` | Arial | 11pt | Bold | #000000 | #B4D3E8 / #335D73 | #006a9d | All | 3 |
+| `First Heading` | Arial | 11pt | Bold | #FFFFFF | #006A9D | #006A9D | All | 3 |
+| `Heading` | Arial | 11pt | Bold | #FFFFFF | #006A9D | #006A9D | All | 3 |
+| `Last Heading` | Arial | 11pt | Bold | #FFFFFF | #006A9D | #006A9D | All | 3 |
+| `First` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | All | 3 |
+| `Body` | Arial | 11pt | Regular | #000000 | No Fill | #006A9D | All | 3 |
+| `Last body` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | All | 3 |
+| `First total` | Arial | 11pt | Bold | #000000 | #B4D3E8 / #335D73 | #006A9D | All | 3 |
+| `Total` | Arial | 11pt | Regular | #000000 | #B4D3E8 / #335D73 | #006A9D | All | 3 |
+| `Last total` | Arial | 11pt | Bold | #000000 | #B4D3E8 / #335D73 | #006A9D | All | 3 |
 
 ### Table 2: **Simple Table**
 
 | Name | Font | Size | Style | Font Colour | Background Fill | Border Colour | Border lines | Line Weight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `First Heading` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | Bottom | 2 |
-| `Heading` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | Bottom | 2 |
-| `Last Heading` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | Bottom | 2 |
+| `First Heading` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | Bottom | 2 |
+| `Heading` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | Bottom | 2 |
+| `Last Heading` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | Bottom | 2 |
 | `First` | Arial | 11pt | Bold | #000000 | No Fill | No Line | None | 0 |
 | `Body` | Arial | 11pt | Regular | #000000 | No Fill | No Line | None | 0 |
 | `Last body` | Arial | 11pt | Bold | #000000 | No Fill | No Line | None | 0 |
-| `First total` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | Top | 2 |
-| `Total` | Arial | 11pt | Regular | #000000 | No Fill | #006a9d | Top | 2 |
-| `Last total` | Arial | 11pt | Bold | #000000 | No Fill | #006a9d | Top | 2 |
+| `First total` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | Top | 2 |
+| `Total` | Arial | 11pt | Regular | #000000 | No Fill | #006A9D | Top | 2 |
+| `Last total` | Arial | 11pt | Bold | #000000 | No Fill | #006A9D | Top | 2 |
 
 ### Table 3: **Clear Table**
 
@@ -232,8 +232,8 @@ Use **official SA Health logo only from approved sources**.
 
 | Name | Font | Size | Style | Font Colour | Background Fill | Border Colour | Border lines | Line Weight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `Heading` | Arial | 11pt | Bold | #000000 | #E2F2F9 | #006a9d | None | 1 |
-| `Body` | Arial | 11pt | Regular | #000000 | No Fill | #006a9d | None | 1 |
+| `Heading` | Arial | 11pt | Bold | #000000 | #E2F2F9 | #006A9D | None | 1 |
+| `Body` | Arial | 11pt | Regular | #000000 | No Fill | #006A9D | None | 1 |
 
 ### Table 6: **Comparison Table**
 
@@ -313,233 +313,74 @@ Use **official SA Health logo only from approved sources**.
 "#FFFFFF"
 ],
 ```
----
-#7AC143
-#D32F2F
-#0560AD
-#EAEAEA
-#9d9d9d
 
+---
 
 ### Power BI Schema
 
 ```JSON
-"textClasses": {
+{
+  "textClasses": {
     "title": {
-      "fontFace": "Arial",
+      "fontFace": "DIN",
       "fontSize": 15,
       "color": "#202F3B"
     },
     "label": {
-      "fontFace": "Arial",
-      "fontSize": 11,
-      "color": "#000000"
+      "fontFace": "Segoe UI",
+      "fontSize": 13,
+      "color": "#202F3B"
     },
     "callout": {
-      "fontFace": "Arial",
-      "fontSize": 23,
-      "color": "#006A9D"
-    },
-    "header": {
-      "fontFace": "Arial",
-      "fontSize": 13,
-      "color": "#64727D"
-    },
-    "largeTitle": {
-      "fontFace": "Arial",
+      "fontFace": "DIN",
       "fontSize": 26,
       "color": "#006A9D"
     },
-    "dataTitle": {
-      "fontFace": "Arial",
-      "fontSize": 19,
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 15,
+      "color": "#202F3B"
+    },
+    "largeTitle": {
+      "fontFace": "DIN",
+      "fontSize": 23,
       "color": "#006A9D"
     },
     "boldLabel": {
-      "fontFace": "Arial",
-      "fontSize": 12,
+      "fontFace": "Segoe UI Bold",
+      "fontSize": 13,
       "color": "#202F3B"
     },
     "largeLabel": {
-      "fontFace": "Arial",
+      "fontFace": "Segoe UI",
+      "fontSize": 15,
+      "color": "#202F3B"
+    },
+    "largeLightLabel": {
+      "fontFace": "Segoe UI",
+      "fontSize": 15,
+      "color": "#64727D"
+    },
+    "lightLabel": {
+      "fontFace": "Segoe UI",
       "fontSize": 13,
       "color": "#64727D"
     },
-    "largeLightLabel": {
-      "fontFace": "Arial",
-      "fontSize": 13,
-      "color": "#4D5962"
-    },
-    "lightLabel": {
-      "fontFace": "Arial",
-      "fontSize": 11,
-      "color": "#4D5962"
-    },
     "semiboldLabel": {
-      "fontFace": "Arial",
-      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 13,
       "color": "#202F3B"
     },
     "smallLabel": {
-      "fontFace": "Arial",
+      "fontFace": "Segoe UI",
       "fontSize": 11,
-      "color": "#000000"
+      "color": "#202F3B"
     },
     "smallLightLabel": {
-      "fontFace": "Arial",
+      "fontFace": "Segoe UI",
       "fontSize": 11,
-      "color": "#4D5962"
-    },
-    "smallDataLabel": {
-      "fontFace": "Consolas",
-      "fontSize": 12,
-      "color": "#000000"
+      "color": "#64727D"
     }
-  },
-"colorOrThemeColor":{
-"dataColors":{},
-"background":"#FFFFFF",
-"backgroundDark":"#00304F",
-"backgroundLight":"#B4D3E8",
-"backgroundNeutral":"#858889",
-"foregroundButton":"#006A9D",
-"foregroundSelected":"#006A9D",
-"foreground":"#000000",
-"foregroundDark":"#202F3B",
-"foregroundLight":"#FFFFFF",
-"foregroundNeutralDark":"#202F3B",
-"foregroundNeutralLight":"#64727D",
-"foregroundNeutralSecondary":"#202F3B",
-"foregroundNeutralSecondaryAlt":"#335D73",
-"foregroundNeutralSecondaryAlt2":"#64727D",
-"foregroundNeutralTertiary":"#B4D3E8",
-"foregroundNeutralTertiaryAlt":"#E2F2F9",
-"hyperlink":"#006A9D",
-"visitedHyperlink":"#006A9D",
-"good":"#3DB2E6",
-"neutral":"#006A9D",
-"bad":"#00304F",
-"maxColor":"#3DB2E6",
-"midColor":"#006A9D",
-"minColor":"#00304F",
-"selection":"#006A9D",
-"mapPushpin":"#000000",
-"shapeStroke":"#006A9D",
-"separator":"#006A9D",
-"tableAccent":"#006A9D",
-"disabledText":"#C2C4C4",
-"nullColor":"#858889"
-
-}
-```
-
----
-
-```JSONC
-{"paletteSlot":{[
-  "themePrimary": "#006a9d",
-  "themeLighterAlt": "#f1f8fb",
-  "themeLighter": "#c9e3ef",
-  "themeLight": "#9ecce2",
-  "themeTertiary": "#4f9fc5",
-  "themeSecondary": "#147aaa",
-  "themeDarkAlt": "#00618e",
-  "themeDark": "#005278",
-  "themeDarker": "#003c59",
-  "neutralLighterAlt": "#faf9f8",
-  "neutralLighter": "#f3f2f1",
-  "neutralLight": "#edebe9",
-  "neutralQuaternaryAlt": "#e1dfdd",
-  "neutralQuaternary": "#d0d0d0",
-  "neutralTertiaryAlt": "#c8c6c4",
-  "neutralTertiary": "#595959",
-  "neutralSecondary": "#373737",
-  "neutralSecondaryAlt": "#373737",
-  "neutralPrimaryAlt": "#2f2f2f",
-  "neutralPrimary": "#000000",
-  "neutralDark": "#151515",
-  "black": "#0b0b0b",
-  "white": "#ffffff"
-]}
-},
-{"semanticSlot":{[
-  "actionLink":"neutralPrimary",
-  "actionLinkHovered":"neutralDark",
-  "bodyBackground":"white",
-  "bodyBackgroundChecked":"neutralLight",
-  "bodyBackgroundHovered":"neutralLighter",
-  "bodyDivider":"neutralLight",
-  "bodyFrameBackground":"white",
-  "bodyFrameDivider":"neutralLight",
-  "bodyStandoutBackground":"neutralLighterAlt",
-  "bodySubtext":"neutralSecondaryAlt",
-  "bodyText":"neutralPrimary",
-  "bodyTextChecked":"black",
-  "buttonBackground":"white",
-  "buttonBackgroundChecked":"neutralTertiaryAlt",
-  "buttonBackgroundCheckedHovered":"neutralLight",
-  "buttonBackgroundDisabled":"neutralLighter",
-  "buttonBackgroundHovered":"neutralLighter",
-  "buttonBackgroundPressed":"neutralLight",
-  "buttonBorder":"neutralSecondaryAlt",
-  "buttonBorderDisabled":"neutralLighter",
-  "buttonText":"neutralPrimary",
-  "buttonTextChecked":"neutralDark",
-  "buttonTextCheckedHovered":"black",
-  "buttonTextDisabled":"neutralTertiary",
-  "buttonTextHovered":"neutralDark",
-  "buttonTextPressed":"neutralDark",
-  "defaultStateBackground":"neutralLighterAlt",
-  "disabledBackground":"neutralLighter",
-  "disabledBodySubtext":"neutralTertiaryAlt",
-  "disabledBodyText":"neutralTertiary",
-  "disabledBorder":"neutralTertiaryAlt",
-  "disabledSubtext":"neutralQuaternary",
-  "disabledText":"neutralTertiary",
-  "focusBorder":"neutralSecondaryAlt",
-  "inputBackground":"white",
-  "inputBackgroundChecked":"themePrimary",
-  "inputBackgroundCheckedHovered":"themeDark",
-  "inputBorder":"neutralSecondaryAlt",
-  "inputBorderHovered":"neutralPrimary",
-  "inputFocusBorderAlt":"themePrimary",
-  "inputForegroundChecked":"white",
-  "inputIcon":"themePrimary",
-  "inputIconDisabled":"neutralTertiary",
-  "inputIconHovered":"themeDark",
-  "inputPlaceholderBackgroundChecked":"themeLighter",
-  "inputPlaceholderText":"neutralSecondaryAlt",
-  "inputText":"neutralPrimary",
-  "inputTextHovered":"neutralDark",
-  "link":"themePrimary",
-  "linkHovered":"themeDarker",
-  "listBackground":"white",
-  "listHeaderBackgroundHovered":"neutralLighter",
-  "listHeaderBackgroundPressed":"neutralLight",
-  "listItemBackgroundChecked":"neutralLight",
-  "listItemBackgroundCheckedHovered":"neutralQuaternaryAlt",
-  "listItemBackgroundHovered":"neutralLighter",
-  "listText":"neutralPrimary",
-  "menuBackground":"white",
-  "menuDivider":"neutralTertiaryAlt",
-  "menuHeader":"themePrimary",
-  "menuIcon":"themePrimary",
-  "menuItemBackgroundChecked":"neutralLight",
-  "menuItemBackgroundHovered":"neutralLighter",
-  "menuItemBackgroundPressed":"neutralLight",
-  "menuItemText":"neutralPrimary",
-  "menuItemTextHovered":"neutralDark",
-  "primaryButtonBackground":"themePrimary",
-  "primaryButtonBackgroundDisabled":"neutralLighter",
-  "primaryButtonBackgroundHovered":"themeDarkAlt",
-  "primaryButtonBackgroundPressed":"themeDark",
-  "primaryButtonText":"white",
-  "primaryButtonTextDisabled":"neutralQuaternary",
-  "primaryButtonTextHovered":"white",
-  "primaryButtonTextPressed":"white",
-  "smallInputBorder":"neutralSecondaryAlt",
-  "variantBorder":"neutralLight",
-"variantBorderHovered":"neutralTertiary"
-]}
+  }
 }
 ```
