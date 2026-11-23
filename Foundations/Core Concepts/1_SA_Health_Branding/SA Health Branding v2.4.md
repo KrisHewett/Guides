@@ -29,12 +29,13 @@ Background: #FFFFFF
 
 ### Secondary colours
 
-- Grey: #858889
+- Orange: #de763e
 - Purple: #79447d
+- Pink: #db638d
 - Teal: #008c83
 - Green: #5c9f64
-- Orange: #de763e
-- Pink: #db638d
+- Yellow (Sand): #cb9c12
+- Grey: #858889
 
 #### Tint on WHITE alternates
 
@@ -288,6 +289,7 @@ Use **official SA Health logo only from approved sources**.
 ---
 
 ```JSON
+{
 "fontColours":[
     "#000000",
     "#006A9D",
@@ -312,7 +314,103 @@ Use **official SA Health logo only from approved sources**.
 "#000000",
 "#FFFFFF"
 ],
+"Background":[
+    "#B4D3E8",
+    "#E2F2F9",
+    "#CBD2D7"
+],
+dataColors:[
+"#006A9D",
+"#00304F",
+"#de763e",
+"#79447d",
+"#db638d",
+"#008c83",
+"#5c9f64",
+"#cb9c12",
+"#858889",
+"bad": "#00304F",
+"neutral": "#858889",
+"good": "#3DB2E6",
+"minimum": "#3DB2E6",
+"center": "#858889",
+"maximum": "#00304F",
+],
+"First-Level Elements": ["#006A9D"],
+"Second-Level Elements": ["#000000"],
+"Third-Level Elements": ["#006A9D"],
+"Fourth-Level Elements": ["#335D73"],
+"Background Elements": ["#E2F2F9"],
+"Secondary Background elements": ["#B4D3E8"],
+
+"General": [
+    "Arial",
+    11,
+    "#000000"
+  ],
+"Title": [
+    "Arial Black",
+    13,
+    "#202F3B"
+  ],
+"Cards&Kpis": [
+    "Arial Black",
+    19,
+    "#006A9D"
+  ],
+"Tab Headers": [
+    "Arial Black",
+    15,
+    "#FFFFFF"
+  ],
+
+"Background":"#E2F2F9",
+"Border": [
+  "#006A9D",
+  "Width": 5,
+  ],
+"Header":[
+  "BackgroundColour":"#335D73",
+  "Border Colour":"#006A9D",
+  "Icon Colour":"#006A9D",
+  ],
+"toolTip":[
+  "LabelTextColor":"#202F3B",
+  "ValueTextColor":"#000000",
+  "DrillTextColor":"#006A9D",
+  "BackgroundColor":"#E2F2F9",
+  ],
+"Page":[
+  "wallpaper":"#CBD2D7",
+  "PageBackground": "#B4D3E8"
+  ],
+"FilterPane":{
+  "FilterPane": [
+  "BackgroundColour":"#00304F",
+  "Font&IconColour":"#FFFFFF",
+  "TitleFontSize":15,
+  "HeaderFontSize":13,
+  "Checkbox&ApplyColour":"#3DB2E6"
+  ],
+  "AvailableFilterCards": [
+  "BackgroundColour":"#006A9D",
+  "Transparency":80,
+  "Font&IconColour":"#FFFFFF",
+  "FontSize":11
+  ],
+  "AppliedFilterCards": [
+  "BackgroundColour":"#006A9D",
+  "Transparency":45,
+  "Font&IconColour":"#FFFFFF",
+  "FontSize":11
+  ],
+}
+
+
+}
 ```
+
+
 
 ---
 
@@ -383,4 +481,3 @@ Use **official SA Health logo only from approved sources**.
     }
   }
 }
-```
