@@ -296,7 +296,6 @@ Use **official SA Health logo only from approved sources**.
     "#202F3B",
     "#64727D",
     "#B4D3E8",
-    "#E2F2F9",
     "#FFFFFF"
 ],
 "fillColour":[
